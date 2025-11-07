@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Athra/World Information/Carnelian Phenix.md",
+                "file": "Athra/World Information/Carnelian/Carnelian Phenix.md",
                 "mode": "source",
                 "source": false
               },
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Athra/World Information/Carnelian Phenix.md",
+            "file": "Athra/World Information/Carnelian/Carnelian Phenix.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Athra/World Information/Carnelian Phenix.md",
+            "file": "Athra/World Information/Carnelian/Carnelian Phenix.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Athra/World Information/Carnelian Phenix.md",
+            "file": "Athra/World Information/Carnelian/Carnelian Phenix.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -157,19 +157,20 @@
   },
   "active": "36dabfe64a7d9478",
   "lastOpenFiles": [
-    "Athra/World Information/Carnelian/Lua.md",
-    "Athra/World Information/Carnelian/Vacate's.md",
-    "Athra/World Information/Carnelian/Guides.md",
-    "Athra/World Information/Carnelian/Three Chamberlain's.md",
-    "Athra/World Information/Carnelian/Name (Age of Guidance).md",
-    "Athra/World Information/Carnelian/Cyclic Dispersion Phenomenon.md",
-    "Athra/World Information/Carnelian/The Koutetuji.md",
-    "Athra/World Information/Carnelian/Ishtar.md",
-    "Athra/World Information/Carnelian/The House of Empty.md",
-    "Athra/World Information/Carnelian/void worlds.md",
-    "Athra/World Information/Carnelian/Void.md",
-    "Athra/World Information/Carnelian/Spectral body.md",
-    "Athra/World Information/Carnelian/Aspects.md",
+    "Athra/World Information/Carnelian/Carnelian Phenix 1.md",
+    "Athra/Lua.md",
+    "Athra/Vacate's.md",
+    "Athra/Guides.md",
+    "Athra/Three Chamberlain's.md",
+    "Athra/Name (Age of Guidance).md",
+    "Athra/Cyclic Dispersion Phenomenon.md",
+    "Athra/The Koutetuji.md",
+    "Athra/Ishtar.md",
+    "Athra/The House of Empty.md",
+    "Athra/void worlds.md",
+    "Athra/Void.md",
+    "Athra/Spectral body.md",
+    "Athra/Aspects.md",
     "Athra/World Information/Carnelian/The 33rd Saintess Pyre.md",
     "Athra/World Information/Carnelian/Carnelian Phenix.md",
     "Athra/World Information/Carnelian"
