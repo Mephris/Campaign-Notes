@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "ff278ebbb3a9d617",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4408f5e376fbff8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5572d298efcee3a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Athra/World Information/Carnelian Phenix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Carnelian Phenix"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8fd2bc4ddc45b75",
+    "type": "split",
+    "children": [
+      {
+        "id": "31a77297268b8f9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "177ac833f0870eb3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bfc6ef651f08e4bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5808990ab509172b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce9a34acc8273217",
+    "type": "split",
+    "children": [
+      {
+        "id": "34b24acf35cfbea8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4106c4417397c03d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Athra/World Information/Carnelian Phenix.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Carnelian Phenix"
+            }
+          },
+          {
+            "id": "51376bbb073cf06f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Athra/World Information/Carnelian Phenix.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Carnelian Phenix"
+            }
+          },
+          {
+            "id": "6b7279739e1bc939",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0bf6c341610938d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Athra/World Information/Carnelian Phenix.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Carnelian Phenix"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "177ac833f0870eb3",
+  "lastOpenFiles": [
+    "Athra/World Information/Carnelian Phenix.md",
+    "VTM notes/Casimir Kierski",
+    "VTM notes",
+    "Athra",
+    "Athra/World Information",
+    "Athra/Carnelian"
+  ]
+}
