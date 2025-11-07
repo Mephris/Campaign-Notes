@@ -1,0 +1,1 @@
+One of the 8 [[Aspects]] reigning the domain of conflict. 

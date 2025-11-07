@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "3b141b3d637c7e6c",
+    "id": "e28d462ad0553123",
     "type": "split",
     "children": [
       {
-        "id": "9b9c5f86facd89b4",
+        "id": "9ac7c8bd75715d42",
         "type": "tabs",
         "children": [
           {
-            "id": "36dabfe64a7d9478",
+            "id": "04896b8e29f55a2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Athra/World Information/Carnelian Phenix.md",
+                "file": "Void.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Carnelian Phenix"
+              "title": "Void"
             }
           }
         ]
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "39ecae1721df0728",
+    "id": "b9e8be2d74b26304",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "b19472b14fe9e8c2",
+        "id": "1e93278440c805cd",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +44,7 @@
         }
       },
       {
-        "id": "084d03bac3c4ecbd",
+        "id": "4ba57cb6f9ee37ab",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "25e52d28f3953d7b",
+        "id": "16db367157e152bd",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +76,7 @@
         }
       },
       {
-        "id": "50ad0eb72ee1d8e7",
+        "id": "fb97ea0b65b3890b",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -89,16 +89,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "1c62561b600d0086",
+    "id": "f313f2baa679b915",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "730e9fc9b46dc18d",
+        "id": "c64cf3f95a684f4e",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Athra/World Information/Carnelian Phenix.md",
+            "file": "Aspects.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,12 +112,12 @@
         }
       },
       {
-        "id": "1607d31ab5744fa2",
+        "id": "81962b50dbb93ae4",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Athra/World Information/Carnelian Phenix.md",
+            "file": "Aspects.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -126,12 +126,12 @@
         }
       },
       {
-        "id": "baf3e5f42f67be22",
+        "id": "bc067b013458a097",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Athra/World Information/Carnelian Phenix.md",
+            "file": "Aspects.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -151,27 +151,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "36dabfe64a7d9478",
+  "active": "04896b8e29f55a2a",
   "lastOpenFiles": [
-    "Athra/World Information/Carnelian/Lua.md",
-    "Athra/World Information/Carnelian/Vacate's.md",
-    "Athra/World Information/Carnelian/Guides.md",
-    "Athra/World Information/Carnelian/Three Chamberlain's.md",
-    "Athra/World Information/Carnelian/Name (Age of Guidance).md",
-    "Athra/World Information/Carnelian/Cyclic Dispersion Phenomenon.md",
-    "Athra/World Information/Carnelian/The Koutetuji.md",
-    "Athra/World Information/Carnelian/Ishtar.md",
-    "Athra/World Information/Carnelian/The House of Empty.md",
-    "Athra/World Information/Carnelian/void worlds.md",
-    "Athra/World Information/Carnelian/Void.md",
-    "Athra/World Information/Carnelian/Spectral body.md",
-    "Athra/World Information/Carnelian/Aspects.md",
-    "Athra/World Information/Carnelian/The 33rd Saintess Pyre.md",
-    "Athra/World Information/Carnelian/Carnelian Phenix.md",
-    "Athra/World Information/Carnelian"
+    "Spectral body.md",
+    "Aspects.md",
+    "The House of Empty.md",
+    "Three Chamberlain's.md",
+    "Lua.md",
+    "Vacate's.md",
+    "Guides.md",
+    "Ishtar.md",
+    "Name (Age of Guidance).md",
+    "Cyclic Dispersion Phenomenon.md",
+    "The Koutetuji.md",
+    "void worlds.md",
+    "Void.md",
+    "Carnelian Phenix.md",
+    "The 33rd Saintess Pyre.md"
   ]
 }
