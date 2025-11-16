@@ -1,0 +1,1 @@
+A plain on which the old [[Bogóir]] tribes hunted the dragons and 3 centuries after the [[War of Unmaking]] the region slowly taken over by the [[Carnelian Kingdom]] Kingdom. 

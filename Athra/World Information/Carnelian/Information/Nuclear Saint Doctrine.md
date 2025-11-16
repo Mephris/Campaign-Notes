@@ -1,0 +1,3 @@
+Perhaps Solomon’s greatest innovation was establishing what became known as the Nuclear Saint Doctrine. Recognizing that future Saints would be born into his militarized kingdom, he established the tradition of hiding each new incarnation among common soldiers. 
+
+Enemy forces could never know if the knight they killed might explode in Phoenix fire, taking entire armies with them. This psychological warfare proved as effective as any weapon in maintaining Carnelian’s borders.
