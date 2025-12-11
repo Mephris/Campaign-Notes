@@ -10,7 +10,7 @@ During a traversal from a Shadow Market and storing within a pocket dimension, s
 
 Once there, the party of adventurers reconciled after a long time and started to find a way out of the wreck of a ship they found themselves in, a gate out proved to be an exit from death of starvation onto the [[The House of Empty]] and their host [[Storyteller]]. 
 
-As saintess traveled with the party, one of which unlocked a single shackle on the [[Promise]] hand, they managed to get out with their lifes back close to the port city of the archipelago. 
+As saintess traveled with the party, one of which unlocked a single shackle on the [[The Promise]] hand, they managed to get out with their lifes back close to the port city of the archipelago. 
 
 In there they met with the main force of the Carnelian Division sent to find the saintess. 
 

@@ -5,7 +5,6 @@ Why appoint administrators when you can inspire believers?
 Kingdom requires not monitored efficiency.  
 Inspiration for them to follow their own path,  
 trust that their passion shall forge a new better future”_
-
  >Archduke Solomon Grahaim
 
 Carnelian’s government defies conventional wisdom. Where other kingdoms rely on hereditary nobles and appointed bureaucrats, the realm of the Firebird operates through a system of Order-based governance. This system, born from Solomon’s radical reforms and refined over centuries, transforms ideological organizations into the very pillars of state administration.

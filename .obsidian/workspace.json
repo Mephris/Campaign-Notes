@@ -53,16 +53,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Athra/World Information/Carnelian/Orders/Hedon Order/Black Blade.md",
+                "file": "Athra/World Information/Carnelian/Locations/Mórrifąl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Black Blade"
+              "title": "Mórrifąl"
+            }
+          },
+          {
+            "id": "ff909d50bc6b0592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Athra/World Information/Islands of Sabi/The Untime/Void.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Void"
+            }
+          },
+          {
+            "id": "88bb02c82b54e28a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Athra/World Information/Aspects/Aspects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aspects"
+            }
+          },
+          {
+            "id": "6917feb9d268995e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Old Peace.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Old Peace"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -220,53 +262,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88a0098350506b58",
+  "active": "6917feb9d268995e",
   "lastOpenFiles": [
-    "Black Blade.png",
-    "Athra/World Information/Carnelian/Orders/Hedon Order/Kraic.md",
-    "Athra/World Information/Carnelian/Orders/Hedon Order/Black Blade.md",
-    "Athra/World Information/Carnelian/Orders/Hedon Order/Hedon Order.md",
-    "Athra/World Information/Carnelian/Orders/Hedon Order/Hedon.md",
-    "Athra/World Information/Carnelian/People/Royal Family - Varcró/Varcró Family.md",
-    "Athra/World Information/Carnelian/People/Royal Family - Varcró/Zenrion Varcró.md",
-    "Athra/World Information/Carnelian/People/Royal Family - Varcró/Learog.png",
-    "Athra/World Information/Carnelian/People/Royal Family - Varcró/Learog - Regent.md",
-    "Athra/World Information/Carnelian/Saints/22nd Saint.md",
-    "Athra/World Information/Carnelian/Information/Languege and Naming.md",
-    "Athra/World Information/Carnelian/People/Vedgnim Nobility/Arlith Ved'gnim.md",
-    "Athra/World Information/Carnelian/People/Drieghearth Nobility/Pics/Sigfried_Drieghearth.png",
-    "Athra/World Information/Carnelian/People/Drieghearth Nobility/Pics",
-    "Athra/World Information/Carnelian/People/Drieghearth Nobility/Sigfried Draighearth.md",
-    "Athra/World Information/Carnelian/People/Drieghearth Nobility/Draighearth.md",
-    "Athra/World Information/Carnelian/Orders/Orders.md",
-    "Athra/World Information/Carnelian/Orders/Carnelian Order.md",
-    "Athra/World Information/Carnelian/Orders/Grahaim Order/Grahaim Order.md",
-    "Athra/World Information/Carnelian/Orders/Grahaim Order",
-    "Athra/World Information/Carnelian/Orders/Hedon Order/Kaithry.md",
-    "Athra/World Information/Carnelian/Orders/Hedon Order/Kryraic.md",
-    "Athra/World Information/Carnelian/Orders/Hedon Order/Pics/Kryraic.png",
-    "Athra/World Information/Carnelian/Orders/Hedon Order/Pics/Hedon.png",
-    "Athra/World Information/Carnelian/Orders/Hedon Order/Pics",
-    "Athra/World Information/Carnelian/People/Grahaim Nobility/Celia Grahaim.md",
-    "Athra/World Information/Carnelian/People/Royal Family - Varcró",
-    "Athra/World Information/Carnelian/People/Grahaim Nobility/Solomon Grahaim.md",
-    "Athra/World Information/Carnelian/People/Grahaim Nobility",
-    "Athra/World Information/Carnelian/People/Drieghearth Nobility/Scelia Draighearth(Skellye Draighearth).md",
-    "Athra/World Information/Carnelian/People/Drieghearth Nobility/Dwers Grahaim.md",
+    "Pasted image 20251210200727.png",
+    "Pasted image 20251210200459.png",
+    "Pasted image 20251210200436.png",
+    "Pasted image 20251210200406.png",
+    "Pasted image 20251210195923.png",
+    "Pasted image 20251210195906.png",
+    "Warframe Pics/Screenshot 2025-12-10 185231.png",
+    "The Old Peace.md",
+    "Warframe Pics",
+    "Warframe Pics/Pasted image 20251210194331.png",
+    "Warframe Pics/Pasted image 20251210194030.png",
+    "Warframe Pics/Pasted image 20251210193810.png",
+    "Warframe Pics/Pasted image 20251210193645.png",
+    "Athra/World Information/Aspects/Aspects.md",
+    "Athra/World Information/Aspects/Aspect of Empathy.md",
     "Athra/World Information/Aspects/Aspect of Conflict, Firebird.md",
     "Athra/World Information/Aspects/Aspect of Amity, Durh.md",
     "Athra/World Information/Aspects/Aspect of Ambition, Avia.md",
-    "Athra/World Information/Carnelian/Locations/Carnelian Kingdom.md",
-    "Athra/World Information/Carnelian/People/Drieghearth Nobility/Pics/Skellye_Drieghearth.png",
-    "Athra/World Information/Carnelian/Information/Dwers_BeastbloodForm.png",
-    "Athra/World Information/Carnelian/Orders/Hedon Order",
-    "Athra/World Information/Carnelian/Orders",
-    "Athra/World Information/Carnelian/People/lesser Nobles",
-    "Athra/World Information/Carnelian/People/Vedgnim Nobility",
-    "Athra/World Information/Races",
-    "Skyrim Testnotes/Pasted image 20251112222450.png",
-    "Pasted image 20251112222450.png",
-    "Skyrim Testnotes/Pasted image 20251110211805.png",
-    "Skyrim Testnotes/Pasted image 20251110212514.png"
+    "Athra/World Information/Aspects/Pic",
+    "Athra/Cosmology/Void/House of Empty/The Promise.md",
+    "Athra/Cosmology/Void/House of Empty/A Vacate.md",
+    "Athra/Cosmology/Void/House of Empty/The Unmaker.md",
+    "Athra/Cosmology/Void/House of Empty/The House of Empty.md",
+    "Athra/World Information/Carnelian/Orders/Hedon Order/Black Blade.md",
+    "Athra/Cosmology/Void/House of Empty/Pic",
+    "Athra/Cosmology/Cycle/Laws & Logic/Spectral body.md",
+    "Athra/Cosmology/Cycle/Laws & Logic/Cyclic Dispersion Phenomenon.md",
+    "Athra/Cosmology/Cycle/Entities/Lua.md",
+    "Athra/Cosmology/Cycle/Laws & Logic",
+    "Athra/Cosmology/Cycle/Entities",
+    "Athra/Cosmology/Void/void worlds.md",
+    "Athra/Cosmology/Void/Void.md",
+    "Athra/Cosmology/Cycle",
+    "Athra/Cosmology/Cycle/Entities/Guides.md",
+    "Athra/Cosmology/Void",
+    "Athra/Cosmology/Void/House of Empty",
+    "Athra/World Information/Races/Centaur.md",
+    "Athra/World Information/Races/Pic",
+    "Athra/World Information/Races/Bogóir.md",
+    "Tiernan.md",
+    "Athra/World Information/Islands of Sabi/The Untime/Void.md",
+    "Athra/World Information/Islands of Sabi/The Koutetuji.md",
+    "Athra/World Information/Islands of Sabi/The Untime",
+    "Athra/World Information/Carnelian/An Session Event List.md",
+    "Athra/World Information/Carnelian/Information/Tenets of Grahaim.md",
+    "Athra/World Information/Carnelian/Information/Tale of the Firebird.md"
   ]
 }
