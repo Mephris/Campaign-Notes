@@ -1,4 +1,7 @@
+
 "The world is a canvas and I am the frame which encompasses all, I know all your sins and deeds, and I understand all your pain"
+
+![[Ishtar.png]]
 
 As the world forms, the first thing which is born in it is the Ishtar, the "It which Is", the great empathy looking upon the world and it's denizens deciding upon leading them or leaving them to their own devices.
 

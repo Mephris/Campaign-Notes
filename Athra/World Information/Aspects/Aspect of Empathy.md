@@ -1,0 +1,2 @@
+
+![[Aspect of Empathy.png]]

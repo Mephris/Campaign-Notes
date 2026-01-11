@@ -1,0 +1,5 @@
+**The Location and Defenses** The Tower of Altra was a massive fortification located at a Ceres excavation site. It was heavily defended by blastcrete emplacements, air sentries, and a perimeter field completely saturated with volatile tremor-mines. It served as a stronghold for the "Great Lords of Ceres" until the uprising began.
+
+**The Insurgency** A rebellion erupted from within the tower itself, leading to the overthrow of the Great Lords. They were pitched from the roof of the tower, their "immortal bodies" detonating the dread mines below upon impact. When the Empire attempted to reclaim the tower using standard Dax soldiers, the forces were decimated by bore-guns and "cindered" in the minefields before they could even reach the walls.
+
+**The Saint of Altra** To break the siege, the Warframe Gauss was deployed. Unlike the Dax, he possessed the speed to traverse the minefields without being destroyed. He moved as a "smear of light," outrunning the thermal avalanche of bursting mines to breach the bunkers with kinetic shockwaves. His intervention, which Drusus visualizes as saving hostages from the desolate field, earned him the title "The Saint of Altra."

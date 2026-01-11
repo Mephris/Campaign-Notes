@@ -1,0 +1,2 @@
+![[Black Veil.png]]
+Wearing a thick black veil showing no face behind it or a way for its wearer to see the world beyond it, a long dress supported by the iron frame in order to hide the thinned body. A thick black satin crumpled into a scarf around the neck. Whenever wind comes to move the fabric of the veil it always moves in such a way to never push against the skin of the face or away from it, suggesting magical item or something worse. 

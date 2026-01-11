@@ -1,3 +1,1 @@
-![[Pic.png]]
-
-https://www.artstation.com/artwork/nJywV9
+![[Oracle of Avia.png]]

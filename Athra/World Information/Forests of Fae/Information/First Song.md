@@ -1,0 +1,3 @@
+After exiting the forgotten city, [[Aspect of Beauty, Oberon|Oberon]] as she was later called went south, beyond the snowy peaks where her kin settled and the depths of her friendly dwarves, she went south beyond the Lethrai plains and onto the inner sea of the continent. 
+
+It was during this time her travel companion passed away, in her grief she sang a song intertwined with illusion and power of an aspect. Giving raise to the [[Fae]].
