@@ -13,15 +13,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Athra/World Information/Carnelian/Carnelian Phenix.md",
+                "file": "Athra/Bestiary/Beozyf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Carnelian Phenix"
+              "title": "Beozyf"
+            }
+          },
+          {
+            "id": "b59454b79da58eda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pracownia/Szkliwa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Szkliwa"
+            }
+          },
+          {
+            "id": "d62c71bac3e65184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kuchnia/Alkohole/Dwójniak.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dwójniak"
+            }
+          },
+          {
+            "id": "d5d06e78ca2a649a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fable World/Fable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fable"
+            }
+          },
+          {
+            "id": "254b485bd511ba03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fable World/Fable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fable"
+            }
+          },
+          {
+            "id": "dbd2abe5bdb7bb2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "cd1d9ddf54655d1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fable World/Fable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fable"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -49,7 +134,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Black b",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +183,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Athra/World Information/Carnelian/Carnelian Phenix.md",
+            "file": "Fable World/Fable.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,6 +230,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -154,24 +240,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "36dabfe64a7d9478",
+  "active": "cd1d9ddf54655d1e",
   "lastOpenFiles": [
-    "Athra/World Information/Carnelian/Carnelian Phenix 1.md",
-    "Athra/Lua.md",
-    "Athra/Vacate's.md",
-    "Athra/Guides.md",
-    "Athra/Three Chamberlain's.md",
-    "Athra/Name (Age of Guidance).md",
-    "Athra/Cyclic Dispersion Phenomenon.md",
-    "Athra/The Koutetuji.md",
-    "Athra/Ishtar.md",
-    "Athra/The House of Empty.md",
-    "Athra/void worlds.md",
-    "Athra/Void.md",
-    "Athra/Spectral body.md",
-    "Athra/Aspects.md",
-    "Athra/World Information/Carnelian/The 33rd Saintess Pyre.md",
-    "Athra/World Information/Carnelian/Carnelian Phenix.md",
-    "Athra/World Information/Carnelian"
+    "Fable World/Grael.md",
+    "Athra/Cosmology/Cycle/Entities/Ishtar.md",
+    "Athra/Cosmology/Cycle/Entities/Lua.md",
+    "Fable World/Research - Fable.md",
+    "Fable World/Fable.md",
+    "Athra/World Information/Aspects/Aspect of Wilderness, Relgaia.md",
+    "Fable World/Cosmology.md",
+    "Fable World/Tuatha.md",
+    "Untitled.md",
+    "Fable World",
+    "Athra/World Information/Aspects/Aspect of Beauty, Oberon.md",
+    "Athra/World Information/Aspects/Aspect of Amity, Durh.md",
+    "Athra/World Information/Aspects/Aspect of Ambition, Avia.md",
+    "Athra/World Information/Aspects/Aspect of Conflict, Firebird.md",
+    "Athra/World Information/Aspects/Aspect of Empathy.md",
+    "Athra/Untitled.md",
+    "Birb/Biology.md",
+    "Birb/Untitled.md",
+    "Athra/World Information/Fey.md",
+    "Athra/World Information/Forests of Fae/Information/First Song.md",
+    "Athra/World Information/Forests of Fae/The Archfae/Archfae.md",
+    "Athra/World Information/Carnelian/Session plan.md",
+    "Athra/World Information/Carnelian/Conflict.md",
+    "Athra/World Information/Carnelian/Aspects Sheet.md",
+    "Athra/World Information/Carnelian/An Session Event List.md",
+    "Avalon.md",
+    "Athra/Cosmology/Cycle/Laws & Logic/Name (Age of Guidance).md",
+    "Birb",
+    "Kuchnia/Alkohole",
+    "Kuchnia",
+    "Pracownia",
+    "Warframe/Warframe Pics/Tuvul.png",
+    "Warframe/Warframe Pics/Screenshot 2025-12-10 185231.png",
+    "Warframe/Warframe Pics/Screenshot 2025-12-10 184904.png",
+    "Warframe/Warframe Pics/Screenshot 2025-12-10 184025.png",
+    "Warframe/Warframe Pics/Pasted image 20251210200727.png",
+    "Warframe/Warframe Pics/Pasted image 20251210200459.png",
+    "Warframe/Warframe Pics/Pasted image 20251210200436.png",
+    "Warframe/Warframe Pics/Pasted image 20251210200406.png",
+    "Warframe/Warframe Pics/Pasted image 20251210195923.png",
+    "Warframe/Warframe Pics/Pasted image 20251210195906.png",
+    "Warframe/Warframe Pics",
+    "Warframe/Quests",
+    "Warframe/Locations",
+    "Warframe/Leverian",
+    "Warframe/Executors"
   ]
 }
