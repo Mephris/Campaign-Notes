@@ -8,143 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5dedd3967cbb4de5",
+            "id": "497a977b78f29e18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skyrim Testnotes/Bugs.md",
+                "file": "Fable World/Entities/Grael.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bugs"
-            }
-          },
-          {
-            "id": "c1555b918fc302a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Athra/World Information/Carnelian/People/Drieghearth Nobility/Draighearth.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Draighearth"
-            }
-          },
-          {
-            "id": "06eae7c5f39da602",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Athra/World Information/Carnelian/Orders/Hedon Order/Pics/Hedon.png"
-              },
-              "icon": "lucide-image",
-              "title": "Hedon"
-            }
-          },
-          {
-            "id": "88a0098350506b58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Athra/World Information/Carnelian/Locations/Mórrifąl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mórrifąl"
-            }
-          },
-          {
-            "id": "ff909d50bc6b0592",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Athra/World Information/Islands of Sabi/The Untime/Void.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Void"
-            }
-          },
-          {
-            "id": "88bb02c82b54e28a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Athra/World Information/Aspects/Aspects.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aspects"
-            }
-          },
-          {
-            "id": "6917feb9d268995e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tiernan/Tiernan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tiernan"
-            }
-          },
-          {
-            "id": "7537bd611edd2e5d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Athra/Cosmology/Cycle/Entities/Pic/Black Veil.png"
-              },
-              "icon": "lucide-image",
-              "title": "Black Veil"
-            }
-          },
-          {
-            "id": "65793f8271425437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Athra/World Information/Carnelian/Session plan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session plan"
-            }
-          },
-          {
-            "id": "34a7d35f39c2226e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Athra/World Information/Carnelian/Conflict.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conflict"
+              "title": "Grael"
             }
           }
-        ],
-        "currentTab": 9
+        ]
+      },
+      {
+        "id": "c8e877fa0d492e59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14b27b2cc49d0115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fable World/Entities/Tuatha.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tuatha"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -302,53 +199,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34a7d35f39c2226e",
+  "active": "14b27b2cc49d0115",
   "lastOpenFiles": [
-    "Athra/World Information/Carnelian/An Session Event List.md",
-    "Athra/World Information/Carnelian/Conflict.md",
-    "Athra/World Information/Carnelian/Aspects Sheet.md",
-    "Athra/World Information/Carnelian/Session plan.md",
+    "Fable World/Entities/Grael.md",
+    "Fable World/Entities/Tuatha.md",
+    "Athra/Cosmology/Cycle/Entities/Pic/Black Veil.png",
+    "Athra/Cosmology/Cycle/Entities/Pic/Ishtar.png",
+    "Athra/Cosmology/Cycle/Entities/Pic/Nameless.png",
+    "Athra/Cosmology/Cycle/Entities/Ishtar.md",
+    "Athra/Cosmology/Cycle/Entities/Lua.md",
+    "Fable World/Research - Fable.md",
+    "Fable World/Fable.md",
+    "Fable World/Cosmology.md",
+    "Fable World/Entities",
+    "Athra/Cosmology/Cycle/Entities/Nameless.md",
+    "Athra/Cosmology/Cycle/Entities/Guides.md",
+    "Warframe/Quests/Natah.md",
+    "Untitled.md",
+    "Pracownia/Szkliwa.md",
+    "Pracownia",
+    "Plan.md",
+    "Kuchnia/Alkohole/Dwójniak.md",
+    "Kuchnia/Alkohole",
+    "Kuchnia",
+    "Fable World",
+    "Birb/Biology.md",
+    "Birb",
+    "Avalon.md",
+    "Athra/World Information/Fey.md",
+    "Athra/Bestiary/Beozyf.md",
+    "Athra/Bestiary",
+    "Athra/World Information/Carnelian/Session/Conflict.md",
+    "Athra/World Information/Carnelian/Session/Aspects Sheet.md",
+    "Athra/World Information/Carnelian/Session/An Session Event List.md",
+    "Athra/World Information/Carnelian/Session/Session plan.md",
+    "Athra/World Information/Carnelian/Session",
     "Athra/World Information/Islands of Sabi/The Koutetuji.md",
     "Athra/World Information/Islands of Sabi/The Untime/Void.md",
     "Athra/Cosmology/Void/House of Empty/The Unmaker.md",
-    "Athra/Cosmology/Cycle/Entities/Guides.md",
-    "Athra/Cosmology/Cycle/Laws & Logic/Name (Age of Guidance).md",
-    "Athra/Cosmology/Void/House of Empty/The House of Empty.md",
-    "Athra/Cosmology/Void/House of Empty/A Vacate.md",
-    "Athra/World Information/Carnelian/Information/Language and Naming.md",
-    "Athra/World Information/Carnelian/Information/Nuclear Saint Doctrine.md",
-    "Warframe/Quests/The Old Peace.md",
-    "Warframe/Locations/Altra.md",
-    "Warframe/Leverian/Grendel.md",
-    "Warframe/Leverian/Gauss.md",
-    "Warframe/Executors/Executor Karishh.md",
-    "Warframe/Executors/Executors.md",
-    "Athra/World Information/Aspects/Aspects.md",
-    "Athra/World Information/Aspects/Aspect of Wilderness, Relgaia.md",
-    "Athra/World Information/Aspects/Aspect of Empathy.md",
-    "Athra/World Information/Aspects/Aspect of Conflict, Firebird.md",
-    "Athra/World Information/Aspects/Aspect of Beauty, Oberon.md",
-    "Athra/World Information/Aspects/Aspect of Amity, Durh.md",
-    "Athra/World Information/Aspects/Aspect of Ambition, Avia.md",
     "Warframe/Quests",
     "Warframe/Locations",
-    "Warframe/Leverian",
-    "Warframe/Executors",
-    "Warframe",
-    "Athra/World Information/Forests of Fae/The Archfae",
-    "Athra/World Information/Forests of Fae/Information",
-    "Athra/World Information/Forests of Fae",
     "Athra/World Information/Aspects/Pic/Amity.png",
     "Athra/World Information/Aspects/Pic/Aspect of Empathy.png",
     "Athra/World Information/Aspects/Pic/Oracle of Avia.png",
     "Athra/World Information/Aspects/Pic/Titania.png",
     "Athra/World Information/Aspects/Pic/Pic.png",
     "Athra/World Information/Aspects/Pic/Firebird.png",
-    "Athra/World Information/Aspects/Pic/Empathy.png",
-    "Athra/World Information/Aspects/Pic/Avia.png",
-    "Athra/World Information/Aspects/Pic/Burned.png",
-    "Athra/Cosmology/Cycle/Entities/Pic/Ishtar.png",
-    "Athra/Cosmology/Cycle/Entities/Pic",
-    "Tiernan"
+    "Athra/World Information/Aspects/Pic/Empathy.png"
   ]
 }
