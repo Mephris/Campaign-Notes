@@ -16,7 +16,9 @@ There at the Ichory Loom, Aspects of [[Grael]] & [[Tuatha]] met, arguing the sil
 
 With torch, he threw it onto the long black locks of the [[Aspect of Beauty]], burning it, his axe passing by her neck, and an [[Aspect]] stumbled back, feeling a mortal fear for the first time, the thing that did not know end or death, [[Aspect of Empathy|emphasizing]] with the so very mortal concept of death. So was [[Aspect of Empathy]] born. 
 
-Spirit of the world burned, and his axe landed in the skull of [[Aspect of Wildern|Wildern]], leaving it to fall onto the screaming [[Aspect of Beauty]], and they were consumed by flame, and world burned as the [[Grael]] took flame, the ink burned away onto colorful clouds shining on the night skies today, and in this moment when world died in flames, did in last of the life's moments it was born away. The [[Grael]], forced to change, to adapt, and learn and from lesson given by [[Edal]] did it burn into a firebird, rising up onto the skies, taking from the world all of the deathly flames to its body and flying upon the skies, so was [[Aspect of Conflict, Firebird|Conflict]] born. Firebird, the Sun to complete the azure dress of body.  
+Spirit of the world burned, and his axe landed in the skull of [[Aspect of Wildern|Wildern]], leaving it to fall onto the screaming [[Aspect of Beauty]], and they were consumed by flame, and world burned as the [[Grael]] took flame, the ink burned away onto colorful clouds shining on the night skies today, and in this moment when world died in flames, did in last of the life's moments it was born away. The [[Grael]], forced to change, to adapt, and learn and from lesson given by [[Edal]] did it burn into a firebird, rising up onto the skies, taking from the world all of the deathly flames to its body and flying upon the skies, so was [[Aspect of Conflict, Firebird|Conflict]] born. Firebird, the Sun to complete the azure dress of body. 
+
+[[Edal]] ended the Age of Life, making for mortals place equal to the aspects of body and soul, the [[Aspects of Mortal]]. 
 
 
 

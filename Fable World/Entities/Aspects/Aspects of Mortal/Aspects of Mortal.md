@@ -1,0 +1,1 @@
+Concept born of the Edal's rebellion, mortals that put themselves in the conversation of the age's in order to end them and give raise to new Aspects of [[Grael]] & [[Tuatha]]
