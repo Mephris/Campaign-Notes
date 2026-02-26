@@ -10,3 +10,12 @@ Whenever Grael is not shining upon the skies, when the blinding light is gone, t
 The life and living world is like a river, and the spirit world is like a lake, it's waters stagnant so the dreaming fall into the lake like waterdrop rain to stir the stale waters.
 
 Vampires and Werewolfs live in two world at same time, Vampires having to watch out for spirit body and physical, while werewolfs separating into a beast in the spirit realm and human in the physical.
+
+### Numerology - idea 
+1 - World
+2 - Grael & Tuatha, Balance, Conversation
+3 - Grael, Stability, Knowledge 
+4 - Tuatha, Chaos
+5 - Victory & Betrayal
+6 - Empathy
+7 - Conflict
