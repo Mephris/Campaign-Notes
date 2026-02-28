@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fable World/Fable.md",
+                "file": "Fable World/Timeline/Age of Fate & Hope.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fable"
+              "title": "Age of Fate & Hope"
             }
           }
         ],
@@ -183,7 +183,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Fable World/Fable.md",
+            "file": "Fable World/Timeline/Age of Fate & Hope.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -242,6 +242,18 @@
   },
   "active": "cd1d9ddf54655d1e",
   "lastOpenFiles": [
+    "Fable World/Timeline/Age of Miracles - Life & Ambition.md",
+    "Fable World/Timeline/Age of Fate & Hope.md",
+    "Fable World/Timeline/Age of Knowledge - Conflict and Empathy.md",
+    "Fable World/Entities/Aspects/Aspects of Mortal/Aspect of Defiantce - Edal.md",
+    "Fable World/Timeline/Age of Creation - Wildern & Beauty.md",
+    "Fable World/Timeline/Untitled.md",
+    "Fable World/Entities/Aspects/Aspects of Mortal/Aspects of Mortal.md",
+    "Fable World/Entities/Aspects/Aspects of Grael/Aspect of Wildern.md",
+    "Fable World/Timeline/Beginning.md",
+    "Fable World/Entities/Primevals/Tuatha.md",
+    "Fable World/Entities/Primevals/Grael.md",
+    "Fable World/Entities/Primevals/Primeval.md",
     "Fable World/Grael.md",
     "Athra/Cosmology/Cycle/Entities/Ishtar.md",
     "Athra/Cosmology/Cycle/Entities/Lua.md",
@@ -257,18 +269,6 @@
     "Athra/World Information/Aspects/Aspect of Ambition, Avia.md",
     "Athra/World Information/Aspects/Aspect of Conflict, Firebird.md",
     "Athra/World Information/Aspects/Aspect of Empathy.md",
-    "Athra/Untitled.md",
-    "Birb/Biology.md",
-    "Birb/Untitled.md",
-    "Athra/World Information/Fey.md",
-    "Athra/World Information/Forests of Fae/Information/First Song.md",
-    "Athra/World Information/Forests of Fae/The Archfae/Archfae.md",
-    "Athra/World Information/Carnelian/Session plan.md",
-    "Athra/World Information/Carnelian/Conflict.md",
-    "Athra/World Information/Carnelian/Aspects Sheet.md",
-    "Athra/World Information/Carnelian/An Session Event List.md",
-    "Avalon.md",
-    "Athra/Cosmology/Cycle/Laws & Logic/Name (Age of Guidance).md",
     "Birb",
     "Kuchnia/Alkohole",
     "Kuchnia",
