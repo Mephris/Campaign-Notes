@@ -6,4 +6,4 @@ Those creatures use their own flesh to sculpt things onto reality.
 
 
 During the [[Age of Creation - Wildern & Beauty]], [[Aspect of Wildern|Wildern]] called upon grael to make a shrine to reflect its beauty, the loom of ichor and jagged stone. 
-![[Titan.png]]
+![[Jagged Loom stained with Ichor.png]]

@@ -17,7 +17,7 @@
 - **Watcher** She is ultimate record keeper, holding all records of events upon the fabric that is her body. She does not offer no redemption or punishment - only the fact of the deed.
 
 **IV. Note**
-- [[Grael]] is highly inteligent being with low compassion and emotional understanding of [[Tuatha]]
+- [[Grael]] is highly intelligent being with low compassion and emotional understanding of [[Tuatha]]
 - [[Grael]] always take a female form. 
 - [[Grael]] in numerology is symbolized by number 3, which is also symbolizing "Stability/Knowledge". 
-
+ - grael spoken in sentence or written in small letter is used interchangeably with a word's like body or matter
