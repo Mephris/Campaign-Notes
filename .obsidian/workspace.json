@@ -14,29 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fable World/Entities/Aspects/Aspects of Grael/Aspect of Wildern.md",
+                "file": "Fable World/Creation/Kin (Species & Races)/Wilkin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aspect of Wildern"
-            }
-          },
-          {
-            "id": "2385bbdb1601de84",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Fable World/Cosmology Graph.canvas",
-                "viewState": {
-                  "x": -656.6937119675456,
-                  "y": 526.4315620508183,
-                  "zoom": -1.396630831621227
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Cosmology Graph"
+              "title": "Wilkin"
             }
           }
         ]
@@ -82,9 +65,9 @@
               "state": {
                 "file": "Fable World/Cosmology Graph.canvas",
                 "viewState": {
-                  "x": -811.8750952018282,
-                  "y": 1611.7044935262754,
-                  "zoom": -2.4045611659215136
+                  "x": -210.36077711087194,
+                  "y": 794.1577462828595,
+                  "zoom": -0.5712278325881806
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -252,19 +235,24 @@
   },
   "active": "86537bc68f0616b3",
   "lastOpenFiles": [
+    "Fable World/Cosmology.md",
+    "Fable World/Creation/Kin (Species & Races)/Wilkin.md",
     "Fable World/Entities/Primevals/Grael.md",
     "Fable World/Cosmology Graph.canvas",
-    "Fable World/Cosmology.md",
-    "Fable World/Timeline/Age of Miracles - Life & Ambition.md",
-    "Fable World/Timeline/Age of Knowledge - Conflict and Empathy.md",
-    "Fable World/Timeline/Age of Fate & Hope.md",
+    "Fable World/Creation/Kin (Species & Races)",
+    "Fable World/Creation",
     "Fable World/Timeline/Age of Creation - Wildern & Beauty.md",
-    "Fable World/Terminology & Dictionary/Name.md",
+    "Fable World/Entities/Aspects/Aspects of Tuatha/Aspect of Empathy.md",
+    "Fable World/Entities/Aspects/Aspects of Tuatha/Aspect of Beauty.md",
     "Fable World/Entities/Aspects/Aspects of Mortal/Aspects of Mortal.md",
     "Fable World/Entities/Aspects/Aspects of Mortal/Aspect of Defiance - Edal.md",
+    "Edal — Aspect of Defiance.md",
     "Fable World/Entities/Aspects/Aspects of Grael/Aspect of Wildern.md",
-    "Fable World/Entities/Aspects/Aspects of Tuatha/Aspect of Beauty.md",
-    "Fable World/Entities/Aspects/Aspects of Tuatha/Aspect of Empathy.md",
+    "Fable World/Entities/Aspects/Aspects of Grael/Aspect of Conflict.md",
+    "Fable World/Timeline/Age of Knowledge - Conflict and Empathy.md",
+    "Fable World/Timeline/Age of Fate & Hope.md",
+    "Fable World/Timeline/Age of Miracles - Life & Ambition.md",
+    "Fable World/Terminology & Dictionary/Name.md",
     "Fable World/Timeline/Beginning.md",
     "Athra/World Information/Aspects/Aspect of Beauty, Oberon.md",
     "Athra/World Information/Aspects/Aspect of Amity, Durh.md",
@@ -276,23 +264,18 @@
     "Fable World/Entities/Aspects/Aspect.md",
     "Fable World/Entities/Primevals/Primeval.md",
     "Wildern.md",
-    "Fable World/Entities/Aspects/Aspects of Mortal/Edal.md",
     "Fable World/Entities/Aspects/Aspects of Mortal",
     "Fable World/Entities/Aspects/Aspects of Tuatha",
     "Fable World/Entities/Aspects/Aspects of Grael",
     "Jagged Loom stained with Ichor.png",
-    "Athra/World Information/Aspects/Aspect of Wilderness, Relgaia.md",
     "Fable World/Entities/Aspects",
     "Fable World/Entities/Primevals",
-    "Athra/Birb/Biology.md",
     "Fable World/Entities/Untitled.canvas",
     "Fable World/Timeline/Untitled.base",
     "Fable World/Timeline",
     "Athra/Cosmology/Cycle/Entities/Pic/Black Veil.png",
     "Athra/Cosmology/Cycle/Entities/Pic/Ishtar.png",
     "Athra/Cosmology/Cycle/Entities/Pic/Nameless.png",
-    "Fable World/Entities",
-    "Pracownia",
     "Athra/World Information/Aspects/Pic/Amity.png",
     "Athra/World Information/Aspects/Pic/Aspect of Empathy.png",
     "Athra/World Information/Aspects/Pic/Oracle of Avia.png",

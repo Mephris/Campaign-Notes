@@ -8,7 +8,7 @@ The most zelous of all Phenixes follower pushed though all the assasination atte
 
 ![[Learog.png]]
 
-He fought harder then before, slayed more fey then the Saint of [[Aspect of Conflict, Firebird|Firebird]] trying to impress the young woman. They fought at first shoulder to shoulder, until Learog pushed further and further leaving the object of his faith in the back knowing she would never too far behind him.
+He fought harder then before, slayed more fey then the Saint of [[Aspect of Conflict|Firebird]] trying to impress the young woman. They fought at first shoulder to shoulder, until Learog pushed further and further leaving the object of his faith in the back knowing she would never too far behind him.
 
 A massacre in the name of the Firebird occured as Learog pushed to a gathering of fey, there in the midst of corpses meeting a young Aov Sil woman he named Cathrine. While behind him the saint looked in horror at what had occured. 
 

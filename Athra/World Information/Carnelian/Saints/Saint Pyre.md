@@ -1,4 +1,4 @@
-The 33rd saint of the [[Aspect of Conflict, Firebird]] reborn after her [[22nd Saint| predecessor]] abandoned [[Carnelian Kingdom| the kingdom of eternal war]]. 
+The 33rd saint of the [[Aspect of Conflict]] reborn after her [[22nd Saint| predecessor]] abandoned [[Carnelian Kingdom| the kingdom of eternal war]]. 
 
 She was born within the Sabi Archipelago on the Demon Island, where she spent most of her lifespan as a cost of evoking the [[Aspectrual body]] before being rescued by the four priests and set of knights of the [[Carnelian Order]].
 

@@ -7,7 +7,9 @@ It was in this sunless world that once [[Aspect of Wildern|Wildern]] envisioned 
 
 ### Cradle of the World
 
-In this hell, flooded in ink and ripped by the jagged loom, did the [[Primeval|primeval's]] argue, formed by the [[Aspect]] of [[Grael]] were the [[Elvenkin]] and the [[Dwarvenkin]], while from the flood of [[Aspect of Beauty|beautiful]] ink and song came [[Faekin]].
+> "The Oldest races were born in the Age of Creation, pretty poetic that the mortal life back then was made only from earth, beasts and dreams"
+
+In this hell, flooded in ink and ripped by the jagged loom, did the [[Primeval|primeval's]] argue, formed by the [[Aspect]] of [[Grael]] were the [[Wilkin]] and the [[Dwarvenkin]], while from the flood of [[Aspect of Beauty|beautiful]] ink and song came [[Faekin]].
 
 One such creation, of Elven and Dwarven blood was a young man, at birth the most pure of [[Grael]] pale flesh, so did [[Aspect of Beauty]] look to the pale creation and while the [[Aspect of Wildern|Wildern]] did not look, did she grab the silvery ink and write a [[Name]], a gift, onto its heart; [[Aspect of Defiance - Edal|Edal]], in it sealing a gift of endless growth and abstract of a hero - to always rise equal to the challenge. 
 
@@ -21,7 +23,7 @@ There at the Ichory Loom, Aspects of [[Grael]] & [[Tuatha]] met, arguing the sil
 
 With torch, he threw it onto the long black locks of the [[Aspect of Beauty]], burning it, his axe passing by her neck, and an [[Aspect]] stumbled back, feeling a mortal fear for the first time. The thing that did not know end or death, [[Aspect of Empathy|empathizing]] with the so very mortal concept of death. So was [[Aspect of Empathy]] born. 
 
-Spirit of the world burned, and his axe landed in the skull of [[Aspect of Wildern|Wildern]], leaving it to fall onto the screaming [[Aspect of Beauty]], and they were consumed by flame, and world burned as the [[Grael]] took flame, the ink burned away onto colorful clouds shining on the night skies today, and in this moment when world died in flames, did in last of the life's moments it was born [[Aspect]] of next Era. The fabric of [[Grael]], forced to rip and change under the [[Aspect of Defiance - Edal|Edal]]'s exe, she adapted, learn and from lesson did it burn into a firebird, rising up onto the skies, taking from the world all of the deathly flames onto its body, so was [[Aspect of Conflict, Firebird|Conflict]] born. Firebird, the Sun to complete the azure dress of body. 
+Spirit of the world burned, and his axe landed in the skull of [[Aspect of Wildern|Wildern]], leaving it to fall onto the screaming [[Aspect of Beauty]], and they were consumed by flame, and world burned as the [[Grael]] took flame, the ink burned away onto colorful clouds shining on the night skies today, and in this moment when world died in flames, did in last of the life's moments it was born [[Aspect]] of next Era. The fabric of [[Grael]], forced to rip and change under the [[Aspect of Defiance - Edal|Edal]]'s exe, she adapted, learn and from lesson did it burn into a firebird, rising up onto the skies, taking from the world all of the deathly flames onto its body, so was [[Aspect of Conflict|Conflict]] born. Firebird, the Sun to complete the azure dress of body. 
 
 [[Aspect of Defiance - Edal]] ended the Age of Life, making for mortals place equal to the aspects of body and soul, the [[Aspects of Mortal]]. 
 

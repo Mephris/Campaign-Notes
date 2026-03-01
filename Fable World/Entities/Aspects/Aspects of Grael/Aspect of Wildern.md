@@ -1,6 +1,14 @@
 > "She did not love her creation. She loved the idea of it — the version that never stained, never grew crooked, never surprised her. What she built was a world. What she wanted was a mirror."
 
-The Wildmother, She-Owl,
+The Wild mother, She-Owl, the stern and loving mother of [[Wilderguard]], but it wasn't always so. 
+
+After the beginning of the [[Age of Creation - Wildern & Beauty|Age of Creation]] , Wildern, took upon herself creation of all life and its logic, succeeding until [[Aspect of Beauty|Beauty]] flooded the world with ink, causing it to grow unpredictably, illogically. 
+
+Seeing her creation defiled, she traveled when the ink flooded the least, the peak of the world, cradle where both [[Aspect]]'s of the [[Age of Creation - Wildern & Beauty]] were born. There she tried to cleanse her creation back onto the pure logic that it was at the beginning. 
+
+In those days, her cruelty and coldness resulted in a harsh lesson, as her  [[Edal — Aspect of Defiance|most pure creation]] rose against her after she kidnapped and unfurled his children. 
+
+At the end, [[Aspect of Wildern]] died, but can the symbol of nature ever stay dead as long as there is life? As from the ashes of her body flew a brilliant [[Aspect of Conflict|Firebird]] who shone a light upon day as its sun, in this light her ashes fell onto the ground of far south, taken by winds 
 
 
 
