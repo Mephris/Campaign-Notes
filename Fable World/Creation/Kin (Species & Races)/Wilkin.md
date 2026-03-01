@@ -5,13 +5,18 @@ Creation of [[Aspect of Wildern|Wildern]] from different kind of animals, the or
 ### Elf
 > Old-English word **Ælf** which comes from praindoeuropean core **h₂elbʰ** 
 > > *"white" or "bright"*
+
+Animals of day turned into inteligent creatures.
 ### Nar 
 > Old-English word **Nearu**, gotten cut down to 3 letters which signify [[Grael]] in [[Cosmology#Numerology - idea|numerology]] 
 > > *"Darkness", "Dark", "Tight Spot", "Pressure"*
+
+Animals of Night turned into inteligent creatures, mainly predators of night. 
 ### Der
 > Old English word **Dēor**, gotten cut down to 3 letters which signify [[Grael]] in [[Cosmology#Numerology - idea|numerology]] 
 > >> *"Wild Animal"*
 
+SWEEEEET HOME WILDERGUARD
 
 ### Alternatives to Elf
 #### Lēo
