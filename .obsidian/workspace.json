@@ -51,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "c8e877fa0d492e59",
@@ -276,10 +276,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e59ed40877aa757e",
+  "active": "c69e35f046ba6587",
   "lastOpenFiles": [
-    "Fable World/Cosmology Graph.canvas",
     "Fable World/Entities/Aspects/Aspects of Grael/Wildern.md",
+    "Fable World/Cosmology Graph.canvas",
     "Fable World/Entities/Aspects/Aspects of Tuatha/Beauty.md",
     "Fable World/Cosmology.md",
     "Fable World/Entities/Aspects/Aspects of Tuatha/Empathy.md",
