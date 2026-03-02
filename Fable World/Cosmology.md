@@ -16,6 +16,4 @@ Vampires and Werewolfs live in two world at same time, Vampires having to watch 
 2 - Grael & Tuatha, Balance, Conversation
 3 - Grael, Stability, Knowledge 
 4 - Tuatha, Chaos
-5 - Victory & Betrayal
-6 - Empathy
-7 - Conflict
+5 - Nature: Wildern & Beauty

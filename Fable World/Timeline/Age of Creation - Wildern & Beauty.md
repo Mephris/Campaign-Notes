@@ -9,7 +9,7 @@ It was in this sunless world that once [[Aspect of Wildern|Wildern]] envisioned 
 
 > "The Oldest races were born in the Age of Creation, pretty poetic that the mortal life back then was made only from earth, beasts and dreams"
 
-In this hell, flooded in ink and ripped by the jagged loom, did the [[Primeval|primeval's]] argue, formed by the [[Aspect]] of [[Grael]] were the [[Wilkin]] and the [[Dwarvenkin]], while from the flood of [[Aspect of Beauty|beautiful]] ink and song came [[Faekin]].
+In this hell, flooded in ink and ripped by the jagged loom, did the [[Primeval|primeval's]] argue, formed by the [[Aspect]] of [[Grael]] were the [[Wildaelf]] and the [[Dwarvenkin]], while from the flood of [[Aspect of Beauty|beautiful]] ink and song came [[Faekin]].
 
 One such creation, of Elven and Dwarven blood was a young man, at birth the most pure of [[Grael]] pale flesh, so did [[Aspect of Beauty]] look to the pale creation and while the [[Aspect of Wildern|Wildern]] did not look, did she grab the silvery ink and write a [[Name]], a gift, onto its heart; [[Aspect of Defiance - Edal|Edal]], in it sealing a gift of endless growth and abstract of a hero - to always rise equal to the challenge. 
 
