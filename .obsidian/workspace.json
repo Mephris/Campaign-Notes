@@ -64,7 +64,7 @@
               "type": "markdown",
               "state": {
                 "file": "Fable World/Creation/Kin (Species & Races)/Wildaelf.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -230,11 +230,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a368f9abb758d37",
+  "active": "86537bc68f0616b3",
   "lastOpenFiles": [
+    "Fable World/Creation/Kin (Species & Races)/Wildaelf.md",
     "Fable World/Cosmology Graph.canvas",
     "Fable World/Cosmology.md",
-    "Fable World/Creation/Kin (Species & Races)/Wildaelf.md",
     "Fable World/Entities/Primevals/Grael.md",
     "Fable World/Creation/Kin (Species & Races)",
     "Fable World/Creation",

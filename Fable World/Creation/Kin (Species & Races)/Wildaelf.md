@@ -3,6 +3,7 @@ Creation of [[Aspect of Wildern|Wildern]] from different kind of animals, the or
 > Old-English Word comes from **Wilde** (wild) & **Aelf (White, Bright, Shining)
 > > *"Wild White" & "Luminous of Wild"*
 
+**Note:** Old English in name of Wildaelf and later on in the latter bit of the race names, it there in order to make the names a bit more intuitive. just so you know its some kind of an elf. 
 ### Mìn - Minaelf
 > **Scottish Gaelic** word _mìn_ (pronounced /miːɲ/), inherited from **Old Irish** _mín_.
 > > **Proto-Celtic:** Derived from ***mīnos**.
@@ -11,7 +12,7 @@ Creation of [[Aspect of Wildern|Wildern]] from different kind of animals, the or
 
 In the [[Age of Creation - Wildern & Beauty|Age of Creation]], [[Aspect of Wildern]] took upon herself to purify her creations, the peaceful animals eating the wicked black roots were took onto the loom and reformed onto Min. 
 
-Min are slender creatures around 4-6(1.52 m - 1.83m) feet tall with sharp ended ears, the remainder of their beastly ancestor, and lightly skinned colors living mainly in the northern mountains. 
+Min are slender humanoids around 4-6(1.52 m - 1.83m) feet tall with sharp ended ears, the remainder of their beastly ancestor, and lightly skinned colors living mainly in the northern mountains. 
 ### Mòr - Móraelf
 >**Scottish Gaelic** word _mòr_ (pronounced /moːr/), inherited from **Old Irish** _már_ or _mór_.
 >>**Proto-Celtic:** Derived from ***māros**.
@@ -20,7 +21,7 @@ Min are slender creatures around 4-6(1.52 m - 1.83m) feet tall with sharp ended 
 
 Around same time, when light scurried from the face of the cradle, the great predators came, preying on flesh and blood, so  [[Aspect of Wildern|Wildern]] looked to large creatures who did not care for the predator danger, the bulwarks of flesh and leather that did not need to see a predator to break their skull. She took them onto the Ichory loom and reformed them onto Mór. 
 
-Mór are lean but muscular creatures around 6-8 feet tall(1.83m - 2.44m) with sharp ended ears. Their skins often take colors from brownish to dark creme colours, depending on the blood purity. 
+Mór are lean but muscular humanoids around 6-8 feet tall(1.83m - 2.44m) with sharp ended ears. Their skins often take colors from brownish to dark creme colors, depending on the blood purity. 
 
 ### Sal - Salaelf
 > **PIE Core:** From the root ***sal-** ("salt," "grey," or "dirty").
