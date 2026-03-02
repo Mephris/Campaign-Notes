@@ -1,6 +1,6 @@
 ![[Firebird.png]]
 
-Firebird born of the burning corpse of the [[Aspect of Wildern|She-Owl]] 
+Firebird born of the burning corpse of the [[Wildern|She-Owl]] 
 
 The Patron of Eternal conflict who burns out in its passion within a single human lifetime just to be rekindled again. 
 

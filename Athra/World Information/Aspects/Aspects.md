@@ -9,6 +9,6 @@ The Oldest of Aspects take on will's of mortals, they are mortal souls given a p
 - [[Aspect of Ambition, Avia]]
 - [[Aspect of Amity, Durh]]
 - [[Aspect of Beauty, Oberon]]
-- [[Aspect of Conflict]]
-- [[Aspect of Empathy]]
+- [[Fable World/Entities/Aspects/Aspects of Grael/Conflict]]
+- [[Fable World/Entities/Aspects/Aspects of Tuatha/Empathy]]
 - [[Aspect of Wilderness, Relgaia]]

@@ -1,6 +1,6 @@
 ![[Kryraic.png]]
 
-The humans that in their constant acts stepped further and further from human until they became the void bound beast, kept in this world simply by the last saving gift of the [[Aspect of Empathy]]
+The humans that in their constant acts stepped further and further from human until they became the void bound beast, kept in this world simply by the last saving gift of the [[Fable World/Entities/Aspects/Aspects of Tuatha/Empathy]]
 
 The Kaithry will try their hardest to not show their monstrous side, the one that trully got them into what they are now, the [[Hedon]] elder.
 

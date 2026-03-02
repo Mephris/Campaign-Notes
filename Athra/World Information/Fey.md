@@ -1,4 +1,4 @@
-Fey are a race created by the [[Aspect of Beauty]] in her illusionary song of pain.
+Fey are a race created by the [[Beauty]] in her illusionary song of pain.
 
 As a race, they come in all shapes and sizes ruled by the Archfey as a counter to gods and lords of wonder.
 
