@@ -6,7 +6,7 @@
       {
         "id": "6e316efe813ba352",
         "type": "tabs",
-        "dimension": 42.46031746031746,
+        "dimension": 50.90283748925194,
         "children": [
           {
             "id": "86537bc68f0616b3",
@@ -23,7 +23,21 @@
             }
           },
           {
-            "id": "9a368f9abb758d37",
+            "id": "c69e35f046ba6587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fable World/Entities/Aspects/Aspects of Tuatha/Beauty.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Beauty"
+            }
+          },
+          {
+            "id": "e59ed40877aa757e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,12 +51,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "c8e877fa0d492e59",
         "type": "tabs",
-        "dimension": 57.53968253968254,
+        "dimension": 49.09716251074806,
         "children": [
           {
             "id": "0176b9d71209b47e",
@@ -73,6 +87,20 @@
             }
           },
           {
+            "id": "9a368f9abb758d37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fable World/Entities/Aspects/Aspects of Grael/Wildern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wildern"
+            }
+          },
+          {
             "id": "257e0c3d2bc1a2df",
             "type": "leaf",
             "state": {
@@ -80,27 +108,13 @@
               "state": {
                 "file": "Fable World/Cosmology Graph.canvas",
                 "viewState": {
-                  "x": -849.0360107255353,
-                  "y": 536.3721995877697,
-                  "zoom": -0.6882159593803427
+                  "x": -1104.12398415093,
+                  "y": 872.4744834216922,
+                  "zoom": -1.3333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Cosmology Graph"
-            }
-          },
-          {
-            "id": "c69e35f046ba6587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fable World/Entities/Aspects/Aspects of Tuatha/Beauty.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Beauty"
             }
           }
         ],
@@ -262,11 +276,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a368f9abb758d37",
+  "active": "e59ed40877aa757e",
   "lastOpenFiles": [
-    "Fable World/Creation/Kin (Species & Races)/Aelf.md",
     "Fable World/Cosmology Graph.canvas",
+    "Fable World/Entities/Aspects/Aspects of Grael/Wildern.md",
+    "Fable World/Entities/Aspects/Aspects of Tuatha/Beauty.md",
     "Fable World/Cosmology.md",
+    "Fable World/Entities/Aspects/Aspects of Tuatha/Empathy.md",
+    "Empathy.md",
+    "Fable World/Entities/Primevals/Tuatha.md",
+    "Fable World/Creation/Kin (Species & Races)/Aelf.md",
+    "Fable World/Entities/Aspects/Aspects of Grael/Conflict.md",
     "Fable World/Timeline/Beginning.md",
     "Fable World/Timeline/Untitled.md",
     "Fable World/Timeline/Age of Miracles - Life & Ambition.md",
@@ -278,12 +298,7 @@
     "Fable World/Entities/Primevals/Grael.md",
     "Fable World/Entities/Aspects/Aspect.md",
     "Fable World/Entities/Aspects/Aspects of Mortal/Aspects of Mortal.md",
-    "Fable World/Entities/Aspects/Aspects of Tuatha/Empathy.md",
-    "Fable World/Entities/Aspects/Aspects of Tuatha/Beauty.md",
     "Fable World/Entities/Aspects/Aspects of Mortal/Defiance - Edal.md",
-    "Fable World/Entities/Aspects/Aspects of Grael/Conflict.md",
-    "Fable World/Entities/Aspects/Aspects of Grael/Wildern.md",
-    "Empathy.md",
     "Fable World/Creation/Kin (Species & Races)",
     "Fable World/Creation",
     "Edal — Aspect of Defiance.md",
@@ -291,7 +306,6 @@
     "Athra/World Information/Aspects/Aspect of Amity, Durh.md",
     "Athra/World Information/Aspects/Aspect of Ambition, Avia.md",
     "Fable World/Terminology & Dictionary",
-    "Fable World/Entities/Primevals/Tuatha.md",
     "Fable World/Timeline/Age of Life - Wildern & Beauty.md",
     "Fable World/Entities/Aspects/Aspects of Mortal",
     "Fable World/Entities/Aspects/Aspects of Tuatha",
@@ -308,7 +322,7 @@
     "Athra/World Information/Aspects/Pic/Amity.png",
     "Athra/World Information/Aspects/Pic/Aspect of Empathy.png",
     "Athra/World Information/Aspects/Pic/Oracle of Avia.png",
-    "Athra/World Information/Aspects/Pic/Titania.png",
+    "Athra/World Information/Aspects/Pic/Wildmother.png",
     "Athra/World Information/Aspects/Pic/Pic.png",
     "Athra/World Information/Aspects/Pic/Firebird.png"
   ]
