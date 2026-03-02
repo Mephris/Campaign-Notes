@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fable World/Creation/Kin (Species & Races)/Aelf.md",
+                "file": "Fable World/Entities/Aspects/Aspects of Grael/Wildern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aelf"
+              "title": "Wildern"
             }
           }
         ],
@@ -264,6 +264,7 @@
   },
   "active": "9a368f9abb758d37",
   "lastOpenFiles": [
+    "Fable World/Creation/Kin (Species & Races)/Aelf.md",
     "Fable World/Cosmology Graph.canvas",
     "Fable World/Cosmology.md",
     "Fable World/Timeline/Beginning.md",
@@ -282,7 +283,6 @@
     "Fable World/Entities/Aspects/Aspects of Mortal/Defiance - Edal.md",
     "Fable World/Entities/Aspects/Aspects of Grael/Conflict.md",
     "Fable World/Entities/Aspects/Aspects of Grael/Wildern.md",
-    "Fable World/Creation/Kin (Species & Races)/Aelf.md",
     "Empathy.md",
     "Fable World/Creation/Kin (Species & Races)",
     "Fable World/Creation",

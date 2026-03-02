@@ -1,4 +1,4 @@
-### _She-Owl — The Untamed_
+### _She-Owl - Wildmother_
 
 ---
 
@@ -38,10 +38,10 @@ At the end, [[Wildern]] died.
 
 But can the symbol of nature ever stay dead while there is life? From the ashes of her body flew a brilliant Firebird, shining light upon the day as its sun. And in that light, her ashes fell south — taken by winds, carried by rivers, regrowing into a land of inky forests. Her body finding life once more.
 
-_For the full account, see [[Age of Creation — Wildern & Beauty]]._
+_For the full account, see [[Age of Creation - Wildern & Beauty]]._
 ### The Lesson
 
-She was killed by [[Edal]]. A mortal she had used. Whose children she had taken. Whose grief she had underestimated.
+She was killed by [[Defiance - Edal]]. A mortal she had used. Whose children she had taken. Whose grief she had underestimated.
 
 Her skull split. Her world burned. The ink she had spent an age trying to wash away became the colorful clouds that light the night sky — her failure, the most beautiful thing in the heavens.
 
@@ -53,7 +53,7 @@ Whose hand she took.
 
 In that acceptance was the whole of her transformation. The Aspect who built a world to be perfect learned — through dying, through rivers, through the hand of something she had despised — that **the stain was never the corruption. The stain was the point.**
 
-She grew back. Not as [[Wildern]]. Not as the cold She-Owl who watched from unreachable heights and found everything below her wanting. But as the **[[Wild Mother]]** — nature lined with beauty, wilderness that shelters as fiercely as it devours. A mother who finally came down from the tree and let her imperfect children meet her eyes.
+She grew back. Not as [[Wildern]]. Not as the cold She-Owl who watched from unreachable heights and found everything below her wanting. But as the **[[Wildern|Wildmother]]**, in image of her abandoned creation from plantlife [[Aelf#Tam-aelf|Tamaelf]]- nature lined with beauty, wilderness that shelters as fiercely as it devours. A mother who finally came down from the tree and let her imperfect children meet her eyes.
 
 ---
 
