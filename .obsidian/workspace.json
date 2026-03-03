@@ -28,6 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Fable World/Timeline/Beginning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Beginning"
+            }
+          },
+          {
+            "id": "e59ed40877aa757e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Fable World/Entities/Aspects/Aspects of Tuatha/Beauty.md",
                 "mode": "source",
                 "source": false
@@ -37,7 +51,7 @@
             }
           },
           {
-            "id": "e59ed40877aa757e",
+            "id": "eb99121a63acb2f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "c8e877fa0d492e59",
@@ -92,6 +106,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Fable World/Entities/Aspects/Aspects of Mortal/Knowledge - Awen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Knowledge - Awen"
+            }
+          },
+          {
+            "id": "2226ec5599c841a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Fable World/Entities/Aspects/Aspects of Grael/Wildern.md",
                 "mode": "source",
                 "source": false
@@ -108,8 +136,8 @@
               "state": {
                 "file": "Fable World/Cosmology Graph.canvas",
                 "viewState": {
-                  "x": -1104.12398415093,
-                  "y": 872.4744834216922,
+                  "x": 1231.7696423541647,
+                  "y": 1182.415061695831,
                   "zoom": -1.3333333333333333
                 }
               },
@@ -118,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -276,26 +304,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c69e35f046ba6587",
+  "active": "9a368f9abb758d37",
   "lastOpenFiles": [
+    "Fable World/Creation/Kin (Species & Races)/Aelf.md",
     "Fable World/Entities/Aspects/Aspects of Grael/Wildern.md",
-    "Fable World/Cosmology Graph.canvas",
+    "Fable World/Entities/Aspects/Aspects of Mortal/Knowledge - Awen.md",
+    "Fable World/Timeline/Age of Creation - Wildern & Beauty.md",
     "Fable World/Entities/Aspects/Aspects of Tuatha/Beauty.md",
+    "Fable World/Entities/Primevals/Grael.md",
+    "Fable World/Terminology & Dictionary/Name.md",
+    "Fable World/Timeline/Beginning.md",
+    "Fable World/Cosmology Graph.canvas",
     "Fable World/Cosmology.md",
     "Fable World/Entities/Aspects/Aspects of Tuatha/Empathy.md",
     "Empathy.md",
     "Fable World/Entities/Primevals/Tuatha.md",
-    "Fable World/Creation/Kin (Species & Races)/Aelf.md",
     "Fable World/Entities/Aspects/Aspects of Grael/Conflict.md",
-    "Fable World/Timeline/Beginning.md",
     "Fable World/Timeline/Untitled.md",
     "Fable World/Timeline/Age of Miracles - Life & Ambition.md",
     "Fable World/Timeline/Age of Knowledge - Conflict and Empathy.md",
     "Fable World/Timeline/Age of Fate & Hope.md",
-    "Fable World/Timeline/Age of Creation - Wildern & Beauty.md",
-    "Fable World/Terminology & Dictionary/Name.md",
     "Fable World/Entities/Primevals/Primeval.md",
-    "Fable World/Entities/Primevals/Grael.md",
     "Fable World/Entities/Aspects/Aspect.md",
     "Fable World/Entities/Aspects/Aspects of Mortal/Aspects of Mortal.md",
     "Fable World/Entities/Aspects/Aspects of Mortal/Defiance - Edal.md",

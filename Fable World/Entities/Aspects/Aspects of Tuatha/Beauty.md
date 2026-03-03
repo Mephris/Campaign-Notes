@@ -1,5 +1,5 @@
 
-> [!NOTE] _"Heart Deep Beauty" , "Mother of Accidents", "Keeper of Broken"_
+> [!NOTE] _"Queen Danu""Heart Deep Beauty" , "Mother of Accidents", "Keeper of Broken"_
 
 ---
 
@@ -7,7 +7,7 @@
 
 ---
 
-## Nature 
+## Aspect of Beauty
 
 **Colorful stain** - the nuance of the world, the refusal to stay in line, overflow of color and emotions, freedom. Her [[Name#The Naming of an Aspect Moral Reflection of an Aspect|Self-naming]] granted her a tap into a domain of her successor [[Empathy]]; allowing her to create her art for more then just herself. 
 
@@ -33,7 +33,15 @@ At the [[Age of Creation - Wildern & Beauty#End of an Era|End of Era]] she was s
 
 _For the full account, see [[Age of Creation - Wildern & Beauty]]._
 ### The Kind Lesson
-For all the crying [[Faekin]] do about [[Beauty]]'s burn appearance, in reality all left of the burn is a slight mark upon her cheek, engraved with a name she [[Name#The Naming of an Aspect Moral Reflection of an Aspect|named]] herself with. 
+For all the crying [[Faekin]] do about [[Beauty]]'s burn appearance, in reality all left of the burn is a slight mark upon her cheek, engraved with a self given [[Name#The Naming of an Aspect Moral Reflection of an Aspect|name]]. 
+
+> "She whose face reflects the heart"
+
+It was enough that flames licked her cheek that she understood the plight of creation. Seeing the dead lining the ground, her mind finally understanding the cruelty of first [[Aspect]]'s. 
+
+So it was that she took upon the strands of the two unmade children of [[Defiance - Edal|Edal]], [[Aelf#Tam-aelf|Tam]] following their foster creator south to a land where they waited, for the regrowth of [[Wildern]]. 
+
+There, when the two met together again did they weave together the strands of two children back onto forms. One became a [[Aelf#Mìn - Minaelf|Min]] and traveled north to record all the cruelty, and all the future of his people, and his [[Name]] was given by [[Wildern]]...........
 
 ---
 

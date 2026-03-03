@@ -1,5 +1,5 @@
 
-> [!NOTE] _"She-Owl" , "Wildmother"_
+> [!NOTE] _ "Anu", "Wildmother"_
 
 ---
 
@@ -7,7 +7,7 @@
 
 ---
 
-## Nature
+## Aspect of Wildern
 
 Her creation and sole want was wilderness at its most absolute — not free, not beautiful. **Empty and uncompromising.** She is the hunger of a perfect world for itself, the silence before the first wrong note.
 
@@ -45,21 +45,17 @@ At the end, [[Wildern]] died.
 But can the symbol of nature ever stay dead while there is life? From the ashes of her body flew a brilliant Firebird, shining light upon the day as its sun. And in that light, her ashes fell south — taken by winds, carried by rivers, regrowing into a land of inky forests. Her body finding life once more.
 
 _For the full account, see [[Age of Creation - Wildern & Beauty]]._
-### The Lesson
+#### The Harsh Lesson
 
-She was killed by [[Defiance - Edal]]. A mortal she had used. Whose children she had taken. Whose grief she had underestimated.
+[[Wildern]], the cold watcher, devoured by the flames of [[Defiance - Edal|Defiance]] fueled by her own cruelty. Fell onto ash, and this ash was carried onto rivers and winds lower, in the clouds of iridescent burnt ink that once flooded the world. 
 
-Her skull split. Her world burned. The ink she had spent an age trying to wash away became the colorful clouds that light the night sky — her failure, the most beautiful thing in the heavens.
+In this unperfect & beautiful world, she regrew, onto a body of those she abandoned, [[Aelf#Tam-aelf|Tam]]. In this form she was met by her own creation, led by [[Beauty]], her own creation extending a hand to the newly regrown [[Wildern]]. One she would deem unworthy to even die on the loom. 
 
-Her ashes were carried down from the peak by rivers, into the low and stained and imperfect places she had spent her existence trying to cleanse. There, broken and formless, she lay across river banks and forest floors for an age.
+Whose hand she took, in doing so, letting go of the She-owl that watched from unreachable heights. She learned stain was never the corruption upon her fabric, but meaning. 
 
-It was one of the [[Aelf]] who found her. Her own creation. The very thing she had worked so hard to unmake. An imperfect being. A stained one. One she would not have hesitated to feed to the loom.
+Taking on a mantle closest to remorse she could feel, duty, she took on a name [[Wildern#Nature|Wildmother]]
 
-Whose hand she took.
-
-In that acceptance was the whole of her transformation. The Aspect who built a world to be perfect learned — through dying, through rivers, through the hand of something she had despised — that **the stain was never the corruption. The stain was the point.**
-
-She grew back. Not as [[Wildern]]. Not as the cold She-Owl who watched from unreachable heights and found everything below her wanting. But as the **[[Wildern|Wildmother]]**, in image of her abandoned creation from plantlife [[Aelf#Tam-aelf|Tamaelf]]- nature lined with beauty, wilderness that shelters as fiercely as it devours. A mother who finally came down from the tree and let her imperfect children meet her eyes.
+In her new form, she came to meet with her long nemesis, to create another thing together, this time knowingly. 
 
 ---
 
