@@ -21,9 +21,9 @@ So did [[Wildern|Wildern]] see the two most pure forms and take them, to strip o
 
 There at the Ichory Loom, Aspects of [[Grael]] & [[Tuatha]] met, arguing the silvery strand from children bodies. Before like thunder, the jagged form fell, cut down by the [[Defiance - Edal|furious father]], confronting the [[Aspect]]'s before him and he saw the strand of his now dead children. 
 
-With torch, he threw it onto the long black locks of the [[Beauty]], burning it, his axe passing by her neck, and an [[Aspect]] stumbled back, feeling a mortal fear for the first time. The thing that did not know end or death, [[Fable World/Entities/Aspects/Aspects of Tuatha/Empathy|empathizing]] with the so very mortal concept of death. So was [[Fable World/Entities/Aspects/Aspects of Tuatha/Empathy]] born. 
+With torch, he threw it onto the long black locks of the [[Beauty]], burning it, his axe passing by her neck, and an [[Aspect]] stumbled back, feeling a mortal fear for the first time. The thing that did not know end or death, [[Empathy|empathizing]] with the so very mortal concept of death. So was [[Empathy]] born. 
 
-Spirit of the world burned, and his axe landed in the skull of [[Wildern|Wildern]], leaving it to fall onto the screaming [[Beauty]], and they were consumed by flame, and world burned as the [[Grael]] took flame, the ink burned away onto colorful clouds shining on the night skies today, and in this moment when world died in flames, did in last of the life's moments it was born [[Aspect]] of next Era. The fabric of [[Grael]], forced to rip and change under the [[Defiance - Edal|Edal]]'s exe, she adapted, learn and from lesson did it burn into a firebird, rising up onto the skies, taking from the world all of the deathly flames onto its body, so was [[Fable World/Entities/Aspects/Aspects of Grael/Conflict|Conflict]] born. Firebird, the Sun to complete the azure dress of body. 
+Spirit of the world burned, and his axe landed in the skull of [[Wildern|Wildern]], leaving it to fall onto the screaming [[Beauty]], and they were consumed by flame, and world burned as the [[Grael]] took flame, the ink burned away onto colorful clouds shining on the night skies today, and in this moment when world died in flames, did in last of the life's moments it was born [[Aspect]] of next Era. The fabric of [[Grael]], forced to rip and change under the [[Defiance - Edal|Edal]]'s exe, she adapted, learn and from lesson did it burn into a firebird, rising up onto the skies, taking from the world all of the deathly flames onto its body, so was [[Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Conflict|Conflict]] born. Firebird, the Sun to complete the azure dress of body. 
 
 [[Defiance - Edal]] ended the Age of Life, making for mortals place equal to the aspects of body and soul, the [[Aspects of Mortal]]. 
 
@@ -35,8 +35,8 @@ At the [[Age of Creation - Wildern & Beauty#End of an Era|End of an era]] both a
 #### Danu 
 ![[Beauty#The Kind Lesson]]
 
-
-
+### Edal
+![[Defiance - Edal#Death]]
 
 
 

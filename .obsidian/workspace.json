@@ -26,14 +26,12 @@
             "id": "c69e35f046ba6587",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Fable World/Timeline/Age of Creation - Wildern & Beauty.md",
-                "mode": "source",
-                "source": false
+                "file": "Jagged Loom stained with Ichor.png"
               },
-              "icon": "lucide-file",
-              "title": "Age of Creation - Wildern & Beauty"
+              "icon": "lucide-image",
+              "title": "Jagged Loom stained with Ichor"
             }
           },
           {
@@ -42,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fable World/Entities/Aspects/Aspects of Tuatha/Beauty.md",
+                "file": "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Beauty.md",
                 "mode": "source",
                 "source": false
               },
@@ -56,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fable World/Entities/Aspects/Aspects of Grael/Wildern.md",
+                "file": "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Wildern.md",
                 "mode": "source",
                 "source": false
               },
@@ -65,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "c8e877fa0d492e59",
@@ -78,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fable World/Entities/Primevals/Grael.md",
+                "file": "Tale of The Last Cycle/Entities/Primevals/Grael.md",
                 "mode": "source",
                 "source": false
               },
@@ -92,7 +90,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fable World/Entities/Primevals/Tuatha.md",
+                "file": "Tale of The Last Cycle/Entities/Primevals/Tuatha.md",
                 "mode": "source",
                 "source": false
               },
@@ -106,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fable World/Entities/Aspects/Aspects of Mortal/Knowledge - Awen.md",
+                "file": "Tale of The Last Cycle/Entities/Aspects/Aspects of Mortal/Knowledge - Awen.md",
                 "mode": "source",
                 "source": false
               },
@@ -120,7 +118,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fable World/Entities/Aspects/Aspects of Grael/Wildern.md",
+                "file": "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Wildern.md",
                 "mode": "source",
                 "source": false
               },
@@ -134,11 +132,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Fable World/Cosmology Graph.canvas",
+                "file": "Tale of The Last Cycle/Cosmology Graph.canvas",
                 "viewState": {
-                  "x": 1359.116390258528,
-                  "y": 1662.7338107427267,
-                  "zoom": -0.3333333333333334
+                  "x": -0.6570204595360138,
+                  "y": 1141.06181544312,
+                  "zoom": -2.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -146,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -304,46 +302,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c69e35f046ba6587",
+  "active": "257e0c3d2bc1a2df",
   "lastOpenFiles": [
-    "Fable World/Entities/Aspects/Aspects of Tuatha/Beauty.md",
-    "Fable World/Entities/Aspects/Aspects of Grael/Wildern.md",
-    "Fable World/Timeline/Age of Creation - Wildern & Beauty.md",
-    "Fable World/Entities/Aspects/Aspects of Mortal/Knowledge - Awen.md",
-    "Fable World/Timeline/Age of Knowledge - Conflict and Empathy.md",
-    "Fable World/Timeline/Beginning.md",
-    "Fable World/Cosmology Graph.canvas",
-    "Fable World/Entities/Primevals/Grael.md",
-    "Fable World/Entities/Primevals/Tuatha.md",
-    "Fable World/Creation/Kin (Species & Races)/Aelf.md",
-    "Fable World/Terminology & Dictionary/Name.md",
-    "Fable World/Cosmology.md",
-    "Fable World/Entities/Aspects/Aspects of Tuatha/Empathy.md",
-    "Empathy.md",
-    "Fable World/Entities/Aspects/Aspects of Grael/Conflict.md",
-    "Fable World/Timeline/Untitled.md",
-    "Fable World/Timeline/Age of Miracles - Life & Ambition.md",
-    "Fable World/Timeline/Age of Fate & Hope.md",
-    "Fable World/Entities/Primevals/Primeval.md",
-    "Fable World/Entities/Aspects/Aspect.md",
-    "Fable World/Entities/Aspects/Aspects of Mortal/Aspects of Mortal.md",
-    "Fable World/Entities/Aspects/Aspects of Mortal/Defiance - Edal.md",
-    "Fable World/Creation/Kin (Species & Races)",
-    "Fable World/Creation",
-    "Edal — Aspect of Defiance.md",
-    "Athra/World Information/Aspects/Aspect of Beauty, Oberon.md",
-    "Athra/World Information/Aspects/Aspect of Amity, Durh.md",
-    "Athra/World Information/Aspects/Aspect of Ambition, Avia.md",
-    "Fable World/Terminology & Dictionary",
-    "Fable World/Entities/Aspects/Aspects of Mortal",
-    "Fable World/Entities/Aspects/Aspects of Tuatha",
-    "Fable World/Entities/Aspects/Aspects of Grael",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Beauty.md",
+    "Tale of The Last Cycle/Cosmology Graph.canvas",
+    "Avalon.md",
     "Jagged Loom stained with Ichor.png",
-    "Fable World/Entities/Aspects",
-    "Fable World/Entities/Primevals",
+    "Plan.md",
+    "Untitled.md",
+    "Kuchnia/Alkohole/Dwójniak.md",
+    "VTM notes/Casimir Kierski/Kazimierz Kierski.md",
+    "Vaesen/Lugh.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Mortal/Defiance - Edal.md",
+    "Pracownia/Szkliwa.md",
+    "Skyrim Testnotes/Pasted image 20251110211805.png",
+    "Skyrim Testnotes/Bugs.md",
+    "Tale of The Last Cycle/Timeline/Age of Creation - Wildern & Beauty.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Wildern.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Mortal/Knowledge - Awen.md",
+    "Tale of The Last Cycle/Timeline/Age of Knowledge - Conflict and Empathy.md",
+    "Tale of The Last Cycle/Timeline/Beginning.md",
+    "Tale of The Last Cycle/Entities/Primevals/Grael.md",
+    "Tale of The Last Cycle/Entities/Primevals/Tuatha.md",
+    "Tale of The Last Cycle/Creation/Kin (Species & Races)/Aelf.md",
+    "Tale of The Last Cycle/Terminology & Dictionary/Name.md",
+    "Tale of The Last Cycle/Cosmology.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Empathy.md",
+    "Empathy.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Conflict.md",
+    "Fable World/Timeline/Untitled.md",
+    "Tale of The Last Cycle/Timeline/Age of Miracles - Life & Ambition.md",
+    "Tale of The Last Cycle/Creation/Kin (Species & Races)",
+    "Tale of The Last Cycle/Creation",
+    "Tale of The Last Cycle/Terminology & Dictionary",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Mortal",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael",
+    "Tale of The Last Cycle/Entities/Aspects",
+    "Tale of The Last Cycle/Entities/Primevals",
     "Fable World/Entities/Untitled.canvas",
     "Fable World/Timeline/Untitled.base",
-    "Fable World/Timeline",
+    "Tale of The Last Cycle/Timeline",
     "Athra/Cosmology/Cycle/Entities/Pic/Black Veil.png",
     "Athra/Cosmology/Cycle/Entities/Pic/Ishtar.png",
     "Athra/Cosmology/Cycle/Entities/Pic/Nameless.png",
@@ -351,7 +350,6 @@
     "Athra/World Information/Aspects/Pic/Aspect of Empathy.png",
     "Athra/World Information/Aspects/Pic/Oracle of Avia.png",
     "Athra/World Information/Aspects/Pic/Wildmother.png",
-    "Athra/World Information/Aspects/Pic/Pic.png",
-    "Athra/World Information/Aspects/Pic/Firebird.png"
+    "Athra/World Information/Aspects/Pic/Pic.png"
   ]
 }
