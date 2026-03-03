@@ -57,6 +57,8 @@ Taking on a mantle closest to remorse she could feel, duty, she took on a name [
 
 In her new form, she came to meet with her long nemesis, to create another thing together, this time knowingly. 
 
+
+
 ---
 
 ## Symbols & Associations
@@ -66,7 +68,7 @@ In her new form, she came to meet with her long nemesis, to create another thing
 - **Colors:** Pale grey, chalk white, black ink, the deep lightless green of things that grow without sun
 
 --- 
-##### Wordbuilding
+##### Word building
 > **Staroirlandzkie** imię bogini pomyślności i ziemi, często utożsamianej z "Matką Bogów".
 > 
 > > **Proto-Celtycki:** Wywodzi się z formy ***Anu**.  

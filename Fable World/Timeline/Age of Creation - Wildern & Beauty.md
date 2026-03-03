@@ -32,8 +32,6 @@ At the [[Age of Creation - Wildern & Beauty#End of an Era|End of an era]] both a
 #### Anu - Wildmother 
 ![[Wildern#The Harsh Lesson]]
 
-
-
 #### Danu 
 ![[Beauty#The Kind Lesson]]
 

@@ -41,7 +41,7 @@ It was enough that flames licked her cheek that she understood the plight of cre
 
 So it was that she took upon the strands of the two unmade children of [[Defiance - Edal|Edal]], [[Aelf#Tam-aelf|Tam]] following their foster creator south to a land where they waited, for the regrowth of [[Wildern]]. 
 
-There, when the two met together again did they weave together the strands of two children back onto forms. One became a [[Aelf#Mìn - Minaelf|Min]] and traveled north to record all the cruelty, and all the future of his people, and his [[Name]] was given by [[Wildern]]; 
+There, when the two met together again did they weave together the strands of two children back onto forms. One became a [[Aelf#Mìn - Minaelf|Min]] and traveled north to record all the cruelty, and all the future of his people, and his [[Name]] was given by [[Wildern]];  [[Knowledge - Awen|Awen]], **"He of the unbound wisdom"**.
 
 ## Symbols & Associations
 
@@ -53,7 +53,7 @@ There, when the two met together again did they weave together the strands of tw
 
 
 ---
-##### Wordbuilding
+##### Word building
 > **Irlandzkie** (Gaelickie) imię matki-bogini ludu _Tuatha Dé Danann_ („Ludzie bogini Danu”).
 > 
 > > **Proto-Celtycki:** Wywodzi się z formy ***Danu**.  
