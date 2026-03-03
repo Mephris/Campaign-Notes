@@ -61,26 +61,17 @@ In her new form, she came to meet with her long nemesis, to create another thing
 
 ## Symbols & Associations
 
-**Sacred Animal: The Owl**
+- **Symbol:** Owl, Sapling
 
-She watches from above in perfect darkness, seeing with cold clarity what others cannot. She does not descend. She does not touch. She only observes — and judges.
+- **Colors:** Pale grey, chalk white, black ink, the deep lightless green of things that grow without sun
 
-This was [[Wildern]]. [[Grael]]'s sight, wielded in [[Tuatha]]'s darkness.
+--- 
+##### Wordbuilding
+> **Staroirlandzkie** imię bogini pomyślności i ziemi, często utożsamianej z "Matką Bogów".
+> 
+> > **Proto-Celtycki:** Wywodzi się z formy ***Anu**.  
+> > **Proto-Indo-European (PIE) Core:** Pochodzi od rdzenia ***an-** („oddychać”, „duch”) lub ***nan-** (pieszczotliwe określenie matki).  
+> > **Original Meaning:** "Breath," "mother-earth," "spirit," or "sustenance."  
 
-When she regrew as the Wild Mother, she was still the owl. But an owl that had come down from the heights. That had landed. That had let something touch it.
 
-In older cosmological texts, [[Wildern]] is the owl **perched high and unreachable.** In shrines to the Wild Mother, the same owl sits **at eye level** — watching not from above, but alongside.
-
-Same creature. The posture tells you everything.
-
-**Colors:** Pale grey, chalk white, black ink, the deep lightless green of things that grow without sun
-
-**Images:** An owl in total darkness, the jagged pale loom, luminous flora beneath no sky, colorful clouds on a night sky, a river carrying ash
-### Relationships
-
-| Name                                | Relationship                                                                                                                                     |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Grael]]                           | Her creator. The Loom was built with Grael's blessing. She was Grael's most faithful expression — until Grael's own fabric was forced to change. |
-| [[Beauty\|Beauty]]        | Her opposite. Beauty's ink was everything she sought to wash away — and everything she eventually became.                                        |
-| [[Defiance - Edal\|Edal]] | Her killer. She shaped the tragedy that made him, and he ended her age for it.                                                                   |
-| [[Fable World/Entities/Aspects/Aspects of Grael/Conflict\|Firebird]]    | The owl died and became fire. What the fire took, it made into the sun. What the fire left behind became the mother of forests.                  |
+---

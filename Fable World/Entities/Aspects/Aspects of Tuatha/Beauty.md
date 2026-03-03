@@ -41,7 +41,24 @@ It was enough that flames licked her cheek that she understood the plight of cre
 
 So it was that she took upon the strands of the two unmade children of [[Defiance - Edal|Edal]], [[Aelf#Tam-aelf|Tam]] following their foster creator south to a land where they waited, for the regrowth of [[Wildern]]. 
 
-There, when the two met together again did they weave together the strands of two children back onto forms. One became a [[Aelf#Mìn - Minaelf|Min]] and traveled north to record all the cruelty, and all the future of his people, and his [[Name]] was given by [[Wildern]]...........
+There, when the two met together again did they weave together the strands of two children back onto forms. One became a [[Aelf#Mìn - Minaelf|Min]] and traveled north to record all the cruelty, and all the future of his people, and his [[Name]] was given by [[Wildern]]; 
+
+## Symbols & Associations
+
+| Symbol                | Reason & Use                                                                                                                                                           |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Faekin]] wing       | Created by her, its often used to symbolize freedom and among the courts all wings are used as her sigil, as [[Faekin]] all speak of wearing the sigil of their Queen. |
+| 3 Wings of [[Faekin]] | Used as symbol by Broken, 3 to symbolize [[Grael]] and Fae Wing for [[Beauty]]. Used by recovering addicts, traumatized people, etc. as marked blessing of Queen Danu  |
+| Scarification         | Burning pattern upon flesh is associated with planting a unforgettable lesson upon body.                                                                               |
+
 
 ---
+##### Wordbuilding
+> **Irlandzkie** (Gaelickie) imię matki-bogini ludu _Tuatha Dé Danann_ („Ludzie bogini Danu”).
+> 
+> > **Proto-Celtycki:** Wywodzi się z formy ***Danu**.  
+> > **Proto-Indo-European (PIE) Core:** Pochodzi od rdzenia ***dhen-** („biec”, „płynąć”) lub ***deynu-** („karmić”, „płynna”).  
+> > **Original Meaning:** "Flowing," "river," "giver," or "moisture."  
 
+
+---
