@@ -137,12 +137,6 @@ A child given a name. A child sent north to remember everything.
 > - Empathy learns to hold back, be there for the fall
 > - Second child strand — loose plot, possibly material for spirit world foundation
 
-
-
-
-
-
-# Notes
 Conflict and Empathy 
 
 Creation of an afterlife and conflict slowly kick-starting societies without thinking about it.
