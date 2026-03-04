@@ -1,3 +1,8 @@
+![[Conflict#Birth in Flames - Firebird]]
+
+![[Empathy#Birth in Horror]]
+
+
 Conflict and Empathy 
 
 Creation of an afterlife and conflict slowly kick-starting societies without thinking about it.

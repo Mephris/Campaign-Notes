@@ -12,8 +12,9 @@ The life and living world is like a river, and the spirit world is like a lake, 
 Vampires and Werewolfs live in two world at same time, Vampires having to watch out for spirit body and physical, while werewolfs separating into a beast in the spirit realm and human in the physical.
 
 ### Numerology - idea 
-1 - World
+1 - Mortal/World
 2 - Grael & Tuatha, Balance, Conversation
 3 - Grael, Stability, Knowledge 
 4 - Tuatha, Chaos
-5 - Nature: Wildern & Beauty
+5 - Creation: Wildern & Beauty
+6 - Knowledge: Conflict & Empathy

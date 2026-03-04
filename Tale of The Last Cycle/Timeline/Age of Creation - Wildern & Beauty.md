@@ -27,8 +27,9 @@ Spirit of the world burned, and his axe landed in the skull of [[Wildern|Wildern
 
 [[Defiance - Edal]] ended the Age of Life, making for mortals place equal to the aspects of body and soul, the [[Aspects of Mortal]]. 
 
-### Aftermath
+### Aftermath - Anu & Danu
 At the [[Age of Creation - Wildern & Beauty#End of an Era|End of an era]] both aspects have learned a lesson that forged their images in the far future. 
+
 #### Anu - Wildmother 
 ![[Wildern#The Harsh Lesson]]
 
