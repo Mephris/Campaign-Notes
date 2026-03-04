@@ -44,19 +44,12 @@ At the end, [[Wildern]] died.
 But can the symbol of nature ever stay dead while there is life? From the ashes of her body flew a brilliant Firebird, shining light upon the day as its sun. And in that light, her ashes fell south — taken by winds, carried by rivers, regrowing into a land of inky forests. Her body finding life once more.
 
 _For the full account, see [[Age of Creation - Wildern & Beauty]]._
-#### The Harsh Lesson
 
-[[Wildern]], the cold watcher, devoured by the flames of [[Defiance - Edal|Defiance]] fueled by her own cruelty. Fell onto ash, and this ash was carried onto rivers and winds lower, in the clouds of iridescent burnt ink that once flooded the world. 
+### Age of Knowledge
 
-In this unperfect & beautiful world, she regrew, onto a body of those she abandoned, [[Aelf#Tam-aelf|Tam]]. In this form she was met by her own creation, led by [[Beauty]], her own creation extending a hand to the newly regrown [[Wildern]]. One she would deem unworthy to even die on the loom. 
+![[Age of Knowledge - Conflict and Empathy#The Harsh Lesson — Wildern Anu]]
 
-Whose hand she took, in doing so, letting go of the She-owl that watched from unreachable heights. She learned stain was never the corruption upon her fabric, but meaning. 
-
-Taking on a mantle closest to remorse she could feel, duty, she took on a name [[Wildern#Nature|Wildmother]]
-
-In her new form, she came to meet with her long nemesis, to create another thing together, this time knowingly. 
-
-
+![[Age of Knowledge - Conflict and Empathy#The First Weaving — Wildern & Beauty]]
 
 ---
 

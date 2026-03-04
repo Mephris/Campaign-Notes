@@ -32,17 +32,10 @@ While being responsible for flooding the [[Age of Creation - Wildern & Beauty|Ag
 At the [[Age of Creation - Wildern & Beauty#End of an Era|End of Era]] she was severely burned during clash between [[Wildern]] and [[Defiance - Edal]], resulting in her learning empathy - to create for others rather then just herself. 
 
 _For the full account, see [[Age of Creation - Wildern & Beauty]]._
-### The Kind Lesson
-For all the crying [[Faekin]] do about [[Beauty]]'s burn appearance, in reality all left of the burn is a slight mark upon her cheek, engraved with a self given [[Name#The Naming of an Aspect Moral Reflection of an Aspect|name]]. 
 
-> "She whose face reflects the heart"
+![[Age of Knowledge - Conflict and Empathy#The Kind Lesson — Beauty Danu]]
 
-It was enough that flames licked her cheek that she understood the plight of creation. Seeing the dead lining the ground, her mind finally understanding the cruelty of first [[Aspect]]'s. 
-
-So it was that she took upon the strands of the two unmade children of [[Defiance - Edal|Edal]], [[Aelf#Tam-aelf|Tam]] following their foster creator south to a land where they waited, for the regrowth of [[Wildern]]. 
-
-There, when the two met together again did they weave together the strands of two children back onto forms. One became a [[Aelf#Mìn - Minaelf|Min]] and traveled north to record all the cruelty, and all the future of his people, and his [[Name]] was given by [[Wildern]];  [[Knowledge - Awen|Awen]], **"He of the unbound wisdom"**.
-
+![[Age of Knowledge - Conflict and Empathy#The First Weaving — Wildern & Beauty]]
 ## Symbols & Associations
 
 | Symbol                | Reason & Use                                                                                                                                                           |
