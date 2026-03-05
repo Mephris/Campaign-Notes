@@ -105,9 +105,19 @@ Mortal spirits cried once more. Sleep was nothing but darkness, and so did [[Emp
 Tired, [[Empathy]] sat in his Spirit World and saw his creation was a peaceful home for those who before had nothing but dispersing into the endless [[Tuatha]]. Spirits roaming the world. Dreamers walking the plain alongside them.
 
 Mortal spirits cried once more — they were hungry. And dreamers were numerous like hares.
-#### Beauty Recedes
+#### Danu recedes to spirit world 
 
 > _Beauty moves into the spirit world — not retreating, returning. She does for the spirit world what she did for the physical one. Plants beauty in it, gives it nuance and color and meaning. She learned from Empathy what it means to create for others rather than herself. So she does. This is her quiet age._
+
+At the moment they made [[Knowledge - Awen]], she looked at [[Wildern|Anu]]'s smiling face, and felt peace for the first time. 
+
+Then like a thunderous call, the night black shifted. Sea of serpent-like strands flowing on formless winds, gathering, breaking and catching hold onto each other. Another has called forth [[Primeval]]. 
+
+[[Wildern|Anu]] looked up in fear, for another began making her mistake. Seeing this [[Beauty|Danu]] extended her wings forth, playfully throwing a droplet of ink upon [[Wildern]] body — gifting back what she once abandoned, before flying upwards towards the forth called [[Primeval]]'s might. 
+
+Her [[Faekin]] followed, and so did Danu and her folk land for the first time upon the spirit world, thousand of small lights upon the night skies. Looking for the [[Aspect]] of [[Empathy]]. 
+
+
 
 #### Conflict's Burns Out
 
