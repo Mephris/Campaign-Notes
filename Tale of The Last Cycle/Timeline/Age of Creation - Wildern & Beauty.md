@@ -17,6 +17,24 @@ As time flew, the hero grew, gaining titles and stories, and both centerpieces o
 
 So did [[Wildern|Wildern]] see the two most pure forms and take them, to strip out of them perfectly pure strands. His children taken, he lamented at the body of his love, before grabbing a horn of her true form, sharper then any of the swords of today, and a torch of the silvery fireplace. A loom would burn, and so would the cruel world. 
 
+> [!NOTE] Tamaelf & The Wildmother
+> 
+> The [[Aelf#Tam-aelf|Tam]] were never meant to exist.
+> 
+> Born of root and discarded ink — the waste of [[Wildern]]'s loom work — they were accidents she refused to claim. She made beasts to unmake them. Animals that devoured their plant-flesh, gnawed their black bark, drank their sap. A quiet erasure of something she could not define as hers.
+> 
+> [[Beauty]] claimed them instead, folding them into her [[Faekin]].
+> 
+> The beasts made to destroy them did not disappear — they became something else. Turned by [[Beauty]]'s hand into the first [[Aelf#Mìn - Minaelf|Min]] & [[Aelf#Mòr - Móraelf|Mór]].
+> 
+> When [[Wildern]] died and her ashes were carried south by rivers and wind, they found her. The nature she had made guided her home — down into the inky forests, into a newborn [[Aelf#Tam-aelf|Tam]] vessel. She woke among the very creatures she had tried to erase.
+> 
+> They extended their hand anyway.
+> 
+> She could not feel remorse. But she could feel duty. She took them back — back into her [[Aelf]], back into her creation, back into her care. Of all she had ever made or unmade, they became the closest to her heart.
+> 
+> _For the full account of her rebirth, see [[Wildern#The Harsh Lesson]]_
+
 ### End of an Era
 
 There at the Ichory Loom, Aspects of [[Grael]] & [[Tuatha]] met, arguing the silvery strand from children bodies. Before like thunder, the jagged form fell, cut down by the [[Defiance - Edal|furious father]], confronting the [[Aspect]]'s before him and he saw the strand of his now dead children. 

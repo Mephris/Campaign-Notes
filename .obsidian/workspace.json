@@ -28,15 +28,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tale of The Last Cycle/Cosmology.md",
+                "file": "Tale of The Last Cycle/Timeline/Age of Creation - Wildern & Beauty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cosmology"
+              "title": "Age of Creation - Wildern & Beauty"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c8e877fa0d492e59",
@@ -131,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -289,22 +290,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f81e910d8bc85b07",
+  "active": "2226ec5599c841a7",
   "lastOpenFiles": [
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Empathy.md",
+    "Tale of The Last Cycle/Timeline/Age of Creation - Wildern & Beauty.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Wildern.md",
+    "Tale of The Last Cycle/Cosmology.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Beauty.md",
     "Tale of The Last Cycle/Timeline/Age of Knowledge - Conflict and Empathy.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Empathy.md",
     "Tale of The Last Cycle/Creation/Afterlife/Death of Soul - Sleep.md",
     "Tale of The Last Cycle/Creation/Afterlife/Death of Body - Passing.md",
-    "Tale of The Last Cycle/Cosmology.md",
-    "Tale of The Last Cycle/Timeline/Age of Creation - Wildern & Beauty.md",
     "Tale of The Last Cycle/Creation/Afterlife/Spirit World.md",
     "Tale of The Last Cycle/Creation/Afterlife/Nameless.md",
     "Tale of The Last Cycle/Research - Fable.md",
     "Tale of The Last Cycle/Creation/Afterlife",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Conflict.md",
     "Conflict.png",
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Wildern.md",
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Beauty.md",
     "Tale of The Last Cycle/Entities/Primevals/Tuatha.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Mortal/Knowledge - Awen.md",
     "Tale of The Last Cycle/Entities/Primevals/Grael.md",

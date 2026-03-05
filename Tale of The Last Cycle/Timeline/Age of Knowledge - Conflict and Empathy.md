@@ -72,8 +72,6 @@ There, when the two met again, did they weave together the strands of the one of
 The first thing order and stain had ever made knowingly, together. Not a world built in opposition. Not a creation one imposed upon the other.
 
 A child given a name. A child sent north to remember everything.
-
----
 ### Flourishing of an Age
 
 #### Empathy Bleeds Out
@@ -96,15 +94,18 @@ There among the darkness of the newly created Spirit World, its creator — [[Em
 
 So did they walk the [[Nameless]] world, and its friend — [[Empathy]]. Wherever they went, the souls fell upwards onto the skyward world of spirits, creating the [[Death of Body - Passing]].
 
-Mortal spirits cried onto their new home, for they were cold. So did [[Empathy]] take his own coat and rip it apart, throwing it onto the spirit world — and so did spirits live in warmth.
+Mortal [[Spirits]] cried onto their new home, for they were cold. So did [[Empathy]] take his own coat and rip it apart, throwing it onto the spirit world — and so did spirits live in warmth.
 
-Mortal spirits cried once more, for they were formless lights. So did [[Empathy]] take a fistful of his own flesh and throw it onto the [[Nameless]] — and so did spirits take forms and could move upon the ground.
+Mortal [[Spirits]] cried once more, for they were formless lights. So did [[Empathy]] take a fistful of his own flesh and throw it onto the [[Nameless]] — and so did spirits take forms and could move upon the ground.
 
-Mortal spirits cried once more. Sleep was nothing but darkness, and so did [[Empathy]] reach into the living world — taking the spirits from their vessels as they slumbered, letting them dive onto the Spirit World. So that when they sleep they might roam another world, and their soul be cleansed in death of burdens, ready for another day. So was the [[Death of Soul - Sleep]] — made.
+Mortal [[Spirits]] cried once more. Sleep was nothing but darkness, and so did [[Empathy]] reach into the living world — taking the spirits from their vessels as they slumbered, letting them dive onto the Spirit World. So that when they sleep they might roam another world, and their soul be cleansed in death of burdens, ready for another day. So was the [[Death of Soul - Sleep]] — made.
 
 Tired, [[Empathy]] sat in his Spirit World and saw his creation was a peaceful home for those who before had nothing but dispersing into the endless [[Tuatha]]. Spirits roaming the world. Dreamers walking the plain alongside them.
 
-Mortal spirits cried once more — they were hungry. And dreamers were numerous like hares.
+Mortal [[Spirits]] cried once more — they were hungry. And dreamers were numerous like hares.
+
+### Twilight of an Age
+
 #### Danu recedes to spirit world 
 
 > _Beauty moves into the spirit world — not retreating, returning. She does for the spirit world what she did for the physical one. Plants beauty in it, gives it nuance and color and meaning. She learned from Empathy what it means to create for others rather than herself. So she does. This is her quiet age._
@@ -115,9 +116,29 @@ Then like a thunderous call, the night black shifted. Sea of serpent-like strand
 
 [[Wildern|Anu]] looked up in fear, for another began making her mistake. Seeing this [[Beauty|Danu]] extended her wings forth, playfully throwing a droplet of ink upon [[Wildern]] body — gifting back what she once abandoned, before flying upwards towards the forth called [[Primeval]]'s might. 
 
-Her [[Faekin]] followed, and so did Danu and her folk land for the first time upon the spirit world, thousand of small lights upon the night skies. Looking for the [[Aspect]] of [[Empathy]]. 
+Her [[Faekin]] followed, and so did Danu and her folk land for the first time upon the spirit world, thousand of small lights upon the night skies. Looking for the [[Aspect]] of [[Empathy]]. She traveled [[Nameless]] [[Spirit World]], and it fought them on every step. 
 
+For countless years they roamed, in darkness. 
 
+Among the spirit's, [[Faekin]] joined the cry, for they were cold. So did [[Beauty|Danu]] turn to them and sing forth strands of luminous strands and told them to weave themselves clothes. 
+
+And for countless decades they roamed, in darkness. 
+
+Among the spirit's, [[Faekin]] joined the cry, for they seen spirits take on numerous forms, hence [[Beauty|Danu]] taught them a song to change their forms. 
+
+And for countless centuries they roamed, in darkness. 
+
+Among the spirit's [[Faekin]] joined the cry, for they were still living, they wished to dream like the living do. So did [[Beauty|Danu]] raise her hand and throw those [[Faekin]] that wished to dream down back to the mortal world. 
+
+Finally, upon the reformed world she found him, and she had no one she wanted to see so she seen his true form. So came forth to him with pity, collapsed on his knees, he seen his [[Spirits]] hunt and protect, eat and befriend mortal souls. [[Empathy]] cried to the spirits, to save the dreamers, but he was stopped, with a tight grip of [[Beauty|Danu]]. 
+
+*"Let them, that is how thoughtless gifts are poison, for naught is quiet sacrifice but poison sweetened by purpose"*
+
+So did [[Empathy]] look back. 
+
+Countless flickering lights of colorful spirits moved before him — a [[Faekin]] court roaming the dark. And at the heart of it, horizon-black locks upon the ground waving like grass on wind, bound to a feminine figure clad in dress of nightsky; he so wished to make. Looking into her glassy black eyes he saw a reflection unbound by blessing of shifting form, his true form, and he shivered in horror stepping back. Seeing one who he wanted to help the most now, himself, for naught were his gifts but self-poisoning without a firm border of where to stop. 
+
+In this, [[Ambition]] was born, and [[Empathy]] learned his heart is a blade of a healer, so easily used to cut himself, so hard to use to save another.
 
 #### Conflict's Burns Out
 

@@ -36,6 +36,8 @@ _For the full account, see [[Age of Creation - Wildern & Beauty]]._
 ![[Age of Knowledge - Conflict and Empathy#The Kind Lesson — Beauty Danu]]
 
 ![[Age of Knowledge - Conflict and Empathy#The First Weaving — Wildern & Beauty]]
+
+![[Age of Knowledge - Conflict and Empathy#Danu recedes to spirit world]]
 ## Symbols & Associations
 
 | Symbol                | Reason & Use                                                                                                                                                           |

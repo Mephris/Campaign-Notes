@@ -30,12 +30,23 @@ After the beginning of the [[Age of Creation - Wildern & Beauty|Age of Creation]
 
 Seeing her creation defiled, she traveled to where the ink flooded the least — the peak of the world, the cradle where both Aspects of the age were born. There she tried to cleanse her creation back to the pure logic it had been at the beginning.
 
-> [!NOTE] Tamaelf Accident & The Wildmother
-> [[Aelf#Tam-aelf|Tam]] were creatures born of root and discarded ink, accidental creations of Wildern.
-> So it was that she abandoned them, trying to remove them akin to stain upon her world, making animals that devoured their plant-flesh, gnawed at their black barks and drank their sap. However among all this [[Beauty]] came and accepted them into her [[Faekin]]. 
-> Later same creatures made to remove [[Aelf#Tam-aelf|Tam]] were turned into [[Aelf#Mìn - Minaelf|Min]] & [[Aelf#Mòr - Móraelf|Mór]]. 
-> After the [[Age of Creation - Wildern & Beauty#End of an Era|End of an Era]], [[Wildern]] owl body died, and she found her own ashes guided by nature she made down the river, until she regrew onto a newborn [[Aelf#Tam-aelf|Tamaelf]] vessel.
-> Receiving kindness from the creatures she tried to remove, she felt the closest thing she could to remorse, duty. Taking them back onto her [[Aelf]] creation, ever since they were her closest most beloved creation. 
+> [!NOTE] Tamaelf & The Wildmother
+> 
+> The [[Aelf#Tam-aelf|Tam]] were never meant to exist.
+> 
+> Born of root and discarded ink — the waste of [[Wildern]]'s loom work — they were accidents she refused to claim. She made beasts to unmake them. Animals that devoured their plant-flesh, gnawed their black bark, drank their sap. A quiet erasure of something she could not define as hers.
+> 
+> [[Beauty]] claimed them instead, folding them into her [[Faekin]].
+> 
+> The beasts made to destroy them did not disappear — they became something else. Turned by [[Beauty]]'s hand into the first [[Aelf#Mìn - Minaelf|Min]] & [[Aelf#Mòr - Móraelf|Mór]].
+> 
+> When [[Wildern]] died and her ashes were carried south by rivers and wind, they found her. The nature she had made guided her home — down into the inky forests, into a newborn [[Aelf#Tam-aelf|Tam]] vessel. She woke among the very creatures she had tried to erase.
+> 
+> They extended their hand anyway.
+> 
+> She could not feel remorse. But she could feel duty. She took them back — back into her [[Aelf]], back into her creation, back into her care. Of all she had ever made or unmade, they became the closest to her heart.
+> 
+> _For the full account of her rebirth, see [[Wildern#The Harsh Lesson]]_
 
 Her cruelty resulted in a harsh lesson. Her coldness, in a harsher one. Her most pure creation rose against her after she kidnapped his children and unfurled them on the loom.
 
