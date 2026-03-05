@@ -2,7 +2,7 @@ A [[Name]] is a fundamental "Definition" that is written upon a mortal's [[Grael
 
 While mortal culture picked up the culture of Naming, the gift of a name etched upon reality may only be given by an [[Aspect]]. Such a name is often considered a crowning of a mortal to be the champion or a spokesperson of an [[Aspect]]. 
 
-- **Mark upon Substance** Names gifted by the [[Aspect|Aspects]] of [[Grael]] are etched into the physical vessel as birthmarks, bone-deep sigils, marks upon eyes or a glow within them. Those lose their effect whenever mortal [[Death of Body|dies]] or their soul is not in their grael/body. 
+- **Mark upon Substance** Names gifted by the [[Aspect|Aspects]] of [[Grael]] are etched into the physical vessel as birthmarks, bone-deep sigils, marks upon eyes or a glow within them. Those lose their effect whenever mortal [[Death of Body - Passing|dies]] or their soul is not in their grael/body. 
 - **Mark upon Stain** Names gifted by the [[Aspect|Aspects]] of [[Tuatha]] are etched into the [[Tuatha|stain layer of the soul]]. Those remain invisible in the waking world but burn brightly in the [[Spirit World]] of [[Empathy|sleep & death]]
 #### Traits of a Name
 - **Dormancy** A [[Name]] carries no inherent "presence" or aura other then the Mark. A Named individual may walk among others unnoticed, their power dormant within a mundane shell. Often Named individuals carry presences that can be noticed but this comes simply from their actions and achievements rather then inherent nature of the blessing. 

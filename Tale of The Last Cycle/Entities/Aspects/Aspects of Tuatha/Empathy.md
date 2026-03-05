@@ -5,4 +5,4 @@
 
 ![[Age of Knowledge - Conflict and Empathy#Birth in Horror - Empathy]]
 
-
+![[Age of Knowledge - Conflict and Empathy#Empathy Bleeds Out]]

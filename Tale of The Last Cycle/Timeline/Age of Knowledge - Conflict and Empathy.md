@@ -1,5 +1,9 @@
 ### The Dawn of an Era
 #### Birth in Flames - Firebird
+---
+> _Conflict on fiery wings moves through the mortal world. No plan, no perspective - just motion. She burns instinct into creatures and watches as the first sparks of society form without her intending it. She's all passion here, akin to Tuatha. She doesn't think about what she's starting. She just burns._
+---
+
 As the last breath of [[Wildern]] was taken from the She-Owl's lungs, her feathers took flame and so did they spread through all the [[Grael]]. In this moment all creation slowly burned from within, and in the same moment as it all knew pain — she was formed. The Firebird, the lady of suffering and growth.
 
 On fiery wings she rose up onto the skies, flying across all creation. Devouring all flame onto her large form. Her body forming into a great ball of flames in the sky above.
@@ -7,8 +11,13 @@ On fiery wings she rose up onto the skies, flying across all creation. Devouring
 In this moment she saw mortals spread from the flooded ink, creatures of all kind and size — but they were lone. Unlike the cradle where tribes had pained themselves into being, those emerging from the flood did not reach toward each other. Did not push. Did not clash. They simply existed, and existing was not enough.
 
 So did she burn into their fabric the one thing she knew — motion. Not a reason. Not a destination. Just the fire that makes a creature turn toward another, toward the next day, toward anything at all. The refusal to be still.
+
 #### Birth in Horror - Empathy
-As the fiery tongue of the tamwood torch licked the cheek of [[Beauty]], [[Tuatha]] — the endless undefined — stirred, responding to the emotion of the end. The great empathy she felt toward the mortal creatures. So from the burnt ink cloud formed a creature, that landed before [[Beauty]].
+---
+> _Empathy looks up at the naked dark night sky, holding Edal's strand - the silvery grief of the cradle ripped from the world. He realizes the Moon, the grave of Edal, can serve as anchor for something larger. The idea of the spirit world is born here. Brief, wonder-filled. He doesn't know what he's building yet, just that the dead deserve somewhere to go._
+---
+
+As the fiery tongue of the Tam-wood torch licked the cheek of [[Beauty]], [[Tuatha]] — the endless undefined — stirred, responding to the emotion of the end. The great empathy she felt toward the mortal creatures. So from the burnt ink cloud formed a creature, that landed before [[Beauty]].
 
 His form was shifting, undefined as [[Tuatha]] herself. His image dictated not by his shape, but by the face the onlooker most yearned to find. Obscure, he lowered himself onto a knee to touch upon [[Beauty]]'s cheek — standing before her, the consolation. Her successor.
 
@@ -64,38 +73,57 @@ The first thing order and stain had ever made knowingly, together. Not a world b
 
 A child given a name. A child sent north to remember everything.
 
-# Draft
-### Beginning of an Era — The First Light and the First Dark
+---
+### Flourishing of an Age
 
-#### The Moon as Anchor
-
-> _Empathy looks up at the naked dark night sky, holding Edal's strand — the silvery grief of the cradle ripped from the world. He realizes the Moon, the grave of Edal, can serve as anchor for something larger. The idea of the spirit world is born here. Brief, wonder-filled. He doesn't know what he's building yet, just that the dead deserve somewhere to go._
-
-#### The Second Child — [[Unknown]]
-
-> _The second strand taken from the loom's unmade children. Placeholder — will tie into the material or foundation of the spirit world in some way. To be decided._
-
-#### Conflict Burns
-
-> _Conflict on fiery wings moves through the mortal world. No plan, no perspective — just motion. She burns instinct into creatures and watches as the first sparks of society form without her intending it. She's all passion here, akin to Tuatha. She doesn't think about what she's starting. She just burns._
-
+#### Empathy Bleeds Out
+---
+> _Empathy gives everything. Takes every soul, holds every grief, builds the spirit world piece by piece. But mortals keep dying, their children don't remember the gifts, and so he gives more. And more. It never feels like enough. He is doing good and it is making him hollow._
+> *The answer, he decided, was not to give less. It was to build better.*
 ---
 
-### Middle of an Era — Vanity of Good Intentions
+Seeing the silvery disk upon the skies, he climbed the highest peaks and jumped — falling upwards onto its surface, grasping the thread in his hand.
 
-#### Empathy Bleeds
+There in the grave of the First Age, he gripped tight onto the pure white thread and set out to the edge of the cleaved disk. Falling on his knees, he raised the thread of pure white and with a soft smile called upon the [[Primeval]], [[Tuatha]].
 
-> _Empathy gives everything. Takes every soul, holds every grief, builds the spirit world piece by piece. But mortals keep dying, their children don't remember the gifts, and so he gives more. And more. It never feels like enough. He is doing good and it is making him hollow._
+Darkness descended like a storm, snagging at his robe — all the failures, all the possibilities, amongst them a single glitter of light. The only foundation. The only thread to grasp upon. In gripping tightly he held the unmade child to his chest, and spoke.
 
+_"You unborn one, my lone companion, I offer thee onto the void to form a respite of [[Nameless]]."_
+
+So it was — the thread snagged by the inks, forming and unforming, let out onto the void and blown by the dark winds of [[Tuatha]]. In this sight [[Empathy]] took a step forward onto the void. His feet stood on the dead living world, empty of all but a strand of matter — just enough to anchor the endlessness of [[Tuatha]] onto a land.
+
+There among the darkness of the newly created Spirit World, its creator — [[Empathy|Death]] — began their work. To give their everything, in order to save all the mortal souls.
+
+So did they walk the [[Nameless]] world, and its friend — [[Empathy]]. Wherever they went, the souls fell upwards onto the skyward world of spirits, creating the [[Death of Body - Passing]].
+
+Mortal spirits cried onto their new home, for they were cold. So did [[Empathy]] take his own coat and rip it apart, throwing it onto the spirit world — and so did spirits live in warmth.
+
+Mortal spirits cried once more, for they were formless lights. So did [[Empathy]] take a fistful of his own flesh and throw it onto the [[Nameless]] — and so did spirits take forms and could move upon the ground.
+
+Mortal spirits cried once more. Sleep was nothing but darkness, and so did [[Empathy]] reach into the living world — taking the spirits from their vessels as they slumbered, letting them dive onto the Spirit World. So that when they sleep they might roam another world, and their soul be cleansed in death of burdens, ready for another day. So was the [[Death of Soul - Sleep]] — made.
+
+Tired, [[Empathy]] sat in his Spirit World and saw his creation was a peaceful home for those who before had nothing but dispersing into the endless [[Tuatha]]. Spirits roaming the world. Dreamers walking the plain alongside them.
+
+Mortal spirits cried once more — they were hungry. And dreamers were numerous like hares.
 #### Beauty Recedes
 
 > _Beauty moves into the spirit world — not retreating, returning. She does for the spirit world what she did for the physical one. Plants beauty in it, gives it nuance and color and meaning. She learned from Empathy what it means to create for others rather than herself. So she does. This is her quiet age._
 
-#### Conflict's Shallow War
+#### Conflict's Burns Out
 
 > _Conflict pushes and pushes. Societies form, clash, burn, reform. She sees it as her work and is proud of it. But there is no point to unplanned conflict — it is vain and cruel in its passion. She doesn't see this yet. She is all present tense, no future._
 
+
+# Draft
+### Beginning of an Era — The First Light and the First Dark
+
+#### The Second Child - lose plot 
+
+> _The second strand taken from the loom's unmade children. Placeholder — will tie into the material or foundation of the spirit world in some way. To be decided._
+
 ---
+
+
 
 ### End of an Era — Perspective
 
