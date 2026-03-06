@@ -145,17 +145,6 @@ There did she wait, for a reason to bring dawn once more, as she saw that no fla
 
 
 
-
-
-
-
-
-
-seeing the pain she sown onto the world with each ray, 
-
-
-
-Until one moment where she stumbled, and so did she slip from the Azure Dress of [[Grael]], her flames as each night came dying out and the silvery light of [[Defiance - Edal|Defiance]] touching her cheek, but it was not violent flames, not wrathful and scary, but soft and resting, and she defeated her fear of the night and stared at it shortly, before once more 
 ##### BP for Conflict Settles 
 ---
 > _For centuries she flew. For decades she flew. For years she flew._
