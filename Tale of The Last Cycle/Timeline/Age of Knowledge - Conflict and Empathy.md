@@ -117,7 +117,6 @@ So did the young fiery spirit walk the world, running evermore from the dreadful
 So during one night she stumbled, falling upon one of the peaks, and saw the night coming — the wrathful silvery light that fueled her kindling. With a glimpse of silver in her ember eyes she fled forward. Its light present at the back of her mind.
 
 ---
-
 For decades she flew — and from the dancing flames did sparks fall upon the coals of forming societies.
 
 [[Conflict]]'s gaze fell upon the fields of wheat. In the warm light mortals sweated and toiled, a child carrying a bucket of water to wash away the heat of her rays.
@@ -133,7 +132,6 @@ She stayed a moment longer than she needed to.
 She rose again before it could trouble her.
 
 ---
-
 For years she flew — and from the raging flames upon the world she felt heat burning hotter than her own.
 
 Flames flickering at each sound, so did she travel and saw the pain her rays had sown onto the world. Mortal souls burning up with passions and her gifts. Her legs led her through the beaten path, through the once golden fields now lined with ash, spreading up to the city of stone — and there did the Firebird freeze.
