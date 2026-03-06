@@ -104,6 +104,71 @@ Tired, [[Empathy]] sat in his Spirit World and saw his creation was a peaceful h
 
 Mortal [[Spirits]] cried once more — they were hungry. And dreamers were numerous like hares.
 
+#### Conflict Settles
+
+> _"For centuries I flew, until my wings broke for a moment. For decades I flew, tired and enamored by the night. For years I flew, questioned... the point of it all."_
+
+For centuries she flew — and from the flickering flames did embers settle upon mortal hearts.
+
+As she traveled she saw people turn to each other. There was suffering, there was peace, and after some were burned by the sparks of that passion — there was healing. Regrowth, one would say.
+
+So did the young fiery spirit walk the world, running evermore from the dreadful silvery light her fear remembered for her. In those flickering sparks — interacting, fighting, resting — she did not see it yet, but the immortal firebird that rekindled the life of the world upon each dawn, healed.
+
+So during one night she stumbled, falling upon one of the peaks, and saw the night coming — the wrathful silvery light that fueled her kindling. With a glimpse of silver in her ember eyes she fled forward. Its light present at the back of her mind.
+
+---
+
+For decades she flew — and from the dancing flames did sparks fall upon the coals of forming societies.
+
+[[Conflict]]'s gaze fell upon the fields of wheat. In the warm light mortals sweated and toiled, a child carrying a bucket of water to wash away the heat of her rays.
+
+The grains of wheat broken by the miller's stone into fine white powder. Her feet led her further, through cities of stone and wood that in the wake of her fiery mantle took flame with passion — and as she traveled further still, the miller's fine powder drank red in the ichor of war.
+
+Further did she come through an ashen wasteland of bodies. Looking upon it she smiled sadly — for among the corpses did two people stand fighting still. Upon their hearts she blew love, and passed them by with a soft smile. For she believed, in all the blood and ash, there would be healing.
+
+At twilight she looked up — not back. Above her, shifting dark colors caught the light of the silvery moon, black ink strands slow and restless across the sky. The night as it had always been. She had never looked at it long enough to learn its shape.
+
+She rose again before it could trouble her.
+
+---
+
+For years she flew — and from the raging flames upon the world she felt heat burning hotter than her own.
+
+Flames flickering at each sound, so did she travel and saw the pain her rays had sown onto the world. Mortal souls burning up with passions and her gifts. Her legs led her through the beaten path, through the once golden fields now lined with ash, spreading up to the city of stone — and there did the Firebird freeze.
+
+Flames flickering, her embrace was placed upon a broken spear, for the world around her had enough of flame, and saplings of healing were all ash before growth. The passions she had given so readily turned to rage, hate, lust — but she continued.
+
+Her eyes growing weary with tears of red rocks, so did one night, among the ashes of her settled flames, she look upon the fiery world burning in the flames of war. There did she cry, for a reason — looking up to the skies of shifting black strands and the disc of the one she had always been so afraid of.
+
+There did she wait, for a reason to bring dawn once more, as she saw that no flame can be settled with more flame.
+
+
+
+
+
+
+
+
+
+
+seeing the pain she sown onto the world with each ray, 
+
+
+
+Until one moment where she stumbled, and so did she slip from the Azure Dress of [[Grael]], her flames as each night came dying out and the silvery light of [[Defiance - Edal|Defiance]] touching her cheek, but it was not violent flames, not wrathful and scary, but soft and resting, and she defeated her fear of the night and stared at it shortly, before once more 
+##### BP for Conflict Settles 
+---
+> _For centuries she flew. For decades she flew. For years she flew._
+> 
+> _Each time she touched the world it burned hotter. Societies formed, clashed, collapsed, reformed. She saw her work in all of it and did not look back long enough to see what it cost._
+> 
+> _But something changed slowly, the way embers change — not all at once. Between the burning she began to watch. Between the diving she began to wait. The fire was still there, always there, but for the first time she let it pause before feeding it._
+> 
+> _Each night she shed her flames on the high peak and glimpsed the night sky. First a glance. Then a smile. Then she stayed a little longer._
+> 
+> _Until the night Danu sang beauty into the Nameless and the sky blazed full for the first time — and Conflict, ash and ember on the high peak, did not rise again._
+---
+
 ### Twilight of an Age
 
 #### Danu recedes to spirit world 
@@ -140,36 +205,27 @@ Countless flickering lights of colorful spirits moved before him — a [[Faekin]
 
 In this, [[Ambition]] was born, and [[Empathy]] learned his heart is a blade of a healer, so easily used to cut himself, so hard to use to save another.
 
-#### Conflict's Burns Out
+#### Perspective of Conflict 
 
-> _Conflict pushes and pushes. Societies form, clash, burn, reform. She sees it as her work and is proud of it. But there is no point to unplanned conflict — it is vain and cruel in its passion. She doesn't see this yet. She is all present tense, no future._
-
-
-# Draft
-### Beginning of an Era — The First Light and the First Dark
-
-#### The Second Child - lose plot 
-
-> _The second strand taken from the loom's unmade children. Placeholder — will tie into the material or foundation of the spirit world in some way. To be decided._
+#### The Talk of Ash & Age
 
 ---
+> _Conflict, settled in her ash form on the high peak, sees the night sky blaze with beauty for the first time — Danu's work spreading across the Nameless. She has been watching that sky for centuries, glimpsing it, glancing at it. Now she cannot look away._
+> 
+> _Awen finds her there. Two tired things at the end of long journeys — her age of mindless burning, his mortal life of recording all of it. He has watched her from the ground the whole time. He knows the shape of what she made better than she does._
+> 
+> _No grand lesson. Just a old Min sitting beside a cooling firebird under a newly beautiful sky, and her finally looking back at everything she has left behind her — and seeing not ruin, but Life._
+> 
+> _Conflict learns to plan. To look back before burning forward. Life is born._
+> 
+> _Awen does not come down from the peak. He becomes [[Aspect of Knowledge]]._
+---
 
-
-
-### End of an Era — Perspective
-
-#### Awen, Son of Edal
-
-> _A thousand years have passed. Awen — the first intentional child of Wildern and Beauty, born of order and stain reconciled, given his name by Wildern herself — is old and dying. He has lived a full mortal life through the entire age. Watched Conflict and Empathy fumble. Understood things neither of them could, because he was mortal, because he remembered, because he was made to._
-
-#### The Question
-
-> _Conflict and Empathy come to him separately or together — to be decided — and ask why nothing is working. Why does it feel vain. Why is it not enough. He teaches them perspective. What it means to see beyond the burning now. What it means to understand that you will not be there for the end of what you start._
+### Aftermath
 
 #### Life is Born
 
 > _Conflict sees all her actions were simply part of something larger — not war, not clash, but Life itself. The full arc of struggle and growth and continuation. Life is born from this understanding. Conflict learns to plan, to go back and regroup, to see the shape of things._
-
 #### Ambition is Born
 
 > _Empathy sees that all he gave would never be enough — not because he failed, but because mortal ambition knows no bounds. It was never his to fill. Ambition is born from this understanding. Empathy learns to hold back, to let conflict run its course, and to be there when things fall._
@@ -178,9 +234,17 @@ In this, [[Ambition]] was born, and [[Empathy]] learned his heart is a blade of 
 
 > _In the last breath of his mortal life, Awen becomes the Aspect of Knowledge. Son of Edal, first child of reconciled order and stain, he who lived long enough to understand what neither an Aspect nor a mortal alone could see. The age ends with him._
 
----
+
 
 # Notes
+
+##### Awen, Son of Edal
+
+> _A thousand years have passed. Awen — the first intentional child of Wildern and Beauty, born of order and stain reconciled, given his name by Wildern herself — is old and dying. He has lived a full mortal life through the entire age. Watched Conflict and Empathy fumble. Understood things neither of them could, because he was mortal, because he remembered, because he was made to._
+##### The Question
+
+> _Conflict and Empathy come to him separately or together — to be decided — and ask why nothing is working. Why does it feel vain. Why is it not enough. He teaches them perspective. What it means to see beyond the burning now. What it means to understand that you will not be there for the end of what you start._
+
 
 > _Raw plot notes — to be woven in during rewrite_
 > 

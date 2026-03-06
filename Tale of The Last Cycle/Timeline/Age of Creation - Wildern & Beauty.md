@@ -47,13 +47,6 @@ Spirit of the world burned, and his axe landed in the skull of [[Wildern|Wildern
 
 ### Aftermath - Anu & Danu
 At the [[Age of Creation - Wildern & Beauty#End of an Era|End of an era]] both aspects have learned a lesson that forged their images in the far future. 
-
-#### Anu - Wildmother 
-![[Wildern#The Harsh Lesson]]
-
-#### Danu 
-![[Beauty#The Kind Lesson]]
-
 ### Edal
 ![[Defiance - Edal#Death]]
 

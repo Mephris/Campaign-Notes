@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e316efe813ba352",
+        "id": "bfb97cc3a90f2200",
         "type": "tabs",
-        "dimension": 50.90283748925194,
         "children": [
           {
-            "id": "f81e910d8bc85b07",
+            "id": "2226ec5599c841a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,28 +20,12 @@
               "icon": "lucide-file",
               "title": "Age of Knowledge - Conflict and Empathy"
             }
-          },
-          {
-            "id": "539e46fa9fa3675f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tale of The Last Cycle/Timeline/Age of Creation - Wildern & Beauty.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Age of Creation - Wildern & Beauty"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c8e877fa0d492e59",
         "type": "tabs",
-        "dimension": 49.09716251074806,
         "children": [
           {
             "id": "c69e35f046ba6587",
@@ -90,20 +73,6 @@
             }
           },
           {
-            "id": "2226ec5599c841a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Wildern.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wildern"
-            }
-          },
-          {
             "id": "86537bc68f0616b3",
             "type": "leaf",
             "state": {
@@ -132,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Athra/World Information/Carnelian Phenix.md",
+                "file": "Tale of The Last Cycle/Timeline/Age of Knowledge - Conflict and Empathy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Carnelian Phenix"
+              "title": "Outline of Age of Knowledge - Conflict and Empathy"
             }
           },
           {
@@ -276,7 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,21 +259,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2226ec5599c841a7",
+  "active": "436996975366e9c4",
   "lastOpenFiles": [
-    "Tale of The Last Cycle/Timeline/Age of Creation - Wildern & Beauty.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Conflict.md",
+    "Tale of The Last Cycle/Timeline/Age of Knowledge - Conflict and Empathy.md",
+    "Conflict_Settles.png",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Wildern.md",
+    "Untitled.canvas",
+    "Tale of The Last Cycle/Timeline/Age of Creation - Wildern & Beauty.md",
+    "Wildern.png",
+    "Tale of The Last Cycle/Creation/Afterlife/Nameless.md",
     "Tale of The Last Cycle/Cosmology.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Beauty.md",
-    "Tale of The Last Cycle/Timeline/Age of Knowledge - Conflict and Empathy.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Empathy.md",
     "Tale of The Last Cycle/Creation/Afterlife/Death of Soul - Sleep.md",
     "Tale of The Last Cycle/Creation/Afterlife/Death of Body - Passing.md",
     "Tale of The Last Cycle/Creation/Afterlife/Spirit World.md",
-    "Tale of The Last Cycle/Creation/Afterlife/Nameless.md",
     "Tale of The Last Cycle/Research - Fable.md",
     "Tale of The Last Cycle/Creation/Afterlife",
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Conflict.md",
     "Conflict.png",
     "Tale of The Last Cycle/Entities/Primevals/Tuatha.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Mortal/Knowledge - Awen.md",
@@ -322,7 +294,6 @@
     "Pracownia/Szkliwa.md",
     "Skyrim Testnotes/Pasted image 20251110211805.png",
     "Skyrim Testnotes/Bugs.md",
-    "Tale of The Last Cycle/Timeline/Beginning.md",
     "Tale of The Last Cycle/Creation/Kin (Species & Races)",
     "Tale of The Last Cycle/Creation",
     "Tale of The Last Cycle/Terminology & Dictionary",
@@ -337,8 +308,6 @@
     "Athra/Cosmology/Cycle/Entities/Pic/Ishtar.png",
     "Athra/Cosmology/Cycle/Entities/Pic/Nameless.png",
     "Athra/World Information/Aspects/Pic/Amity.png",
-    "Athra/World Information/Aspects/Pic/Aspect of Empathy.png",
-    "Athra/World Information/Aspects/Pic/Oracle of Avia.png",
-    "Athra/World Information/Aspects/Pic/Wildmother.png"
+    "Athra/World Information/Aspects/Pic/Aspect of Empathy.png"
   ]
 }

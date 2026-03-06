@@ -1,14 +1,14 @@
-![[Conflict.png]]
-> [!NOTE] _ **Sol**, "Firebird", "Lover", "War"_
+![[Conflict_Settles.png]]
+> [!NOTE] _ **Sol**, "Firebird", "Traveler", "The Reason", ""_
 ## Story
 
 ### Age of Knowledge
 
 ![[Age of Knowledge - Conflict and Empathy#Birth in Flames - Firebird]]
 
+![[Age of Knowledge - Conflict and Empathy#Conflict Settles]]
 
-
-
+![[Age of Knowledge - Conflict and Empathy#The Talk of Ash & Age]]]
 
 
 

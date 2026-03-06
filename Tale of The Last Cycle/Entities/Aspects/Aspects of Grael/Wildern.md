@@ -18,6 +18,8 @@ _For her full role in the first age, see [[Age of Creation - Wildern & Beauty]].
 
 ---
 
+![[Wildern.png]]
+
 ## Story
 
 ### Age of Creation
