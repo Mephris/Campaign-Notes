@@ -128,6 +128,8 @@ Further did she come through an ashen wasteland of bodies. Looking upon it she s
 
 At twilight she looked up — not back. Above her, shifting dark colors caught the light of the silvery moon, black ink strands slow and restless across the sky. The night as it had always been. She had never looked at it long enough to learn its shape.
 
+She stayed a moment longer than she needed to.
+
 She rose again before it could trouble her.
 
 ---
