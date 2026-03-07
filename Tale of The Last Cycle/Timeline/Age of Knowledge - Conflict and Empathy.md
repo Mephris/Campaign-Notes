@@ -205,6 +205,21 @@ So she flew evermore, shining upon the world with recognition of spark, of the b
 On the 7th Night, a red gem appeared on the night skies, dwarfed by the silvery moon yet shining proudly next to him. Its soft red light flickering light embers upon each twilight. The [[Conflict|Firebird's]] promise to never again set the world onto inferno, and for the [[Knowledge - Awen|Knowledge]] to always wait for her at the end of her travels. 
 
 ### Aftermath
+#### [[Knowledge - Awen|Awen]] — [[Aspect of Knowledge]]
+
+The dawn came back on the seventh morning, blazing across the horizon as [[Conflict]] took flight — her mantle full, her eyes bright with recognition of all three states of fire. [[Knowledge - Awen|Awen]] remained.
+
+Son of [[Defiance - Edal|Edal]], first child of order and stain woven knowingly together, he who had been made to remember — he sat upon the ashen snow with the empty tome in his lap and watched the sun rise for the last time with mortal eyes.
+
+He had lived the full length of the age. Had written every page of it. Had sat beside a firebird and shown her the shape of everything she had made, and asked nothing in return.
+
+So did [[Knowledge - Awen|Awen]] become [[Aspect of Knowledge]]. Not with fire, not with axe — but with the quiet of a man on a mountaintop, at the end of a long life, finally setting down what he carried.
+
+The empty page caught the first light of the seventh dawn. The age ended with him.
+
+
+# Notes
+
 
 #### Life is Born
 
@@ -219,7 +234,7 @@ On the 7th Night, a red gem appeared on the night skies, dwarfed by the silvery 
 
 
 
-# Notes
+
 
 ##### Awen, Son of Edal
 
