@@ -8,6 +8,7 @@
 
 ---
 
+![[Age of Knowledge - Conflict and Empathy#The First Weaving — Wildern & Beauty]]
 ### **Awen – Awenydd**
 > **Walijskie** (Brytańskie) słowo *awen* (wymawiane /'au-en/), zapożyczone do **kornwalijskiego** i **bretońskiego**.
 > > **Proto-Celtycki:** Wywodzi się z formy ***u-en-ā**.

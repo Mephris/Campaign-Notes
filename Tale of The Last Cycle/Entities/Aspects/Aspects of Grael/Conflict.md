@@ -1,5 +1,12 @@
 ![[Conflict_Settles.png]]
 > [!NOTE] _ **Sol**, "Firebird", "Traveler", "The Reason", ""_
+
+#### Conflict
+Three grand lessons of conflict speak of:
+###### Healing
+###### Faith
+###### Fear
+
 ## Story
 
 ### Age of Knowledge

@@ -117,46 +117,30 @@ So did the young fiery spirit walk the world, running evermore from the dreadful
 So during one night she stumbled, falling upon one of the peaks, and saw the night coming — the wrathful silvery light that fueled her kindling. With a glimpse of silver in her ember eyes she fled forward. Its light present at the back of her mind.
 
 ---
+
 For decades she flew — and from the dancing flames did sparks fall upon the coals of forming societies.
 
 [[Conflict]]'s gaze fell upon the fields of wheat. In the warm light mortals sweated and toiled, a child carrying a bucket of water to wash away the heat of her rays.
 
-The grains of wheat broken by the miller's stone into fine white powder. Her feet led her further, through cities of stone and wood that in the wake of her fiery mantle took flame with passion — and as she traveled further still, the miller's fine powder drank red in the ichor of war.
+The grains of wheat broken by the miller's stone into fine white powder. Her feet led her further, through cities of stone and wood that in the wake of her fiery mantle took alight with passion — and as she traveled further still, the miller's fine powder drank red in the red of war.
 
 Further did she come through an ashen wasteland of bodies. Looking upon it she smiled sadly — for among the corpses did two people stand fighting still. Upon their hearts she blew love, and passed them by with a soft smile. For she believed, in all the blood and ash, there would be healing.
 
 At twilight she looked up — not back. Above her, shifting dark colors caught the light of the silvery moon, black ink strands slow and restless across the sky. The night as it had always been. She had never looked at it long enough to learn its shape.
 
-She stayed a moment longer than she needed to.
-
-She rose again before it could trouble her.
+She stayed a moment longer than she needed to. She rose again before it could trouble her.
 
 ---
+
 For years she flew — and from the raging flames upon the world she felt heat burning hotter than her own.
 
 Flames flickering at each sound, so did she travel and saw the pain her rays had sown onto the world. Mortal souls burning up with passions and her gifts. Her legs led her through the beaten path, through the once golden fields now lined with ash, spreading up to the city of stone — and there did the Firebird freeze.
 
-Flames flickering, her embrace was placed upon a broken spear, for the world around her had enough of flame, and saplings of healing were all ash before growth. The passions she had given so readily turned to rage, hate, lust — but she continued.
+Flames flickering, her embrace was placed upon a broken spear, for the world around her had enough of flame, and saplings of healing were all ash before growth. The passions she had given so readily turned to violence — but she continued.
 
 Her eyes growing weary with tears of red rocks, so did one night, among the ashes of her settled flames, she look upon the fiery world burning in the flames of war. There did she cry, for a reason — looking up to the skies of shifting black strands and the disc of the one she had always been so afraid of.
 
 There did she wait, for a reason to bring dawn once more, as she saw that no flame can be settled with more flame.
-
-
-
-
-##### BP for Conflict Settles 
----
-> _For centuries she flew. For decades she flew. For years she flew._
-> 
-> _Each time she touched the world it burned hotter. Societies formed, clashed, collapsed, reformed. She saw her work in all of it and did not look back long enough to see what it cost._
-> 
-> _But something changed slowly, the way embers change — not all at once. Between the burning she began to watch. Between the diving she began to wait. The fire was still there, always there, but for the first time she let it pause before feeding it._
-> 
-> _Each night she shed her flames on the high peak and glimpsed the night sky. First a glance. Then a smile. Then she stayed a little longer._
-> 
-> _Until the night Danu sang beauty into the Nameless and the sky blazed full for the first time — and Conflict, ash and ember on the high peak, did not rise again._
----
 
 ### Twilight of an Age
 
@@ -165,7 +149,7 @@ There did she wait, for a reason to bring dawn once more, as she saw that no fla
 > _Beauty moves into the spirit world — not retreating, returning. She does for the spirit world what she did for the physical one. Plants beauty in it, gives it nuance and color and meaning. She learned from Empathy what it means to create for others rather than herself. So she does. This is her quiet age._
 
 At the moment they made [[Knowledge - Awen]], she looked at [[Wildern|Anu]]'s smiling face, and felt peace for the first time. 
-
+ 
 Then like a thunderous call, the night black shifted. Sea of serpent-like strands flowing on formless winds, gathering, breaking and catching hold onto each other. Another has called forth [[Primeval]]. 
 
 [[Wildern|Anu]] looked up in fear, for another began making her mistake. Seeing this [[Beauty|Danu]] extended her wings forth, playfully throwing a droplet of ink upon [[Wildern]] body — gifting back what she once abandoned, before flying upwards towards the forth called [[Primeval]]'s might. 
@@ -181,7 +165,7 @@ And for countless decades they roamed, in darkness.
 Among the spirit's, [[Faekin]] joined the cry, for they seen spirits take on numerous forms, hence [[Beauty|Danu]] taught them a song to change their forms. 
 
 And for countless centuries they roamed, in darkness. 
-
+faekin 
 Among the spirit's [[Faekin]] joined the cry, for they were still living, they wished to dream like the living do. So did [[Beauty|Danu]] raise her hand and throw those [[Faekin]] that wished to dream down back to the mortal world. 
 
 Finally, upon the reformed world she found him, and she had no one she wanted to see so she seen his true form. So came forth to him with pity, collapsed on his knees, he seen his [[Spirits]] hunt and protect, eat and befriend mortal souls. [[Empathy]] cried to the spirits, to save the dreamers, but he was stopped, with a tight grip of [[Beauty|Danu]]. 
@@ -190,25 +174,35 @@ Finally, upon the reformed world she found him, and she had no one she wanted to
 
 So did [[Empathy]] look back. 
 
-Countless flickering lights of colorful spirits moved before him — a [[Faekin]] court roaming the dark. And at the heart of it, horizon-black locks upon the ground waving like grass on wind, bound to a feminine figure clad in dress of nightsky; he so wished to make. Looking into her glassy black eyes he saw a reflection unbound by blessing of shifting form, his true form, and he shivered in horror stepping back. Seeing one who he wanted to help the most now, himself, for naught were his gifts but self-poisoning without a firm border of where to stop. 
+Countless flickering lights of colorful spirits moved before him — a [[Faekin]] court roaming the dark. And at the heart of it, horizon-black locks upon the ground waving like grass on wind, bound to a feminine figure clad in dress of night sky; he so wished to make. Looking into her glassy black eyes he saw a reflection unbound by blessing of shifting form, his true form, and he shivered in horror stepping back. Seeing one who he wanted to help the most now, himself, for naught were his gifts but self-poisoning without a firm border of where to stop. 
 
 In this, [[Ambition]] was born, and [[Empathy]] learned his heart is a blade of a healer, so easily used to cut himself, so hard to use to save another.
 
-#### Perspective of Conflict 
-
 #### The Talk of Ash & Age
 
----
-> _Conflict, settled in her ash form on the high peak, sees the night sky blaze with beauty for the first time — Danu's work spreading across the Nameless. She has been watching that sky for centuries, glimpsing it, glancing at it. Now she cannot look away._
-> 
-> _Awen finds her there. Two tired things at the end of long journeys — her age of mindless burning, his mortal life of recording all of it. He has watched her from the ground the whole time. He knows the shape of what she made better than she does._
-> 
-> _No grand lesson. Just a old Min sitting beside a cooling firebird under a newly beautiful sky, and her finally looking back at everything she has left behind her — and seeing not ruin, but Life._
-> 
-> _Conflict learns to plan. To look back before burning forward. Life is born._
-> 
-> _Awen does not come down from the peak. He becomes [[Aspect of Knowledge]]._
----
+The horizon bled twilight reds and blues as the blazing hair cooled to ash-grey, the fierce light in her eyes softening to the steady glow of embers. [[Conflict]] sat upon the snow of the mountaintop, and the mountain did not feel like a stop between flights — for the first time, it felt like ground beneath her.
+
+There, atop the mountain, did she look up to the skies — her silvery counterpart starting its yet another journey. With the first calm light did she find another sitting just to her side, his silhouette thin, clad in robes of washed blue. Ashen hair wildly curling down his calm face like the river banks engraved by the passage of waters, his face lined by the same patient hand. On his lap, a heavy tome of inked leather, holding unbound pages of countless years.
+
+She saw him — embers as hers, for both a night of rest. For one, a momentary. For the other, eternal. His hands moved to the oldest of pages, and her eyes fell upon the parchment — her first journey, the first day.
+
+For six nights the sun did not rise, and the world below held its breath at the darkness.
+
+For two nights, they read of Spark, of the first embers planted upon life. The first warmth which kindled mortal passions for the first time. Her eyes looking back, remembering those that yearned for the little warmth it gave. 
+
+For two nights, they read of Burning, of Spark taken hold. Of the steady licks of fiery tongues that flickered with passions and faith, even in face of crackles among the flame. Her eyes looking back, remembering the rays upon the workers of golden fields, and the wasteland fields of red, remembering those that lived and fell onto ash for others to grow. 
+
+For two nights, they read of the Inferno, of the Burning feed too much Spark. Flames hotter then those of [[Conflict]] herself.  Of the fear, blazing passions, violence, and the she questioned him for the worth of it all, when all is left is but ash with the red crystal tears swelling in her eyes. 
+
+Above them, the night skies glittered with thousand small bonfires set by the burnt souls, singing upon the black threads of the night skies; and as their eyes moved up from the turning of the last page, as [[Knowledge - Awen|Awen]]'s hand extended towards the horizon of setting flames, where from ashes saplings grew with strength of all that were lost in the inferno. Her gaze followed, and tears no longer fell. 
+
+She looked to horizon, and her eyes flickered with spark, her hair with burning and her mantle with inferno. As she finally recognized among all the conflict, good or bad, life still persisted. So was [[Life]] born, and [[Conflict]] rose up, shedding its last tear to the side as it fell onto the last — empty — page, and all those that would follow. 
+
+#### Dawn of the 7th Night
+
+So she flew evermore, shining upon the world with recognition of spark, of the burn and the inferno; traveling forward, her gaze looking all around as she went. Now with knowledge of where to place which. 
+
+On the 7th Night, a red gem appeared on the night skies, dwarfed by the silvery disk yet shining proudly next to him. Its soft red light flickering light embers upon each twilight. The [[Conflict|Firebird's]] promise to never again set the world onto inferno, and for the [[Knowledge - Awen|Knowledge]] to always wait for her at the end of her travels. 
 
 ### Aftermath
 
