@@ -205,7 +205,7 @@ So she flew evermore, shining upon the world with recognition of spark, of the b
 On the 7th Night, a red gem appeared on the night skies, dwarfed by the silvery moon yet shining proudly next to him. Its soft red light flickering light embers upon each twilight. The [[Conflict|Firebird's]] promise to never again set the world onto inferno, and for the [[Knowledge - Awen|Knowledge]] to always wait for her at the end of her travels. 
 
 ### Aftermath
-#### [[Knowledge - Awen|Awen]] — [[Aspect of Knowledge]]
+#### Awen — [[Aspect of Knowledge]]
 
 The dawn came back on the seventh morning, blazing across the horizon as [[Conflict]] took flight — her mantle full, her eyes bright with recognition of all three states of fire. [[Knowledge - Awen|Awen]] remained.
 
@@ -215,64 +215,4 @@ He had lived the full length of the age. Had written every page of it. Had sat b
 
 So did [[Knowledge - Awen|Awen]] become [[Aspect of Knowledge]]. Not with fire, not with axe — but with the quiet of a man on a mountaintop, at the end of a long life, finally setting down what he carried.
 
-The empty page caught the first light of the seventh dawn. The age ended with him.
-
-
-# Notes
-
-
-#### Life is Born
-
-> _Conflict sees all her actions were simply part of something larger — not war, not clash, but Life itself. The full arc of struggle and growth and continuation. Life is born from this understanding. Conflict learns to plan, to go back and regroup, to see the shape of things._
-#### Ambition is Born
-
-> _Empathy sees that all he gave would never be enough — not because he failed, but because mortal ambition knows no bounds. It was never his to fill. Ambition is born from this understanding. Empathy learns to hold back, to let conflict run its course, and to be there when things fall._
-
-#### Awen — [[Aspect of Knowledge]]
-
-> _In the last breath of his mortal life, Awen becomes the Aspect of Knowledge. Son of Edal, first child of reconciled order and stain, he who lived long enough to understand what neither an Aspect nor a mortal alone could see. The age ends with him._
-
-
-
-
-
-##### Awen, Son of Edal
-
-> _A thousand years have passed. Awen — the first intentional child of Wildern and Beauty, born of order and stain reconciled, given his name by Wildern herself — is old and dying. He has lived a full mortal life through the entire age. Watched Conflict and Empathy fumble. Understood things neither of them could, because he was mortal, because he remembered, because he was made to._
-##### The Question
-
-> _Conflict and Empathy come to him separately or together — to be decided — and ask why nothing is working. Why does it feel vain. Why is it not enough. He teaches them perspective. What it means to see beyond the burning now. What it means to understand that you will not be there for the end of what you start._
-
-
-> _Raw plot notes — to be woven in during rewrite_
-> 
-> - Conflict is all passion akin to Tuatha, pushes mortals to physical things, no perspective yet, shallow
-> - Empathy forges spirit world using night sky, takes all souls, Beauty recedes there
-> - Beauty learns she is nothing without others' feelings — becomes heart deep
-> - Empathy gives until he bleeds, mortals die, children don't remember
-> - Both empty — actions short term, vain in perspective
-> - After a thousand years they go to Awen, born at the beginning, about to die
-> - He teaches perspective
-> - Conflict → Life. Empathy → Ambition.
-> - Conflict learns to plan and regroup
-> - Empathy learns to hold back, be there for the fall
-> - Second child strand — loose plot, possibly material for spirit world foundation
-
-Conflict and Empathy 
-
-Creation of an afterlife and conflict slowly kick-starting societies without thinking about it.
-
-Conflict is all passion akin to Tuatha, she pushes the mortals to the more physical things, to push forth conflict, at the moment, she does not think of the future or does not have perspective. Wildern in her ashes flows down the rivers onto Wilderguars and rebirths remembering her own death and trauma before being extended help by a wood elf, imperfect being she tried to destroy, and she seen the beauty of stain and made nature lined with it. But there is no point of unplanned conflict, so it was all vain and cruel in its passion.shallow.
-
-Empathy starts to forge a spirit world, the night sky, and he takes all the souls and makes them a hole in the spirit world where Beauty recedes, thought a lesson of a beauty in empathy and learning to feel what others feel, beauty learns that she is nothing without others feelings and becomes heart deep, healing put beauty in the spirit world. Empathy cannot give enough for mortals to be full, as he gives onto them more and more but they die, their children don't remember gifts and so it gives until it bleeds.
-
-But both conflict and empathy were empty, their action short term were good but in perspective were vain.
-
-So after a thousand years they went to an elf who was born at the beginning and was about to die and asked him why is nothing working.
-
-And it thought them perspective, and so Conflict seen all of its actions were simply a part of Life, and so life was born, and empathy seen that all he gave would not be enough because mortal ambition knew no bounds, so ambition was born.
-
-And conflict learn plan, to go back and regroup
-And empathy learned to hold back, to let the conflict go on and be there for them when they fall.
-
-The elf, son of edal, became the aspect of knowledge.
+The empty page caught the first light of the seventh dawn, with a red gem placed upon it next to a writers feather, as the Age ended with the first ray's of [[Conflict|Firebird]]
