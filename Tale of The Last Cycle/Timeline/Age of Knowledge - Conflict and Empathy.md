@@ -202,7 +202,7 @@ She looked to horizon, and her eyes flickered with spark, her hair with burning 
 
 So she flew evermore, shining upon the world with recognition of spark, of the burn and the inferno; traveling forward, her gaze looking all around as she went. Now with knowledge of where to place which. 
 
-On the 7th Night, a red gem appeared on the night skies, dwarfed by the silvery disk yet shining proudly next to him. Its soft red light flickering light embers upon each twilight. The [[Conflict|Firebird's]] promise to never again set the world onto inferno, and for the [[Knowledge - Awen|Knowledge]] to always wait for her at the end of her travels. 
+On the 7th Night, a red gem appeared on the night skies, dwarfed by the silvery moon yet shining proudly next to him. Its soft red light flickering light embers upon each twilight. The [[Conflict|Firebird's]] promise to never again set the world onto inferno, and for the [[Knowledge - Awen|Knowledge]] to always wait for her at the end of her travels. 
 
 ### Aftermath
 
