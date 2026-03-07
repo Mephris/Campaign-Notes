@@ -33,7 +33,7 @@ At the [[Age of Creation - Wildern & Beauty#End of an Era|End of Era]] she was s
 
 _For the full account, see [[Age of Creation - Wildern & Beauty]]._
 
-![[Age of Knowledge - Conflict and Empathy#The Kind Lesson — Beauty Danu]]
+![[Age of Knowledge - Conflict and Empathy#The Kind Lesson — Beauty Danu]] ^28650a
 
 ![[Age of Knowledge - Conflict and Empathy#The First Weaving — Wildern & Beauty]]
 
