@@ -100,35 +100,35 @@ Mortal [[Spirits]] cried once more — they were hungry. And dreamers were numer
 ---
 > [!Quote] "For centuries I flew, until my wings broke for a moment. For decades I flew, tired and enamored by the night. For years I flew, questioned... the point of it all."_
 
->***For centuries she flew — and from the flickering flames did embers settle upon mortal hearts.***
->
->As she traveled she saw people turn to each other. There was suffering, there was peace, and after some were burned by the sparks of that passion — there was healing. Regrowth, one would say.
->
->So did the young fiery spirit walk the world, running evermore from the dreadful silvery light her fear remembered for her. In those flickering sparks — interacting, fighting, resting — she did not see it yet, but the immortal firebird that rekindled the life of the world upon each dawn, healed.
->
->So during one night she stumbled, falling upon one of the peaks, and saw the night coming — the wrathful silvery light that fueled her kindling. With a glimpse of silver in her ember eyes she fled forward. Its light present at the back of her mind.
+***For centuries she flew — and from the flickering flames did embers settle upon mortal hearts.***
 
->***For decades she flew — and from the dancing flames did sparks fall upon the coals of forming societies.***
->
->[[Conflict]]'s gaze fell upon the fields of wheat. In the warm light mortals sweated and toiled, a child carrying a bucket of water to wash away the heat of her rays.
->
->The grains of wheat broken by the miller's stone into fine white powder. Her feet led her further, through cities of stone and wood that in the wake of her fiery mantle took alight with passion — and as she traveled further still, the miller's fine powder drank red in the red of war.
->
->Further did she come through an ashen wasteland of bodies. Looking upon it she smiled sadly — for among the corpses did two people stand fighting still. Upon their hearts she blew love, and passed them by with a soft smile. For she believed, in all the blood and ash, there would be healing.
->
->At twilight she looked up — not back. Above her, shifting dark colors caught the light of the silvery moon, black ink strands slow and restless across the sky. The night as it had always been. She had never looked at it long enough to learn its shape.
->
->She stayed a moment longer than she needed to. She rose again before it could trouble her.
+As she traveled she saw people turn to each other. There was suffering, there was peace, and after some were burned by the sparks of that passion — there was healing. Regrowth, one would say.
 
->***For years she flew — and from the raging flames upon the world she felt heat burning hotter than her own.***
->
->Flames flickering at each sound, so did she travel and saw the pain her rays had sown onto the world. Mortal souls burning up with passions and her gifts. Her legs led her through the beaten path, through the once golden fields now lined with ash, spreading up to the city of stone — and there did the Firebird freeze.
->
->Flames flickering, her embrace was placed upon a broken spear, for the world around her had enough of flame, and saplings of healing were all ash before growth. The passions she had given so readily turned to violence — but she continued.
->
->Her eyes growing weary with tears of red rocks, so did one night, among the ashes of her settled flames, she look upon the fiery world burning in the flames of war. There did she cry, for a reason — looking up to the skies of shifting black strands and the disc of the one she had always been so afraid of.
->
->There did she wait, for a reason to bring dawn once more, as she saw that no flame can be settled with more flame.
+So did the young fiery spirit walk the world, running evermore from the dreadful silvery light her fear remembered for her. In those flickering sparks — interacting, fighting, resting — she did not see it yet, but the immortal firebird that rekindled the life of the world upon each dawn, healed.
+
+So during one night she stumbled, falling upon one of the peaks, and saw the night coming — the wrathful silvery light that fueled her kindling. With a glimpse of silver in her ember eyes she fled forward. Its light present at the back of her mind.
+
+***For decades she flew — and from the dancing flames did sparks fall upon the coals of forming societies.***
+
+[[Conflict]]'s gaze fell upon the fields of wheat. In the warm light mortals sweated and toiled, a child carrying a bucket of water to wash away the heat of her rays.
+
+The grains of wheat broken by the miller's stone into fine white powder. Her feet led her further, through cities of stone and wood that in the wake of her fiery mantle took alight with passion — and as she traveled further still, the miller's fine powder drank red in the red of war.
+
+Further did she come through an ashen wasteland of bodies. Looking upon it she smiled sadly — for among the corpses did two people stand fighting still. Upon their hearts she blew love, and passed them by with a soft smile. For she believed, in all the blood and ash, there would be healing.
+
+At twilight she looked up — not back. Above her, shifting dark colors caught the light of the silvery moon, black ink strands slow and restless across the sky. The night as it had always been. She had never looked at it long enough to learn its shape.
+
+She stayed a moment longer than she needed to. She rose again before it could trouble her.
+
+***For years she flew — and from the raging flames upon the world she felt heat burning hotter than her own.***
+
+Flames flickering at each sound, so did she travel and saw the pain her rays had sown onto the world. Mortal souls burning up with passions and her gifts. Her legs led her through the beaten path, through the once golden fields now lined with ash, spreading up to the city of stone — and there did the Firebird freeze.
+
+Flames flickering, her embrace was placed upon a broken spear, for the world around her had enough of flame, and saplings of healing were all ash before growth. The passions she had given so readily turned to violence — but she continued.
+
+Her eyes growing weary with tears of red rocks, so did one night, among the ashes of her settled flames, she look upon the fiery world burning in the flames of war. There did she cry, for a reason — looking up to the skies of shifting black strands and the disc of the one she had always been so afraid of.
+
+There did she wait, for a reason to bring dawn once more, as she saw that no flame can be settled with more flame.
 
 ### Twilight of an Age
 
