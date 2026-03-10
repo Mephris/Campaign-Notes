@@ -110,7 +110,7 @@ So during one night she stumbled, falling upon one of the peaks, and saw the nig
 
 ***For decades she flew — and from the dancing flames did sparks fall upon the coals of forming societies.***
 
-[[Conflict]]'s gaze fell upon the fields of wheat. In the warm light mortals sweated and toiled, a child carrying a bucket of water to wash away the heat of her rays.
+[[Conflict]]'s gaze fell upon the fields of wheat. In the warm light mortals sweated and toiled, a child carrying a bucket of water to wash away the heat of her rays. 
 
 The grains of wheat broken by the miller's stone into fine white powder. Her feet led her further, through cities of stone and wood that in the wake of her fiery mantle took alight with passion — and as she traveled further still, the miller's fine powder drank red in the red of war.
 
