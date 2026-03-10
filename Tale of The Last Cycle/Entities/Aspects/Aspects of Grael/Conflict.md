@@ -15,7 +15,7 @@ Three grand lessons of conflict speak of:
 
 ![[Age of Knowledge - Conflict and Empathy#Conflict Settles]]
 
-![[Age of Knowledge - Conflict and Empathy#The Talk of Ash & Age]]]
+![[Age of Knowledge - Conflict and Empathy#The Talk of Ash & Age]]
 
 
 
