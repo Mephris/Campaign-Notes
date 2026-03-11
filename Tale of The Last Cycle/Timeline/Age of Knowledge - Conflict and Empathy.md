@@ -9,6 +9,8 @@ In this moment she saw mortals spread from the flooded ink, creatures of all kin
 
 So did she burn into their fabric the one thing she knew — motion. Not a reason. Not a destination. Just the fire that makes a creature turn toward another, toward the next day, toward anything at all. The refusal to be still.
 
+
+
 #### Birth in Horror - Empathy
 ---
 As the fiery tongue of the Tam-wood torch licked the cheek of [[Beauty]], [[Tuatha]] — the endless undefined — stirred, responding to the emotion of the end. The great empathy she felt toward the mortal creatures. So from the burnt ink cloud formed a creature, that landed before [[Beauty]].

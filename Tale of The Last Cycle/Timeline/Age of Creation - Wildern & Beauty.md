@@ -9,7 +9,7 @@ It was in this sunless world that once [[Wildern|Wildern]] envisioned perfect, n
 
 > "The Oldest races were born in the Age of Creation, pretty poetic that the mortal life back then was made only from earth, beasts and dreams"
 
-In this hell, flooded in ink and ripped by the jagged loom, did the [[Primeval|primeval's]] argue, formed by the [[Aspect]] of [[Grael]] were the [[Aelf]] and the [[Dwarvenkin]], while from the flood of [[Beauty|beautiful]] ink and song came [[Faekin]].
+In this hell, flooded in ink and ripped by the jagged loom, did the [[Primeval|primeval's]] argue, formed by the [[Aspect]] of [[Grael]] were the [[Aelf]] and the [[Dwergr]], while from the flood of [[Beauty|beautiful]] ink and song came [[Faekin]].
 
 One such creation, of Elven and Dwarven blood was a young man, at birth the most pure of [[Grael]] pale flesh, so did [[Beauty]] look to the pale creation and while the [[Wildern|Wildern]] did not look, did she grab the silvery ink and write a [[Name]], a gift, onto its heart; [[Defiance - Edal|Edal]], in it sealing a gift of endless growth and abstract of a hero - to always rise equal to the challenge. 
 
@@ -25,7 +25,7 @@ So did [[Wildern|Wildern]] see the two most pure forms and take them, to strip o
 > 
 > [[Beauty]] claimed them instead, folding them into her [[Faekin]].
 > 
-> The beasts made to destroy them did not disappear — they became something else. Turned by [[Beauty]]'s hand into the first [[Aelf#Mìn - Minaelf|Min]] & [[Aelf#Mòr - Móraelf|Mór]].
+> The beasts made to destroy them did not disappear — they became something else. Turned by [[Wildern]]'s hand into the first [[Aelf#Mìn - Minaelf|Min]] & [[Aelf#Mòr - Móraelf|Mór]].
 > 
 > When [[Wildern]] died and her ashes were carried south by rivers and wind, they found her. The nature she had made guided her home — down into the inky forests, into a newborn [[Aelf#Tam-aelf|Tam]] vessel. She woke among the very creatures she had tried to erase.
 > 

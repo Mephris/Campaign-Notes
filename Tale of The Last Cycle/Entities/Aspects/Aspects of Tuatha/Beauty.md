@@ -1,17 +1,12 @@
 
 > [!NOTE] _"Queen Danu""Heart Deep Beauty" , "Mother of Accidents", "Keeper of Broken"_
 
----
-
-> _"She saw the empty stage of a pale world, and drinking deep upon the dark ink she sang with sacred black song, singing forth like a spill of a wine upon the fabric... Accident and Will"_
-
----
-
+> [!quote] _"She saw the empty stage of a pale world, and drinking deep upon the dark ink she sang with sacred black song, singing forth like a spill of a wine upon the fabric... Accident and Will"_
 ## Aspect of Beauty
 
 **Colorful stain** - the nuance of the world, the refusal to stay in line, overflow of color and emotions, freedom. Her [[Name#The Naming of an Aspect Moral Reflection of an Aspect|Self-naming]] granted her a tap into a domain of her successor [[Empathy]]; allowing her to create her art for more then just herself. 
 
-She presided over the [[Age of Creation - Wildern & Beauty|Age of Creation]], while [[Wildern]] made her [[Aelf]] and [[Dwarvenkin]] she worked her paint stained fingers making fickle [[Faekin]]; engraving her with her own personality and character, much to her dismay in the following Era's.  
+She presided over the [[Age of Creation - Wildern & Beauty|Age of Creation]], while [[Wildern]] made her [[Aelf]]she worked her paint stained fingers making fickle [[Faekin]]; engraving her with her own personality and character, much to her dismay in the following Era's.  
 
 However for all her shortcomings, she shown the world that sometimes... an accident might have a happy ending; if you try enough. 
 
