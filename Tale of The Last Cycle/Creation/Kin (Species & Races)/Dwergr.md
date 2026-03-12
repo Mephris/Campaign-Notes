@@ -10,5 +10,21 @@ The folk as ambitious as they are honorable, [[Dwergr]] are a race of people app
 
 They are a result of [[Ambition]]'s naming during the [[Age of Miracles - Life & Ambition|Age of Miracles]], the descendants of the [[Name|Named]] progenitors of the [[Dwergr]] clans. 
 
-## A Binding name 
+## Race of Titles
+
+### The Progenitor's - The Named
+![[Name#^cd06fc]]
+
+During the [[Age of Miracles - Life & Ambition|Ambition]], [[Ambition]] profaned the sacred right of [[Name|Naming]], turning it from the almost parental role of an [[Aspect]] to a mortal onto a way to make himself tools to do his bidding. 
+
+In this way he placed simple names upon some people, such as "Best Smith", or "Fastest Warrior". The gifts that did not bring any merit with them other then the constant mental push for the [[Name|named]] person. 
+
+The undone ambitions of those Progenitors resulted in some of those people in using different sets of marks, in attempt to self name themselves and pass their ambitions to be finished by their successors. 
+
+![[Name#^60d4d1]]
+
+In case of those Progenitors who placed a [[Name#^8ee7fb|Mark upon Substance]] on their bodies. They often sentenced their children to a shortened physique and at times even disfigurement while also having crude strength and innate ambition leftover by their long dead ancestor, resulting in the first [[Dwergr]].
+
+### The [[Dwergr]] - Race within Species
+[[Dwergr]] were born in other races, from their progenitors who not much cared for the changes in their appearance. 
 
