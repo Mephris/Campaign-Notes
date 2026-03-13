@@ -6,5 +6,7 @@
 ![[Age of Miracles - Life & Ambition#Flourishing of an Age]]
 
 ![[Age of Miracles - Life & Ambition#Ambition's Emptiness]]
+
 ![[Age of Miracles - Life & Ambition#The Girl]]
+
 ![[Age of Miracles - Life & Ambition#Ambition Opens a Door]]
