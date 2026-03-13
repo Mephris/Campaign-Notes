@@ -1,0 +1,1 @@
+**Lesson: Not everything has to be perfect/stopping putting the bar so high its not attainable, often the bar so high makes into cruelty and poison to all around and yourself**
