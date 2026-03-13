@@ -89,7 +89,7 @@ ___
 > 
 > _He built exactly what he wanted. The emptiness does not make sense to him. He has no framework for it. He walks and walks and the world falls apart around him and he cannot understand why winning feels like this._
 
-#### The Girl
+### The Girl
 ---
 > [!abstract]
 > _He finds her in a dying village. A girl with less than a year to live, placing flowers on graves and hiding trinkets for people to find._
