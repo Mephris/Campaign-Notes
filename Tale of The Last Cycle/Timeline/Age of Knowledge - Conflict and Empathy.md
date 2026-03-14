@@ -8,9 +8,6 @@ On fiery wings she rose up onto the skies, flying across all creation. Devouring
 In this moment she saw mortals spread from the flooded ink, creatures of all kind and size — but they were lone. Unlike the cradle where tribes had pained themselves into being, those emerging from the flood did not reach toward each other. Did not push. Did not clash. They simply existed, and existing was not enough.
 
 So did she burn into their fabric the one thing she knew — motion. Not a reason. Not a destination. Just the fire that makes a creature turn toward another, toward the next day, toward anything at all. The refusal to be still.
-
-
-
 #### Birth in Horror - Empathy
 ---
 As the fiery tongue of the Tam-wood torch licked the cheek of [[Beauty]], [[Tuatha]] — the endless undefined — stirred, responding to the emotion of the end. The great empathy she felt toward the mortal creatures. So from the burnt ink cloud formed a creature, that landed before [[Beauty]].
@@ -26,7 +23,6 @@ So did they meet. [[Empathy]] and [[Defiance - Edal|Defiance]], in the last of t
 [[Empathy]] looked upwards as the first moon, and for six days and six nights he looked upon the night skies, realizing that while day had sun and the azure dress of [[Grael]], the night had naught but naked dark.
 
 He would change that. He would use the pain of [[Defiance - Edal|Defiance]] — its silvery aftermath — as anchor, and make a home for all the dead, all the [[Tuatha]], high in place of the azure skies of day.
-
 #### Growth of Wildern and Beauty
 
 ##### The Harsh Lesson — [[Wildern|Anu]]
@@ -145,14 +141,14 @@ Then like a thunderous call, the night black shifted. Sea of serpent-like strand
 Her [[Faekin]] followed, and so did Danu and her folk land for the first time upon the spirit world, thousand of small lights upon the night skies. Looking for the [[Aspect]] of [[Empathy]]. She traveled [[Nameless]] [[Spirit World]], and it fought them on every step. 
 
 
->**For countless years they roamed, in darkness.** 
->Among the spirit's, [[Faekin]] joined the cry, for they were cold. So did [[Beauty|Danu]] turn to them and sing forth strands of luminous strands and told them to weave themselves clothes. 
->***
->**And for countless decades they roamed, in darkness.** 
->Among the spirit's, [[Faekin]] joined the cry, for they seen spirits take on numerous forms, hence [[Beauty|Danu]] taught them a song to change their forms. 
-> ***
->**And for countless centuries they roamed, in darkness.** 
->Among the spirit's [[Faekin]] joined the cry, for they were still living, they wished to dream like the living do. So did [[Beauty|Danu]] raise her hand and throw those [[Faekin]] that wished to dream down back to the mortal world. 
+**For countless years they roamed, in darkness.** 
+Among the spirit's, [[Faekin]] joined the cry, for they were cold. So did [[Beauty|Danu]] turn to them and sing forth strands of luminous strands and told them to weave themselves clothes. 
+
+**And for countless decades they roamed, in darkness.** 
+Among the spirit's, [[Faekin]] joined the cry, for they seen spirits take on numerous forms, hence [[Beauty|Danu]] taught them a song to change their forms. 
+
+**And for countless centuries they roamed, in darkness.** 
+Among the spirit's [[Faekin]] joined the cry, for they were still living, they wished to dream like the living do. So did [[Beauty|Danu]] raise her hand and throw those [[Faekin]] that wished to dream down back to the mortal world. 
 
 
 Finally, upon the reformed world she found him, and she had no one she wanted to see so she seen his true form. So came forth to him with pity, collapsed on his knees, he seen his [[Spirits]] hunt and protect, eat and befriend mortal souls. [[Empathy]] cried to the spirits, to save the dreamers, but he was stopped, with a tight grip of [[Beauty|Danu]]. 
@@ -164,7 +160,15 @@ So did [[Empathy]] look back.
 Countless flickering lights of colorful spirits moved before him — a [[Faekin]] court roaming the dark. And at the heart of it, horizon-black locks upon the ground waving like grass on wind, bound to a feminine figure clad in dress of night sky; he so wished to make. Looking into her glassy black eyes he saw a reflection unbound by blessing of shifting form, his true form, and he shivered in horror stepping back. Seeing one who he wanted to help the most now, himself, for naught were his gifts but self-poisoning without a firm border of where to stop. 
 
 In this, [[Ambition]] was born, and [[Empathy]] learned his heart is a blade of a healer, so easily used to cut himself, so hard to use to save another.
+##### One Last Song of Creation
+Time passed as [[Empathy]] and [[Beauty|Danu]] looked to the spirit world, the nights eternal and dark like this of the first age, flooded with ink. In all the chaos, and all the darkness, did a song ring once more. 
 
+A Duet, of two [[Aspect]]'s, the echoing song ringing across the world and painting it in iridescent lights and magnificent shapes. As the night sky, lighten up with countless little lights all across the now bright [[Spirit World]]. 
+
+> [!info] "The First Song"
+>_Among the [[Faekin]], the night [[Beauty|Danu]] sang beauty into the spirit world is remembered as the First Song — not only for what it gave the world, but for what it gave them. A home. A court to belong to. For the first time, [[Beauty|Danu]] gathered her scattered folk and gave them structure to hold onto._
+>
+>_They remember it as the night they finally had somewhere to be._
 #### The Talk of Ash & Age
 ---
 The horizon bled twilight reds and blues as the blazing hair cooled to ash-grey, the fierce light in her eyes softening to the steady glow of embers. [[Conflict]] sat upon the snow of the mountaintop, and the mountain did not feel like a stop between flights — for the first time, it felt like ground beneath her.
@@ -173,16 +177,16 @@ There, atop the mountain, did she look up to the skies — her silvery counterpa
 
 She saw him — embers as hers, for both a night of rest. For one, a momentary. For the other, eternal. His hands moved to the oldest of pages, and her eyes fell upon the parchment — her first journey, the first day.
 
-> ***For six nights the sun did not rise, and the world below held its breath at the darkness.***
-> 
->**For two nights, they read of Spark,** 
->The first embers planted upon life. The first warmth which kindled mortal passions for the first time. Her eyes looking back, remembering those that yearned for the little warmth it gave. 
-> ***
->**For two nights, they read of Burning,** 
->Spark taken hold. Of the steady licks of fiery tongues that flickered with passions and faith, even in face of crackles among the flame. Her eyes looking back, remembering the rays upon the workers of golden fields, and the wasteland fields of red, remembering those that lived and fell onto ash for others to grow. 
-> ***
->**For two nights, they read of the Inferno**, 
->The Burning fed too much Spark. Flames hotter then those of [[Conflict]] herself.  Of the fear, blazing passions, violence, and the she questioned him for the worth of it all, when all is left is but ash with the red crystal tears swelling in her eyes.
+***For six nights the sun did not rise, and the world below held its breath at the darkness.***
+
+**For two nights, they read of Spark,** 
+The first embers planted upon life. The first warmth which kindled mortal passions for the first time. Her eyes looking back, remembering those that yearned for the little warmth it gave. 
+
+**For two nights, they read of Burning,** 
+Spark taken hold. Of the steady licks of fiery tongues that flickered with passions and faith, even in face of crackles among the flame. Her eyes looking back, remembering the rays upon the workers of golden fields, and the wasteland fields of red, remembering those that lived and fell onto ash for others to grow. 
+
+**For two nights, they read of the Inferno**, 
+The Burning fed too much Spark. Flames hotter then those of [[Conflict]] herself.  Of the fear, blazing passions, violence, and the she questioned him for the worth of it all, when all is left is but ash with the red crystal tears swelling in her eyes.
 
 Above them, the night skies glittered with thousand small bonfires set by the burnt souls, singing upon the black threads of the night skies; and as their eyes moved up from the turning of the last page, as [[Knowledge - Awen|Awen]]'s hand extended towards the horizon of setting flames, where from ashes saplings grew with strength of all that were lost in the inferno. Her gaze followed, and tears no longer fell. 
 

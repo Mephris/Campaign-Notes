@@ -7,4 +7,4 @@
 
 ![[Age of Knowledge - Conflict and Empathy#Empathy Bleeds Out]]
 
-![[Age of Knowledge - Conflict and Empathy#danu]]
+![[Age of Knowledge - Conflict and Empathy#Danu recedes to spirit world]]

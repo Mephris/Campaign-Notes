@@ -6,6 +6,7 @@
       {
         "id": "b16ea384af4a22d8",
         "type": "tabs",
+        "dimension": 42.86632390745501,
         "children": [
           {
             "id": "f18d07be02df030c",
@@ -37,6 +38,20 @@
               "icon": "lucide-file",
               "title": "Age of Miracles - Life & Ambition"
             }
+          },
+          {
+            "id": "a7b68a9abefbecc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tale of The Last Cycle/Timeline/Age of Knowledge - Conflict and Empathy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Age of Knowledge - Conflict and Empathy"
+            }
           }
         ],
         "currentTab": 1
@@ -44,6 +59,7 @@
       {
         "id": "e11a652cf2384f8a",
         "type": "tabs",
+        "dimension": 57.133676092544995,
         "children": [
           {
             "id": "8b2e551fdd752884",
@@ -79,12 +95,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Ambition.md",
+                "file": "Tale of The Last Cycle/Creation/Kin (Species & Races)/Mermaid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ambition"
+              "title": "Mermaid"
+            }
+          },
+          {
+            "id": "e19588a7464bea39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Empathy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Empathy"
             }
           }
         ],
@@ -248,24 +278,29 @@
   },
   "active": "9884f0844e073401",
   "lastOpenFiles": [
-    "Tale of The Last Cycle/Timeline/Age of Miracles - Life & Ambition.md",
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Ambition.md",
-    "Ambition.png",
-    "Tale of The Last Cycle/Terminology & Dictionary/Name.md",
-    "Age of Miracles - Draft.md",
     "Tale of The Last Cycle/Creation/Kin (Species & Races)/Dwergr.md",
+    "Tale of The Last Cycle/Creation/Kin (Species & Races)/Beastkin.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Ambition.md",
+    "Tale of The Last Cycle/Timeline/Age of Miracles - Life & Ambition.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Empathy.md",
+    "Tale of The Last Cycle/Terminology & Dictionary/Name.md",
+    "Pasted image 20260314130631.png",
+    "Tale of The Last Cycle/Creation/Afterlife/Nameless.md",
+    "Tale of The Last Cycle/Creation/Kin (Species & Races)/Mermaid.md",
+    "Pasted image 20260314130408.png",
+    "Pasted image 20260314130323.png",
+    "Tale of The Last Cycle/Creation/Kin (Species & Races)/Faekin.md",
+    "Tale of The Last Cycle/Timeline/Age of Knowledge - Conflict and Empathy.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Beauty.md",
+    "Tale of The Last Cycle/Creation/Afterlife/Death of Soul - Sleep.md",
+    "Ambition.png",
+    "Age of Miracles - Draft.md",
     "Tale of The Last Cycle/Cosmology Graph.canvas",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Life.md",
-    "Tale of The Last Cycle/Creation/Afterlife/Death of Soul - Sleep.md",
     "Tale of The Last Cycle/Creation/Afterlife/Death of Body - Passing.md",
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Empathy.md",
-    "Tale of The Last Cycle/Timeline/Age of Knowledge - Conflict and Empathy.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Conflict.md",
-    "Tale of The Last Cycle/Creation/Kin (Species & Races)/Mermaid.md",
-    "Tale of The Last Cycle/Creation/Kin (Species & Races)/Beastkin.md",
     "Tale of The Last Cycle/Timeline/Age of Creation - Wildern & Beauty.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Wildern.md",
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Beauty.md",
     "Tale of The Last Cycle/Creation/Kin (Species & Races)/Aelf.md",
     "Lot - Stulecia.md",
     "Flight(Centuries).md",
@@ -275,9 +310,7 @@
     "Conflict_Settles.png",
     "Untitled.canvas",
     "Wildern.png",
-    "Tale of The Last Cycle/Creation/Afterlife/Nameless.md",
     "Tale of The Last Cycle/Creation/Afterlife/Spirit World.md",
-    "Tale of The Last Cycle/Research - Fable.md",
     "Tale of The Last Cycle/Creation/Afterlife",
     "Conflict.png",
     "Jagged Loom stained with Ichor.png",
@@ -292,9 +325,6 @@
     "Tale of The Last Cycle/Entities/Primevals",
     "Fable World/Entities/Untitled.canvas",
     "Fable World/Timeline/Untitled.base",
-    "Athra/Cosmology/Cycle/Entities/Pic/Black Veil.png",
-    "Athra/Cosmology/Cycle/Entities/Pic/Ishtar.png",
-    "Athra/Cosmology/Cycle/Entities/Pic/Nameless.png",
-    "Athra/World Information/Aspects/Pic/Amity.png"
+    "Athra/Cosmology/Cycle/Entities/Pic/Black Veil.png"
   ]
 }
