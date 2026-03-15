@@ -1,4 +1,5 @@
 ![[Pasted image 20260314130631.png]]
+> [!NOTE] _**"I can be more"**, Necessity, Black Star, Hunger_
 **Lesson: You are enough as you are, self mutilating yourself into feelings of inadequacy make live a life of bitter falsehoods.**
 
 ---
@@ -45,10 +46,10 @@ For days he retreated from the eyes of his kin, walking the ashen mortal lands a
 
 So he walked. And he did not notice the little things at first.
 
-The beggar by the road with hollow eyes — [[Ambition]] looked to the beggar as if at his own reflection, and with a bite of his lip he whispered a name onto her. 
+The beggar by the road with hollow eyes — [[Ambition]] looked to the beggar as if at his own reflection, and with a bite of his lip he whispered a [[Name]] onto her. 
 >_"You can be more than this."_
 
-The young man apprenticed to the wrong trade, frame bowed under the unfitting weight, the waste of it — so he left a quiet Name in his wake. 
+The young man apprenticed to the wrong trade, frame bowed under the unfitting weight, the waste of it — so he left a quiet [[Name]] in his wake. 
 >_"You can be more than this."_
 
 The child sitting outside a closed door, waiting for someone who was not coming — he did not stop. He just let the words fall as he passed, soft as ash. 
@@ -58,11 +59,33 @@ He was not trying to help. He was not trying to build anything. He was simply wa
 
 It happened slowly — the beggar on her feet now, the young man following the bold dream, the child with somewhere to be. Others too, ones he barely remembered passing. They did not follow loudly. They just drifted in his wake like morning mist, without knowing why.
 
-There they were, the Named crowd, his followers. Eyes that held a familiar glint to his own. Something that looked almost like the thing he had been trying to gather with a robe and a dagger and a manor and had lost.
+There they were, the [[Name]]d crowd, his followers. Eyes that held a familiar glint to his own. Something that looked almost like the thing he had been trying to gather with a robe and a dagger and a manor and had lost.
 
-There on the hill he stood, looking back at the ambition left in his wake, at each of the once empty eyes dreaming again. He smiled softly and felt his own spark glitter once more, and hunger followed.
+There on the hill he stood, looking back at the ambition left in his wake, at each of the once empty eyes dreaming again. He smiled softly and felt his own spark glitter once more, and hunger followed with a [[Name]]. 
 
 > "_I can be more than this._"
 
-He turned back around and kept walking. But differently now. Head up. Eyes forward — All-Seeing.
+He turned back around and kept walking. But differently now. Head up. Eyes forward — All-Seeing to all but himself. 
+### The Black Star
+---
+> _Among all the shifting skies, only one you can always depend on, only one shines for us to navigate the dangerous seas, the wild forests. A star of deep dark blue hue shining softly at the side of the skies._
+---
+
+The mortal cities were now walked by an [[Aspect]], like a beacon for the abused by the plague of gold. So did in the dark grimy alleys, among the starving beggars a cloaked figure pass with whisper on his lips, and the beggars followed him like sailors to the black star.
+
+[[Ambition]] walked onwards, the beggars growing into merchants and thieves. So he walked deeper to districts of red where gold bought flesh and threw forth a pocketful of coin, buying himself flesh with a Name like a curse engraved upon it.
+
+_"They whose actions and forms are bound only by Ambition."_
+
+For all has a price in this world.
+
+[[Ambition]] walked onwards, his Garments following him and taking hold in the cities he passed. And among all the broken, a question he asked. Why? What is the purpose of it all, what is all this suffering for?
+
+So would he walk to his followers, to a merchant, and ask — _What is the meaning of life?_ And the merchant answered by showing glittering coins and all they could buy. But this answer was not enough.
+
+So would [[Ambition]] walk to his followers, to a warrior, and ask — _What is the meaning of life?_ And the warrior showed him numerous scars like badges of honor. But this answer was not enough.
+
+So did he walk to the closest of his Garments, to his Saint, and ask — _What is the meaning of life?_ And his Saint looked upon all the followers as if they were the answer. But this was not enough.
+
+So his feet led him the only way he could find — forward. And there he witnessed her, the wild thing, thrown over her predatory frame his first robe, bearing in hand his dagger, and in her shadow stood his manor.
 
