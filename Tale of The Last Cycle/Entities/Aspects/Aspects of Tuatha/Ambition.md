@@ -9,7 +9,7 @@
 
 ---
 
-### Birth of [[Ambition]]
+### Birth of Ambition
 ---
 As the Spirit World was drowned in screams and laughs of [[Spirits]]. A young [[Aspect]], walked the [[Spirit World]], the little spark in the darkness with his mind remembering the courts of [[Faekin]], the endless sky dress of [[Beauty|Danu]]. It had decided to make a robe of their own, to find people of its own, and set out to act.
 

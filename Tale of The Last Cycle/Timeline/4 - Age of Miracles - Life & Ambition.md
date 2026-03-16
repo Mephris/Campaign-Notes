@@ -30,7 +30,7 @@
 
 ### The Black Sea
 
-> [!abstract] _When the world burned at the end of the [[Age of Creation - Wildern & Beauty|Age of Creation]], the surviving ink sank to the deepest places below the ocean floor. The Black Sea forms — lightless, cold, the dregs of the old world preserved in the new._
+> [!abstract] _When the world burned at the end of the [[2 - Age of Creation - Wildern & Beauty|Age of Creation]], the surviving ink sank to the deepest places below the ocean floor. The Black Sea forms — lightless, cold, the dregs of the old world preserved in the new._
 > 
 > _[[Ambition]] throws [[Life]] into the Black Sea._
 > 

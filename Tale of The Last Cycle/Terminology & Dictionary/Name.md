@@ -28,7 +28,7 @@ To follow a will of an [[Aspect]] is to bathe in their blessings, the gift they 
 ---
 The [[Name]] does not define the mortal, it makes a road easier whenever the mortal follows its nature. However there are cases where mortals decide to rise up without usage of their name, such cases were the:
 - **Edal Precedent** Edal was gifted the Name of Victory "He who always rises equal to the challenge". However in the end he chose to abandon the comfort of this blessing to act as a pure mortal. 
-- **Saint of Ambition** In the [[Age of Miracles - Life & Ambition]] a mortal was bound by a name "They who's actions and forms are bound only by Ambition", resulting in many forceful shifts and possessions, early in their life the saint had events where they defied their name and stopped the shift or possession. (Among [[Aspect]] Ambition was only one to treat "Names are simply clothes")
+- **Saint of Ambition** In the [[4 - Age of Miracles - Life & Ambition]] a mortal was bound by a name "They who's actions and forms are bound only by Ambition", resulting in many forceful shifts and possessions, early in their life the saint had events where they defied their name and stopped the shift or possession. (Among [[Aspect]] Ambition was only one to treat "Names are simply clothes")
 
 ### The Act of Self-Naming
 ---

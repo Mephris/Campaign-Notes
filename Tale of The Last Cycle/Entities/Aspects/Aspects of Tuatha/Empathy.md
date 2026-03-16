@@ -3,8 +3,8 @@
 ## Story
 ### Age of Knowledge
 
-![[Age of Knowledge - Conflict and Empathy#Birth in Horror - Empathy]]
+![[3 - Age of Knowledge - Conflict and Empathy#Birth in Horror - Empathy]]
 
-![[Age of Knowledge - Conflict and Empathy#Empathy Bleeds Out]]
+![[3 - Age of Knowledge - Conflict and Empathy#Empathy Bleeds Out]]
 
-![[Age of Knowledge - Conflict and Empathy#Danu recedes to spirit world]]
+![[3 - Age of Knowledge - Conflict and Empathy#Danu recedes to spirit world]]

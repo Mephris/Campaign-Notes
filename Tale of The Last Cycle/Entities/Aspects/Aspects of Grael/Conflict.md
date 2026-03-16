@@ -11,11 +11,11 @@ Three grand lessons of conflict speak of:
 
 ### Age of Knowledge
 
-![[Age of Knowledge - Conflict and Empathy#Birth in Flames - Firebird]]
+![[3 - Age of Knowledge - Conflict and Empathy#Birth in Flames - Firebird]]
 
-![[Age of Knowledge - Conflict and Empathy#Conflict Settles]]
+![[3 - Age of Knowledge - Conflict and Empathy#Conflict Settles]]
 
-![[Age of Knowledge - Conflict and Empathy#The Talk of Ash & Age]]
+![[3 - Age of Knowledge - Conflict and Empathy#The Talk of Ash & Age]]
 
 
 

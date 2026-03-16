@@ -16,7 +16,7 @@ The Wildaelf family contains all the creations of [[Wildern]] that came from her
 > > **Proto-Indo-European (PIE) Core:** Likely from the root ***mey-** (“small,” “thin,” or “soft”).
 > > **Original Meaning:** "Smooth," "fine," "delicate," "soft," or "gentle."
 
-In the [[Age of Creation - Wildern & Beauty|Age of Creation]], [[Wildern]] took upon herself to purify her creations, the peaceful animals eating the wicked black roots were took onto the loom and reformed onto Min. 
+In the [[2 - Age of Creation - Wildern & Beauty|Age of Creation]], [[Wildern]] took upon herself to purify her creations, the peaceful animals eating the wicked black roots were took onto the loom and reformed onto Min. 
 
 Min are slender humanoids around 4-6(1.52 m - 1.83m) feet tall with sharp ended ears, the remainder of their beastly ancestor, and lightly skinned colors living mainly in the northern mountains. 
 ### Mòr - Móraelf
@@ -33,7 +33,7 @@ Mór are lean but muscular humanoids around 6-8 feet tall(1.83m - 2.44m) with sh
 > **PIE Core:** From the root ***sal-** ("salt," "grey," or "dirty").
 > Later in Scottish Gaelic it becomes Salach ("stained")
 
-During the [[Age of Knowledge - Conflict and Empathy|Age of Knowledge]] when [[Wildern]] regrew its body, they were the Wildaelf that abandoned the stability of flesh and traveled south, finding their regrown creator in an area now known as [[Wilderguard]]. 
+During the [[3 - Age of Knowledge - Conflict and Empathy|Age of Knowledge]] when [[Wildern]] regrew its body, they were the Wildaelf that abandoned the stability of flesh and traveled south, finding their regrown creator in an area now known as [[Wilderguard]]. 
 
 After centuries of crossing bloodlines with their own creator and many events they regressed to tribal nomadic society, in appearance they are very close to [[Aelf#Mìn - Minaelf|Min]], slender, their height being from 4 to 6 feet (1.22 m- 1.83m) tall. However unlike Min their skin is tanned. 
 
@@ -44,6 +44,6 @@ After centuries of crossing bloodlines with their own creator and many events th
 >>**Proto-Indo-European (PIE) Core:** From the root ***dem-** (“to build,” “house,” or “to domesticate”).
 >>**Original Meaning:** "Tame," "broken," "accustomed to the hand," or "brought into the house."
 
-During the [[Age of Creation - Wildern & Beauty]], while [[Wildern]] tried to cleanse creation of the ink she threw aside the stained creation and ink. Causing the Tamaelf, The Broken White, to be created. 
+During the [[2 - Age of Creation - Wildern & Beauty]], while [[Wildern]] tried to cleanse creation of the ink she threw aside the stained creation and ink. Causing the Tamaelf, The Broken White, to be created. 
 
 During the age of their creation, Tam were numerous, abandoned by their creator, causing them to fall into hands of [[Beauty]] until the end of an Age, after the [[Wildern#The Lesson]] she reconciled with [[Beauty]], taking the Tam back into her care under a form of their own, the Wildmother.
