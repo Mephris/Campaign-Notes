@@ -89,5 +89,6 @@ So did he walk to the closest of his Garments, to his Saint, and ask — _What i
 
 So his feet led him the only way he could find — forward. And there he witnessed her, the wild thing, thrown over her predatory frame his first robe, bearing in hand his dagger, and in her shadow stood his manor.
 
-Then did he walk up to [[Life]], his hand gripping to her collar, his robe, 
+Then did he walk up to [[Life]], his hand gripping to her collar — his robe. With contained fury asking. 
+**What is the meaning of you?**
 
