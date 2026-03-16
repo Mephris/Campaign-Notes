@@ -11,17 +11,17 @@
 
 ### Birth of [[Ambition]]
 ---
-As the Spirit World drowned in screams and laughs under the eye of [[Beauty|Danu]] and [[Empathy]], a newborn creation slipped them both. A young [[Aspect]], walking the [[Spirit World]] was [[Ambition]], the little spark in the darkness with his mind remembering the courts of [[Faekin]], the endless sky dress of [[Beauty|Danu]]. It had decided to make a robe of their own, to find people of its own, and set out to act.
+As the Spirit World was drowned in screams and laughs of [[Spirits]]. A young [[Aspect]], walked the [[Spirit World]], the little spark in the darkness with his mind remembering the courts of [[Faekin]], the endless sky dress of [[Beauty|Danu]]. It had decided to make a robe of their own, to find people of its own, and set out to act.
 
-During his travels, he found silvery colored strands and a dreamer, a weaver who wove beautiful world, so they spoke and for [[Ambition]] they wove a beautiful pale stainless robe.
+During his travels, he found silvery colored strands and a dreamer, a weaver who wove the strands into beautiful fabrics, so they spoke and for [[Ambition]] they wove a beautiful pale stainless robe.
 *In return they asked for a name, for naught is free in this world, and they were named "The Best Weaver."*
-[[Ambition]] held the robe to the light and was satisfied. [[Beauty|Danu]] had her sky-dress. Now he had something too.
+[[Ambition]] held the robe to the light and was satisfied. [[Beauty|Danu]] had her sky-dress. Now he had one too. 
 
-So he traveled onward satisfied, and he found an old dreamer, a smith, and so he asked them to make him a beautiful ornate dagger. So he could protect himself and no longer just hide from the ferocious spirits.
+So he traveled onward satisfied, and he found an old dreamer surrounded by many shimmering rocks, a smith, and so he asked them to make him a beautiful ornate dagger. So he could protect himself and no longer just hide from the ferocious spirits.
 *In return they asked for a name, for naught is free in this world, and they were named "The Best Smith."*
 [[Ambition]] turned the dagger in his hand and felt safer. [[Empathy]] had his vast [[Nameless]] world to retreat to. Now he had something to protect himself too.
 
-The newborn [[Aspect]] further traveled and protected himself, hiding when he could, attacking when he should, and he came across a great stone manor, and he seen a dreamer, stone worker, so he asked him to make him a manor of shadows. That would hide within the shadow of [[Ambition]].
+The newborn [[Aspect]] further traveled and protected himself, hiding when he could, attacking when he should, and he came across a great stone manor before which he seen a dreamer, stone worker, so he asked him to make him a manor of shadows. That would hide within the shadow of [[Ambition]].
 *In return they asked for a name, for naught is free in this world, and they were named "The Best Mason."*
 [[Ambition]] stood before his shadow manor and felt, for the first time, close to something. He had a robe. He had a blade. He had a home. He had things to show. He wondered if the other [[Aspect|Aspects]] would look at what he had built and finally see him standing among them.
 
@@ -88,4 +88,6 @@ So would [[Ambition]] walk to his followers, to a warrior, and ask — _What is 
 So did he walk to the closest of his Garments, to his Saint, and ask — _What is the meaning of life?_ And his Saint looked upon all the followers as if they were the answer. But this was not enough.
 
 So his feet led him the only way he could find — forward. And there he witnessed her, the wild thing, thrown over her predatory frame his first robe, bearing in hand his dagger, and in her shadow stood his manor.
+
+Then did he walk up to [[Life]], his hand gripping to her collar, his robe, 
 
