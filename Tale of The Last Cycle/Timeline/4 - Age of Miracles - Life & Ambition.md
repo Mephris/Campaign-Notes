@@ -21,11 +21,9 @@
 > - Ambition after age = takes responsibility, goes to Danu, first steps toward engaging with others
 ---
 ## The Dawn of an Era
-
 ### Birth of [[Life]]
 ---
 > [!abstract] _[[Life]] emerges as a [[Grael]] Aspect. Feminine, cheerful, muscleheaded. Born with one compulsion — continue. The world is new and she crashes into it._
-
 ## Flourishing of an Age
 
 ### The Black Sea
