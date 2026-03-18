@@ -79,17 +79,14 @@
             "id": "96e3d4103296d10c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Tale of The Last Cycle/Cosmology Graph.canvas",
-                "viewState": {
-                  "x": 2764.0442800963915,
-                  "y": 1823.202960799894,
-                  "zoom": -2.3701307754845926
-                }
+                "file": "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Life.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Cosmology Graph"
+              "icon": "lucide-file",
+              "title": "Life"
             }
           },
           {
@@ -135,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -294,13 +291,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96e3d4103296d10c",
+  "active": "9884f0844e073401",
   "lastOpenFiles": [
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Life.md",
+    "Tale of The Last Cycle/Cosmology Graph.canvas",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Ambition.md",
     "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Empathy.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Conflict.md",
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Ambition.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Beauty.md",
     "Wildern.png",
     "Pasted image 20260314130631.png",
@@ -329,7 +327,6 @@
     "Tale of The Last Cycle/Creation/Kin (Species & Races)/Faekin.md",
     "Tale of The Last Cycle/Creation/Afterlife/Death of Soul - Sleep.md",
     "Age of Miracles - Draft.md",
-    "Tale of The Last Cycle/Cosmology Graph.canvas",
     "Tale of The Last Cycle/Creation/Afterlife/Death of Body - Passing.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Wildern.md",
     "Untitled.canvas",

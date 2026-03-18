@@ -92,3 +92,47 @@ So his feet led him the only way he could find — forward. And there he witness
 Then did he walk up to [[Life]], his hand gripping to her collar — his robe. With contained fury asking. 
 **What is the meaning of you?**
 
+#### The Endless Return
+
+---
+> [!note]
+> _Life surfaces from wherever she fell — pure instinct, no plan, no memory of the last time. Wearing Ambition's robe, bearing his dagger, the shadow of his manor trailing behind her. She does not know why she has these things. She just held onto them when she found them and has not let go._
+> 
+> _Ambition demands answers. She doesn't give them — she attacks. He strikes her down. She sinks._
+> 
+> _She returns._
+> 
+> _Each time she surfaces she names whatever she finds first. Beasts, creatures, simple brutal commands burned into living things. Live. Breed. Survive. Grow. Spread. The named beasts flood out across the world, shifting and changing, some growing upright, some growing vast. No shape holds long because she names them differently each time she surfaces — she does not remember what she named before._
+> 
+> _Ambition responds by moving his followers. Cities grow walls. Nations form around the pressure of containing what Life keeps releasing. A century of this. Neither winning. Neither stopping. The world loud and chaotic and alive in ways neither of them planned._
+> 
+> _Life does not fight to win. She fights because that is what she is. The robe stays on. The dagger stays in her hand. She surfaces. She names. She falls. She returns._
+
+---
+
+#### The Dragon
+
+---
+> [!note]
+> _Life surfaces and finds a beast already half-thinking — a dragon, old and vast, eyes that hold something almost like understanding. She names it as she names everything. But this time the name lands differently, sinks deeper, catches on something already there. True intelligence blooms in the dragon's mind like fire finding dry wood._
+> 
+> _Ambition sees what she has made and names it before she can use it against him._
+> 
+> _"I can be more."_
+> 
+> _The dragon turns. Strikes Life into the abyss — still wearing the robe, still gripping the dagger, the manor's shadow swallowing her as she sinks. Ambition watches her go._
+> 
+> _The dragon does not disappear. It builds. Beastmen fall under its shadow, tribes form around its cult, wars begin at its word. It comes to Ambition — shows him its kingdoms, its followers, its conquests. It expects recognition. It expects pride._
+> 
+> _Ambition looks at it._
+> 
+> _The dragon's eyes hold something familiar. The hunger that is never full. The reaching that has no destination. The winning that feels like nothing. It shows him another conquest and waits, and Ambition sees himself standing there waiting for someone to finally tell him it is enough._
+> 
+> _It is never enough._
+> 
+> _He walks away from the dragon. It does not follow — it has kingdoms to consume. And Ambition walks through the world his war with Life built, through the wreckage of nations and the ash of things that burned, still carrying the question nobody has answered._
+> 
+> _What is the meaning of life?_
+
+---
+

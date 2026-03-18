@@ -1,3 +1,3 @@
 **Lesson:** 
 Life has no meaning but what you make for it
-We are fated 
+Stubbornly holding onto path you wish to take yourself makes you blind for all the occasions that pass by you. 
