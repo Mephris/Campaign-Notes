@@ -6,7 +6,7 @@
       {
         "id": "b16ea384af4a22d8",
         "type": "tabs",
-        "dimension": 42.866323907455005,
+        "dimension": 61.143462149285334,
         "children": [
           {
             "id": "f18d07be02df030c",
@@ -59,7 +59,7 @@
       {
         "id": "e11a652cf2384f8a",
         "type": "tabs",
-        "dimension": 57.133676092544995,
+        "dimension": 38.85653785071466,
         "children": [
           {
             "id": "8b2e551fdd752884",
@@ -291,12 +291,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9884f0844e073401",
+  "active": "12ce1735667ea814",
   "lastOpenFiles": [
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Life.md",
-    "Tale of The Last Cycle/Cosmology Graph.canvas",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Ambition.md",
     "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Life.md",
+    "Tale of The Last Cycle/Cosmology Graph.canvas",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Empathy.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Conflict.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Beauty.md",
