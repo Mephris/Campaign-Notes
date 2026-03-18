@@ -79,10 +79,17 @@
             "id": "96e3d4103296d10c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Tale of The Last Cycle/Cosmology Graph.canvas",
+                "viewState": {
+                  "x": 2764.0442800963915,
+                  "y": 1823.202960799894,
+                  "zoom": -2.3701307754845926
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Cosmology Graph"
             }
           },
           {
@@ -201,6 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tale of The Last Cycle/Cosmology Graph.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +218,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Cosmology Graph"
             }
           },
           {
@@ -219,11 +227,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tale of The Last Cycle/Cosmology Graph.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Cosmology Graph"
             }
           },
           {
@@ -247,12 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Tale of The Last Cycle/Cosmology Graph.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Cosmology Graph"
             }
           },
           {

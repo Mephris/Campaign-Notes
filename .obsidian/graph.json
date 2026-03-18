@@ -3,28 +3,20 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"Tale of The Last Cycle\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 41888
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0.1,
-  "nodeSizeMultiplier": 0.546614583333333,
-  "lineSizeMultiplier": 0.393489583333333,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.3203125,
-  "repelStrength": 8.38541666666667,
-  "linkStrength": 0.533854166666667,
-  "linkDistance": 411,
-  "scale": 0.25883865621816193,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.7132754626224399,
   "close": true
 }
