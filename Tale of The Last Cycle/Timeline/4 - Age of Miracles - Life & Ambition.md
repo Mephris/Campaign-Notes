@@ -1,27 +1,12 @@
 # Age of Miracles
 
----
+## The Dawn of an Era
 
-> [!quote] Placeholder
+> [!tldr] Birth of Ambition
+> _Born in the Spirit World from Empathy's moment of jealousy watching Danu's court. Sets out to find tools and people of his own. Finds the tools — robe, dagger, manor — but people don't follow. Learns all has a price. Gets stripped of everything by the old dreamer's violet brew. Sits alone in the dark with nothing but the spark he started as._
 
----
-> [!warning] _Raw plot notes_
-> 
-> - Life = muscleheaded brawler, cheerful, Grael aspect, feminine
-> - Ambition = shut-in, self-contained, masculine, dark empath, born from Empathy's moment of jealousy at Danu's court
-> - Ambition's wound = chronic inadequacy dressed as hunger, feels everyone's wanting and measures himself against it
-> - Ambition's lesson = you are enough as you are, self-mutilating yourself into feelings of inadequacy makes a life of bitter falsehoods
-> - Black Sea = surviving ink from Age of Creation burning, sank to deepest place
-> - Leviathan = predator of lightless nights, origin mysterious, already in the deep
-> - Dwergr = born from Ambition's profaned Naming + self-naming onto Grael flesh
-> - Fate born from Life accepting the shape of things at the bottom
-> - Hope born from the girl's answer under the silvery moon
-> - Girl becomes Aspect of Miracles — connection to magic to be decided later
-> - Life after age = zen, accepting, "oh well that's life"
-> - Ambition after age = takes responsibility, goes to Danu, first steps toward engaging with others
----
-
-## Ambition Side
+> [!warning] Birth of Life
+> **Placeholder**
 ### Birth of Ambition
 ---
 As the Spirit World was drowned in screams and laughs of [[Spirits]]. There was a young spark that walked the [[Spirit World]], an [[Aspect]] mind bound in awe of the [[Faekin]] courts and the the endless sky dress of [[Beauty|Danu]]. It had decided to make a robe of their own, to find people of its own, and set out to act. 
@@ -49,7 +34,15 @@ One day, while gathering flowers for his brew, he met an old hunched dreamer sit
 He found himself stripped of all but the spark he began as. No more did he have the beauty of his robe, no more the protection of his dagger, no more the comfort of his home. In all the gifts gone he looked at himself, the insignificant spark, and sat in the dark for a long time, trying to think why he had forgotten.
 
 _Naught is free in this World._
-### The Dream
+
+### Birth of Life
+
+> [!warning] Placeholder — Life's origin to be decided.
+
+## Flourishing of an Age
+
+### Ambition
+#### The Dream
 ---
 _Naught is free in this world._
 
@@ -81,7 +74,7 @@ There on the hill he stood, looking back at the ambition left in his wake, at ea
 > "_I can be more than this._"
 
 He turned back around and kept walking. But differently now. Head up. Eyes forward — All-Seeing to all but himself. 
-### The Black Star
+#### The Black Star
 ---
 > _Among all the shifting skies, only one you can always depend on, only one shines for us to navigate the dangerous seas, the wild forests. A star of deep dark blue hue shining softly at the side of the skies._
 ---
@@ -106,8 +99,8 @@ So his feet led him the only way he could find — forward. Onto a cliff of shar
 Then did he walk up to [[Life]], his hand gripping to her collar — his robe. With contained fury asking. 
 **What is the meaning of you?**
 
-
-### The Endless Return
+### Collision
+#### The Endless Return
 ---
 Sudden, she felt the grip on her robe — her eyes snapping to [[Ambition]], and quickly she heard him, the wrathful question like a growl of a beast. Her hand moved without thought, dagger finding his abdomen. The strike connected, and just as it did she felt the world tilt as his hand shoved her back — falling, down the sharp rocks, her head striking stone as she plunged into the water below.
 
@@ -157,4 +150,155 @@ It ripped the ground from her hands and let her fall into the waters. All she co
 > [!quote] _"What is the meaning of me?"_
 
 She fell — the robe and manor pulling her deep. But this time she did not fight. She welcomed the dark waters of the Black Ocean, giving up all — an [[Aspect]] questioning its own name.
+## Twilight of an Age
+
 # Notes
+
+> [!warning] Raw plot notes
+> 
+> - Life = muscleheaded brawler, cheerful, Grael aspect, feminine
+> - Ambition = shut-in, self-contained, masculine, dark empath, born from Empathy's moment of jealousy at Danu's court
+> - Ambition's wound = chronic inadequacy dressed as hunger, feels everyone's wanting and measures himself against it
+> - Ambition's lesson = you are enough as you are, self-mutilating yourself into feelings of inadequacy makes a life of bitter falsehoods
+> - Black Sea = surviving ink from Age of Creation burning, sank to deepest place
+> - Leviathan = predator of lightless nights, origin mysterious, already in the deep
+> - Dwergr = born from Ambition's profaned Naming + self-naming onto Grael flesh
+> - Fate born from Life accepting the shape of things at the bottom
+> - Hope born from the girl's answer under the silvery moon
+> - Girl becomes Aspect of Miracles — connection to magic to be decided later
+> - Life after age = zen, accepting, "oh well that's life"
+> - Ambition after age = takes responsibility, goes to Danu, first steps toward engaging with others
+
+## The Dawn of an Era
+
+### Birth of Ambition
+
+> _Already written — see [[Age of Miracles#Birth of Ambition]]_
+> 
+> _Born in the Spirit World from Empathy's moment of jealousy watching Danu's court. Sets out to find tools and people of his own. Finds the tools — robe, dagger, manor — but people don't follow. Learns all has a price. Gets stripped of everything by the old dreamer's violet brew. Sits alone in the dark with nothing but the spark he started as._
+
+### Birth of Life
+
+> [!warning] Placeholder — Life's origin to be decided.
+
+---
+
+## Flourishing of an Age
+
+### Ambition — The Dream & The Black Star
+
+> _Already written — see [[Age of Miracles#The Dream]] and [[Age of Miracles#The Black Star]]_
+> 
+> _Ambition falls onto the mortal world. Walks with head down, surviving. Begins whispering Names onto the broken — "You can be more than this." — Mark upon Stain, Tuatha-side, invisible in the waking world. Followers drift in his wake without knowing why. He self-names: "I can be more than this." Head comes up. Keeps walking, differently now._
+> 
+> _Travels deeper into mortal cities. Names the Saint — "They whose actions and forms are bound only by Ambition" — the most extreme Named in the cosmology, resulting in possessions and forced shifts._
+
+> [!NOTE] The Saint of Ambition Among all the Named of this age, one was bound tighter than any other. _"They whose actions and forms are bound only by Ambition"_ — a Mark upon Stain so deep it forced shifts and possessions upon the bearer. Early in their life the Saint had moments of defiance, stopping the shifts through sheer will. Ambition alone among the Aspects treated Names as merely clothes — something to be worn or set aside. The Saint tested that philosophy more than any mortal before or since. _See [[Name#The Act of Defiance]]_
+
+### Life — First Rises
+
+> [!warning] Placeholder — Life's early movements before the cliff to be decided.
+> 
+> _Establish her character here — muscleheaded, cheerful, brawler. She names things without thinking. Plants, beasts, simple commands. She is strong and warm and not yet tested._
+
+---
+
+## Collision
+
+### The Cliff — Ambition Finds Life
+
+> _Already written — see [[Age of Miracles#The Endless Return]] opening_
+> 
+> _Ambition travels the mortal world looking for the meaning of it all. Asks his followers — merchant, warrior, Saint — none of their answers are enough. His feet lead him to the sharp cliff above the Black Sea. There he finds Life, wearing his robe, holding his dagger, his manor's shadow at her heels._
+> 
+> _He grips her collar. Asks: "What is the meaning of you?"_
+> 
+> _She stabs him. He shoves her off the cliff._
+
+### The Endless Return — Rise, Name, Fall
+
+> _Already written — see [[Age of Miracles#The Endless Return]]_
+> 
+> _The battle cycle. Life rises and falls repeatedly. Each climb she names something new — plants, beasts, Totems, the Immortal Dragon. Totems emerge here, vast female beasts that procreate without a mate, becoming mothers of Beastkin lineages. Ambition recovers his dagger, calls his followers, towns form, walls rise against the beast hordes._
+
+> [!NOTE] Totems Among the creatures [[Life]] named across her countless climbs, some took hold differently than others. These were the **Totems** — female beasts named with something larger than _Live_ or _Spread_, vast and strong, blessed sometimes with immortality. Unlike the beasts that named and scattered, Totems could procreate without a mate, becoming mothers of whole lineages of [[Beastkin]]. Where the lesser named beasts were more animal than kin, the Totems were something between — too large and too old to be mortal, too bound to flesh to be Aspect. Many Beastkin tribes of later ages trace their lineage back not to [[Life]] herself, but to the Totem that bore them.
+
+### The Dragon
+
+> _Already written — see [[Age of Miracles#The Dragon]]_
+> 
+> _Life rises, names a second dragon. Ambition names the white-scale "I can be more" to drive it off his followers. The jealous white-scale strikes Life down before she can finish naming the second. Life falls asking "What is the meaning of me?" for the first time. She does not fight the water this time. She sinks._
+> 
+> _Above, the white-scale forms a cult of beasts. Ambition watches, feels disgusted, walks away empty._
+
+---
+
+## Twilight of an Age
+
+### Ambition — The Plague Lands & The Girl
+
+> _Ambition walks the dying world. Life-less plague cuts mortal lives short. He travels through it, seeing the broken, the starving, the suffering — his Named creatures ruling but the pain persisting, unfixable._
+> 
+> _He meets the girl. She has lost her parents to the plague she herself is dying from. She plants flowers on graves, hides trinkets around the village for others to find. He cannot understand it._
+> 
+> _He screams: "WHY DO YOU GO ON?!"_
+> 
+> _She answers cheerfully, offering him a crown of violet flowers: "I may fall, but others will continue. I am laying down gifts to them, I am helping them so they smile. And because I want to — my last year is worth a smile."_
+> 
+> _Ambition sees the gift. Sees there are things of no price in this world. In her answer he finds not an answer, but Hope._
+> 
+> _So was Hope born. The crown of flowers lands upon its head. The girl becomes the [[Aspect of Miracles]]._
+
+### Life — The Black Sea & The Leviathan
+
+> _Life sinks to the floor of the Black Sea. Sees the young leviathans devouring each other endlessly. Sees herself in it._
+> 
+> _At the heart of the deep she finds the great Leviathan mother, frozen in time, sleeping. She wakes._
+> 
+> _The Leviathan asks: "Life is always a struggle, to live is to suffer — in all of it, what is your life to you?"_
+> 
+> _Life looks up at the leviathans devouring each other and understands. Life is struggle. Endless, painful, beautiful at times and loving at others. The world is Fated for the suffering to continue._
+> 
+> _So was Fate born._
+> 
+> _Fate speaks to Life: "Do not worry. I can see what awaits us. Get up — it will not always be like this. I know what awaits, and it is beautiful."_
+> 
+> _The Life-less plague is healed across the world._
+
+---
+
+## Aftermath
+
+### Life Recedes
+
+> _Life gives her creations one last Name: "To all who bear my name, I bestow intelligence — to see, to learn, to avoid the mistakes of my actions."_
+> 
+> _All named beasts, some humanoid in nature, gain intelligence equal to mortals. The white-scale gains intelligence. Beastkin gather under their animal Totems._
+> 
+> _Fate speaks to the Leviathan mother — her countless eggs become [[Merfolk]], freed from the cycle of self-devouring._
+> 
+> _Life recedes to peaceful acceptance. Imperfect, painful, and with a beautiful future._
+
+### Ambition — The Dragon & Wildern's Cameo
+
+> _Ambition sees the Dragon with Hope and Miracle beside him. Sees himself in it — the unmoderated hunger, the self-mutilated worth, a creature he sentenced to the cruel life he himself lived._
+> 
+> _He asks for help. Conflict is too busy managing the flames of the war. Danu and Empathy are overwhelmed by the influx of souls in the spirit world. So he goes to [[Wildern]]._
+> 
+> _She rises the old woodcutter's axe. The loom, fallen long ago, she raises once more. She agreed._
+
+### The Loom & The Dragon
+
+> _Ambition and Wildern fight the Dragon. Ambition tries to cut out the Name he marked its soul with. Wildern strikes at its body — the Dragon laughs as it regenerates, for it has surpassed Aspects._
+> 
+> _Wildern laughs with delight. What durable material for the loom._
+> 
+> _She calls the loom. It grabs the Dragon and pulls it all the way to the Cleaved Cradle. There she softly, mercifully unveils it onto many forms._
+> 
+> _Ambition cuts his soul into dozens — so he would always have a family._
+> 
+> _From the white-scale's strand: bodies. From the white-scale's soul: souls. Creation of the [[Aelf]] Ice Clan and [[Dragonkin]]. The Dragon and its creator, at peace at last._
+
+---
+
+_See also: [[Age of Knowledge — Conflict and Empathy]], [[Age of Fate & Hope]], [[Aspect of Life]], [[Aspect of Ambition]], [[Aspect of Miracles]], [[Aspect of Fate]]_
