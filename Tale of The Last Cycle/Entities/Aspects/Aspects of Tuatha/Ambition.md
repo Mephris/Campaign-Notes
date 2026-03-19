@@ -1,4 +1,4 @@
-![[Pasted image 20260314130631.png]]
+![[First Song.png]]
 > [!NOTE] _**"I can be more"**, Necessity, Black Star, Hunger_
 **Lesson: You are enough as you are, self mutilating yourself into feelings of inadequacy make live a life of bitter falsehoods.**
 
