@@ -119,6 +119,8 @@ Above her on the cliff edge, [[Ambition]] knelt — red ink stained hand pressed
 *She rose once more* — pulling herself up, the robe heavy with water, the manor's shadow dragging at her heels like an anchor. She named the beasts of the lush forests: _Live. Breed. Survive. Grow. Spread. Humanoid._ Her beastly children rose against [[Ambition]] in fury, and she climbed higher. So did [[Ambition]] rise his dagger and call upon his garments to end the furious hordes.
 *She fell*, slipping on rock made wet with the ichor of her own [[Beastkin]].
 
+Among those named, some took hold differently — vast female beasts that needed no mate to fill the forests with their young. The [[Beastkin]] called them [[Totems]], and followed them as tribes follow chieftains.
+
 In wake of the great hunt, did they make towns and cities near the sharp cliff, the merchant with curse of gold forming many towns, the warrior gathering scars and the Saint feeding the starved with beast flesh.
 
 *She rose once more* — pulling herself up as the robe weighed her down and the manor pulled her toward the abyss. Her hands bruised and shaky, as if telling her to jump back to the depths but she prevailed against them. 
@@ -129,6 +131,9 @@ _"Immortal."_
 
 The beast roared.
 
+
+> [!NOTE] Totems
+> Among the creatures [[Life]] named across her countless climbs, some took hold differently than others. These were the **[[Totems]]** — female beasts named with something larger than _Live_ or _Spread_, vast and strong, blessed sometimes with immortality. Unlike the beasts that named and scattered, Totems could procreate without a mate, becoming mothers of whole lineages of beastkin. Where the lesser named beasts were more animal than kin, the Totems were something between — too large and too old to be mortal, too bound to flesh to be Aspect. Many beastkin tribes of later ages trace their lineage back not to [[Life]] herself, but to the Totem that bore them.
 #### The Dragon
 
 The world shook with a roar, as the great beasts moved from the forests — among them a pale scaled form, blessed with the many names [[Life]] had given across the time of her climbs.
