@@ -24,7 +24,7 @@
 ## Ambition Side
 ### Birth of Ambition
 ---
-As the Spirit World was drowned in screams and laughs of [[Spirits]]. There was a young spark that walked the [[Spirit World]], an [[Aspect]] mind bound in awe of the [[Faekin]] courts and the the endless sky dress of [[Beauty|Danu]]. It had decided to make a robe of their own, to find people of its own, and set out to act.
+As the Spirit World was drowned in screams and laughs of [[Spirits]]. There was a young spark that walked the [[Spirit World]], an [[Aspect]] mind bound in awe of the [[Faekin]] courts and the the endless sky dress of [[Beauty|Danu]]. It had decided to make a robe of their own, to find people of its own, and set out to act. 
 
 During his travels, he found a young dreamer surrounded by silvery strands, a weaver who wove the them into beautiful fabrics, so they spoke and for [[Ambition]] the weaver wove a beautiful pale stainless robe.
 *In return they asked for a name, for naught is free in this world, and they were named "The Best Weaver."*
