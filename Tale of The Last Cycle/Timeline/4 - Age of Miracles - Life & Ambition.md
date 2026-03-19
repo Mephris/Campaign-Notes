@@ -157,29 +157,4 @@ It ripped the ground from her hands and let her fall into the waters. All she co
 > [!quote] _"What is the meaning of me?"_
 
 She fell — the robe and manor pulling her deep. But this time she did not fight. She welcomed the dark waters of the Black Ocean, giving up all — an [[Aspect]] questioning its own name.
-
 # Notes
-
-For a time [[Ambition]] watched what he had made.
-
-The dragon moved through the world like a burning question with no answer — consuming, conquering, gathering beastmen under its shadow as a cult gathers under a god. Tribes formed around it. Wars began at its passing. It came to [[Ambition]] sometimes, circling low over the cities he walked, and he would look up and it would look down, and in its eye he would see the thing he had put there.
-
-_I can be more._
-
-It showed him its kingdoms. Laid its conquests before him the way a hound lays a kill — waiting. Expecting something. The same waiting he had done before the weaver, the smith, the mason. The same waiting he had done his whole existence, showing his robe and his dagger and his manor to empty air, hoping someone would finally look and say _yes, that is enough, you are enough._
-
-The dragon waited.
-
-[[Ambition]] looked at it for a long time.
-
-He said nothing. He turned and walked away.
-
-The dragon watched him go, then turned back to its kingdoms. It had more to consume. It always had more to consume.
-
-[[Ambition]] walked through the world his war had built — through the ash of nations, the wreckage of walls, the silence of fields that had forgotten what it felt like to grow something other than soldiers. The question still sat in his chest, low and steady.
-
-_What is the meaning of life?_
-
-Nobody had answered it. Not the merchant. Not the warrior. Not his Saint. Not [[Life]] herself, sinking into the dark with his things in her arms.
-
-He kept walking.
