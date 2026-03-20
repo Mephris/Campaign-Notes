@@ -1,6 +1,7 @@
 ![[First Song.png]]
 > [!NOTE] _**"I can be more"**, Necessity, Black Star, Hunger_
-**Lesson: You are enough as you are, self mutilating yourself into feelings of inadequacy make live a life of bitter falsehoods.**
+>**Lesson:** You are enough as you are, self mutilating yourself into feelings of inadequacy make only a life of bitter falsehoods.
+>**Core:** Thought over instinct/feeling
 
 ---
 > [!quote] *"I was born, from trauma of used up [[Empathy]], the broken, not enough*

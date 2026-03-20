@@ -3,5 +3,8 @@
   "nativeMenus": false,
   "theme": "system",
   "accentColor": "#5ca6f5",
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "sidenote"
+  ]
 }

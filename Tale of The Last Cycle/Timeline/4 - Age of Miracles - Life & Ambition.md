@@ -1,11 +1,14 @@
+---
+cssclasses: tldr-sidebar
+---
 # Age of Miracles
 
 ## The Dawn of an Era
 
-> [!tldr] Birth of Ambition
+> [!tldr]- Birth of Ambition
 > _Born in the Spirit World from Empathy's moment of jealousy watching Danu's court. Sets out to find tools and people of his own. Finds the tools — robe, dagger, manor — but people don't follow. Learns all has a price. Gets stripped of everything by the old dreamer's violet brew. Sits alone in the dark with nothing but the spark he started as._
 
-> [!warning] Birth of Life
+> [!warning]- Birth of Life
 > **Placeholder**
 ### Birth of Ambition
 ---
@@ -36,7 +39,7 @@ He found himself stripped of all but the spark he began as. No more did he have 
 _Naught is free in this World._
 ## Flourishing of an Age
 
-> [!tldr] Ambition - The Dream
+> [!tldr]- Ambition - The Dream
 > 
 > _Ambition falls onto the mortal world. Walks with head down, surviving. Begins whispering Names onto the broken — "You can be more than this." — Mark upon Stain, Tuatha-side, invisible in the waking world. Followers drift in his wake without knowing why. He self-names: "I can be more than this." Head comes up. Keeps walking, differently now._
 > 
@@ -44,7 +47,7 @@ _Naught is free in this World._
 
 ### Life — First Rises
 
-> [!warning] Placeholder — Life's early movements before the cliff to be decided.
+> [!warning]- Placeholder — Life's early movements before the cliff to be decided.
 > 
 > _Establish her character here — muscleheaded, cheerful, brawler. She names things without thinking. Plants, beasts, simple commands. She is strong and warm and not yet tested._
 
@@ -110,15 +113,16 @@ Then did he walk up to [[Life]], his hand gripping to her collar — his robe. W
 > Among all the Named of this age, one was bound tighter than any other. _"They whose actions and forms are bound only by Ambition"_ — a [[Name#^cd06fc|Mark upon stain]] so deep it forced shifts and possessions upon the bearer. 
 > 
 > Early in their life the Saint had moments of defiance, stopping the shifts through sheer will. Ambition alone among the Aspects treated Names as merely clothes — something to be worn or set aside. The Saint tested that philosophy more than any mortal before or since. 
+
 ### Collision
 
-> [!tldr] Ambition
+> [!tldr]- Ambition
 > _He grips her collar. Asks: "What is the meaning of you?"_
 > _She stabs him. He shoves her off the cliff._
 > 
-> *The battle cycle. Life rises and falls repeatedly. Each climb she names something new — plants, beasts, Totems, the Immortal Dragon. Totems emerge here, vast female beasts that procreate without a mate, becoming mothers of Beastkin lineages. Ambition recovers his dagger, calls his followers, towns form, walls rise against the beast hordes.*
+> *The battle cycle. Life rises and falls repeatedly. Each climb she names something new — plants, beasts, Totems, the Immortal Dragon. Totems emerge here, vast female beasts that procreate without a mate, becoming mothers of Beastkin lineages. Ambition recovers his dagger, calls his followers, towns form, walls rise against the beast hordes.
 
-> [!tldr] The Dragon
+> [!tldr]- The Dragon
 > _Life rises, names a second dragon. Ambition names the white-scale "I can be more" to drive it off his followers. The jealous white-scale strikes Life down before she can finish naming the second. Life falls asking "What is the meaning of me?" for the first time. She does not fight the water this time. She sinks._
 > 
 > _Above, the white-scale forms a cult of beasts. Ambition watches, feels disgusted, walks away empty._
@@ -171,10 +175,19 @@ It ripped the ground from her hands and let her fall into the waters. All she co
 > [!quote] _"What is the meaning of me?"_
 
 She fell — the robe and manor pulling her deep. But this time she did not fight. She welcomed the dark waters of the Black Ocean, giving up all — an [[Aspect]] questioning its own name.
+
+The [[Aspect]]-fell, and the White-scaled rise its head high, for even an aspect fell in the wake of the mighty Dragon Totem, so did some beasts recede from the wilds onto the cities of mortal. To escape from the newly forming kingdom of beasts, ruled by instinct and pride. 
+
+Among all this, did White-Scale come to one that gave it the Name of a soul, [[Ambition]], and show its kingdom to him; in that moment did the [[Aspect]] see a beast bearing a name like his, innocent in its hungry cruelty. As he seen it he realized what they, [[Ambition]] and [[Life]], had done, they made reflection of themselves onto this creature, a being to reflect him and her. 
+
+He stood on the cliff, watching the waters silently, his eyes turned from the dragon that was like a black mirror to his existence, and she did not come, [[Life]] itself has no meaning. So he turned, and walked the only way he knew now — Forward. 
 ## Twilight of an Age
 
-> [!tldr] Ambition - Plague & Miracle
->  _Ambition walks the dying world. Life-less plague cuts mortal lives short. He travels through it, seeing the broken, the starving, the suffering — his Named creatures ruling but the pain persisting, unfixable._
+The Ending of the Age was with no grand event, for this must have been the last of it. 
+For [[Life]] itself saw no reason to continue, so did the world become consumed by a plague like none before, where life was cut short for those that suffered it. 
+
+> [!tldr]- Ambition - Plague 
+>  *[[Ambition]] walks the dying world. Life-less plague cuts mortal lives short. He travels through it, seeing the broken, the starving, the suffering — his [[Name]]d creatures ruling but the pain persisting, unfixable.*
 > 
 > _He meets the girl. She has lost her parents to the plague she herself is dying from. She plants flowers on graves, hides trinkets around the village for others to find. He cannot understand it._
 > 
@@ -185,6 +198,42 @@ She fell — the robe and manor pulling her deep. But this time she did not figh
 > _Ambition sees the gift. Sees there are things of no price in this world. In her answer he finds not an answer, but Hope._
 > 
 > _So was Hope born. The crown of flowers lands upon its head. The girl becomes the [[Miracle]]._
+### The Plague
+---
+[[Ambition]] walked the world, before him he saw mortals — lone and following, their lives cut short. So did the cities fall to whispers, the towns to hush and villages to silence.
+
+*Among the whispers*, [[Ambition]] with empty pained heart walked onward, his lips not able to bear forth even one name. 
+
+*Among the hush,* [[Ambition]] looked to scarce walking the town of those hid from the world in dark, their dreams fell to pain of loss and encroaching death. 
+
+*Among the silence*, he stopped, for before him was a village laid in flower fields and small mounds with crowns of flowers on each and single of them, the once wooden and stone houses covered in moss and laid with childish paintings, tips, a puzzle. So did curiosity make the [[Aspect]] come closer, deeper into the grave puzzle. 
+
+#### Puzzle of Silent Graves
+Following a trail of violet flowers to a drawing of a sleeping child, and below it a mound with a handkerchief robed doll. He lowered himself down the the mound and looked at the doll with a soft smile painting on his face, the small crown of flowers, the silly white robe. He laid it back down softly with his hand carefully avoiding the violet flowers, his gaze turning to a trail leading it further. 
+
+Following a trail of inky cuts, as if long strikes made by a finger onto stone and wood, leading to an open gate of a field, where animals feasted sleepily on the violet flowers, so did he walk among the animals and find another trinket, a silly broken wooden dagger painted, placed on a small mound from which a sapling of a tree was emerging. Further did he see, another trail, of rocks small and big leading deep to the center of the village. 
+
+Following a trail of laid rocks, as if thrown around like seeds onto a field, he was led to the center of the village, a large rocky building, engraved with a hunched dreamer's figure on a flat stone, that upon waking up, presented a dagger, a robe and a home to mortal hands rather then hoard them. 
+
+There, before the rock of his dark past, was the a small figure, wearing a yellow dirty robe with a flower crown on her head, a child of [[Dwergr]], fruit of his given [[Name]], but hunched down like the spirit focused on making a crown of violet flowers. A smile painted on her hands as the thorns snagged at her fingers staining her fingers with red ink, in which he saw it, the plague, a single winter worth of life left. 
+
+There, in visage of the hunched small figure, the painting of the clearly revered hunched spirit, a smile among the graveyard of mounds of her people. He screamed with a pained broken voice. 
+***Why?! Why go on among all the dead?!***
+
+[[Miracle]] looked up, with head tilted like a confused beast, a smile happily rising as her knees pushed her up to him, and with jolly voice she spoke. 
+**"To leave behind gifts and homes for my friends! Those I won't be able to meet!"**
+Her hands moved forward, presenting to him a crown of violet flowers, same as the bouquet which let to him losing everything, making him freeze with wide eyes as the girl followed. 
+**"Why do you go on among all the sleeping, friend?"**
+
+So would [[Ambition]] lay forth his hands, accepting a crown of flowers, with the question ringing in his head. His thoughts going back, to the spirit world, beyond his gifts, to the little spark. Always getting more, the silly robe, the silly dagger, the silly manor, not out of hunger of a white scaled dragon, but want of proving himself equal to other [[Aspect]]. 
+
+He realized then, among all the years, he always was equal to all of them, his self-name, his self-inadequacy, all of it made him bitter and afraid. For the first time in his life, he stood among the nature of the [[2 - Age of Creation - Wildern & Beauty|Creation of Wildern and Danu]], among the rays of [[Conflict]], the azure skies beyond which lied the safety of [[Empathy]], and he felt himself hopeful, that he too, among all them was equal. 
+
+So, he pulled the robbed child of his memory out and onto its head placed a crown of violet flowers, so was [[Hope]] born. As the [[Miracle]] looked to [[Hope]], both smiled at each other as the [[Ambition]] turned around, walking away, a hunger contained in his heart, as his memories flew to his garments, no — to his followers. His words spoke an answer. 
+**"Because we all can be so much more"**
+
+It was high time for him to end, this [[4 - Age of Miracles - Life & Ambition|Age of Miracles]].
+
 
 > [!tldr] Life - Black Sea & Leviathan
 > _Life sinks to the floor of the Black Sea. Sees the young leviathans devouring each other endlessly. Sees herself in it._
@@ -229,6 +278,9 @@ She fell — the robe and manor pulling her deep. But this time she did not figh
 > _Ambition cuts his soul into dozens — so he would always have a family._
 > 
 > _From the white-scale's strand: bodies. From the white-scale's soul: souls. Creation of the [[Aelf]] Ice Clan and [[Dragonkin]]. The Dragon and its creator, at peace at last._
+
+
+
 
 # Notes
 

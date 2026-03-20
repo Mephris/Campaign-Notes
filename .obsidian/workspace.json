@@ -6,22 +6,7 @@
       {
         "id": "b16ea384af4a22d8",
         "type": "tabs",
-        "dimension": 51.81095406360424,
         "children": [
-          {
-            "id": "f18d07be02df030c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4 - Age of Miracles - Life & Ambition"
-            }
-          },
           {
             "id": "a7b68a9abefbecc7",
             "type": "leaf",
@@ -34,6 +19,23 @@
               },
               "icon": "lucide-file",
               "title": "3 - Age of Knowledge - Conflict and Empathy"
+            }
+          },
+          {
+            "id": "f18d07be02df030c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Tale of The Last Cycle/Timeline/Age of Miracles.canvas",
+                "viewState": {
+                  "x": 457.5,
+                  "y": 3070,
+                  "zoom": -2.647291634014316
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Age of Miracles"
             }
           },
           {
@@ -53,32 +55,15 @@
               "title": "Cosmology Graph"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "e11a652cf2384f8a",
+        "id": "9596e4a46557f1ec",
         "type": "tabs",
-        "dimension": 48.18904593639576,
         "children": [
           {
-            "id": "12ce1735667ea814",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Tale of The Last Cycle/Timeline/Age of Miracles.canvas",
-                "viewState": {
-                  "x": -890.4678823845085,
-                  "y": 5677.434364824873,
-                  "zoom": -0.9351819965864827
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Age of Miracles"
-            }
-          },
-          {
-            "id": "8b2e551fdd752884",
+            "id": "ff7f8f6823bf74ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,65 +75,8 @@
               "icon": "lucide-file",
               "title": "4 - Age of Miracles - Life & Ambition"
             }
-          },
-          {
-            "id": "96e3d4103296d10c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Life.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Life"
-            }
-          },
-          {
-            "id": "9884f0844e073401",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Ambition.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ambition"
-            }
-          },
-          {
-            "id": "e19588a7464bea39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Empathy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Empathy"
-            }
-          },
-          {
-            "id": "c43d6e75b822162f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Conflict.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conflict"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -307,28 +235,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b2e551fdd752884",
+  "active": "f18d07be02df030c",
   "lastOpenFiles": [
-    "Tale of The Last Cycle/Terminology & Dictionary/Name.md",
-    "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
+    "Tale of The Last Cycle/Cosmology Graph.canvas",
+    "Untitled.md",
     "Tale of The Last Cycle/Timeline/Age of Miracles.canvas",
+    "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Ambition.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Mortal/Miracle.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Hope.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Life.md",
+    "_Ambition.md",
+    "Dwarvenkin.md",
+    "Untitled.base",
+    "Tale of The Last Cycle/Timeline/3 - Age of Knowledge - Conflict and Empathy.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Beauty.md",
+    "Tale of The Last Cycle/Terminology & Dictionary/Name.md",
     "images-3.jpeg",
     "First Song.png",
     "Pasted image 20260314130408.png",
     "Pasted image 20260314130323.png",
-    "Tale of The Last Cycle/Cosmology Graph.canvas",
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Ambition.md",
-    "Tale of The Last Cycle/Timeline/3 - Age of Knowledge - Conflict and Empathy.md",
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Life.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Empathy.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Conflict.md",
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Beauty.md",
     "Wildern.png",
     "leviathan_8.jpg",
     "Conflict_Settles.png",
     "Ambition.png",
     "Conflict.png",
-    "Dwarvenkin.md",
     "Jagged Loom stained with Ichor.png",
     "Tale of The Last Cycle/Timeline/2 - Age of Creation - Wildern & Beauty.md",
     "Tale of The Last Cycle/Timeline/1 - Beginning.md",
@@ -342,10 +275,6 @@
     "Tale of The Last Cycle/Creation/Kin (Species & Races)/Dwergr.md",
     "It's.md",
     "Tale of The Last Cycle/Creation/Kin (Species & Races)/Faekin.md",
-    "Tale of The Last Cycle/Creation/Afterlife/Death of Soul - Sleep.md",
-    "Age of Miracles - Draft.md",
-    "Tale of The Last Cycle/Creation/Afterlife/Death of Body - Passing.md",
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Wildern.md",
     "Untitled.canvas",
     "Tale of The Last Cycle/Creation/Afterlife",
     "Tale of The Last Cycle/Creation/Kin (Species & Races)",
@@ -356,7 +285,6 @@
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael",
     "Tale of The Last Cycle/Entities/Aspects",
     "Tale of The Last Cycle/Entities/Primevals",
-    "Fable World/Entities/Untitled.canvas",
-    "Fable World/Timeline/Untitled.base"
+    "Fable World/Entities/Untitled.canvas"
   ]
 }
