@@ -5,9 +5,6 @@ cssclasses: tldr-sidebar
 
 ## The Dawn of an Era
 
-> [!tldr]- Birth of Ambition
-> _Born in the Spirit World from Empathy's moment of jealousy watching Danu's court. Sets out to find tools and people of his own. Finds the tools — robe, dagger, manor — but people don't follow. Learns all has a price. Gets stripped of everything by the old dreamer's violet brew. Sits alone in the dark with nothing but the spark he started as._
-
 > [!warning]- Birth of Life
 > **Placeholder**
 ### Birth of Ambition
@@ -37,23 +34,14 @@ One day, while gathering flowers for his brew, he met an old hunched dreamer sit
 He found himself stripped of all but the spark he began as. No more did he have the beauty of his robe, no more the protection of his dagger, no more the comfort of his home. In all the gifts gone he looked at himself, the insignificant spark, and sat in the dark for a long time, trying to think why he had forgotten.
 
 _Naught is free in this World._
+
+> [!tldr]- Birth of Ambition
+> _Born in the Spirit World from Empathy's moment of jealousy watching Danu's court. Sets out to find tools and people of his own. Finds the tools — robe, dagger, manor — but people don't follow. Learns all has a price. Gets stripped of everything by the old dreamer's violet brew. Sits alone in the dark with nothing but the spark he started as._
 ## Flourishing of an Age
 
-> [!tldr]- Ambition - The Dream
-> 
-> _Ambition falls onto the mortal world. Walks with head down, surviving. Begins whispering Names onto the broken — "You can be more than this." — Mark upon Stain, Tuatha-side, invisible in the waking world. Followers drift in his wake without knowing why. He self-names: "I can be more than this." Head comes up. Keeps walking, differently now._
-> 
-> _Travels deeper into mortal cities. Names the Saint — "They whose actions and forms are bound only by Ambition" — the most extreme Named in the cosmology, resulting in possessions and forced shifts._
-
-### Life — First Rises
-
-> [!warning]- Placeholder — Life's early movements before the cliff to be decided.
-> 
-> _Establish her character here — muscleheaded, cheerful, brawler. She names things without thinking. Plants, beasts, simple commands. She is strong and warm and not yet tested._
-
-### Ambition
-#### The Dream
+### Ambition — The Dream
 ---
+
 _Naught is free in this world._
 
 The afraid, the stolen, robbed — he waited in the darkness, and like a mockery he looked up and saw the dark skies glitter in color. The Duet of [[Beauty|Danu]] covering the world with soft [[Empathy]]. He saw spirits all around relax, others still hunting blind to the new beauty of that world. As he sat on the warm dark grass, staggered, he couldn't manage even making a house for himself while others made worlds.
@@ -84,12 +72,18 @@ There on the hill he stood, looking back at the ambition left in his wake, at ea
 > "_I can be more than this._"
 
 He turned back around and kept walking. But differently now. Head up. Eyes forward — All-Seeing to all but himself. 
+
+> [!tldr]- Ambition - The Dream
+> 
+> _Ambition falls onto the mortal world. Walks with head down, surviving. Begins whispering Names onto the broken — "You can be more than this." — Mark upon Stain, Tuatha-side, invisible in the waking world. Followers drift in his wake without knowing why. He self-names: "I can be more than this." Head comes up. Keeps walking, differently now._
+> 
+> _Travels deeper into mortal cities. Names the Saint — "They whose actions and forms are bound only by Ambition" — the most extreme Named in the cosmology, resulting in possessions and forced shifts._
 #### The Black Star
 ---
-> _Among all the shifting skies, only one you can always depend on, only one shines for us to navigate the dangerous seas, the wild forests. A star of deep dark blue hue shining softly at the side of the skies._
----
-
 The mortal cities were now walked by an [[Aspect]], like a beacon for the abused by the plague of gold. So did in the grimy alleys of starving and broken, did a cloaked figure pass with a whisper, and the beggars followed him like sailors to the black star.
+
+> [!tip] Black Star 
+> _Among all the shifting skies, only one you can always depend on, only one shines for us to navigate the dangerous seas, the wild forests. A star of deep dark blue hue shining softly at the side of the skies._
 
 [[Ambition]] walked onwards, the beggars growing into merchants and thieves. So he walked deeper to districts of red where gold bought body. Following mortal rules he threw forth a pocketful of coin, buying himself flesh with a Name like a curse engraved upon it.
 
@@ -114,18 +108,14 @@ Then did he walk up to [[Life]], his hand gripping to her collar — his robe. W
 > 
 > Early in their life the Saint had moments of defiance, stopping the shifts through sheer will. Ambition alone among the Aspects treated Names as merely clothes — something to be worn or set aside. The Saint tested that philosophy more than any mortal before or since. 
 
-### Collision
+### Life — First Rises
 
-> [!tldr]- Ambition
-> _He grips her collar. Asks: "What is the meaning of you?"_
-> _She stabs him. He shoves her off the cliff._
+> [!warning]- Placeholder — Life's early movements before the cliff to be decided.
 > 
-> *The battle cycle. Life rises and falls repeatedly. Each climb she names something new — plants, beasts, Totems, the Immortal Dragon. Totems emerge here, vast female beasts that procreate without a mate, becoming mothers of Beastkin lineages. Ambition recovers his dagger, calls his followers, towns form, walls rise against the beast hordes.
+> _Establish her character here — muscleheaded, cheerful, brawler. She names things without thinking. Plants, beasts, simple commands. She is strong and warm and not yet tested._
 
-> [!tldr]- The Dragon
-> _Life rises, names a second dragon. Ambition names the white-scale "I can be more" to drive it off his followers. The jealous white-scale strikes Life down before she can finish naming the second. Life falls asking "What is the meaning of me?" for the first time. She does not fight the water this time. She sinks._
-> 
-> _Above, the white-scale forms a cult of beasts. Ambition watches, feels disgusted, walks away empty._
+## Collision
+
 #### The Endless Return
 ---
 Sudden, she felt the grip on her robe — her eyes snapping to [[Ambition]], and quickly she heard him, the wrathful question like a growl of a beast. Her hand moved without thought, dagger finding his abdomen. The strike connected, and just as it did she felt the world tilt as his hand shoved her back — falling, down the sharp rocks, her head striking stone as she plunged into the water below.
@@ -152,6 +142,12 @@ The beast roared.
 
 > [!NOTE] Totems
 > Among the creatures [[Life]] named across her countless climbs, some took hold differently than others. These were the **[[Totems]]** — female beasts named with something larger than _Live_ or _Spread_, vast and strong, blessed sometimes with immortality. Unlike the beasts that named and scattered, Totems could procreate without a mate, becoming mothers of whole lineages of beastkin. Where the lesser named beasts were more animal than kin, the Totems were something between — too large and too old to be mortal, too bound to flesh to be Aspect. Many beastkin tribes of later ages trace their lineage back not to [[Life]] herself, but to the Totem that bore them.
+
+> [!tldr]- Ambition
+> _He grips her collar. Asks: "What is the meaning of you?"_
+> _She stabs him. He shoves her off the cliff._
+> 
+> *The battle cycle. Life rises and falls repeatedly. Each climb she names something new — plants, beasts, Totems, the Immortal Dragon. Totems emerge here, vast female beasts that procreate without a mate, becoming mothers of Beastkin lineages. Ambition recovers his dagger, calls his followers, towns form, walls rise against the beast hordes.
 #### The Dragon
 
 The world shook with a roar, as the great beasts moved from the forests — among them a pale scaled form, blessed with the many names [[Life]] had given across the time of her climbs.
@@ -181,24 +177,13 @@ The [[Aspect]]-fell, and the White-scaled rise its head high, for even an aspect
 Among all this, did White-Scale come to one that gave it the Name of a soul, [[Ambition]], and show its kingdom to him; in that moment did the [[Aspect]] see a beast bearing a name like his, innocent in its hungry cruelty. As he seen it he realized what they, [[Ambition]] and [[Life]], had done, they made reflection of themselves onto this creature, a being to reflect him and her. 
 
 He stood on the cliff, watching the waters silently, his eyes turned from the dragon that was like a black mirror to his existence, and she did not come, [[Life]] itself has no meaning. So he turned, and walked the only way he knew now — Forward. 
-## Twilight of an Age
 
-The Ending of the Age was with no grand event, for this must have been the last of it. 
-For [[Life]] itself saw no reason to continue, so did the world become consumed by a plague like none before, where life was cut short for those that suffered it. 
-
-> [!tldr]- Ambition - Plague 
->  *[[Ambition]] walks the dying world. Life-less plague cuts mortal lives short. He travels through it, seeing the broken, the starving, the suffering — his [[Name]]d creatures ruling but the pain persisting, unfixable.*
+> [!tldr]- The Dragon
+> _Life rises, names a second dragon. Ambition names the white-scale "I can be more" to drive it off his followers. The jealous white-scale strikes Life down before she can finish naming the second. Life falls asking "What is the meaning of me?" for the first time. She does not fight the water this time. She sinks._
 > 
-> _He meets the girl. She has lost her parents to the plague she herself is dying from. She plants flowers on graves, hides trinkets around the village for others to find. He cannot understand it._
-> 
-> _He screams: "WHY DO YOU GO ON?!"_
-> 
-> _She answers cheerfully, offering him a crown of violet flowers: "I may fall, but others will continue. I am laying down gifts to them, I am helping them so they smile. And because I want to — my last year is worth a smile."_
-> 
-> _Ambition sees the gift. Sees there are things of no price in this world. In her answer he finds not an answer, but Hope._
-> 
-> _So was Hope born. The crown of flowers lands upon its head. The girl becomes the [[Miracle]]._
-### The Plague
+> _Above, the white-scale forms a cult of beasts. Ambition watches, feels disgusted, walks away empty._
+## Twilight of an Age 
+### Ambition — The Plague
 ---
 [[Ambition]] walked the world, before him he saw mortals — lone and following, their lives cut short. So did the cities fall to whispers, the towns to hush and villages to silence.
 
@@ -234,6 +219,22 @@ So, he pulled the robbed child of his memory out and onto its head placed a crow
 
 It was high time for him to end, this [[4 - Age of Miracles - Life & Ambition|Age of Miracles]].
 
+> [!tldr]- Ambition - Plague 
+>  *[[Ambition]] walks the dying world. Life-less plague cuts mortal lives short. He travels through it, seeing the broken, the starving, the suffering — his [[Name]]d creatures ruling but the pain persisting, unfixable.*
+> 
+> _He meets the girl. She has lost her parents to the plague she herself is dying from. She plants flowers on graves, hides trinkets around the village for others to find. He cannot understand it._
+> 
+> _He screams: "WHY DO YOU GO ON?!"_
+> 
+> _She answers cheerfully, offering him a crown of violet flowers: "I may fall, but others will continue. I am laying down gifts to them, I am helping them so they smile. And because I want to — my last year is worth a smile."_
+> 
+> _Ambition sees the gift. Sees there are things of no price in this world. In her answer he finds not an answer, but Hope._
+> 
+> _So was Hope born. The crown of flowers lands upon its head. The girl becomes the [[Miracle]]._
+
+### Life - Black Sea
+---
+#### Leviathan
 
 > [!tldr] Life - Black Sea & Leviathan
 > _Life sinks to the floor of the Black Sea. Sees the young leviathans devouring each other endlessly. Sees herself in it._
@@ -260,6 +261,8 @@ It was high time for him to end, this [[4 - Age of Miracles - Life & Ambition|Ag
 > _Fate speaks to the Leviathan mother — her countless eggs become [[Merfolk]], freed from the cycle of self-devouring._
 > 
 > _Life recedes to peaceful acceptance. Imperfect, painful, and with a beautiful future._
+
+### Ambition & Wildern — The White Scaled Totem
 
 > [!tldr] Ambition — The Dragon & Wildern
 > _Ambition sees the Dragon with Hope and Miracle beside him. Sees himself in it — the unmoderated hunger, the self-mutilated worth, a creature he sentenced to the cruel life he himself lived._
