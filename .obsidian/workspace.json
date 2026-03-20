@@ -29,9 +29,9 @@
               "state": {
                 "file": "Tale of The Last Cycle/Timeline/Age of Miracles.canvas",
                 "viewState": {
-                  "x": 1231.3696726200158,
-                  "y": 718.8706531630477,
-                  "zoom": -0.9806249673476497
+                  "x": 529.397684816281,
+                  "y": 4725.677686191493,
+                  "zoom": -1.313958300680983
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -235,10 +235,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f18d07be02df030c",
+  "active": "ff7f8f6823bf74ac",
   "lastOpenFiles": [
-    "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
     "Tale of The Last Cycle/Timeline/Age of Miracles.canvas",
+    "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
     "Tale of The Last Cycle/Cosmology Graph.canvas",
     "Untitled.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Ambition.md",

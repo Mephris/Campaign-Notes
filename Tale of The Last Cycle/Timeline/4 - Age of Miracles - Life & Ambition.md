@@ -230,7 +230,7 @@ So would [[Ambition]] lay forth his hands, accepting a crown of flowers, with th
 He realized then, among all the years, he always was equal to all of them, his self-name, his self-inadequacy, all of it made him bitter and afraid. For the first time in his life, he stood among the nature of the [[2 - Age of Creation - Wildern & Beauty|Creation of Wildern and Danu]], among the rays of [[Conflict]], the azure skies beyond which lied the safety of [[Empathy]], and he felt himself hopeful, that he too, among all them was equal. 
 
 So, he pulled the robbed child of his memory out and onto its head placed a crown of violet flowers, so was [[Hope]] born. As the [[Miracle]] looked to [[Hope]], both smiled at each other as the [[Ambition]] turned around, walking away, a hunger contained in his heart, as his memories flew to his garments, no — to his followers. His words spoke an answer. 
-**"Because we all can be so much more"**
+**"Because all of us can be so much more"**
 
 It was high time for him to end, this [[4 - Age of Miracles - Life & Ambition|Age of Miracles]].
 
