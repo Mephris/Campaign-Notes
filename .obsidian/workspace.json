@@ -6,16 +6,57 @@
       {
         "id": "b16ea384af4a22d8",
         "type": "tabs",
-        "dimension": 58.10950413223141,
         "children": [
           {
-            "id": "a7b68a9abefbecc7",
+            "id": "e26656a6105b47c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tale of The Last Cycle/Timeline/1 - Beginning.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - Beginning"
+            }
+          },
+          {
+            "id": "a270be6616a3f209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tale of The Last Cycle/Timeline/2 - Age of Creation - Wildern & Beauty.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 - Age of Creation - Wildern & Beauty"
+            }
+          },
+          {
+            "id": "c3d0cf6564f89a7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tale of The Last Cycle/Timeline/3 - Age of Knowledge - Conflict and Empathy.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - Age of Knowledge - Conflict and Empathy"
+            }
+          },
+          {
+            "id": "1efc7c6bdf23feb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -23,87 +64,21 @@
             }
           },
           {
-            "id": "f18d07be02df030c",
+            "id": "76f987fa77f72c04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tale of The Last Cycle/Creation/Kin (Species & Races)/Mermaid - Valli.md",
+                "file": "Tale of The Last Cycle/Timeline/5 - Age of Fate & Hope.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mermaid - Valli"
-            }
-          },
-          {
-            "id": "110f717b958dbc5f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Tale of The Last Cycle/Cosmology Graph.canvas",
-                "viewState": {
-                  "x": 497.03574119860866,
-                  "y": 3006.067769407112,
-                  "zoom": -3.0049113070099356
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Cosmology Graph"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9596e4a46557f1ec",
-        "type": "tabs",
-        "dimension": 41.89049586776859,
-        "children": [
-          {
-            "id": "ff7f8f6823bf74ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tale of The Last Cycle/Creation/Kin (Species & Races)/Beastkin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Beastkin"
-            }
-          },
-          {
-            "id": "b457d2121116af3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Drakes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Drakes"
-            }
-          },
-          {
-            "id": "a23000587ab4798a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tale of The Last Cycle/Creation/Dragon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dragon"
+              "title": "5 - Age of Fate & Hope"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -262,13 +237,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7b68a9abefbecc7",
+  "active": "1efc7c6bdf23feb3",
   "lastOpenFiles": [
-    "Tale of The Last Cycle/Timeline/Age of Miracles.canvas",
+    "Tale of The Last Cycle/Timeline/3 - Age of Knowledge - Conflict and Empathy.md",
+    "Tale of The Last Cycle/Timeline/2 - Age of Creation - Wildern & Beauty.md",
+    "Tale of The Last Cycle/Timeline/1 - Beginning.md",
+    "Tale of The Last Cycle/Timeline/5 - Age of Fate & Hope.md",
     "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
+    "Tale of The Last Cycle/Creation/Dragon.md",
+    "Tale of The Last Cycle/Timeline/Age of Miracles.canvas",
     "Valka.md",
     "Valka.png",
-    "Tale of The Last Cycle/Creation/Dragon.md",
     "Wyvern.md",
     "Drakes.md",
     "Tale of The Last Cycle/Creation/Kin (Species & Races)/Beastkin.md",
@@ -276,7 +255,6 @@
     "Pasted image 20260321173238.png",
     "Pasted image 20260321173231.png",
     "Tale of The Last Cycle/Creation/Kin (Species & Races)/Mermaid - Valli.md",
-    "Tale of The Last Cycle/Timeline/3 - Age of Knowledge - Conflict and Empathy.md",
     "Pasted image 20260321165823.png",
     "Pasted image 20260321165516.png",
     "Pasted image 20260321165338.png",
@@ -298,9 +276,6 @@
     "Tale of The Last Cycle/Terminology & Dictionary/Name.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Empathy.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Conflict.md",
-    "Tale of The Last Cycle/Timeline/2 - Age of Creation - Wildern & Beauty.md",
-    "Tale of The Last Cycle/Timeline/1 - Beginning.md",
-    "Tale of The Last Cycle/Timeline/5 - Age of Fate & Hope.md",
     "Tale of The Last Cycle/Creation/Afterlife/Spirit World.md",
     "Untitled.canvas",
     "Tale of The Last Cycle/Creation/Afterlife",
