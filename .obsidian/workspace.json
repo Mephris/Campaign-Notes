@@ -12,17 +12,14 @@
             "id": "a7b68a9abefbecc7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Tale of The Last Cycle/Timeline/Age of Miracles.canvas",
-                "viewState": {
-                  "x": -205.0585510223251,
-                  "y": 5618.488028268889,
-                  "zoom": -0.6472916340143164
-                }
+                "file": "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Age of Miracles"
+              "icon": "lucide-file",
+              "title": "4 - Age of Miracles - Life & Ambition"
             }
           },
           {
@@ -76,8 +73,37 @@
               "icon": "lucide-file",
               "title": "Beastkin"
             }
+          },
+          {
+            "id": "b457d2121116af3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drakes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drakes"
+            }
+          },
+          {
+            "id": "a23000587ab4798a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tale of The Last Cycle/Creation/Dragon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dragon"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,24 +264,30 @@
   },
   "active": "a7b68a9abefbecc7",
   "lastOpenFiles": [
-    "Tale of The Last Cycle/Timeline/3 - Age of Knowledge - Conflict and Empathy.md",
+    "Valka.md",
+    "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
+    "Valka.png",
+    "Tale of The Last Cycle/Creation/Dragon.md",
+    "Wyvern.md",
+    "Drakes.md",
     "Tale of The Last Cycle/Creation/Kin (Species & Races)/Beastkin.md",
+    "Pasted image 20260321173323.png",
+    "Pasted image 20260321173238.png",
+    "Pasted image 20260321173231.png",
     "Tale of The Last Cycle/Creation/Kin (Species & Races)/Mermaid - Valli.md",
+    "Tale of The Last Cycle/Timeline/Age of Miracles.canvas",
+    "Tale of The Last Cycle/Timeline/3 - Age of Knowledge - Conflict and Empathy.md",
     "Pasted image 20260321165823.png",
     "Pasted image 20260321165516.png",
     "Pasted image 20260321165338.png",
     "Pasted image 20260321165119.png",
     "Pasted image 20260321164322.png",
-    "Tale of The Last Cycle/Creation/Dragon.md",
     "Tale of The Last Cycle/Cosmology Graph.canvas",
     "Dwarvenkin.md",
     "Untitled.md",
     "Malnan.md",
     "Iztac.md",
     "images-3.jpeg",
-    "Drakes.md",
-    "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
-    "Tale of The Last Cycle/Timeline/Age of Miracles.canvas",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Ambition.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Mortal/Miracle.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Hope.md",
@@ -264,18 +296,13 @@
     "Untitled.base",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Beauty.md",
     "Tale of The Last Cycle/Terminology & Dictionary/Name.md",
-    "First Song.png",
-    "Pasted image 20260314130408.png",
-    "Pasted image 20260314130323.png",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Empathy.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Conflict.md",
-    "Wildern.png",
     "Tale of The Last Cycle/Timeline/2 - Age of Creation - Wildern & Beauty.md",
     "Tale of The Last Cycle/Timeline/1 - Beginning.md",
     "Tale of The Last Cycle/Timeline/5 - Age of Fate & Hope.md",
     "Tale of The Last Cycle/Creation/Afterlife/Spirit World.md",
     "Tale of The Last Cycle/Timeline/Timeline Index.md",
-    "Tale of The Last Cycle/Creation/Afterlife/Nameless.md",
     "Untitled.canvas",
     "Tale of The Last Cycle/Creation/Afterlife",
     "Tale of The Last Cycle/Creation/Kin (Species & Races)",

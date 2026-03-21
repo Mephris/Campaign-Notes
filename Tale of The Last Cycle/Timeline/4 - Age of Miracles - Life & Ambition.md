@@ -34,14 +34,10 @@ One day, while gathering flowers for his brew, he met an old hunched dreamer sit
 He found himself stripped of all but the spark he began as. No more did he have the beauty of his robe, no more the protection of his dagger, no more the comfort of his home. In all the gifts gone he looked at himself, the insignificant spark, and sat in the dark for a long time, trying to think why he had forgotten.
 
 _Naught is free in this World._
-
-> [!tldr]- Birth of Ambition
-> _Born in the Spirit World from Empathy's moment of jealousy watching Danu's court. Sets out to find tools and people of his own. Finds the tools — robe, dagger, manor — but people don't follow. Learns all has a price. Gets stripped of everything by the old dreamer's violet brew. Sits alone in the dark with nothing but the spark he started as._
 ## Flourishing of an Age
 
 ### Ambition — The Dream
 ---
-
 _Naught is free in this world._
 
 The afraid, the stolen, robbed — he waited in the darkness, and like a mockery he looked up and saw the dark skies glitter in color. The Duet of [[Beauty|Danu]] covering the world with soft [[Empathy]]. He saw spirits all around relax, others still hunting blind to the new beauty of that world. As he sat on the warm dark grass, staggered, he couldn't manage even making a house for himself while others made worlds.
@@ -72,12 +68,6 @@ There on the hill he stood, looking back at the ambition left in his wake, at ea
 > "_I can be more than this._"
 
 He turned back around and kept walking. But differently now. Head up. Eyes forward — All-Seeing to all but himself. 
-
-> [!tldr]- Ambition - The Dream
-> 
-> _Ambition falls onto the mortal world. Walks with head down, surviving. Begins whispering Names onto the broken — "You can be more than this." — Mark upon Stain, Tuatha-side, invisible in the waking world. Followers drift in his wake without knowing why. He self-names: "I can be more than this." Head comes up. Keeps walking, differently now._
-> 
-> _Travels deeper into mortal cities. Names the Saint — "They whose actions and forms are bound only by Ambition" — the most extreme Named in the cosmology, resulting in possessions and forced shifts._
 #### The Black Star
 ---
 The mortal cities were now walked by an [[Aspect]], like a beacon for the abused by the plague of gold. So did in the grimy alleys of starving and broken, did a cloaked figure pass with a whisper, and the beggars followed him like sailors to the black star.
@@ -142,29 +132,23 @@ The beast roared.
 
 > [!NOTE] Totems
 > Among the creatures [[Life]] named across her countless climbs, some took hold differently than others. These were the **[[Totems]]** — female beasts named with something larger than _Live_ or _Spread_, vast and strong, blessed sometimes with immortality. Unlike the beasts that named and scattered, Totems could procreate without a mate, becoming mothers of whole lineages of beastkin. Where the lesser named beasts were more animal than kin, the Totems were something between — too large and too old to be mortal, too bound to flesh to be Aspect. Many beastkin tribes of later ages trace their lineage back not to [[Life]] herself, but to the Totem that bore them.
-
-> [!tldr]- Ambition
-> _He grips her collar. Asks: "What is the meaning of you?"_
-> _She stabs him. He shoves her off the cliff._
-> 
-> *The battle cycle. Life rises and falls repeatedly. Each climb she names something new — plants, beasts, Totems, the Immortal Dragon. Totems emerge here, vast female beasts that procreate without a mate, becoming mothers of Beastkin lineages. Ambition recovers his dagger, calls his followers, towns form, walls rise against the beast hordes.
 #### The Dragon
 
 The world shook with a roar, as the great beasts moved from the forests — among them a pale scaled form, blessed with the many names [[Life]] had given across the time of her climbs.
 
-[[Ambition]] heard it from the cliffside, felt the grass shake in its wake. The immortal white-scale moved through the land like a slow catastrophe, indifferent to walls, indifferent to kingdoms. Among all the chaos he called upon his Garments, his people, and together they gathered — using the mortal hunger for gold to raise great cities of stone to stand against the beastly hordes.
+[[Ambition]] heard it from the cliffside, felt the grass shake in its wake. The immortal white-scale, [[Valka]], moved through the land like a slow catastrophe, indifferent to walls, indifferent to kingdoms. Among all the chaos he called upon his Garments, his people, and together they gathered — using the mortal hunger for gold to raise great cities of stone to stand against the beastly hordes.
 
-The hordes broke against the high walls and fell. Then the white-scale came and leveled them, one by one.
+The hordes broke against the high walls and fell until [[Valka]] came and leveled them, one by one.
 
-So did [[Ambition]] unify his followers — not city by city but all at once, pulling every thread of his Garments together into a single effort. The walls rose higher. The kingdoms pressed their borders together. And still the white-scale walked through them.
+So did [[Ambition]] unify his followers — not city by city but all at once, pulling every thread of his Garments together into a single effort. The walls rose higher. The kingdoms pressed their borders together. And still [[Valka]] walk through them.
 
 She rose — hands finding the grass at the cliff's edge, the heavy robe soaked through, her shadow still pulling her down toward the waters. Her eyes found a beast among the forests below, large and scaled and old. She opened her mouth.
 
-[[Ambition]] saw her lips part. So he moved first. He left the cliffside and crossed to where the white-scale circled, and placed upon it a name like his own.
+[[Ambition]] saw her lips part. So he moved first. He left the cliffside and crossed to where white scaled [[Valka]] circled, and placed upon it a name like his own.
 
 > [!quote] _"I can be more."_
 
-The white-scale's eyes changed — something behind them sharpened into hunger, deep and endless. It turned. It saw [[Life]] on the cliff's edge, saw her mouth still open, still reaching for a second dragon to match it. Jealousy burned in its immortal eyes.
+The [[Valka]]'s eyes changed — something behind them sharpened into hunger, deep and endless. It turned. It saw [[Life]] on the cliff's edge, saw her mouth still open, still reaching for a second dragon to match it. Jealousy burned in its immortal eyes. *She was not enough*
 
 It ripped the ground from her hands and let her fall into the waters. All she could do was stare upward, and for the first time, betrayed and bruised, she thought;
 
@@ -172,16 +156,13 @@ It ripped the ground from her hands and let her fall into the waters. All she co
 
 She fell — the robe and manor pulling her deep. But this time she did not fight. She welcomed the dark waters of the Black Ocean, giving up all — an [[Aspect]] questioning its own name.
 
-The [[Aspect]]-fell, and the White-scaled rise its head high, for even an aspect fell in the wake of the mighty Dragon Totem, so did some beasts recede from the wilds onto the cities of mortal. To escape from the newly forming kingdom of beasts, ruled by instinct and pride. 
+The [[Aspect]]-fell, and [[Valka]] rose its head high, for even an aspect fell in the wake of the mighty Dragon Totem, so did some beasts recede from the wilds onto the cities of mortal. To escape from the newly forming kingdom of beasts, ruled by instinct and pride. 
 
-Among all this, did White-Scale come to one that gave it the Name of a soul, [[Ambition]], and show its kingdom to him; in that moment did the [[Aspect]] see a beast bearing a name like his, innocent in its hungry cruelty. As he seen it he realized what they, [[Ambition]] and [[Life]], had done, they made reflection of themselves onto this creature, a being to reflect him and her. 
+Among all this, did [[Valka]] come to one that gave it the Name of a soul, [[Ambition]], and show its kingdom to him; in that moment did the [[Aspect]] see a beast bearing a name like his, innocent in its hungry cruelty. As he seen it he realized what they, [[Ambition]] and [[Life]], had done, they made reflection of themselves onto this creature, a being to reflect him and her. 
 
 He stood on the cliff, watching the waters silently, his eyes turned from the dragon that was like a black mirror to his existence, and she did not come, [[Life]] itself has no meaning. So he turned, and walked the only way he knew now — Forward. 
 
-> [!tldr]- The Dragon
-> _Life rises, names a second dragon. Ambition names the white-scale "I can be more" to drive it off his followers. The jealous white-scale strikes Life down before she can finish naming the second. Life falls asking "What is the meaning of me?" for the first time. She does not fight the water this time. She sinks._
-> 
-> _Above, the white-scale forms a cult of beasts. Ambition watches, feels disgusted, walks away empty._
+
 ## Twilight of an Age 
 ### Ambition — The Plague
 ---
@@ -219,19 +200,6 @@ So, he pulled the robbed child of his memory out and onto its head placed a crow
 
 *It was high time for him to end, this [[4 - Age of Miracles - Life & Ambition|Age of Miracles]].*
 
-> [!tldr]- Ambition - Plague 
->  *[[Ambition]] walks the dying world. Life-less plague cuts mortal lives short. He travels through it, seeing the broken, the starving, the suffering — his [[Name]]d creatures ruling but the pain persisting, unfixable.*
-> 
-> _He meets the girl. She has lost her parents to the plague she herself is dying from. She plants flowers on graves, hides trinkets around the village for others to find. He cannot understand it._
-> 
-> _He screams: "WHY DO YOU GO ON?!"_
-> 
-> _She answers cheerfully, offering him a crown of violet flowers: "I may fall, but others will continue. I am laying down gifts to them, I am helping them so they smile. And because I want to — my last year is worth a smile."_
-> 
-> _Ambition sees the gift. Sees there are things of no price in this world. In her answer he finds not an answer, but Hope._
-> 
-> _So was Hope born. The crown of flowers lands upon its head. The girl becomes the [[Miracle]]._
-
 ### Life - Black Sea
 ---
 #### Leviathan
@@ -251,114 +219,62 @@ So, he pulled the robbed child of his memory out and onto its head placed a crow
 > 
 > _The Life-less plague is healed across the world._
 
-## Aftermath
 
+## Aftermath
+---
 > [!tldr] Life Recedes
 > _Life gives her creations one last Name: "To all who bear my name, I bestow intelligence — to see, to learn, to avoid the mistakes of my actions."_
 > 
-> _All named beasts, some humanoid in nature, gain intelligence equal to mortals. The white-scale gains intelligence. Beastkin gather under their animal Totems._
+> _All named beasts, some humanoid in nature, gain intelligence equal to mortals. The [[Valka]] gains intelligence. Beastkin gather under their animal Totems._
 > 
 > _Fate speaks to the Leviathan mother — her countless eggs become [[Merfolk]], freed from the cycle of self-devouring._
 > 
 > _Life recedes to peaceful acceptance. Imperfect, painful, and with a beautiful future._
 
 ### Ambition & Wildern — The White Scaled Totem
-
+---
 *It was high time for him to end, this [[4 - Age of Miracles - Life & Ambition|Age of Miracles]].*
 
-Yet as [[Ambition]] walked away from the village of [[Miracle]] & [[Hope]], as his mind's rampaging storm slowly set, his thoughts went to a scaled totem sharing a [[Name]] he himself started to resist. 
+Yet as [[Ambition]] walked away from the village of [[Miracle]] & [[Hope]], as his mind's rampaging storm slowly settled, his thoughts went to a scaled totem sharing a [[Name]] he himself had only just begun to resist.
 
-He had sentenced a creature, to the unmoderated hunger, the self-mutilated worth. The cruel result of his own mistakes. So his legs led him back, to the sharp cliff, to the white-scale. To his eyes he saw countless [[Beastkin]], gathering under totems of their own appearance. All of them bestowed once more with a name, and the eyes of [[Ambition]] met the ever-hungry White-Scale. 
+He had sentenced a creature to the unmoderated hunger, the self-mutilated worth. The cruel result of his own wound. So his legs led him back — to the sharp cliff, to Valka. To his eyes now turned to [[Beastkin]], gathering under totems of their own visage, all of them bestowed with thought. At the cliff stood the dragon totem, white-scaled and ancient, the ever-hungry [[Valka]].
 
-Below her was countless eggs, as once more did the Mother of [[Drakes]]
+His hand gripped his dagger. Yet he hesitated.
 
-### Ambition — The Dragon & Wildern
+He looked far — to [[Conflict]], but she was too deep in controlling the flames left in the wake of his and [[Life]]'s battle, keeping them from blaze. 
+He looked to the skies — to [[Beauty|Danu]] and [[Empathy]], but the countless souls their war had sent to the [[Nameless]] left them no room to breathe, let alone answer.
 
----
+He stood alone before a creature he could not unmake.
 
-Yet as he walked away from the village, [[Hope]] newborn at his side and [[Miracle]] watching them go with a smile, his feet slowed. His thoughts, which had for the first time in an age turned outward, turned back — to the cliff, to the cult, to the pale scaled form that wore his name like a wound.
+Then, past him, went an old figure of a [[Aelf#Tam-aelf|Tam]]. Her skin long covered in pale bark, smooth and cracked, small delicate flowers sprouting from the fissures. Her head crowned with featherlike horns of bark curling upward into a round visage of a crown. In her right hand a young branch wound itself around the old rotten handle of an axe — its rusted silvery head still catching the moonlight beautifully, as though the presence of the Moon followed behind her.
 
-He had seen himself in it. The unmoderated hunger. The self-mutilated worth. A creature he had sentenced to the cruel life he himself had lived, without ever meaning to, without ever looking back long enough to see what he had done.
+[[Ambition]] did not know this woman. She held no place among his garments, no kin of his whose name was sung high by mortals. He did not recognise the oldest [[Aspect]] walking past him as though the cliff were simply the next place she needed to be.
 
-He could not leave it.
+Then her axe landed across the large skull of [[Valka]], gashing past the armor of scales. Yet unable to break the bone of the dragon. So thunderous laugh of [[Valka]] shook the waters. But the stone remained still.
 
-So did [[Ambition]] seek help among his kin. To [[Conflict]] first — but she was too deep in managing the flames that still burned high from the war he and [[Life]] had waged, keeping them from blaze. To [[Beauty|Danu]] and [[Empathy]] — but they were buried beneath the influx of souls pouring into the [[Nameless]], the dead of an age of battle too vast to leave unattended.
+And she was joined — by the laugh of the woman before him, the barky face curling into a soft, chilling grin.
 
-So his feet led him, as they always did, the only way forward.
+> _"Such fine material for the loom."_
 
-To [[Wildern]].
+#### The Dragon & The Loom
 
-She listened. She rose the old woodcutter's axe from where it rested at her side. The loom — fallen since the end of the first age, scattered across the Cleaved Cradle — she raised once more, piece by jagged piece, pale stone answering her call.
+The stone of the world shook in terror, as the Tyrant — too long timid — raised her hand, and once more called upon her ornament.
 
-She agreed.
+Before [[Ambition]] stood arrogant [[Valka]], and the clouds gathered. From the ocean floor, dragged up through fathoms of black water, rose the long-fallen Loom of [[Wildern]]. It closed its jagged fist around the dragon as if she were an unruly strand of wool, gripping tight as the ichor flowed down the pale stone once more — drinking deep of it. But [[Valka]] fought. She clawed against the pale stone, biting until her teeth broke, her blood flowing in rivers, driven by the name she bore — _Immortal_.
 
----
+So did the loom consume, spreading the ichor onto land, letting it flow like mist. And through creation passed a high-pitched sound — like claws on stone. The sound of an unraveling Mark upon [[Grael]].
 
-### The Loom & The Dragon
+Quickly did [[Ambition]] rise his dagger and move forward, supporting the [[Aspect]] of [[Grael]] — for [[Wildern]] could not reach the soul of [[Valka]], and he pierced it with his dagger until she stopped moving. With shaking lips he ended the suffering he had caused, not bearing to speak another word, not another name, but [[Wildern]] did not stop to sorrow. 
 
----
+From the unraveled flesh of the dragon [[Wildern]] pulled with softness — a motherly caress. Upon the winds she blew it and shattered it onto many small strands.
 
-They found the white-scale at the heart of its kingdom, vast and pale and ancient, its immortal eyes sharp with the hunger [[Ambition]] had written into its soul.
+> _"Dwell not on mistakes, but revel in possibility. All mortals make mistakes. We are no exception."_ — [[Wildern]]
 
-[[Ambition]] moved first — reaching not for the body but for the Name he had placed upon its soul, trying to pry it free, to cut out the wound he had made. The dragon laughed. A Name given by an [[Aspect]] does not unravel so easily, least of all one sealed into an immortal.
+And the shattered strands flew like small eggs upon the wind, northward. [[Ambition]] smiled, and shattered the soul of [[Valka]] onto a thousand pieces in kind, sending them forth to each of the eggs.
 
-[[Wildern]] struck at its body. The dragon laughed harder — flesh knitting closed before the axe had finished its arc, scales whole again before the sound of the blow had faded. It had surpassed them both. It knew it.
+> _"Let thy shattered soul find respite from thy name... my mirror... you will always have a friend."_ — [[Ambition]]
 
-[[Wildern]] lowered her axe.
-
-And laughed with it.
-
-The dragon stilled, confused by the sound — an [[Aspect]] laughing not in mockery but in genuine delight, eyes bright, already looking at it the way a craftsman looks at an unexpected find.
-
-_What durable material for the loom._
-
-She called it then — the jagged pale frame rising from the Cleaved Cradle, stone answering stone across the distance of ages. It came. And when it arrived it did what it had always done, what it was made for.
-
-It gripped.
-
-The white-scale roared as the loom pulled it — not to the Ichory peak, not to unravel it into nothing, but gently, deliberately, all the way to the Cleaved Cradle where the world had first been shaped. [[Wildern]] followed, and there, in the birthplace of creation, she did what she had learned to do.
-
-She unveiled it. Softly. Mercifully. Onto many forms.
-
----
-
-[[Ambition]] stood in the quiet after.
-
-[[Hope]] and [[Miracle]] beside him, the dragon gone, the loom still. He looked at his hands — the hands that had written a Name onto a soul and walked away, and the hands that had reached back.
-
-He reached inward.
-
-And cut.
-
-Not in cruelty — in love, the only way he knew now. He divided himself into dozens, soul-shards scattered like seeds, so that he would never again walk alone. So that wherever his followers went, something of him would already be there.
-
-From the white-scale's strand, [[Wildern]] wove bodies — pale and scaled and strong. From its soul, divided and shaped, came something new. The [[Aelf]] Ice Clan. The [[Dragonkin]].
-
-The dragon and its creator, at peace at last.
-
-For the problem had never been the hunger. It had been the hunger turned inward, self-mutilating, measuring worth against the wanting of others. Named _"I can be more"_ — and finally, at the end of an age, understanding that it already was.
-
-
-> [!tldr] Ambition — The Dragon & Wildern
-> _Ambition sees the Dragon with Hope and Miracle beside him. Sees himself in it — the unmoderated hunger, the self-mutilated worth, a creature he sentenced to the cruel life he himself lived._
-> 
-> _He asks for help. Conflict is too busy managing the flames of the war. Danu and Empathy are overwhelmed by the influx of souls in the spirit world. So he goes to [[Wildern]]._
-> 
-> _She rises the old woodcutter's axe. The loom, fallen long ago, she raises once more. She agreed._
-
-> [!tldr] The Loom & The Dragon
-> _Ambition and Wildern fight the Dragon. Ambition tries to cut out the Name he marked its soul with. Wildern strikes at its body — the Dragon laughs as it regenerates, for it has surpassed Aspects._
-> 
-> _Wildern laughs with delight. What durable material for the loom._
-> 
-> _She calls the loom. It grabs the Dragon and pulls it all the way to the Cleaved Cradle. There she softly, mercifully unveils it onto many forms._
-> 
-> _Ambition cuts his soul into dozens — so he would always have a family._
-> 
-> _From the white-scale's strand: bodies. From the white-scale's soul: souls. Creation of the [[Aelf]] Ice Clan and [[Dragonkin]]. The Dragon and its creator, at peace at last._
-
-
-
+And so did [[Valka]]'s strands fall north like snow. In time they formed a clan bearing her name, made of her [[Grael]] and [[Tuatha]] both. The white-scaled totem — never again betrayed, never again unloved.
 
 # Notes
 

@@ -11,10 +11,10 @@ The Patriarch's of clans, great beasts given the most powerful names by [[Life]]
 They are large creatures spanning like trees, sometimes immortal in nature, others with other wonderous abilities. Totems are all females and do not need to reproduce in order to produce offspring. The offspring of the Animal Totem is an intelligent beast. 
 
 ### Ideas
-- What is to connect that forest and Wilderguard with a border... it would create a nice tension.... and cause some stories to flow. or maybe even streamline 2 similiar races into one... tho wilderguard was meant to be more sybir forest biomes rather then lush big fuck off trees.... 
+- What is to connect that forest and Wilderguard with a border... it would create a nice tension.... and cause some stories to flow. or maybe even streamline 2 similar races into one... tho wilder guard was meant to be more sybirian forest biomes rather then lush big fuck off trees.... 
 
 ### Wordbuilding
-Check out Aztec languege but cut off the TL from the words, it keeps the nice vibe but fucks off the aglutimation
+Check out Aztec language but cut off the TL from the words, it keeps the nice vibe but fucks off the agglutination
 
 ## Tribe
 ### The Garuda - Snake Eaters
