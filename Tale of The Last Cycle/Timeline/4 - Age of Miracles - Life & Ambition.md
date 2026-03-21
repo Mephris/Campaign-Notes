@@ -217,7 +217,7 @@ He realized then, among all the years, he always was equal to all of them, his s
 So, he pulled the robbed child of his memory out and onto its head placed a crown of violet flowers, so was [[Hope]] born. As the [[Miracle]] looked to [[Hope]], both smiled at each other as the [[Ambition]] turned around, walking away, a hunger contained in his heart, as his memories flew to his garments, no — to his followers. His words spoke an answer. 
 **"Because all of us can be so much more"**
 
-It was high time for him to end, this [[4 - Age of Miracles - Life & Ambition|Age of Miracles]].
+*It was high time for him to end, this [[4 - Age of Miracles - Life & Ambition|Age of Miracles]].*
 
 > [!tldr]- Ambition - Plague 
 >  *[[Ambition]] walks the dying world. Life-less plague cuts mortal lives short. He travels through it, seeing the broken, the starving, the suffering — his [[Name]]d creatures ruling but the pain persisting, unfixable.*
@@ -263,6 +263,81 @@ It was high time for him to end, this [[4 - Age of Miracles - Life & Ambition|Ag
 > _Life recedes to peaceful acceptance. Imperfect, painful, and with a beautiful future._
 
 ### Ambition & Wildern — The White Scaled Totem
+
+*It was high time for him to end, this [[4 - Age of Miracles - Life & Ambition|Age of Miracles]].*
+
+Yet as [[Ambition]] walked away from the village of [[Miracle]] & [[Hope]], as his mind's rampaging storm slowly set, his thoughts went to a scaled totem sharing a [[Name]] he himself started to resist. 
+
+He had sentenced a creature, to the unmoderated hunger, the self-mutilated worth. The cruel result of his own mistakes. So his legs led him back, to the sharp cliff, to the white-scale. To his eyes he saw countless [[Beastkin]], gathering under totems of their own appearance. All of them bestowed once more with a name, and the eyes of [[Ambition]] met the ever-hungry White-Scale. 
+
+Below her was countless eggs, as once more did the Mother of [[Drakes]]
+
+### Ambition — The Dragon & Wildern
+
+---
+
+Yet as he walked away from the village, [[Hope]] newborn at his side and [[Miracle]] watching them go with a smile, his feet slowed. His thoughts, which had for the first time in an age turned outward, turned back — to the cliff, to the cult, to the pale scaled form that wore his name like a wound.
+
+He had seen himself in it. The unmoderated hunger. The self-mutilated worth. A creature he had sentenced to the cruel life he himself had lived, without ever meaning to, without ever looking back long enough to see what he had done.
+
+He could not leave it.
+
+So did [[Ambition]] seek help among his kin. To [[Conflict]] first — but she was too deep in managing the flames that still burned high from the war he and [[Life]] had waged, keeping them from blaze. To [[Beauty|Danu]] and [[Empathy]] — but they were buried beneath the influx of souls pouring into the [[Nameless]], the dead of an age of battle too vast to leave unattended.
+
+So his feet led him, as they always did, the only way forward.
+
+To [[Wildern]].
+
+She listened. She rose the old woodcutter's axe from where it rested at her side. The loom — fallen since the end of the first age, scattered across the Cleaved Cradle — she raised once more, piece by jagged piece, pale stone answering her call.
+
+She agreed.
+
+---
+
+### The Loom & The Dragon
+
+---
+
+They found the white-scale at the heart of its kingdom, vast and pale and ancient, its immortal eyes sharp with the hunger [[Ambition]] had written into its soul.
+
+[[Ambition]] moved first — reaching not for the body but for the Name he had placed upon its soul, trying to pry it free, to cut out the wound he had made. The dragon laughed. A Name given by an [[Aspect]] does not unravel so easily, least of all one sealed into an immortal.
+
+[[Wildern]] struck at its body. The dragon laughed harder — flesh knitting closed before the axe had finished its arc, scales whole again before the sound of the blow had faded. It had surpassed them both. It knew it.
+
+[[Wildern]] lowered her axe.
+
+And laughed with it.
+
+The dragon stilled, confused by the sound — an [[Aspect]] laughing not in mockery but in genuine delight, eyes bright, already looking at it the way a craftsman looks at an unexpected find.
+
+_What durable material for the loom._
+
+She called it then — the jagged pale frame rising from the Cleaved Cradle, stone answering stone across the distance of ages. It came. And when it arrived it did what it had always done, what it was made for.
+
+It gripped.
+
+The white-scale roared as the loom pulled it — not to the Ichory peak, not to unravel it into nothing, but gently, deliberately, all the way to the Cleaved Cradle where the world had first been shaped. [[Wildern]] followed, and there, in the birthplace of creation, she did what she had learned to do.
+
+She unveiled it. Softly. Mercifully. Onto many forms.
+
+---
+
+[[Ambition]] stood in the quiet after.
+
+[[Hope]] and [[Miracle]] beside him, the dragon gone, the loom still. He looked at his hands — the hands that had written a Name onto a soul and walked away, and the hands that had reached back.
+
+He reached inward.
+
+And cut.
+
+Not in cruelty — in love, the only way he knew now. He divided himself into dozens, soul-shards scattered like seeds, so that he would never again walk alone. So that wherever his followers went, something of him would already be there.
+
+From the white-scale's strand, [[Wildern]] wove bodies — pale and scaled and strong. From its soul, divided and shaped, came something new. The [[Aelf]] Ice Clan. The [[Dragonkin]].
+
+The dragon and its creator, at peace at last.
+
+For the problem had never been the hunger. It had been the hunger turned inward, self-mutilating, measuring worth against the wanting of others. Named _"I can be more"_ — and finally, at the end of an age, understanding that it already was.
+
 
 > [!tldr] Ambition — The Dragon & Wildern
 > _Ambition sees the Dragon with Hope and Miracle beside him. Sees himself in it — the unmoderated hunger, the self-mutilated worth, a creature he sentenced to the cruel life he himself lived._

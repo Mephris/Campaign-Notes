@@ -15,3 +15,11 @@ They are large creatures spanning like trees, sometimes immortal in nature, othe
 
 ### Wordbuilding
 Check out Aztec languege but cut off the TL from the words, it keeps the nice vibe but fucks off the aglutimation
+
+## Tribe
+### The Garuda - Snake Eaters
+---
+Coastal tribe known for their hunts of the [[Mermaid - Valli]]. An predator of 
+![[Pasted image 20260321165119.png]]
+![[Pasted image 20260321165338.png]]
+![[Pasted image 20260321165516.png]]
