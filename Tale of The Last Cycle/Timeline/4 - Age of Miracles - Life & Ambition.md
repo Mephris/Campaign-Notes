@@ -1,5 +1,6 @@
 # Age of Miracles
 
+![[Age of Miracles.canvas]]
 ## The Dawn of an Era
 
 > [!warning]- Birth of Life
@@ -101,9 +102,7 @@ Then did he walk up to [[Life]], his hand gripping to her collar — his robe. W
 > 
 > _Establish her character here — muscleheaded, cheerful, brawler. She names things without thinking. Plants, beasts, simple commands. She is strong and warm and not yet tested._
 
-## Collision
-
-#### The Endless Return
+## Collision — The Endless Return
 ---
 Sudden, she felt the grip on her robe — her eyes snapping to [[Ambition]], and quickly she heard him, the wrathful question like a growl of a beast. Her hand moved without thought, dagger finding his abdomen. The strike connected, and just as it did she felt the world tilt as his hand shoved her back — falling, down the sharp rocks, her head striking stone as she plunged into the water below.
 
