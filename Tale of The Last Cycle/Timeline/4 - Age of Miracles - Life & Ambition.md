@@ -1,6 +1,3 @@
----
-cssclasses: tldr-sidebar
----
 # Age of Miracles
 
 ## The Dawn of an Era
