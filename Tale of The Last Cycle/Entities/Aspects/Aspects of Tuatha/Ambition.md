@@ -10,3 +10,13 @@
 
 ---
 
+# Story
+![[4 - Age of Miracles - Life & Ambition#Birth of Ambition]]
+
+![[4 - Age of Miracles - Life & Ambition#Ambition — The Dream]]
+
+![[4 - Age of Miracles - Life & Ambition#Collision — The Endless Return]]
+
+![[4 - Age of Miracles - Life & Ambition#Ambition — The Plague]]
+
+![[4 - Age of Miracles - Life & Ambition#Ambition & Wildern — The White Scaled Totem]]

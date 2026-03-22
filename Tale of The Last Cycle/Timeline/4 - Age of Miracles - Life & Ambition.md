@@ -46,6 +46,17 @@ Then she felt it. The smell of the robe and the dagger, carried on the wind furt
 *One among them* saw the approaching [[Life]] and rose a long dull blade against her — and the pack rose with the man. But [[Life]] did not slow her approach, for she had the thickest hide of a robe and the sharpest fang of a dagger. She came to take the den she wanted.
 ## Flourishing of an Age
 
+### Life — The Den
+---
+*She would take the dreaming den for herself*
+
+So would the protect, as if the pack of mortals were the trespassers, quickly ending each one with her sharp fang, leaving those that ran away with a lazy growl before turning to the shadowy den, placing it onto her shadow before entering, *laying down in peaceful comfort.* 
+
+Soon, waking up her stomach growled, and the things she killed were gone eaten or taken. So she rose with her hooves hitting the rocky floor before passing onto silent grass, to hunt. Her eyes fell on a fast beast, and so she ran after it for days before ending it with a fang, gorging upon its flesh before returning to her den, *laying down in peaceful comfort.* 
+
+Suddenly, a thunder made her jump up, looking at the pouring rain and the lighting that stroke her manor, the intricate stonework showing a large gash like a claw strike, so she moved and gathered small pebbles and rocks to seal the wound on her den. 
+
+Lazily she stretched, before moving up and with a yawn moved out of her den, she had hunted, rested, protected and healed, so she came out of her den and stared down the hill at the edge of the cliff, seeing the many [[Aelf]] in the forests of the old [[Aspect]], the Wildmother. In the once ashen lands were fertile fields of [[Dakr - Ghuman|Dakr]], and she relaxed with the wind hitting her face, carrying a smell, a dreaming smell, her eyes tracing as a figure approached her, the one who marked with smell the robe, the dagger and den, and she moved up curiously, for he was bearing the confusing mortal ingenuity. 
 ### Ambition — The Dream
 ---
 _Naught is free in this world._
@@ -107,13 +118,6 @@ Then did he walk up to [[Life]], his hand gripping to her collar — his robe. W
 > Among all the Named of this age, one was bound tighter than any other. _"They whose actions and forms are bound only by Ambition"_ — a [[Name#^cd06fc|Mark upon stain]] so deep it forced shifts and possessions upon the bearer. 
 > 
 > Early in their life the Saint had moments of defiance, stopping the shifts through sheer will. Ambition alone among the Aspects treated Names as merely clothes — something to be worn or set aside. The Saint tested that philosophy more than any mortal before or since. 
-
-### Life — First Rises
-
-> [!warning]- Placeholder — Life's early movements before the cliff to be decided.
-> 
-> _Establish her character here — muscleheaded, cheerful, brawler. She names things without thinking. Plants, beasts, simple commands. She is strong and warm and not yet tested._
-
 ## Collision — The Endless Return
 ---
 Sudden, she felt the grip on her robe — her eyes snapping to [[Ambition]], and quickly she heard him, the wrathful question like a growl of a beast. Her hand moved without thought, dagger finding his abdomen. The strike connected, and just as it did she felt the world tilt as his hand shoved her back — falling, down the sharp rocks, her head striking stone as she plunged into the water below.
@@ -141,7 +145,7 @@ The beast roared.
 > [!NOTE] Totems
 > Among the creatures [[Life]] named across her countless climbs, some took hold differently than others. These were the **[[Totems]]** — female beasts named with something larger than _Live_ or _Spread_, vast and strong, blessed sometimes with immortality. Unlike the beasts that named and scattered, Totems could procreate without a mate, becoming mothers of whole lineages of beastkin. Where the lesser named beasts were more animal than kin, the Totems were something between — too large and too old to be mortal, too bound to flesh to be Aspect. Many beastkin tribes of later ages trace their lineage back not to [[Life]] herself, but to the Totem that bore them.
 #### The Dragon
-
+---
 The world shook with a roar, as the great beasts moved from the forests — among them a pale scaled form, blessed with the many names [[Life]] had given across the time of her climbs.
 
 [[Ambition]] heard it from the cliffside, felt the grass shake in its wake. The immortal white-scale, [[Valka]], moved through the land like a slow catastrophe, indifferent to walls, indifferent to kingdoms. Among all the chaos he called upon his Garments, his people, and together they gathered — using the mortal hunger for gold to raise great cities of stone to stand against the beastly hordes.
@@ -183,6 +187,7 @@ He stood on the cliff, watching the waters silently, his eyes turned from the dr
 *Among the silence*, he stopped, for before him was a village laid in flower fields and small mounds with crowns of flowers on each and single of them, the once wooden and stone houses covered in moss and laid with childish paintings, tips, a puzzle. So did curiosity make the [[Aspect]] come closer, deeper into the grave puzzle. 
 
 #### Puzzle of Silent Graves
+---
 Following a trail of violet flowers to a drawing of a sleeping child, and below it a mound with a handkerchief robed doll. He lowered himself down the the mound and looked at the doll with a soft smile painting on his face, the small crown of flowers, the silly white robe. He laid it back down softly with his hand carefully avoiding the violet flowers, his gaze turning to a trail leading it further. 
 
 Following a trail of inky cuts, as if long strikes made by a finger onto stone and wood, leading to an open gate of a field, where animals feasted sleepily on the violet flowers, so did he walk among the animals and find another trinket, a silly broken wooden dagger painted, placed on a small mound from which a sapling of a tree was emerging. Further did he see, another trail, of rocks small and big leading deep to the center of the village. 
@@ -265,7 +270,7 @@ And she was joined — by the laugh of the woman before him, the barky face curl
 > _"Such fine material for the loom."_
 
 #### The Dragon & The Loom
-
+---
 The stone of the world shook in terror, as the Tyrant — too long timid — raised her hand, and once more called upon her ornament.
 
 Before [[Ambition]] stood arrogant [[Valka]], and the clouds gathered. From the ocean floor, dragged up through fathoms of black water, rose the long-fallen Loom of [[Wildern]]. It closed its jagged fist around the dragon as if she were an unruly strand of wool, gripping tight as the ichor flowed down the pale stone once more — drinking deep of it. But [[Valka]] fought. She clawed against the pale stone, biting until her teeth broke, her blood flowing in rivers, driven by the name she bore — _Immortal_.
