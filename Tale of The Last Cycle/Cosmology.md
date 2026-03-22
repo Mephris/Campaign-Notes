@@ -18,3 +18,4 @@ Vampires and Werewolfs live in two world at same time, Vampires having to watch 
 4 - Tuatha, Chaos
 5 - Creation: Wildern & Beauty
 6 - Knowledge: Conflict & Empathy
+7 - Miracle: Life & Ambition 

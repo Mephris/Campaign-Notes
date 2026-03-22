@@ -32,7 +32,7 @@ His axe landed in the skull of [[Wildern]].
 
 The world burned. The ink of the sky became the colorful clouds that light the night to this day. From the flames [[Athra/World Information/Carnelian/Session/Conflict]] rose as a Firebird — the first sun. And from the ash of everything that burned, the next age began.
 
-Edal ended the [[2 - Age of Creation - Wildern & Beauty|Age of Creation]]. In doing so he made for mortals a place equal to the [[Aspect|Aspects]] of body and soul — the [[Aspects of Mortal]].
+Edal ended the [[2 - Age of Creation - Wildern & Beauty|Age of Creation]]. In doing so he made for mortals a place equal to the [[Aspect|Aspects]] of body and soul — the [[Aspect of Mortal]].
 
 _For the full account, see [[2 - Age of Creation - Wildern & Beauty]]._
 

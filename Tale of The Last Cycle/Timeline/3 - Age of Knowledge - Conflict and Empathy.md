@@ -188,27 +188,25 @@ Spark taken hold. Of the steady licks of fiery tongues that flickered with passi
 **For two nights, they read of the Inferno**, 
 The Burning fed too much Spark. Flames hotter then those of [[Conflict]] herself.  Of the fear, blazing passions, violence, and the she questioned him for the worth of it all, when all is left is but ash with the red crystal tears swelling in her eyes.
 
-Above them, the night skies glittered with thousand small bonfires set by the burnt souls, singing upon the black threads of the night skies; and as their eyes moved up from the turning of the last page, as [[Knowledge - Awen|Awen]]'s hand extended towards the horizon of setting flames, where from ashes saplings grew with strength of all that were lost in the inferno, a new kin sprouting like seeds from the ashen ground, her [[Humans]]. Her gaze followed, and tears no longer fell. 
+Above them, the night skies glittered with thousand small bonfires set by the burnt souls, singing upon the black threads of the night skies; and as their eyes moved up from the turning of the last page, as [[Knowledge - Awen|Awen]]'s hand extended towards the horizon of setting flames, where from ashes saplings grew with strength of all that were lost in the inferno, a new kin sprouting like seeds from the ashen ground, her [[Dakr - Ghuman]]s. Her gaze followed, and tears no longer fell. 
 
 She looked to horizon, and her eyes flickered with spark, her hair with burning and her mantle with inferno. As she finally recognized among all the conflict, good or bad, life still persisted. So was [[Life]] born, and [[Conflict]] rose up, shedding its last tear to the side as it fell onto the last — empty — page, and all those that would follow. 
 
 #### Dawn of the 7th Night
 ---
-
 So she flew evermore, shining upon the world with recognition of spark, of the burn and the inferno; traveling forward, her gaze looking all around as she went. Now with knowledge of where to place which. 
 
 On the 7th Night, a red gem appeared on the night skies, dwarfed by the silvery moon yet shining proudly next to him. Its soft red light flickering light embers upon each twilight. The [[Conflict|Firebird's]] promise to never again set the world onto inferno, and for the [[Knowledge - Awen|Knowledge]] to always wait for her at the end of her travels. 
 
 ### Aftermath
-#### Awen — [[Aspect of Knowledge]]
+#### Awen 
 ---
-
 The dawn came back on the seventh morning, blazing across the horizon as [[Conflict]] took flight — her mantle full, her eyes bright with recognition of all three states of fire. [[Knowledge - Awen|Awen]] remained.
 
 Son of [[Defiance - Edal|Edal]], first child of order and stain woven knowingly together, he who had been made to remember — he sat upon the ashen snow with the empty tome in his lap and watched the sun rise for the last time with mortal eyes.
 
 He had lived the full length of the age. Had written every page of it. Had sat beside a firebird and shown her the shape of everything she had made, and asked nothing in return.
 
-So did [[Knowledge - Awen|Awen]] become [[Aspect of Knowledge]]. Not with fire, not with axe — but with the quiet of a man on a mountaintop, at the end of a long life, finally setting down what he carried.
+So did [[Knowledge - Awen|Awen]] become a [[Aspect of Mortal]] [[Knowledge - Awen|Knowledge]]. Not with fire, not with axe — but with the quiet of a man on a mountaintop, at the end of a long life, finally setting down what he carried.
 
 The empty page caught the first light of the seventh dawn, with a red gem placed upon it next to a writers feather, as the Age ended with the first ray's of [[Conflict|Firebird]]
