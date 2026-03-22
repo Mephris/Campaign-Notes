@@ -56,7 +56,7 @@
               "type": "markdown",
               "state": {
                 "file": "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -105,12 +105,14 @@
             "id": "786e2aa5cba1e189",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Valka & Drake.png"
+                "file": "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Life.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Valka & Drake"
+              "icon": "lucide-file",
+              "title": "Life"
             }
           },
           {
@@ -301,10 +303,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "177ac833f0870eb3",
+  "active": "1efc7c6bdf23feb3",
   "lastOpenFiles": [
-    "mermaid.png",
+    "Tale of The Last Cycle/Entities/Aspects/Aspect.md",
+    "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
+    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Dakr - Human.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Life.md",
     "Valka & Drake.png",
+    "mermaid.png",
     "Pasted image 20260321173238.png",
     "Wyvern.png",
     "Valli-A.png",
@@ -313,14 +319,11 @@
     "Valli-Armored.png",
     "Pasted image 20260314130323.png",
     "Garuda-M.png",
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Life.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Ambition.md",
-    "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Conflict.md",
     "Tale of The Last Cycle/Cosmology.md",
     "Tale of The Last Cycle/Timeline/3 - Age of Knowledge - Conflict and Empathy.md",
     "Tale of The Last Cycle/Timeline/Age of Miracles.canvas",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Dakr - Ghuman.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Mortal/Aspect of Mortal.md",
     "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Aelf.md",
     "Tale of The Last Cycle/Entities/Primevals/Grael.md",
@@ -332,7 +335,6 @@
     "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Mermaid - Valli.md",
     "Tale of The Last Cycle/Timeline/5 - Age of Fate & Hope.md",
     "Valka.md",
-    "Valka.png",
     "Wyvern.md",
     "Drakes.md",
     "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Beastkin.md",

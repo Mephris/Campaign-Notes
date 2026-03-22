@@ -33,7 +33,7 @@ _Naught is free in this World._
 ---
 There, among the cold mountains, did rise a small figure — hooves upon the snow, golden curls flowing among the protruding horns. She looked high upon the flying [[Conflict]] and the Moon of Twilight, [[Knowledge - Awen|Awen]].
 
-With an innocent smile of sharp teeth she jumped and ran after the sun's mantle, down the mountain, her hooves striking the ashen lands as her attention shifted to the smell of ichor where [[Conflict]]'s rays shone past her. Before her rose the sprouts of [[Dakr - Ghuman|Dakr]] — [[Conflict]]'s crystalline tears taking root in the ash.
+With an innocent smile of sharp teeth she jumped and ran after the sun's mantle, down the mountain, her hooves striking the ashen lands as her attention shifted to the smell of ichor where [[Conflict]]'s rays shone past her. Before her rose the sprouts of [[Dakr - Human|Dakr]] — [[Conflict]]'s crystalline tears taking root in the ash.
 
 *One among them* lay still upon the ground, unmoving, clad in a beautiful pale robe. She came close and upon touch felt softness and warmth for the first time — so she took the robe and clad herself in it tightly, feeling warmth for the first time.
 
@@ -56,7 +56,7 @@ Soon, waking up her stomach growled, and the things she killed were gone eaten o
 
 Suddenly, a thunder made her jump up, looking at the pouring rain and the lighting that stroke her manor, the intricate stonework showing a large gash like a claw strike, so she moved and gathered small pebbles and rocks to seal the wound on her den. 
 
-Lazily she stretched, before moving up and with a yawn moved out of her den, she had hunted, rested, protected and healed, so she came out of her den and stared down the hill at the edge of the cliff, seeing the many [[Aelf]] in the forests of the old [[Aspect]], the Wildmother. In the once ashen lands were fertile fields of [[Dakr - Ghuman|Dakr]], and she relaxed with the wind hitting her face, carrying a smell, a dreaming smell, her eyes tracing as a figure approached her, the one who marked with smell the robe, the dagger and den, and she moved up curiously, for he was bearing the confusing mortal ingenuity. 
+Lazily she stretched, before moving up and with a yawn moved out of her den, she had hunted, rested, protected and healed, so she came out of her den and stared down the hill at the edge of the cliff, seeing the many [[Aelf]] in the forests of the old [[Aspect]], the Wildmother. In the once ashen lands were fertile fields of [[Dakr - Human|Dakr]], and she relaxed with the wind hitting her face, carrying a smell, a dreaming smell, her eyes tracing as a figure approached her, the one who marked with smell the robe, the dagger and den, and she moved up curiously, for he was bearing the confusing mortal ingenuity. 
 ### Ambition — The Dream
 ---
 _Naught is free in this world._
@@ -120,27 +120,30 @@ Then did he walk up to [[Life]], his hand gripping to her collar — his robe. W
 > Early in their life the Saint had moments of defiance, stopping the shifts through sheer will. Ambition alone among the Aspects treated Names as merely clothes — something to be worn or set aside. The Saint tested that philosophy more than any mortal before or since. 
 ## Collision — The Endless Return
 ---
-Sudden, she felt the grip on her robe — her eyes snapping to [[Ambition]], and quickly she heard him, the wrathful question like a growl of a beast. Her hand moved without thought, dagger finding his abdomen. The strike connected, and just as it did she felt the world tilt as his hand shoved her back — falling, down the sharp rocks, her head striking stone as she plunged into the water below.
+Sudden, she felt the grip on her robe — her eyes snapping to [[Ambition]], and quickly she heard him, the wrathful question like a growl of a beast. Her hand moved without thought, her fang; her dagger finding his abdomen. The strike connected, and just as it did she felt the world tilt as his hand shoved her back — falling, down the sharp rocks, her head smashed against stone as she plunged into the water below.
 
-*She rose* — pulling herself up through the pure waters with the abyss yawning below her, climbing the cliff face hand over hand. The moment she broke surface she opened her mouth with no thought. She named, and the plants changed — _Many. Growing. Spreading. Lush._ Life grew in number and spread across the land and she rose with it in strength, but it was not enough. She found her hands too weak, and she slipped.
-*She fell.*
+*She rose* — pained, she pulled herself up through the pure waters with the abyss yawning below her, she climbed the cliff face hand over hand. The moment she broke surface she opened her mouth with no thought other then memory of her den, the comfortable home. She spoke in [[Name]]s, and the plants changed — _Many. Growing. Spreading. Lush._ Life grew in number and spread across the land, but it was not enough. She found her hands too weak, slipping. *She fell.*
 
 Above her on the cliff edge, [[Ambition]] knelt — red ink stained hand pressed to his gut, the other pulling the prodigal blade free. He reclaimed it as he would reclaim all his tools. So did he wait at the edge, watching the water, for her return.
 
-*She rose once more* — pulling herself up, the robe heavy with water, the manor's shadow dragging at her heels like an anchor. She named the beasts of the lush forests: _Live. Breed. Survive. Grow. Spread. Humanoid._ Her beastly children rose against [[Ambition]] in fury, and she climbed higher. So did [[Ambition]] rise his dagger and call upon his garments to end the furious hordes.
+*She rose once more* — the robe heavy with water, the manor's shadow dragging at her heels like an anchor. Scared and panicking she screamed throughout the world [[Name]]s to the beasts: _Live. Breed. Survive. Grow. Spread. Humanoid,_ and so did many of the beast were touched by the names of [[Life]], rising against [[Ambition]] in protective fury. So she could climbed higher. 
+
+Among those [[Name]]d, some emerged who caught more then one, vast matriarch's that alone could produce offspring, and beasts gathered to them like to the [[Totem]]s. Following their commands like the tribe chieftains. 
+
+[[Ambition]] moved up his dagger and called upon his garments to end the furious hordes, so... 
 *She fell*, slipping on rock made wet with the ichor of her own [[Beastkin]].
 
-Among those named, some took hold differently — vast female beasts that needed no mate to fill the forests with their young. The [[Beastkin]] called them [[Totems]], and followed them as tribes follow chieftains.
+In wake of the great hunt, did they make towns and cities near the sharp cliff, the merchant handling the curse of gold, forming many towns. 
+The warrior gathering scars and others to join him. 
+The Saint feeding the starved with [[Beastkin]] flesh.
 
-In wake of the great hunt, did they make towns and cities near the sharp cliff, the merchant with curse of gold forming many towns, the warrior gathering scars and the Saint feeding the starved with beast flesh.
+*She rose once more* — pulling herself up as the robe weighed her down and the manor pulled her toward the abyss. Her hands bruised and shaky, her nails pulled from the fingers but she still moved up, the fear taking the place of bravery as she prevailed against the depths.  
 
-*She rose once more* — pulling herself up as the robe weighed her down and the manor pulled her toward the abyss. Her hands bruised and shaky, as if telling her to jump back to the depths but she prevailed against them. 
-
-There among the beasts she saw it — a large creature of scale and wing, vast child of the [[2 - Age of Creation - Wildern & Beauty|first age]]. She named it.
+There among the beasts she saw it — a large creature of scale and wing, child of the long forgotten age, so she screamed a desperate name towards it. She [[Name]]d it.
 
 _"Immortal."_
 
-The beast roared.
+And the beast roared in protective fury. 
 
 > [!NOTE] Totems
 > Among the creatures [[Life]] named across her countless climbs, some took hold differently than others. These were the **[[Totems]]** — female beasts named with something larger than _Live_ or _Spread_, vast and strong, blessed sometimes with immortality. Unlike the beasts that named and scattered, Totems could procreate without a mate, becoming mothers of whole lineages of beastkin. Where the lesser named beasts were more animal than kin, the Totems were something between — too large and too old to be mortal, too bound to flesh to be Aspect. Many beastkin tribes of later ages trace their lineage back not to [[Life]] herself, but to the Totem that bore them.
@@ -148,19 +151,30 @@ The beast roared.
 ---
 The world shook with a roar, as the great beasts moved from the forests — among them a pale scaled form, blessed with the many names [[Life]] had given across the time of her climbs.
 
-[[Ambition]] heard it from the cliffside, felt the grass shake in its wake. The immortal white-scale, [[Valka]], moved through the land like a slow catastrophe, indifferent to walls, indifferent to kingdoms. Among all the chaos he called upon his Garments, his people, and together they gathered — using the mortal hunger for gold to raise great cities of stone to stand against the beastly hordes.
+[[Ambition]] heard it from the cliffside, felt the grass shake in its wake. The immortal white-scale, [[Valka]], moved through the Ashen land like a slow avalanche, indifferent to walls, indifferent to kingdoms, and its denizens, [[Dakr - Human|Dakr]], died in number before retreating to hide in the gutter like caves. 
 
-The hordes broke against the high walls and fell until [[Valka]] came and leveled them, one by one.
+Among all the chaos he called upon his garments, his people, and together they gathered — using the mortal hunger for gold to raise great cities of stone, and the hordes broke against the high walls and fell, all until [[Valka]] passed, a city, a town, [[Dakr - Human|Dakr]] gutter, one by one. 
 
-So did [[Ambition]] unify his followers — not city by city but all at once, pulling every thread of his Garments together into a single effort. The walls rose higher. The kingdoms pressed their borders together. And still [[Valka]] walk through them.
+So did [[Ambition]] unify his followers, his lips spilling names to more creatures, even the rats in the fell gutters. There, did [[Ambition]] see the countless hordes of [[Dakr - Human|Dakr]] come, tens of times more numerous then his garments. 
 
-She rose — hands finding the grass at the cliff's edge, the heavy robe soaked through, her shadow still pulling her down toward the waters. Her eyes found a beast among the forests below, large and scaled and old. She opened her mouth.
+There, he saw them rise alongside his garments a city, of red flag, and its walls reached higher then any before, the rats of the gutter - the [[Dakr - Human|Dakr]], anvils rang with the metal of the gutters they called mines, and as [[Valka]] marched to them, they met the white-scale with countless fury. 
 
-[[Ambition]] saw her lips part. So he moved first. He left the cliffside and crossed to where white scaled [[Valka]] circled, and placed upon it a name like his own.
+Their army fell as [[Valka]] walked through them.
+
+So they sharpened their weapons, and tried again, futile was their crash against the [[Dragon]].
+Still, their iron pierced the scale hers, dripping the red blood onto her path. 
+
+So they ripped crude simple names onto their bodies, in ways his garments did not think of, and their bodies changed, and they met the [[Dragon]] once more and slowed her passing, in countless tree sized iron arrows, they stopped the march of [[Valka]]. 
+
+The [[Dragon]] was being pushed back. Back towards the cliff, and [[Ambition]] looked to the [[Dakr - Human|Dakr]], the rats that with number and will of their mother-[[aspect]], [[Conflict]].
+
+So was [[Valka]] pushed back more and more back to the edge of the cliff. 
+
+*[[Life]] rose* — hands finding the grass at the cliff's edge, the heavy robe soaked through, her shadow still pulling her down toward the waters. Her eyes found a beast among the forests below, large and scaled and old. She opened her mouth to the land once more, but this time [[Ambition]] moved first. He crossed battlefield's to where white scaled [[Valka]] circled, and placed upon it a name like his own.
 
 > [!quote] _"I can be more."_
 
-The [[Valka]]'s eyes changed — something behind them sharpened into hunger, deep and endless. It turned. It saw [[Life]] on the cliff's edge, saw her mouth still open, still reaching for a second dragon to match it. Jealousy burned in its immortal eyes. *She was not enough*
+And [[Valka]]'s eyes changed — something behind them sharpened into hunger, deep and endless. It turned. It saw [[Life]] on the cliff's edge, saw her mouth still open, still reaching for a second dragon to match it. Jealousy burned in its immortal eyes. *She was not enough*
 
 It ripped the ground from her hands and let her fall into the waters. All she could do was stare upward, and for the first time, betrayed and bruised, she thought;
 
@@ -168,7 +182,7 @@ It ripped the ground from her hands and let her fall into the waters. All she co
 
 She fell — the robe and manor pulling her deep. But this time she did not fight. She welcomed the dark waters of the Black Ocean, giving up all — an [[Aspect]] questioning its own name.
 
-The [[Aspect]]-fell, and [[Valka]] rose its head high, for even an aspect fell in the wake of the mighty Dragon Totem, so did some beasts recede from the wilds onto the cities of mortal. To escape from the newly forming kingdom of beasts, ruled by instinct and pride. 
+The [[Aspect]]-fell, and [[Valka]] rose its head high, for even an aspect fell in the wake of the mighty Dragon Totem, so did some beasts recede from the wilds onto the cities of mortal, to escape from the newly forming kingdom of beasts ruled by instinct and pride. 
 
 Among all this, did [[Valka]] come to one that gave it the Name of a soul, [[Ambition]], and show its kingdom to him; in that moment did the [[Aspect]] see a beast bearing a name like his, innocent in its hungry cruelty. As he seen it he realized what they, [[Ambition]] and [[Life]], had done, they made reflection of themselves onto this creature, a being to reflect him and her. 
 
