@@ -17,7 +17,7 @@ Three grand lessons of conflict speak of:
 
 ![[3 - Age of Knowledge - Conflict and Empathy#The Talk of Ash & Age]]
 
-
+![[3 - Age of Knowledge - Conflict and Empathy#Dawn of the 7th Night]]
 
 ## Notes
 ![[Firebird.png]]

@@ -5,7 +5,7 @@ Nomadic tribes of [[Mermaid - Valli]] created by [[Fate]].
 They were created after the talk of Mother Leviathan and [[Fate]]. In her plea to take her unborn children and give them intelligence as well. 
 
 The youngest race, mainly speaking in a song like language... 
-WAIT SONG LIKE LANGUEGE AFRICAN MIGHT WORK HERE
+Dragons use Sunskrit but maybe use african to this? or some lingo that flows from sunskrit
 
 They have powerful vocal cords that spread the sound waves in water, on surface they don't really work. The siren song can be heard on surface from the sailors hearing the water vibrating. 
 

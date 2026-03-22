@@ -188,7 +188,7 @@ Spark taken hold. Of the steady licks of fiery tongues that flickered with passi
 **For two nights, they read of the Inferno**, 
 The Burning fed too much Spark. Flames hotter then those of [[Conflict]] herself.  Of the fear, blazing passions, violence, and the she questioned him for the worth of it all, when all is left is but ash with the red crystal tears swelling in her eyes.
 
-Above them, the night skies glittered with thousand small bonfires set by the burnt souls, singing upon the black threads of the night skies; and as their eyes moved up from the turning of the last page, as [[Knowledge - Awen|Awen]]'s hand extended towards the horizon of setting flames, where from ashes saplings grew with strength of all that were lost in the inferno. Her gaze followed, and tears no longer fell. 
+Above them, the night skies glittered with thousand small bonfires set by the burnt souls, singing upon the black threads of the night skies; and as their eyes moved up from the turning of the last page, as [[Knowledge - Awen|Awen]]'s hand extended towards the horizon of setting flames, where from ashes saplings grew with strength of all that were lost in the inferno, a new kin sprouting like seeds from the ashen ground, her [[Humans]]. Her gaze followed, and tears no longer fell. 
 
 She looked to horizon, and her eyes flickered with spark, her hair with burning and her mantle with inferno. As she finally recognized among all the conflict, good or bad, life still persisted. So was [[Life]] born, and [[Conflict]] rose up, shedding its last tear to the side as it fell onto the last — empty — page, and all those that would follow. 
 

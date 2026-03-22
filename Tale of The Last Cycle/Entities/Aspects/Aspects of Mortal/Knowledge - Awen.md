@@ -27,3 +27,6 @@ The empty page caught the first light of the seventh dawn, with a red gem placed
 > > **Proto-Celtycki:** Wywodzi się z formy ***u-en-ā**.
 > > **Proto-Indo-European (PIE) Core:** Pochodzi od rdzenia ***h₂wē-** („wiać”, „dmuchać”).
 > > **Original Meaning:** „Boskie natchnienie”, „tchnienie mądrości”.
+
+## Notes
+Avian is the nickname, he had a bad short term memory so he had to write everything down. 
