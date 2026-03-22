@@ -24,7 +24,7 @@ He roamed the spirit world, and met spirits many, but none would follow.
 
 One day, while gathering flowers for his brew, he met an old hunched dreamer sitting by the roadside. The dreamer looked at him — at his pale robe, his ornate dagger, his shadow manor trailing behind — and said nothing about any of it. Just held out a bouquet of beautiful deep violet flowers.
 
-[[Ambition]] waited for the ask. The name. The price — but the dreamer stayed silent in the giving. So did he drink of the violet sweet brew, and fell into deep slumber with confidence of his deeds and happiness of his first gift.
+[[Ambition]] waited for the ask. The name. The price — but the dreamer stayed silent in the giving. So did he drink happily of the gifted sweet brew, and the confidence of his deeds carried him into a deep slumber.
 
 He found himself stripped of all but the spark he began as. No more did he have the beauty of his robe, no more the protection of his dagger, no more the comfort of his home. In all the gifts gone he looked at himself, the insignificant spark, and sat in the dark for a long time, trying to think why he had forgotten.
 
@@ -39,7 +39,7 @@ With an innocent smile of sharp teeth she jumped and ran after the sun's mantle,
 
 Onwards she traveled through the ashen lands, passing into the thick orderly forest, nurtured one and each by an old [[Aspect]], and all across it moved mortal [[Aelf]] — [[Aelf#Tam-aelf|Tam]] and [[Aelf#Salaelf|Sal]].
 
-*One among them* jumped upon her with a sharp steel tooth that smelled of a dream. It pierced her hide and [[Life]] felt pain. In panic, the Hunter's bones shattered under her horns. As the sharp dagger fell upon the grass she picked it up — a tooth that could inspire all the hunters of the world.
+*One among them* jumped upon her with a sharp steel tooth that smelled of a dream. It pierced her hide and [[Life]] felt pain. In panic, the Hunter's bones shattered under her horns. As the sharp dagger fell upon the grass she picked it up for it had drawn her own blood.
 
 Then she felt it. The smell of the robe and the dagger, carried on the wind further ahead. So did she travel, following the trail, wondering what inspiring creation she would come to find. There she found a beautiful manor of shadowy stone, trailing in the shadow of a pack.
 
@@ -56,7 +56,9 @@ Soon, waking up her stomach growled, and the things she killed were gone eaten o
 
 Suddenly, a thunder made her jump up, looking at the pouring rain and the lighting that stroke her manor, the intricate stonework showing a large gash like a claw strike, so she moved and gathered small pebbles and rocks to seal the wound on her den. 
 
-Lazily she stretched, before moving up and with a yawn moved out of her den, she had hunted, rested, protected and healed, so she came out of her den and stared down the hill at the edge of the cliff, seeing the many [[Aelf]] in the forests of the old [[Aspect]], the Wildmother. In the once ashen lands were fertile fields of [[Dakr - Human|Dakr]], and she relaxed with the wind hitting her face, carrying a smell, a dreaming smell, her eyes tracing as a figure approached her, the one who marked with smell the robe, the dagger and den, and she moved up curiously, for he was bearing the confusing mortal ingenuity. 
+Lazily she stretched, before moving up and with a yawn moved out of her den, she had hunted, rested, protected and healed, so she came out of her den and stared down the hill at the edge of the cliff, seeing the many [[Aelf]] in the forests of the old [[Aspect]], the Wildmother. In the once ashen lands were fertile fields of [[Dakr - Human|Dakr]], and she relaxed with the wind hitting her face.
+
+Then she smelled it, a soft wind carried smell, a dreaming smell, her eyes tracing as a figure approached her, the one who marked with smell the robe, the dagger and den, and she moved up curiously, for he was bearing the confusing mortal ingenuity. 
 ### Ambition — The Dream
 ---
 _Naught is free in this world._
@@ -167,7 +169,11 @@ So they ripped crude simple names onto their bodies, in ways his garments did no
 
 Back towards the cliff, and [[Ambition]] looked to the [[Dakr - Human|Dakr]], the rats that with number and will of their mother-[[aspect]], [[Conflict]], did what no mortal could, they put [[Valka]] back on her land. To her cliff.
 
-*[[Life]] rose* — hands finding the grass at the cliff's edge, the heavy robe soaked through, her shadow still pulling her down toward the waters. Her eyes found a beast among the forests below, large and scaled and old. She opened her mouth to the land once more, but this time [[Ambition]] moved first. He crossed battlefield's to where white scaled [[Valka]] circled, and placed upon it a name like his own.
+*[[Life]] rose* — hands finding the grass at the cliff's edge, the heavy robe soaked through, her shadow still pulling her down toward the waters. Her eyes found a beast among the forests below, large and scaled and old. She opened her mouth to the land once more, but this time [[Ambition]] moved first. 
+
+He crossed the battlefield to where the white-scaled [[Valka]] circled — her pale scales cracked and stained, the weight of countless battles worn into her like rings in old wood. A creature that had fought everything put before her and been given no reason why. He knew that look.
+
+So did he speak a name onto her, akin to his own.
 
 > [!quote] _"I can be more."_
 
@@ -274,7 +280,7 @@ Then, past him, went an old figure of a [[Aelf#Tam-aelf|Tam]]. Her skin long cov
 
 [[Ambition]] did not know this woman. She held no place among his garments, no kin of his whose name was sung high by mortals. He did not recognise the oldest [[Aspect]] walking past him as though the cliff were simply the next place she needed to be.
 
-Then her axe landed across the large skull of [[Valka]], gashing past the armor of scales. Yet unable to break the bone of the dragon. So thunderous laugh of [[Valka]] shook the waters. But the stone remained still.
+Then her axe landed across the large skull of [[Valka]], gashing past the armor of scales. Yet unable to break the bone of the dragon. So thunderous laugh of [[Valka]] shook the waters. But the jagged stone remained still.
 
 And she was joined — by the laugh of the woman before him, the barky face curling into a soft, chilling grin.
 
