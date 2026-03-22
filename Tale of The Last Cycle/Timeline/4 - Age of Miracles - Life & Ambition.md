@@ -158,17 +158,14 @@ Among all the chaos he called upon his garments, his people, and together they g
 So did [[Ambition]] unify his followers, his lips spilling names to more creatures, even the rats in the fell gutters. There, did [[Ambition]] see the countless hordes of [[Dakr - Human|Dakr]] come, tens of times more numerous then his garments. 
 
 There, he saw them rise alongside his garments a city, of red flag, and its walls reached higher then any before, the rats of the gutter - the [[Dakr - Human|Dakr]], anvils rang with the metal of the gutters they called mines, and as [[Valka]] marched to them, they met the white-scale with countless fury. 
-
 Their army fell as [[Valka]] walked through them.
 
-So they sharpened their weapons, and tried again, futile was their crash against the [[Dragon]].
-Still, their iron pierced the scale hers, dripping the red blood onto her path. 
+So the city screamed with sound of sharpened iron and marching drums as they tried again, and futile was their crash against the [[Dragon]].
+Their armies fell, but their iron pierced her scale, leaving the red trail on her path. 
 
-So they ripped crude simple names onto their bodies, in ways his garments did not think of, and their bodies changed, and they met the [[Dragon]] once more and slowed her passing, in countless tree sized iron arrows, they stopped the march of [[Valka]]. 
+So they ripped crude simple names onto their bodies, in ways his garments did not think of, and their bodies changed. Once more they met the White scale [[Dragon]] and slowed her passing, in countless [[Bogóir]] iron arrows, they have put an end to her march, before herding her, pushing her back in weapons made to pierce scale and rend flesh. 
 
-The [[Dragon]] was being pushed back. Back towards the cliff, and [[Ambition]] looked to the [[Dakr - Human|Dakr]], the rats that with number and will of their mother-[[aspect]], [[Conflict]].
-
-So was [[Valka]] pushed back more and more back to the edge of the cliff. 
+Back towards the cliff, and [[Ambition]] looked to the [[Dakr - Human|Dakr]], the rats that with number and will of their mother-[[aspect]], [[Conflict]], did what no mortal could, they put [[Valka]] back on her land. To her cliff.
 
 *[[Life]] rose* — hands finding the grass at the cliff's edge, the heavy robe soaked through, her shadow still pulling her down toward the waters. Her eyes found a beast among the forests below, large and scaled and old. She opened her mouth to the land once more, but this time [[Ambition]] moved first. He crossed battlefield's to where white scaled [[Valka]] circled, and placed upon it a name like his own.
 
