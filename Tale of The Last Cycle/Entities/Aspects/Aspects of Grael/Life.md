@@ -4,6 +4,7 @@ Holding onto just one path desperately makes you blind to all the occasions arou
 
 **Core** instinct over thought
 
+# Story
 
 ![[4 - Age of Miracles - Life & Ambition#Birth of Life]]
 

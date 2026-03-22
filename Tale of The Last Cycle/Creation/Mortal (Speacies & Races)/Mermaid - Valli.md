@@ -1,5 +1,5 @@
-![[Pasted image 20260321164322.png]]
-![[Pasted image 20260321165823.png]]
+![[Valli-Armored.png]]
+![[Valli-A.png]]
 Nomadic tribes of [[Mermaid - Valli]] created by [[Fate]]. 
 
 They were created after the talk of Mother Leviathan and [[Fate]]. In her plea to take her unborn children and give them intelligence as well. 

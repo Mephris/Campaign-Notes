@@ -105,14 +105,12 @@
             "id": "786e2aa5cba1e189",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Life.md",
-                "mode": "source",
-                "source": false
+                "file": "Valka & Drake.png"
               },
-              "icon": "lucide-file",
-              "title": "Life"
+              "icon": "lucide-image",
+              "title": "Valka & Drake"
             }
           },
           {
@@ -144,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -303,12 +301,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1efc7c6bdf23feb3",
+  "active": "177ac833f0870eb3",
   "lastOpenFiles": [
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Ambition.md",
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Conflict.md",
+    "mermaid.png",
+    "Valka & Drake.png",
+    "Pasted image 20260321173238.png",
+    "Wyvern.png",
+    "Valli-A.png",
+    "Garuda-F2.png",
+    "Garuda-F.png",
+    "Valli-Armored.png",
+    "Pasted image 20260314130323.png",
+    "Garuda-M.png",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Life.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Ambition.md",
     "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Conflict.md",
     "Tale of The Last Cycle/Cosmology.md",
     "Tale of The Last Cycle/Timeline/3 - Age of Knowledge - Conflict and Empathy.md",
     "Tale of The Last Cycle/Timeline/Age of Miracles.canvas",
@@ -328,21 +336,11 @@
     "Wyvern.md",
     "Drakes.md",
     "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Beastkin.md",
-    "Pasted image 20260321173323.png",
-    "Pasted image 20260321173238.png",
-    "Pasted image 20260321173231.png",
-    "Pasted image 20260321165823.png",
-    "Pasted image 20260321165516.png",
-    "Pasted image 20260321165338.png",
-    "Pasted image 20260321165119.png",
-    "Pasted image 20260321164322.png",
     "Tale of The Last Cycle/Cosmology Graph.canvas",
     "Dwarvenkin.md",
     "Untitled.md",
     "Malnan.md",
     "Iztac.md",
-    "images-3.jpeg",
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Mortal/Miracle.md",
     "Untitled.base",
     "Untitled.canvas",
     "Tale of The Last Cycle/Creation/Afterlife",

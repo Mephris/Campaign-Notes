@@ -11,6 +11,7 @@
 ---
 
 # Story
+
 ![[4 - Age of Miracles - Life & Ambition#Birth of Ambition]]
 
 ![[4 - Age of Miracles - Life & Ambition#Ambition — The Dream]]

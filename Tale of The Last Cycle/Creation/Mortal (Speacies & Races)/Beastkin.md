@@ -20,6 +20,6 @@ Check out Aztec language but cut off the TL from the words, it keeps the nice vi
 ### The Garuda - Snake Eaters
 ---
 Coastal tribe known for their hunts of the [[Mermaid - Valli]]. An predator of 
-![[Pasted image 20260321165119.png]]
-![[Pasted image 20260321165338.png]]
-![[Pasted image 20260321165516.png]]
+![[Garuda-F.png]]
+![[Garuda-M.png]]
+![[Garuda-F2.png]]
