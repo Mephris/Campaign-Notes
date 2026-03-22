@@ -1,4 +1,3 @@
-
 Creation of [[Wildern|Wildern]] from different kind of animals, the original races being [[Aelf#Mìn - Minaelf|Min]] & [[Aelf#Mòr - Móraelf|Mór]]. From the creatures that ate the Tuatha stain from plants (herbivores), one the quick Min that roamed the day and bulwark of Mór that did not care to hide in the night. 
 # Wild-aelf
 > > *"Wild White" & "Luminous of Wild"*

@@ -7,6 +7,9 @@ Three grand lessons of conflict speak of:
 ###### Faith
 ###### Fear
 
+## Child Speacies
+[[Dakr - Human]]
+
 ## Story
 
 ### Age of Knowledge
