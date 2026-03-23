@@ -183,7 +183,7 @@ It ripped the ground from her hands and let her fall into the waters. All she co
 
 > [!quote] _"What is the meaning of me?"_
 
-She fell — the robe and manor pulling her deep. But this time she did not fight. She welcomed the dark waters of the Black Ocean, giving up all — an [[Aspect]] questioning its own name.
+*[[Life]] fell — the robe and manor pulling her deep. But this time she did not fight. She welcomed the dark waters of the Black Ocean, giving up all — an [[Aspect]] questioning its own name.*
 
 The [[Aspect]]-fell, and [[Valka]] rose its head high, for even an aspect fell in the wake of the mighty Dragon Totem, so did some beasts recede from the wilds onto the cities of mortal, to escape from the newly forming kingdom of beasts ruled by instinct and pride. 
 
@@ -223,7 +223,7 @@ Her hands moved forward, presenting to him a crown of violet flowers, same as th
 
 So would [[Ambition]] lay forth his hands, accepting a crown of flowers, with the question ringing in his head. His thoughts going back, to the spirit world, beyond his gifts, to the little spark. Always getting more, the silly robe, the silly dagger, the silly manor, not out of hunger of a white scaled dragon, but want of proving himself equal to other [[Aspect]]. 
 
-He realized then, among all the years, he always was equal to all of them, his self-name, his self-inadequacy, all of it made him bitter and afraid. For the first time in his life, he stood among the nature of the [[2 - Age of Creation - Wildern & Beauty|Creation of Wildern and Danu]], among the rays of [[Conflict]], the azure skies beyond which lied the safety of [[Empathy]], and he felt himself hopeful, that he too, among all them was equal. 
+He realized then, among all the years, he always was equal to all of them, his self-name, his self-inadequacy, all of it made him bitter and afraid. For the first time in his life, he stood among the nature of the [[2 - Age of Creation - Wildern & Beauty|Creation of Anu and Danu]], among the rays of [[Conflict]], the azure skies beyond which lied the safety of [[Empathy]], and he felt himself hopeful, that he too, among all them was equal. 
 
 So, he pulled the robbed child of his memory out and onto its head placed a crown of violet flowers, so was [[Hope]] born. As the [[Miracle]] looked to [[Hope]], both smiled at each other as the [[Ambition]] turned around, walking away, a hunger contained in his heart, as his memories flew to his garments, no — to his followers. His words spoke an answer. 
 **"Because all of us can be so much more"**
@@ -232,11 +232,53 @@ So, he pulled the robbed child of his memory out and onto its head placed a crow
 
 ### Life - Black Sea
 ---
-#### Leviathan
+*[[Life]] fell — the robe and manor pulling her deep. But this time she did not fight. She welcomed the dark waters of the [[Black Ocean]], giving up all — and the dark waters welcomed her in a whirlwind.*
 
-> [!tldr] Life - Black Sea & Leviathan
+*Cut by the jagged rocks*, she fell, blacking out at times, drowning deeper into the abyss, and above her she saw many animals of the sea, beasts she not bestowed with a name yet in vast sizes. Ruling their waters like [[Sea King]]s. 
+
+*Snagged by cold currents*, downwards onto deep ocean, just above the deep pools of the first ink, she saw countless [[Wyrm]], swimming through the waters, snagging her flesh like whips with her tail while their teeth ripped at each other, and [[Life]] laughed, for it reminded it of her. 
+
+In small glint of recognition, she weakly smiled, as below her, like a putrid still water was the first ink of [[Beauty|Anu]]. All until her drowned body slowly hit the still ink. 
+
+*Devoured, the ink moved onto water moved, unraveling iridescent colors, from the abyssal black.*
+She gasped in momentary wonder, in doing so, filling her lungs in the ink, for first time lacking breath she tried to claw onward, but it was too late. No rock to grasp, no current to fight, just the all consuming colors of ink. 
+
+There, she fell to the bottom of all seas, the [[Abyss]]. 
+
+> [!tldr] Life - Black Sea
 > _Life sinks to the floor of the Black Sea. Sees the young leviathans devouring each other endlessly. Sees herself in it._
-> 
+#### [[Mermaid - Valli#Valli - The Coiled Mother|Valli - The Coiled Mother]]
+Down she drowned, onto the very heart of the inky [[Abyss]]. The well of rock coiling down like a [[Wyrm]]. The iridescent realm, the ink of time all around her as she relaxed, what reason was there to fight?
+
+*For [[Life]] holds no meaning*, and if it holds none then it should end. So did world's life slowly follow the will of the [[Aspect]] of [[Life]], cutting shorter with each moment. 
+
+*For why move at all? Why spare a breath?* 
+
+As she laid down on the bed of sand, at the root of all oceans. The ink around her slowly settling from the colors onto a black blanket, the comfortable bed to rot in. So did fighting [[Wyrm]] stop, their dead corpses falling down, as their life was cut shorter with each moment. 
+
+
+
+In all the ink something stirred, and she saw the head of the coiled well, a large long bestoned form flowing closer to her. 
+
+Her form moved and the [[Abyss]] coiled with her body moving, and the oceans wrapped into a whirl as the predator of the [[First age]] did not allow [[Life]] to fall onto the blissful inky sleep. Among all the chaos, did she hear the rumbling growl holding a deeper memory. 
+
+So, in last glint of light in her eyes she rose her hand and touched the coiled scales. The [[Tuatha]] of the creature churned in a voice. 
+
+> No glow of future in our sight
+
+The [[Tuatha]] of the Coiled Mother gripped onto the aspect, and [[Life]] looked into the crea
+
+> So drink from us, and feel alive.
+
+
+
+
+
+
+
+
+
+> [!tldr] Life - Leviathan
 > _At the heart of the deep she finds the great Leviathan mother, frozen in time, sleeping. She wakes._
 > 
 > _The Leviathan asks: "Life is always a struggle, to live is to suffer — in all of it, what is your life to you?"_
@@ -290,15 +332,15 @@ And she was joined — by the laugh of the woman before him, the barky face curl
 ---
 The stone of the world shook in terror, as the Tyrant — too long timid — raised her hand, and once more called upon her ornament.
 
-Before [[Ambition]] stood arrogant [[Valka]], and the clouds gathered. From the ocean floor, dragged up through fathoms of black water, rose the long-fallen Loom of [[Wildern]]. It closed its jagged fist around the dragon as if she were an unruly strand of wool, gripping tight as the ichor flowed down the pale stone once more — drinking deep of it. But [[Valka]] fought. She clawed against the pale stone, biting until her teeth broke, her blood flowing in rivers, driven by the name she bore — _Immortal_.
+Before [[Ambition]] stood arrogant [[Valka]], and the clouds gathered. From the ocean floor, dragged up through fathoms of black water, rose the long-fallen Loom of [[Wildern|Anu]]. It closed its jagged fist around the dragon as if she were an unruly strand of wool, gripping tight as the ichor flowed down the pale stone once more — drinking deep of it. But [[Valka]] fought. She clawed against the pale stone, biting until her teeth broke, her blood flowing in rivers, driven by the name she bore — _Immortal_.
 
 So did the loom consume, spreading the ichor onto land, letting it flow like mist. And through creation passed a high-pitched sound — like claws on stone. The sound of an unraveling Mark upon [[Grael]].
 
-Quickly did [[Ambition]] rise his dagger and move forward, supporting the [[Aspect]] of [[Grael]] — for [[Wildern]] could not reach the soul of [[Valka]], and he pierced it with his dagger until she stopped moving. With shaking lips he ended the suffering he had caused, not bearing to speak another word, not another name, but [[Wildern]] did not stop to sorrow. 
+Quickly did [[Ambition]] rise his dagger and move forward, supporting the [[Aspect]] of [[Grael]] — for [[Wildern|Anu]] could not reach the soul of [[Valka]], and he pierced it with his dagger until she stopped moving. With shaking lips he ended the suffering he had caused, not bearing to speak another word, not another name, but [[Wildern]] did not stop to sorrow. 
 
-From the unraveled flesh of the dragon [[Wildern]] pulled with softness — a motherly caress. Upon the winds she blew it and shattered it onto many small strands.
+From the unraveled flesh of the dragon [[Wildern|Anu]] pulled with softness — a motherly caress. Upon the winds she blew it and shattered it onto many small strands.
 
-> _"Dwell not on mistakes, but revel in possibility. All mortals make mistakes. We are no exception."_ — [[Wildern]]
+> _"Dwell not on mistakes, but revel in possibility. All mortals make mistakes. We are no exception."_ — [[Wildern|Anu]]
 
 And the shattered strands flew like small eggs upon the wind, northward. [[Ambition]] smiled, and shattered the soul of [[Valka]] onto a thousand pieces in kind, sending them forth to each of the eggs.
 
@@ -306,19 +348,3 @@ And the shattered strands flew like small eggs upon the wind, northward. [[Ambit
 
 And so did [[Valka]]'s strands fall north like snow. In time they formed a clan bearing her name, made of her [[Grael]] and [[Tuatha]] both. The white-scaled totem — never again betrayed, never again unloved.
 
-# Notes
-
-> [!warning] Raw plot notes
-> 
-> - Life = muscleheaded brawler, cheerful, Grael aspect, feminine
-> - Ambition = shut-in, self-contained, masculine, dark empath, born from Empathy's moment of jealousy at Danu's court
-> - Ambition's wound = chronic inadequacy dressed as hunger, feels everyone's wanting and measures himself against it
-> - Ambition's lesson = you are enough as you are, self-mutilating yourself into feelings of inadequacy makes a life of bitter falsehoods
-> - Black Sea = surviving ink from Age of Creation burning, sank to deepest place
-> - Leviathan = predator of lightless nights, origin mysterious, already in the deep
-> - Dwergr = born from Ambition's profaned Naming + self-naming onto Grael flesh
-> - Fate born from Life accepting the shape of things at the bottom
-> - Hope born from the girl's answer under the silvery moon
-> - Girl becomes Aspect of Miracles — connection to magic to be decided later
-> - Life after age = zen, accepting, "oh well that's life"
-> - Ambition after age = takes responsibility, goes to Danu, first steps toward engaging with others

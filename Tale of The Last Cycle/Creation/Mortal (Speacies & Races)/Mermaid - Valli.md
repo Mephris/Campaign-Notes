@@ -35,3 +35,7 @@ For both [[Mermaid - Valli]] and the prey they hunt they do same rite, using all
 
 > [!note] Sailors
 > Sailors are mostly trying to keep away from [[Mermaid - Valli]], due to tense relationships they have with poachers and it being hard for the [[Mermaid - Valli]] to tell apart humans, often the tribes also raid ships not in malice but in order to get the weapons made by humans that can penetrate the thick sea king hide. 
+
+
+## Valli - The Coiled Mother
+![[Coiled Mother.png]]

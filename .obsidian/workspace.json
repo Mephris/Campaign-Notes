@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
+                "file": "Tale of The Last Cycle/Creation/Afterlife/Death of Body - Passing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Age of Miracles - Life & Ambition"
+              "title": "Death of Body - Passing"
             }
           },
           {
@@ -92,8 +92,8 @@
               "state": {
                 "file": "Tale of The Last Cycle/Timeline/Age of Miracles.canvas",
                 "viewState": {
-                  "x": -484.29398470530634,
-                  "y": -21.064464453058406,
+                  "x": -322.6891988021202,
+                  "y": 3539.213280367909,
                   "zoom": -0.3139583006809831
                 }
               },
@@ -135,16 +135,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Aelf.md",
+                "file": "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Aelf/Aelf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Aelf"
             }
+          },
+          {
+            "id": "6872e6fd63398590",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,7 +314,28 @@
   },
   "active": "1efc7c6bdf23feb3",
   "lastOpenFiles": [
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Aelf.md",
+    "Tale of The Last Cycle/Creation/Afterlife/Death of Soul - Sleep.md",
+    "Tale of The Last Cycle/Creation/Afterlife/Nameless.md",
+    "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
+    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Untitled",
+    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Star-Born",
+    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Human",
+    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Aelf",
+    "Tale of The Last Cycle/Timeline/Age of Miracles.canvas",
+    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Mermaid - Valli.md",
+    "Coiled Mother.png",
+    "Wyrm.md",
+    "Valka.md",
+    "Valli-A.png",
+    "Wyvern.md",
+    "Pasted image 20260323095326.png",
+    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Human/Beastkin.md",
+    "Pasted image 20260323090726.png",
+    "Tale of The Last Cycle/Timeline/5 - Age of Fate & Hope.md",
+    "Tale of The Last Cycle/Timeline/3 - Age of Knowledge - Conflict and Empathy.md",
+    "Tale of The Last Cycle/Timeline/2 - Age of Creation - Wildern & Beauty.md",
+    "Tale of The Last Cycle/Timeline/1 - Beginning.md",
+    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Aelf/Aelf.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Ambition.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Conflict.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Fate.md",
@@ -315,33 +345,15 @@
     "Tale of The Last Cycle/Entities/Aspects/Aspect.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Hope.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Life.md",
-    "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
     "Tale of The Last Cycle/Creation/Afterlife/Death of Body - Passing.md",
-    "Tale of The Last Cycle/Creation/Afterlife/Death of Soul - Sleep.md",
-    "Tale of The Last Cycle/Creation/Afterlife/Nameless.md",
     "Tale of The Last Cycle/Creation/Afterlife/Spirit World.md",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Beastkin.md",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Mermaid - Valli.md",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Dakr - Human.md",
+    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Human/Dakr - Human.md",
     "Valka & Drake.png",
     "mermaid.png",
     "Pasted image 20260321173238.png",
     "Wyvern.png",
-    "Valli-A.png",
     "Garuda-F2.png",
     "Garuda-F.png",
-    "Valli-Armored.png",
-    "Pasted image 20260314130323.png",
-    "Garuda-M.png",
-    "Tale of The Last Cycle/Cosmology.md",
-    "Tale of The Last Cycle/Timeline/3 - Age of Knowledge - Conflict and Empathy.md",
-    "Tale of The Last Cycle/Timeline/Age of Miracles.canvas",
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Mortal/Aspect of Mortal.md",
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Mortal/Knowledge - Awen.md",
-    "Totems.md",
-    "Tale of The Last Cycle/Timeline/2 - Age of Creation - Wildern & Beauty.md",
-    "Tale of The Last Cycle/Timeline/1 - Beginning.md",
-    "Tale of The Last Cycle/Creation/Dragon.md",
     "Tale of The Last Cycle/Cosmology Graph.canvas",
     "Untitled.base",
     "Untitled.canvas",
@@ -350,10 +362,6 @@
     "Tale of The Last Cycle/Creation",
     "Tale of The Last Cycle/Terminology & Dictionary",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Mortal",
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha",
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael",
-    "Tale of The Last Cycle/Entities/Aspects",
-    "Tale of The Last Cycle/Entities/Primevals",
     "Fable World/Entities/Untitled.canvas"
   ]
 }
