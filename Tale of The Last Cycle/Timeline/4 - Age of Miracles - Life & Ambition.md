@@ -248,8 +248,6 @@ There, she fell to the bottom of all seas, the [[Abyss]].
 > [!tldr] Life - Black Sea
 > _Life sinks to the floor of the Black Sea. Sees the young leviathans devouring each other endlessly. Sees herself in it._
 #### [[Mermaid - Valli#Valli - The Coiled Mother|Valli - The Coiled Mother]]
-
-
 Down she drowned, onto the very heart of the inky [[Abyss]]. The well of rock coiling down like a [[Wyrm]]. The iridescent realm, the ink of time all around her as she relaxed, what reason was there to fight?
 
 *For [[Life]] holds no meaning*, and if it holds none then it should end. So did world's life slowly follow the will of the [[Aspect]] of [[Life]], cutting shorter with each moment. 
@@ -257,8 +255,6 @@ Down she drowned, onto the very heart of the inky [[Abyss]]. The well of rock co
 *For why move at all? Why spare a breath?* 
 
 As she laid down on the bed of sand, at the root of all oceans. The ink around her slowly settling from the colors onto a black blanket, the comfortable bed to rot in. So did fighting [[Wyrm]] stop, their dead corpses falling down, as their life was cut shorter with each moment. 
-
-
 
 In all the ink something stirred, and she saw the head of the coiled well, a large long bestoned form flowing closer to her. 
 
@@ -268,7 +264,7 @@ So, in last glint of light in her eyes she rose her hand and touched the coiled 
 
 > No glow of future in our sight
 
-The [[Tuatha]] of the Coiled Mother gripped onto the aspect, and [[Life]] looked into the crea
+The [[Tuatha]] of the Coiled Mother gripped onto the aspect, and [[Life]] looked into the (basically Valli sacrifices herself to release from her blood her memories, to show Life the meaning, that there is none, we are fated to be the same yet different, all of us are none yet all)
 
 > So drink from us, and feel alive.
 
