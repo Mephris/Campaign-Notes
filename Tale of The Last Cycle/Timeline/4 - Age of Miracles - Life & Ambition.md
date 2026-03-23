@@ -43,7 +43,9 @@ Onwards she traveled through the ashen lands, passing into the thick orderly for
 
 Then she felt it. The smell of the robe and the dagger, carried on the wind further ahead. So did she travel, following the trail, wondering what inspiring creation she would come to find. There she found a beautiful manor of shadowy stone, trailing in the shadow of a pack.
 
-*One among them* saw the approaching [[Life]] and rose a long dull blade against her — and the pack rose with the man. But [[Life]] did not slow her approach, for she had the thickest hide of a robe and the sharpest fang of a dagger. She came to take the den she wanted.
+*One among them* saw the approaching [[Life]] and rose a long dull blade against her — and the pack rose with the man. But [[Life]] did not slow her approach, for she had the thickest hide of a robe and the sharpest fang of a dagger. 
+
+*She came to take the den she wanted.*
 ## Flourishing of an Age
 
 ### Life — The Den
@@ -190,8 +192,6 @@ The [[Aspect]]-fell, and [[Valka]] rose its head high, for even an aspect fell i
 Among all this, did [[Valka]] come to one that gave it the Name of a soul, [[Ambition]], and show its kingdom to him; in that moment did the [[Aspect]] see a beast bearing a name like his, innocent in its hungry cruelty. As he seen it he realized what they, [[Ambition]] and [[Life]], had done, they made reflection of themselves onto this creature, a being to reflect him and her. 
 
 He stood on the cliff, watching the waters silently, his eyes turned from the dragon that was like a black mirror to his existence, and she did not come, [[Life]] itself has no meaning. So he turned, and walked the only way he knew now — Forward. 
-
-
 ## Twilight of an Age 
 ### Ambition — The Plague
 ---
@@ -248,6 +248,8 @@ There, she fell to the bottom of all seas, the [[Abyss]].
 > [!tldr] Life - Black Sea
 > _Life sinks to the floor of the Black Sea. Sees the young leviathans devouring each other endlessly. Sees herself in it._
 #### [[Mermaid - Valli#Valli - The Coiled Mother|Valli - The Coiled Mother]]
+
+
 Down she drowned, onto the very heart of the inky [[Abyss]]. The well of rock coiling down like a [[Wyrm]]. The iridescent realm, the ink of time all around her as she relaxed, what reason was there to fight?
 
 *For [[Life]] holds no meaning*, and if it holds none then it should end. So did world's life slowly follow the will of the [[Aspect]] of [[Life]], cutting shorter with each moment. 
