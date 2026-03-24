@@ -152,7 +152,6 @@ And the beast roared in protective fury.
 > [!NOTE] Totems
 > Among the creatures [[Life]] named across her countless climbs, some took hold differently than others. These were the **[[Totems]]** — female beasts named with something larger than _Live_ or _Spread_, vast and strong, blessed sometimes with immortality. Unlike the beasts that named and scattered, Totems could procreate without a mate, becoming mothers of whole lineages of beastkin. Where the lesser named beasts were more animal than kin, the Totems were something between — too large and too old to be mortal, too bound to flesh to be Aspect. Many beastkin tribes of later ages trace their lineage back not to [[Life]] herself, but to the Totem that bore them.
 #### The Dragon
----
 The world shook with a roar, as the great beasts moved from the forests — among them a pale scaled form, blessed with the many names [[Life]] had given across the time of her climbs.
 
 [[Ambition]] heard it from the cliffside, felt the grass shake in its wake. The immortal white-scale, [[Valka]], moved through the Ashen land like a slow avalanche, indifferent to walls, indifferent to kingdoms, and its denizens, [[Dakr - Human|Dakr]], died in number before retreating to hide in the gutter like caves. 
@@ -204,7 +203,6 @@ He stood on the cliff, watching the waters silently, his eyes turned from the dr
 *Among the silence*, he stopped, for before him was a village laid in flower fields and small mounds with crowns of flowers on each and single of them, the once wooden and stone houses covered in moss and laid with childish paintings, tips, a puzzle. So did curiosity make the [[Aspect]] come closer, deeper into the grave puzzle. 
 
 #### Puzzle of Silent Graves
----
 Following a trail of violet flowers to a drawing of a sleeping child, and below it a mound with a handkerchief robed doll. He lowered himself down the the mound and looked at the doll with a soft smile painting on his face, the small crown of flowers, the silly white robe. He laid it back down softly with his hand carefully avoiding the violet flowers, his gaze turning to a trail leading it further. 
 
 Following a trail of inky cuts, as if long strikes made by a finger onto stone and wood, leading to an open gate of a field, where animals feasted sleepily on the violet flowers, so did he walk among the animals and find another trinket, a silly broken wooden dagger painted, placed on a small mound from which a sapling of a tree was emerging. Further did he see, another trail, of rocks small and big leading deep to the center of the village. 
@@ -248,33 +246,22 @@ There, she fell to the bottom of all seas, the [[Abyss]].
 > [!tldr] Life - Black Sea
 > _Life sinks to the floor of the Black Sea. Sees the young leviathans devouring each other endlessly. Sees herself in it._
 #### [[Mermaid - Valli#Valli - The Coiled Mother|Valli - The Coiled Mother]]
-Down she drowned, onto the very heart of the inky [[Abyss]]. The well of rock coiling down like a [[Wyrm]]. The iridescent realm, the ink of time all around her as she relaxed, what reason was there to fight?
+Down she drowned, onto the very heart of the inky [[Abyss]]. The well of rock coiling downwards to the dark realm, the iridescent ink all around her, what reason was there to fight?
 
-*For [[Life]] holds no meaning*, and if it holds none then it should end. So did world's life slowly follow the will of the [[Aspect]] of [[Life]], cutting shorter with each moment. 
+*For [[Life]] holds no meaning*, and if it holds none then it should end. 
+So did world's life slowly follow the will of the [[Aspect]] of [[Life]], cutting shorter with each moment with a spreading plague.
 
-*For why move at all? Why spare a breath?* 
+*For why move at all? Why spare a breath?* She asked herself while drowning deeper, until her body laid down on the bed of sand, at the root of all oceans. The whirl of colors around her slowly settling from the colors onto a black blanket, the comfortable.
 
-As she laid down on the bed of sand, at the root of all oceans. The ink around her slowly settling from the colors onto a black blanket, the comfortable bed to rot in. So did fighting [[Wyrm]] stop, their dead corpses falling down, as their life was cut shorter with each moment. 
+Looking upwards she saw the [[Wyrm]]s, and from the long settled black ink she heard a rumbling growl. As if a question, an inquiry of something old, in the sound and the vision of coiling descent, like a bestoned [[Wyrm]] tail, her gaze fell to the [[Abyss]]al ink, and so she saw the opened lid like a cave yawning with an iridescent blue light reflecting onto numerous colors in the black prism.
 
-In all the ink something stirred, and she saw the head of the coiled well, a large long bestoned form flowing closer to her. 
+And [[Life]] looked, to the bright eye, like a sun of the [[Abyss]]. Among all the [[Sea King]], all the [[Wyrm]], she seen before her one, a predator ancient, dulled and wised by time. So she realized, among all the 
 
-Her form moved and the [[Abyss]] coiled with her body moving, and the oceans wrapped into a whirl as the predator of the [[First age]] did not allow [[Life]] to fall onto the blissful inky sleep. Among all the chaos, did she hear the rumbling growl holding a deeper memory. 
+(She realizes that life means nothing in the moment it passes but with time it shows inteligence, a plan, a wisdom, and so she speaks a word of inteligence onto her kin and Valli)
 
-So, in last glint of light in her eyes she rose her hand and touched the coiled scales. The [[Tuatha]] of the creature churned in a voice. 
+(She realized that a life in time is bound so same pattern, repeating but never same, fated to repeat and be different each time, so was fate born)
 
-> No glow of future in our sight
-
-The [[Tuatha]] of the Coiled Mother gripped onto the aspect, and [[Life]] looked into the (basically Valli sacrifices herself to release from her blood her memories, to show Life the meaning, that there is none, we are fated to be the same yet different, all of us are none yet all)
-
-> So drink from us, and feel alive.
-
-
-
-
-
-
-
-
+(And fate speaks to the Valli, and so they take her children and make the eggs onto a kin bearing her name, for the sun of the abyss wished for naught but for her children to stop devouring each other)
 
 > [!tldr] Life - Leviathan
 > _At the heart of the deep she finds the great Leviathan mother, frozen in time, sleeping. She wakes._
