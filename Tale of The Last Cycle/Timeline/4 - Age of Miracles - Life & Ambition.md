@@ -253,11 +253,11 @@ So did world's life slowly follow the will of the [[Aspect]] of [[Life]], cuttin
 
 *For why move at all? Why spare a breath?* She asked herself while drowning deeper, until her body laid down on the bed of sand, at the root of all oceans. The whirl of colors around her slowly settling from the colors onto a black blanket, the comfortable.
 
-Looking upwards she saw the [[Wyrm]]s, and from the long settled black ink she heard a rumbling growl. As if a question, an inquiry of something old, in the sound and the vision of coiling descent, like a bestoned [[Wyrm]] tail, her gaze fell to the [[Abyss]]al ink, and so she saw the opened lid like a cave yawning with an iridescent blue light reflecting onto numerous colors in the black prism.
+Looking upwards she saw the [[Wyrm]]s, and from the long settled black ink she heard a rumbling growl. As if a question, an inquiry of something old, in the sound and the vision of coiling descent, like a be-stoned [[Wyrm]] tail, her gaze fell to the [[Abyss]]al ink, and so she saw the opened lid like a cave yawning with an iridescent blue light reflecting onto numerous colors in the black prism.
 
 And [[Life]] looked, to the bright eye, like a sun of the [[Abyss]]. Among all the [[Sea King]], all the [[Wyrm]], she seen before her one, a predator ancient, dulled and wised by time. So she realized, among all the 
 
-(She realizes that life means nothing in the moment it passes but with time it shows inteligence, a plan, a wisdom, and so she speaks a word of inteligence onto her kin and Valli)
+(She realizes that life means nothing in the moment it passes but with time it shows intelligence, a plan, a wisdom, and so she speaks a word of intelligence onto her kin and Valli)
 
 (She realized that a life in time is bound so same pattern, repeating but never same, fated to repeat and be different each time, so was fate born)
 
