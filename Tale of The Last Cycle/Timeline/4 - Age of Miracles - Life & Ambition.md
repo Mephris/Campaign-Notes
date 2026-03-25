@@ -163,10 +163,10 @@ So did [[Ambition]] unify his followers, his lips spilling names to more creatur
 There, he saw them rise alongside his garments a city, of red flag, and its walls reached higher then any before, the rats of the gutter - the [[Dakr - Human|Dakr]], anvils rang with the metal of the gutters they called mines, and as [[Valka]] marched to them, they met the white-scale with countless fury. 
 Their army fell as [[Valka]] walked through them.
 
-So the city screamed with sound of sharpened iron and marching drums as they tried again, and futile was their crash against the [[Dragon]].
+So the city screamed with sound of sharpened iron and marching drums as they tried again, and futile was their crash against the [[Dragons]].
 Their armies fell, but their iron pierced her scale, leaving the red trail on her path. 
 
-So they ripped crude simple names onto their bodies, in ways his garments did not think of, and their bodies changed. Once more they met the White scale [[Dragon]] and slowed her passing, in countless [[Bogóir]] iron arrows, they have put an end to her march, before herding her, pushing her back in weapons made to pierce scale and rend flesh. 
+So they ripped crude simple names onto their bodies, in ways his garments did not think of, and their bodies changed. Once more they met the White scale [[Dragons]] and slowed her passing, in countless [[Bogóir]] iron arrows, they have put an end to her march, before herding her, pushing her back in weapons made to pierce scale and rend flesh. 
 
 Back towards the cliff, and [[Ambition]] looked to the [[Dakr - Human|Dakr]], the rats that with number and will of their mother-[[aspect]], [[Conflict]], did what no mortal could, they put [[Valka]] back on her land. To her cliff.
 
@@ -245,7 +245,7 @@ There, she fell to the bottom of all seas, the [[Abyss]].
 
 > [!tldr] Life - Black Sea
 > _Life sinks to the floor of the Black Sea. Sees the young leviathans devouring each other endlessly. Sees herself in it._
-#### [[Mermaid - Valli#Valli - The Coiled Mother|Valli - The Coiled Mother]]
+#### [[The Valleya#Valli - The Coiled Mother|Valli - The Coiled Mother]]
 Down she drowned, onto the very heart of the inky [[Abyss]]. The well of rock coiling downwards to the dark realm, the iridescent ink all around her, what reason was there to fight?
 
 *For [[Life]] holds no meaning*, and if it holds none then it should end. 
@@ -255,7 +255,13 @@ So did world's life slowly follow the will of the [[Aspect]] of [[Life]], cuttin
 
 Looking upwards she saw the [[Wyrm]]s, and from the long settled black ink she heard a rumbling growl. As if a question, an inquiry of something old, in the sound and the vision of coiling descent, like a be-stoned [[Wyrm]] tail, her gaze fell to the [[Abyss]]al ink, and so she saw the opened lid like a cave yawning with an iridescent blue light reflecting onto numerous colors in the black prism.
 
-And [[Life]] looked, to the bright eye, like a sun of the [[Abyss]]. Among all the [[Sea King]], all the [[Wyrm]], she seen before her one, a predator ancient, dulled and wised by time. So she realized, among all the 
+And [[Life]] looked, to the bright eye, like a sun of the [[Abyss]]. Among all the [[Sea King]], all the [[Wyrm]], she seen before her one, a predator ancient, dulled and wised by time. So she realized, among all the cruel moments of the dark waters, with time and lessons grows a gift of mind. 
+
+Her lips parted and iridescent colors like serpents shot to fill the void, as she drank from the [[Wine of Time]]. In one word she spoke a name onto herself, onto Coiled Mother and all of her creation. 
+
+> [!quote] *"Think"*
+
+So her creation thought for the first time, and they gathered around the totems of their nature and formed great tribes. So did [[Valka]] the Immortal gather around her a great court skin to the one decorating the night skies. So did [[Valli]] among her mind realized words. 
 
 (She realizes that life means nothing in the moment it passes but with time it shows intelligence, a plan, a wisdom, and so she speaks a word of intelligence onto her kin and Valli)
 

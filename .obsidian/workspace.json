@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "1efc7c6bdf23feb3",
+            "id": "d437340d0d09db18",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -108,7 +108,7 @@
               "type": "markdown",
               "state": {
                 "file": "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Life.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -313,10 +313,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1efc7c6bdf23feb3",
+  "active": "d437340d0d09db18",
   "lastOpenFiles": [
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Life.md",
+    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink/Dragons/Valli.md",
     "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
+    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink/The Valleya.md",
+    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink/Dragons/Dragons.md",
+    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink/Dragons/Vani.md",
+    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink/Dragons/Valka.md",
+    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink/Draconic/Drakes.md",
+    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink/Draconic",
+    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink/Draconic/Wyvern.md",
+    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink/Draconic/Wyrm.md",
+    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink/Dragons",
+    "Dwarvenkin.md",
+    "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Life.md",
+    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Dragon",
+    "Wine of Time.md",
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Conflict.md",
     "Tale of The Last Cycle/Timeline/5 - Age of Fate & Hope.md",
     "Tale of The Last Cycle/Creation/Afterlife/Death of Body - Passing.md",
@@ -327,12 +340,8 @@
     "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Star-Born",
     "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Human",
     "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Aelf",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink/Mermaid - Valli.md",
     "Coiled Mother.png",
-    "Wyrm.md",
-    "Valka.md",
     "Valli-A.png",
-    "Wyvern.md",
     "Pasted image 20260323095326.png",
     "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Human/Beastkin.md",
     "Pasted image 20260323090726.png",
@@ -344,11 +353,6 @@
     "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Fate.md",
     "Tale of The Last Cycle/Entities/Primevals/Tuatha.md",
     "Tale of The Last Cycle/Entities/Primevals/Grael.md",
-    "Tale of The Last Cycle/Entities/Primevals/Primeval.md",
-    "Tale of The Last Cycle/Entities/Aspects/Aspect.md",
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Hope.md",
-    "Tale of The Last Cycle/Creation/Afterlife/Spirit World.md",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Human/Dakr - Human.md",
     "Valka & Drake.png",
     "mermaid.png",
     "Pasted image 20260321173238.png",
@@ -360,9 +364,6 @@
     "Untitled.canvas",
     "Tale of The Last Cycle/Creation/Afterlife",
     "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)",
-    "Tale of The Last Cycle/Creation",
-    "Tale of The Last Cycle/Terminology & Dictionary",
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Mortal",
     "Fable World/Entities/Untitled.canvas"
   ]
 }

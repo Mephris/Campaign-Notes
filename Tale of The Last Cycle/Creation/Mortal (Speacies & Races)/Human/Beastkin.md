@@ -19,7 +19,7 @@ Check out Aztec language but cut off the TL from the words, it keeps the nice vi
 ## Tribe
 ### The Garuda - Snake Eaters
 ---
-Coastal tribe known for their hunts of the [[Mermaid - Valli]]. An predator of 
+Coastal tribe known for their hunts of the [[The Valleya]]. An predator of 
 ![[Garuda-F.png]]
 ![[Garuda-M.png]]
 ![[Garuda-F2.png]]
