@@ -261,11 +261,13 @@ Her lips parted and iridescent colors like serpents shot to fill the void, as sh
 
 > [!quote] *"Think"*
 
-So her creation thought for the first time, and they gathered around the totems of their nature and formed great tribes. So did [[Valka]] the Immortal gather around her a great court skin to the one decorating the night skies. So did [[Valli]] among her mind realized words. 
+So her creation thought for the first time, and they gathered around the totems of their nature and formed great tribes. So did [[Valka]] the Immortal gather around her a great court skin to the one decorating the night skies. So did [[Valli]] look to her children, with heart drowned in hope. 
 
-(She realizes that life means nothing in the moment it passes but with time it shows intelligence, a plan, a wisdom, and so she speaks a word of intelligence onto her kin and Valli)
+As [[Life]] and [[Valli]] looked upwards to the passing [[Conflict|Sun]] and [[Defiance - Edal|Moon]], and in silence they spoke for they seen what life was, Fate, the repetition everchanging, a pattern shifting in sand by the waves, ever bound and ever broken. 
 
-(She realized that a life in time is bound so same pattern, repeating but never same, fated to repeat and be different each time, so was fate born)
+So was [[Fate]] born, and besides them she looked up to the skies in a soft smile, and she saw all patterns and all roads ahead while looking to the silvery strands of [[Defiance - Edal|Moon]], to [[Life]] speaking. 
+
+> [!quote] Be Joyful, for I see our future Life, and it is beautiful
 
 (And fate speaks to the Valli, and so they take her children and make the eggs onto a kin bearing her name, for the sun of the abyss wished for naught but for her children to stop devouring each other)
 
