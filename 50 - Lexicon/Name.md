@@ -9,7 +9,7 @@ While mortal culture picked up the culture of Naming, the gift of a name etched 
 > [!question] Bloodlines
 > *The people Marked upon their Substance with names often end up starting Families or Bloodlines of hero's. With the children of the Bloodline containing a fraction of the Progenitor's power.*
 
-- **Mark upon Stain** Names gifted by the [[12 - Aspects|Aspects]] of [[Tuatha]] are etched into the [[Tuatha|stain layer of the soul]]. Those remain invisible in the waking world but burn brightly in the [[Spirit World]] of [[Empathy|sleep & death]] ^cd06fc
+- **Mark upon Stain** Names gifted by the [[12 - Aspects|Aspects]] of [[Tuatha]] are etched into the [[Tuatha|stain layer of the soul]]. Those remain invisible in the waking world but burn brightly in the [[40 - The Spirit World|Spirit World]] of [[Empathy|sleep & death]] ^cd06fc
 ## Traits of a Name
 ---
 - **Dormancy** A [[Name]] carries no inherent "presence" or aura other then the Mark. A Named individual may walk among others unnoticed, their power dormant within a mundane shell. Often Named individuals carry presences that can be noticed but this comes simply from their actions and achievements rather then inherent nature of the blessing. 
@@ -40,8 +40,8 @@ Mimicking the act of [[Name|Naming]], the mortals devised different ways of plac
 
 > [!info] **Spilling of Stain**
 > Crude name's upon soul may result in Spilling of a Soul/[[Tuatha]] Stain layer, resulting in an area where this Stain touches upon souls of another. Such things manifest as *Self-Marked* mortal being able to access the psyche of another. 
-#### Self-Naming of an [[12 - Aspects]] 
-While mortals are given a [[Name]] to navigate the world, an [[12 - Aspects]] takes a [[Name]] to anchor their own nature. This act of self-naming is a rare moment where they chose to limit itself or bind itself in favor of a moral truth they learned. 
+#### Self-Naming of an [[12 - Aspects|Aspect]] 
+While mortals are given a [[Name]] to navigate the world, an [[12 - Aspects|Aspect]] takes a [[Name]] to anchor their own nature. This act of self-naming is a rare moment where they chose to limit itself or bind itself in favor of a moral truth they learned. 
 ##### Penance of Beauty
 Following the burning of [[Wildern]] and the Ichory Loom, the [[Beauty]] underwent a shift in ideology. She learned of the consequences of her whims and to bind herself from future fickle tragedies upon herself, other aspects or mortals. She blessed herself with a name:
 

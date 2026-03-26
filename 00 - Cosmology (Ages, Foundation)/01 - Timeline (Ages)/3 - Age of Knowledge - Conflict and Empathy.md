@@ -80,17 +80,17 @@ Darkness descended like a storm, snagging at his robe — all the failures, all 
 
 So it was — the thread snagged by the inks, forming and unforming, let out onto the void and blown by the dark winds of [[Tuatha]]. In this sight [[Empathy]] took a step forward onto the void. His feet stood on the dead living world, empty of all but a strand of matter — just enough to anchor the endlessness of [[Tuatha]] onto a land.
 
-There among the darkness of the newly created [[Spirit World]], its creator — [[Empathy|Death]] — began their work. To give their everything, in order to save all the mortal souls.
+There among the darkness of the newly created [[40 - The Spirit World]], its creator — [[Empathy|Death]] — began their work. To give their everything, in order to save all the mortal souls.
 
 So did they walk the [[Nameless]] world, and its friend — [[Empathy]]. Wherever they went, the souls fell upwards onto the skyward world of spirits, creating the [[Death of Body - Passing]].
 
-Mortal [[Spirits]] cried onto their new home, for they were cold. So did [[Empathy]] take his own coat and rip it apart, throwing it onto the [[Spirit World]] — and so did spirits live in warmth.
+Mortal [[Spirits]] cried onto their new home, for they were cold. So did [[Empathy]] take his own coat and rip it apart, throwing it onto the [[40 - The Spirit World]] — and so did spirits live in warmth.
 
 Mortal [[Spirits]] cried once more, for they were formless lights. So did [[Empathy]] take a fistful of his own flesh and throw it onto the [[Nameless]] — and so did spirits take forms and could move upon the ground.
 
-Mortal [[Spirits]] cried once more. Sleep was nothing but darkness, and so did [[Empathy]] reach into the living world — taking the spirits from their vessels as they slumbered, letting them dive onto the [[Spirit World]]. So that when they sleep they might roam another world, and their soul be cleansed in death of burdens, ready for another day. So was the [[Death of Soul - Sleep]] — made.
+Mortal [[Spirits]] cried once more. Sleep was nothing but darkness, and so did [[Empathy]] reach into the living world — taking the spirits from their vessels as they slumbered, letting them dive onto the [[40 - The Spirit World]]. So that when they sleep they might roam another world, and their soul be cleansed in death of burdens, ready for another day. So was the [[Death of Soul - Sleep]] — made.
 
-Tired, [[Empathy]] sat in his [[Spirit World]] and saw his creation was a peaceful home for those who before had nothing but dispersing into the endless [[Tuatha]]. Spirits roaming the world. Dreamers walking the plain alongside them.
+Tired, [[Empathy]] sat in his [[40 - The Spirit World]] and saw his creation was a peaceful home for those who before had nothing but dispersing into the endless [[Tuatha]]. Spirits roaming the world. Dreamers walking the plain alongside them.
 
 Mortal [[Spirits]] cried once more — they were hungry. And dreamers were numerous like hares.
 
@@ -138,7 +138,7 @@ Then like a thunderous call, the night black shifted. Sea of serpent-like strand
 
 [[Wildern|Anu]] looked up in fear, for another began making her mistake. Seeing this [[Beauty|Danu]] extended her wings forth, playfully throwing a droplet of ink upon [[Wildern]] body — gifting back what she once abandoned, before flying upwards towards the forth called [[11 - Primevals|Primeval]]'s might. 
 
-Her [[Faekin]] followed, and so did Danu and her folk land for the first time upon the [[Spirit World]], thousand of small lights upon the night skies. Looking for the [[12 - Aspects|Aspect]] of [[Empathy]]. She traveled [[Nameless]] [[Spirit World]], and it fought them on every step. 
+Her [[Faekin]] followed, and so did Danu and her folk land for the first time upon the [[40 - The Spirit World]], thousand of small lights upon the night skies. Looking for the [[12 - Aspects|Aspect]] of [[Empathy]]. She traveled [[Nameless]] [[40 - The Spirit World]], and it fought them on every step. 
 
 
 **For countless years they roamed, in darkness.** 
@@ -161,12 +161,12 @@ Countless flickering lights of colorful spirits moved before him — a [[Faekin]
 
 In this, [[Ambition]] was born, and [[Empathy]] learned his heart is a blade of a healer, so easily used to cut himself, so hard to use to save another.
 ##### One Last Song of Creation
-Time passed as [[Empathy]] and [[Beauty|Danu]] looked to the [[Spirit World]], the nights eternal and dark like this of the first age, flooded with ink. In all the chaos, and all the darkness, did a song ring once more. 
+Time passed as [[Empathy]] and [[Beauty|Danu]] looked to the [[40 - The Spirit World]], the nights eternal and dark like this of the first age, flooded with ink. In all the chaos, and all the darkness, did a song ring once more. 
 
-A Duet, of two [[12 - Aspects|Aspect]]'s, the echoing song ringing across the world and painting it in iridescent lights and magnificent shapes. As the night sky, lighten up with countless little lights all across the now bright [[Spirit World]]. 
+A Duet, of two [[12 - Aspects|Aspect]]'s, the echoing song ringing across the world and painting it in iridescent lights and magnificent shapes. As the night sky, lighten up with countless little lights all across the now bright [[40 - The Spirit World]]. 
 
 > [!info] "The First Song"
->_Among the [[Faekin]], the night [[Beauty|Danu]] sang beauty into the [[Spirit World]] is remembered as the First Song — not only for what it gave the world, but for what it gave them. A home. A court to belong to. For the first time, [[Beauty|Danu]] gathered her scattered folk and gave them structure to hold onto._
+>_Among the [[Faekin]], the night [[Beauty|Danu]] sang beauty into the [[40 - The Spirit World]] is remembered as the First Song — not only for what it gave the world, but for what it gave them. A home. A court to belong to. For the first time, [[Beauty|Danu]] gathered her scattered folk and gave them structure to hold onto._
 >
 >_They remember it as the night they finally had somewhere to be._
 #### The Talk of Ash & Age

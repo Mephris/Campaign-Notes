@@ -1,1 +1,1 @@
-Consciousness of a child of [[Defiance - Edal]] placed onto the [[Spirit World]] to anchor down its possibility. Loyal companion of [[Empathy]]
+Consciousness of a child of [[Defiance - Edal]] placed onto the [[40 - The Spirit World]] to anchor down its possibility. Loyal companion of [[Empathy]]

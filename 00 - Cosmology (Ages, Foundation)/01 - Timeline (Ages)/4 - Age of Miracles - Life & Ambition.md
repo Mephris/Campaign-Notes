@@ -4,7 +4,7 @@
 ## The Dawn of an Era
 ### Birth of Ambition
 ---
-As the Spirit World was drowned in screams and laughs of [[Spirits]]. There was a young spark that walked the [[Spirit World]], an [[12 - Aspects|Aspect]] mind bound in awe of the [[Faekin]] courts and the the endless sky dress of [[Beauty|Danu]]. It had decided to make a robe of their own, to find people of its own, and set out to act. 
+As the Spirit World was drowned in screams and laughs of [[Spirits]]. There was a young spark that walked the [[40 - The Spirit World]], an [[12 - Aspects|Aspect]] mind bound in awe of the [[Faekin]] courts and the the endless sky dress of [[Beauty|Danu]]. It had decided to make a robe of their own, to find people of its own, and set out to act. 
 
 During his travels, he found a young dreamer surrounded by silvery strands, a weaver who wove the them into beautiful fabrics, so they spoke and for [[Ambition]] the weaver wove a beautiful pale stainless robe.
 *In return they asked for a name, for naught is free in this world, and they were named "The Best Weaver."*
@@ -168,7 +168,7 @@ Their armies fell, but their iron pierced her scale, leaving the red trail on he
 
 So they ripped crude simple names onto their bodies, in ways his garments did not think of, and their bodies changed. Once more they met the White scale [[Dragons]] and slowed her passing, in countless [[Bogóir]] iron arrows, they have put an end to her march, before herding her, pushing her back in weapons made to pierce scale and rend flesh. 
 
-Back towards the cliff, and [[Ambition]] looked to the [[Dakr - Human|Dakr]], the rats that with number and will of their mother-[[12 - Aspects]], [[Conflict]], did what no mortal could, they put [[Valka]] back on her land. To her cliff.
+Back towards the cliff, and [[Ambition]] looked to the [[Dakr - Human|Dakr]], the rats that with number and will of their mother-[[12 - Aspects|Aspect]], [[Conflict]], did what no mortal could, they put [[Valka]] back on her land. To her cliff.
 
 *[[Life]] rose* — hands finding the grass at the cliff's edge, the heavy robe soaked through, her shadow still pulling her down toward the waters. Her eyes found a beast among the forests below, large and scaled and old. She opened her mouth to the land once more, but this time [[Ambition]] moved first. 
 

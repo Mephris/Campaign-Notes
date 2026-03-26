@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Cosmology (Ages, Foundation)/00 - Cosmology (Ages, Foundation).md",
+                "file": "40 - The Spirit World/40 - The Spirit World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Cosmology (Ages, Foundation)"
+              "title": "40 - The Spirit World"
             }
           },
           {
@@ -93,6 +93,29 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "71c140323a200271",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b671c76bcf0247c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "00 - Cosmology (Ages, Foundation)/03 - Cosmology Graph.canvas",
+                "viewState": {
+                  "x": 240,
+                  "y": 5690,
+                  "zoom": -4
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "03 - Cosmology Graph"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,8 +147,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Aspects",
-                "matchingCase": false,
+                "query": "40 - spirit world",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -145,7 +168,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Cosmology (Ages, Foundation)/00 - Cosmology (Ages, Foundation).md",
+                "file": "40 - The Spirit World/40 - The Spirit World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +199,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00 - Cosmology (Ages, Foundation)"
+              "title": "Backlinks for 40 - The Spirit World"
             }
           },
           {
@@ -184,12 +208,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Cosmology (Ages, Foundation)/00 - Cosmology (Ages, Foundation).md",
+                "file": "40 - The Spirit World/40 - The Spirit World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 00 - Cosmology (Ages, Foundation)"
+              "title": "Outgoing links from 40 - The Spirit World"
             }
           },
           {
@@ -213,13 +237,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Cosmology (Ages, Foundation)/00 - Cosmology (Ages, Foundation).md",
+                "file": "40 - The Spirit World/40 - The Spirit World.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00 - Cosmology (Ages, Foundation)"
+              "title": "Outline of 40 - The Spirit World"
             }
           },
           {
@@ -251,19 +275,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a9ee14f4dbe8398",
+  "active": "436996975366e9c4",
   "lastOpenFiles": [
-    "10 - The Supernal/12 - Aspects/Aspects of Tuatha/Beauty.md",
-    "10 - The Supernal/12 - Aspects/Aspects of Mortal/Aspect of Mortal.md",
     "10 - The Supernal/12 - Aspects/12 - Aspects.md",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/4 - Age of Miracles - Life & Ambition.md",
     "00 - Cosmology (Ages, Foundation)/03 - Cosmology Graph.canvas",
+    "50 - Lexicon/Name.md",
+    "40 - The Spirit World/40 - The Spirit World.md",
+    "40 - The Spirit World/Nameless.md",
+    "40 - The Spirit World/Death of Soul - Sleep.md",
+    "40 - The Spirit World/Death of Body - Passing.md",
+    "30 - The Census/Ancestries (Species & Races)/Aelf/Aelf.md",
+    "30 - The Census/Ancestries (Species & Races)/Dwergr.md",
+    "10 - The Supernal/10 - The Supernal.md",
+    "10 - The Supernal/11 - Primevals/11 - Primevals.md",
+    "10 - The Supernal/10 - The Supernal.base",
+    "00 - Cosmology (Ages, Foundation)/00 - Cosmology (Ages, Foundation).md",
+    "10 - The Supernal/12 - Aspects/Aspects of Tuatha/Beauty.md",
+    "10 - The Supernal/12 - Aspects/Aspects of Mortal/Aspect of Mortal.md",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/3 - Age of Knowledge - Conflict and Empathy.md",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/2 - Age of Creation - Wildern & Beauty.md",
-    "50 - Lexicon/Name.md",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age_of_Knowledge.canvas",
-    "10 - The Supernal/11 - Primevals/11 - Primevals.md",
-    "00 - Cosmology (Ages, Foundation)/00 - Cosmology (Ages, Foundation).md",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/1 - Beginning.md",
     "10 - The Supernal/Primeval.md",
     "10 - The Supernal/11 - Primevals/Tuatha.md",
@@ -275,14 +307,7 @@
     "Pasted image 20260326220452.png",
     "10 - The Supernal/12 - Aspects/Aspects of Grael/Wildern.md",
     "10 - The Supernal/12 - Aspects/Aspects of Grael/Conflict.md",
-    "40 - The Spirit World/Death of Body - Passing.md",
     "10 - The Supernal/12 - Aspects/Aspects of Tuatha/Hope.md",
-    "10 - The Supernal/12 - Aspects/Aspects of Tuatha/Empathy.md",
-    "10 - The Supernal/12 - Aspects/Aspects of Tuatha/Ambition.md",
-    "10 - The Supernal/12 - Aspects/Aspects of Mortal/Miracle.md",
-    "10 - The Supernal/12 - Aspects/Aspects of Mortal/Knowledge - Awen.md",
-    "10 - The Supernal/12 - Aspects/Aspects of Mortal/Defiance - Edal.md",
-    "10 - The Supernal/12 - Aspects/Aspects of Grael/Life.md",
     "99 - Assets/Portraits/Ambition.png",
     "99 - Assets/Portraits",
     "99 - Assets/Portraits/Valka.png",
@@ -293,7 +318,6 @@
     "00 - Cosmology & Ages/Timeline/Untitled.canvas",
     "50 - Lexicon",
     "40 - The Spirit World",
-    "30 - The Census",
     "Athra/World Information/Aspects/Pic/Avia.png",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Miracles.canvas",
     "99 - Assets/Portraits/Pasted image 20260323090726.png",
