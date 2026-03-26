@@ -90,12 +90,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Cosmology (Ages, Foundation)/Research - Fable.md",
+                "file": "10 - The Supernal/12 - Aspects/Aspects of Grael/Wildern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Research - Fable"
+              "title": "Wildern"
             }
           },
           {
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Cosmology (Ages, Foundation)/Research - Fable.md",
+                "file": "10 - The Supernal/12 - Aspects/Aspects of Grael/Wildern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Research - Fable"
+              "title": "Backlinks for Wildern"
             }
           },
           {
@@ -228,12 +228,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Cosmology (Ages, Foundation)/Research - Fable.md",
+                "file": "10 - The Supernal/12 - Aspects/Aspects of Grael/Wildern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Research - Fable"
+              "title": "Outgoing links from Wildern"
             }
           },
           {
@@ -257,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Cosmology (Ages, Foundation)/Research - Fable.md",
+                "file": "10 - The Supernal/12 - Aspects/Aspects of Grael/Wildern.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Research - Fable"
+              "title": "Outline of Wildern"
             }
           },
           {
@@ -297,8 +297,9 @@
   },
   "active": "460817f3b2a9a55f",
   "lastOpenFiles": [
-    "00 - Cosmology (Ages, Foundation)/Cosmology Graph.canvas",
+    "10 - The Supernal/12 - Aspects/Aspects of Grael/Conflict.md",
     "00 - Cosmology (Ages, Foundation)/Research - Fable.md",
+    "00 - Cosmology (Ages, Foundation)/Cosmology Graph.canvas",
     "00 - Cosmology (Ages, Foundation)/Cosmology.md",
     "40 - The Spirit World/Death of Body - Passing.md",
     "10 - The Supernal/Primeval.md",
@@ -314,7 +315,6 @@
     "10 - The Supernal/12 - Aspects/Aspects of Grael/Wildern.md",
     "10 - The Supernal/12 - Aspects/Aspects of Grael/Life.md",
     "10 - The Supernal/12 - Aspects/Aspects of Grael/Fate.md",
-    "10 - The Supernal/12 - Aspects/Aspects of Grael/Conflict.md",
     "10 - The Supernal/11 - Primevals/Tuatha.md",
     "10 - The Supernal/11 - Primevals/Grael.md",
     "50 - Lexicon/51 - Glossary.md",

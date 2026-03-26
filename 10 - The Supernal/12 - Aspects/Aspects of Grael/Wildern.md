@@ -3,8 +3,6 @@ aliases:
   - Anu
   - Wildmother
 ---
-> [!NOTE] _ "Anu", "Wildmother"_
-
 ---
 
 > _"The First Dawn was not a gentle rising, but a desperate theft. Edal did not merely kill a goddess; he set the logic of the universe on fire so that his children's silence might finally be heard."_
