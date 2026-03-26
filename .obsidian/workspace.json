@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tale of The Last Cycle/Timeline/1 - Beginning.md",
+                "file": "00 - Cosmology (Ages, Foundation)/Timeline (Ages)/1 - Beginning.md",
                 "mode": "preview",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tale of The Last Cycle/Timeline/3 - Age of Knowledge - Conflict and Empathy.md",
+                "file": "00 - Cosmology (Ages, Foundation)/Timeline (Ages)/3 - Age of Knowledge - Conflict and Empathy.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
+                "file": "00 - Cosmology (Ages, Foundation)/Timeline (Ages)/4 - Age of Miracles - Life & Ambition.md",
                 "mode": "source",
                 "source": false
               },
@@ -88,17 +88,14 @@
             "id": "460817f3b2a9a55f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Tale of The Last Cycle/Timeline/Age of Miracles.canvas",
-                "viewState": {
-                  "x": -649.6281118216435,
-                  "y": 2040.0181126814257,
-                  "zoom": -0.3139583006809831
-                }
+                "file": "00 - Cosmology (Ages, Foundation)/Research - Fable.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Age of Miracles"
+              "icon": "lucide-file",
+              "title": "Research - Fable"
             }
           },
           {
@@ -107,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Life.md",
+                "file": "10 - The Supernal/12 - Aspects/Aspects of Grael/Life.md",
                 "mode": "source",
                 "source": false
               },
@@ -121,26 +118,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tale of The Last Cycle/Entities/Aspects/Aspects of Tuatha/Ambition.md",
+                "file": "10 - The Supernal/12 - Aspects/Aspects of Tuatha/Ambition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Ambition"
-            }
-          },
-          {
-            "id": "1d214f3a78f9af98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Aelf/Aelf.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aelf"
             }
           },
           {
@@ -153,8 +136,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 416.5
   },
   "right": {
     "id": "ce9a34acc8273217",
@@ -227,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tale of The Last Cycle/Cosmology Graph.canvas",
+                "file": "00 - Cosmology (Ages, Foundation)/Research - Fable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +219,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cosmology Graph"
+              "title": "Backlinks for Research - Fable"
             }
           },
           {
@@ -246,12 +228,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tale of The Last Cycle/Cosmology Graph.canvas",
+                "file": "00 - Cosmology (Ages, Foundation)/Research - Fable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cosmology Graph"
+              "title": "Outgoing links from Research - Fable"
             }
           },
           {
@@ -275,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tale of The Last Cycle/Timeline/Age of Miracles.canvas",
+                "file": "00 - Cosmology (Ages, Foundation)/Research - Fable.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Age of Miracles"
+              "title": "Outline of Research - Fable"
             }
           },
           {
@@ -313,58 +295,58 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8242ed32adc18c2",
+  "active": "460817f3b2a9a55f",
   "lastOpenFiles": [
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Life.md",
-    "Tale of The Last Cycle/Timeline/4 - Age of Miracles - Life & Ambition.md",
-    "Tale of The Last Cycle/Timeline/1 - Beginning.md",
-    "Tale of The Last Cycle/Timeline/3 - Age of Knowledge - Conflict and Empathy.md",
-    "Tale of The Last Cycle/Timeline/2 - Age of Creation - Wildern & Beauty.md",
-    "Tale of The Last Cycle/Timeline/Untitled.canvas",
-    "Tale of The Last Cycle/Timeline/5 - Age of Fate & Hope.md",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Aelf/Aelf.md",
-    "Tale of The Last Cycle/Timeline/Age_of_Knowledge.canvas",
-    "Tale of The Last Cycle/Creation/Afterlife/Spirit World.md",
-    "Tale of The Last Cycle/Creation/Afterlife/Death of Body - Passing.md",
-    "Tale of The Last Cycle/Creation/Afterlife/Death of Soul - Sleep.md",
-    "Tale of The Last Cycle/Creation/Afterlife/Nameless.md",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Dwergr.md",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Human/Beastkin.md",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Human/Dakr - Human.md",
-    "Tale of The Last Cycle/Timeline/Age of Miracles.canvas",
-    "Pasted image 20260323090726.png",
-    "Pasted image 20260323095326.png",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink/Dragons/Valka.md",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink/Dragons/Valli.md",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink/Dragons/Vani.md",
-    "Vani.png",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink/The Valleya.md",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink/Dragons/Dragons.md",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink/Draconic/Drakes.md",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink/Draconic",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink/Draconic/Wyvern.md",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink/Draconic/Wyrm.md",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink/Dragons",
-    "Dwarvenkin.md",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Dragon",
-    "Wine of Time.md",
-    "Tale of The Last Cycle/Entities/Aspects/Aspects of Grael/Conflict.md",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Primordial Ink",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Star-Born",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Human",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)/Aelf",
-    "Coiled Mother.png",
-    "Valli-A.png",
-    "Valka & Drake.png",
-    "mermaid.png",
-    "Pasted image 20260321173238.png",
-    "Wyvern.png",
-    "Garuda-F2.png",
-    "Tale of The Last Cycle/Cosmology Graph.canvas",
-    "Untitled.base",
+    "00 - Cosmology (Ages, Foundation)/Cosmology Graph.canvas",
+    "00 - Cosmology (Ages, Foundation)/Research - Fable.md",
+    "00 - Cosmology (Ages, Foundation)/Cosmology.md",
+    "40 - The Spirit World/Death of Body - Passing.md",
+    "10 - The Supernal/Primeval.md",
+    "10 - The Supernal/Aspect.md",
+    "10 - The Supernal/12 - Aspects/Aspects of Tuatha/Hope.md",
+    "10 - The Supernal/12 - Aspects/Aspects of Tuatha/Empathy.md",
+    "10 - The Supernal/12 - Aspects/Aspects of Tuatha/Beauty.md",
+    "10 - The Supernal/12 - Aspects/Aspects of Tuatha/Ambition.md",
+    "10 - The Supernal/12 - Aspects/Aspects of Mortal/Miracle.md",
+    "10 - The Supernal/12 - Aspects/Aspects of Mortal/Knowledge - Awen.md",
+    "10 - The Supernal/12 - Aspects/Aspects of Mortal/Defiance - Edal.md",
+    "10 - The Supernal/12 - Aspects/Aspects of Mortal/Aspect of Mortal.md",
+    "10 - The Supernal/12 - Aspects/Aspects of Grael/Wildern.md",
+    "10 - The Supernal/12 - Aspects/Aspects of Grael/Life.md",
+    "10 - The Supernal/12 - Aspects/Aspects of Grael/Fate.md",
+    "10 - The Supernal/12 - Aspects/Aspects of Grael/Conflict.md",
+    "10 - The Supernal/11 - Primevals/Tuatha.md",
+    "10 - The Supernal/11 - Primevals/Grael.md",
+    "50 - Lexicon/51 - Glossary.md",
+    "50 - Lexicon/Wine of Time.md",
+    "50 - Lexicon/Totems.md",
+    "50 - Lexicon/Name.md",
+    "99 - Assets/Portraits/Ambition.png",
+    "99 - Assets/Portraits",
+    "99 - Assets/Portraits/Valka.png",
+    "99 - Assets",
+    "20 - The Atlas/Untitled",
+    "10 - The Supernal/14 - The House of Empty",
+    "99 - Archive & Meta/World Information/Forests of Fae/Information/First Song.md",
+    "10 - The Supernal/13 - The Faiths",
+    "00 - Cosmology & Ages/Timeline/Untitled.canvas",
+    "50 - Lexicon",
+    "40 - The Spirit World",
+    "30 - The Census",
+    "20 - The Atlas",
+    "10 - The Supernal",
+    "Athra/World Information/Aspects/Aspects.md",
+    "Athra/World Information/Aspects/Pic/Avia.png",
+    "00 - Cosmology (Ages, Foundation)/Timeline (Ages)/Age of Miracles.canvas",
+    "00 - Cosmology (Ages, Foundation)/Timeline (Ages)/Age_of_Knowledge.canvas",
+    "99 - Assets/Portraits/Pasted image 20260323090726.png",
+    "99 - Assets/Portraits/Pasted image 20260323095326.png",
+    "99 - Assets/Portraits/Vani.png",
+    "99 - Assets/Portraits/Coiled Mother.png",
+    "99 - Assets/Portraits/Valli-A.png",
+    "99 - Assets/Portraits/Valka & Drake.png",
+    "99 - Assets/Portraits/mermaid.png",
     "Untitled.canvas",
-    "Tale of The Last Cycle/Creation/Afterlife",
-    "Tale of The Last Cycle/Creation/Mortal (Speacies & Races)",
     "Fable World/Entities/Untitled.canvas"
   ]
 }
