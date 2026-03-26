@@ -14,7 +14,7 @@ While mortal culture picked up the culture of Naming, the gift of a name etched 
 ---
 - **Dormancy** A [[Name]] carries no inherent "presence" or aura other then the Mark. A Named individual may walk among others unnoticed, their power dormant within a mundane shell. Often Named individuals carry presences that can be noticed but this comes simply from their actions and achievements rather then inherent nature of the blessing. 
 - **Mortal Push** A [[Name]] is a definition within [[Grael]] or [[Tuatha]] of the specific mortal. It has power to overwrite logic of the world but each time it does it is a fight of wills between the will of a mortal enforcing their given definition upon the world is a tug of rope. 
-- **Visibility** [[Primeval]]'s and their [[Aspect]]'s are blind to the names upon their counterpart, even [[Aspect]]'s of the same [[Primeval]] might not notice the name upon mortal soul. 
+- **Visibility** [[11 - Primevals|Primeval]]'s and their [[Aspect]]'s are blind to the names upon their counterpart, even [[Aspect]]'s of the same [[11 - Primevals|Primeval]] might not notice the name upon mortal soul. 
 
 ## The Act's
 ---

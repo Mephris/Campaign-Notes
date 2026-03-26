@@ -3,13 +3,13 @@
 ### Beginning of an Era - Wildern's retreat and Ink Flood
 Before the first dawn, days held no sun, no skylight to shine upon mortal life. The only lights of the day were the kindling hunted from moving woods and the luminous flora. The nights flooding with ink blotting out all light, as creatures moved only with primal smells and sounds. 
 
-It was in this sunless world that once [[Wildern|Wildern]] envisioned perfect, now drowning in ink. So she retreat to the peak of the world. The birthplace of it, attempting to wash the beautiful stain of unpredictable growths from her fabric. She gathered her creation and called upon the [[Primeval]], [[Grael]], creating a loom of great size and pale jagged stone, gripping, unraveling mortal forms, staining it with ichor. 
+It was in this sunless world that once [[Wildern|Wildern]] envisioned perfect, now drowning in ink. So she retreat to the peak of the world. The birthplace of it, attempting to wash the beautiful stain of unpredictable growths from her fabric. She gathered her creation and called upon the [[11 - Primevals|Primeval]], [[Grael]], creating a loom of great size and pale jagged stone, gripping, unraveling mortal forms, staining it with ichor. 
 
 ### Cradle of the World
 
 > "The Oldest races were born in the Age of Creation, pretty poetic that the mortal life back then was made only from earth, beasts and dreams"
 
-In this hell, flooded in ink and ripped by the jagged loom, did the [[Primeval|primeval's]] argue, formed by the [[Aspect]] of [[Grael]] were the [[Aelf]] and the [[Dwergr]], while from the flood of [[Beauty|beautiful]] ink and song came [[Faekin]].
+In this hell, flooded in ink and ripped by the jagged loom, did the [[11 - Primevals|primeval's]] argue, formed by the [[Aspect]] of [[Grael]] were the [[Aelf]] and the [[Dwergr]], while from the flood of [[Beauty|beautiful]] ink and song came [[Faekin]].
 
 One such creation, of Elven and Dwarven blood was a young man, at birth the most pure of [[Grael]] pale flesh, so did [[Beauty]] look to the pale creation and while the [[Wildern|Wildern]] did not look, did she grab the silvery ink and write a [[Name]], a gift, onto its heart; [[Defiance - Edal|Edal]], in it sealing a gift of endless growth and abstract of a hero - to always rise equal to the challenge. 
 

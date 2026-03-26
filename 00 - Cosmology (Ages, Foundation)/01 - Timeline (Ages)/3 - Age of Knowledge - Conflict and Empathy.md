@@ -72,7 +72,7 @@ A child given a name. A child sent north to remember everything.
 ---
 Seeing the silvery disk upon the skies, he climbed the highest peaks and jumped — falling upwards onto its surface, grasping the thread in his hand.
 
-There in the grave of the First Age, he gripped tight onto the pure white thread and set out to the edge of the cleaved disk. Falling on his knees, he raised the thread of pure white and with a soft smile called upon the [[Primeval]], [[Tuatha]].
+There in the grave of the First Age, he gripped tight onto the pure white thread and set out to the edge of the cleaved disk. Falling on his knees, he raised the thread of pure white and with a soft smile called upon the [[11 - Primevals|Primeval]], [[Tuatha]].
 
 Darkness descended like a storm, snagging at his robe — all the failures, all the possibilities, amongst them a single glitter of light. The only foundation. The only thread to grasp upon. In gripping tightly he held the unmade child to his chest, and spoke.
 
@@ -134,9 +134,9 @@ There did she wait, for a reason to bring dawn once more, as she saw that no fla
 ---
 At the moment they made [[Knowledge - Awen]], she looked at [[Wildern|Anu]]'s smiling face, and felt peace for the first time. 
 
-Then like a thunderous call, the night black shifted. Sea of serpent-like strands flowing on formless winds, gathering, breaking and catching hold onto each other. Another has called forth [[Primeval]]. 
+Then like a thunderous call, the night black shifted. Sea of serpent-like strands flowing on formless winds, gathering, breaking and catching hold onto each other. Another has called forth [[11 - Primevals|Primeval]]. 
 
-[[Wildern|Anu]] looked up in fear, for another began making her mistake. Seeing this [[Beauty|Danu]] extended her wings forth, playfully throwing a droplet of ink upon [[Wildern]] body — gifting back what she once abandoned, before flying upwards towards the forth called [[Primeval]]'s might. 
+[[Wildern|Anu]] looked up in fear, for another began making her mistake. Seeing this [[Beauty|Danu]] extended her wings forth, playfully throwing a droplet of ink upon [[Wildern]] body — gifting back what she once abandoned, before flying upwards towards the forth called [[11 - Primevals|Primeval]]'s might. 
 
 Her [[Faekin]] followed, and so did Danu and her folk land for the first time upon the [[Spirit World]], thousand of small lights upon the night skies. Looking for the [[Aspect]] of [[Empathy]]. She traveled [[Nameless]] [[Spirit World]], and it fought them on every step. 
 
