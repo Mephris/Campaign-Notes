@@ -21,3 +21,5 @@
 ![[4 - Age of Miracles - Life & Ambition#Ambition — The Plague]]
 
 ![[4 - Age of Miracles - Life & Ambition#Ambition & Wildern — The White Scaled Totem]]
+
+![[4 - Age of Miracles - Life & Ambition#The Last Quiet]]

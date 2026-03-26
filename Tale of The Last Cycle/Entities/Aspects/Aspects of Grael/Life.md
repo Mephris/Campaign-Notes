@@ -14,3 +14,6 @@ Holding onto just one path desperately makes you blind to all the occasions arou
 
 ![[4 - Age of Miracles - Life & Ambition#Life - Black Sea]]
 
+![[4 - Age of Miracles - Life & Ambition#Life Recedes]]
+
+![[4 - Age of Miracles - Life & Ambition#The Last Quiet]]

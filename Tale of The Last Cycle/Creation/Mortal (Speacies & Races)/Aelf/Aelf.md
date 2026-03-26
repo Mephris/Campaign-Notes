@@ -1,5 +1,8 @@
 Creation of [[Wildern|Wildern]] from different kind of animals, the original races being [[Aelf#Mìn - Minaelf|Min]] & [[Aelf#Mòr - Móraelf|Mór]]. From the creatures that ate the Tuatha stain from plants (herbivores), one the quick Min that roamed the day and bulwark of Mór that did not care to hide in the night. 
-# Wild-aelf
+
+
+# Note
+## Wild-aelf
 > > *"Wild White" & "Luminous of Wild"*
 > Old-English Word comes from **Wilde** (wild) & **Aelf (White, Bright, Shining)
 
@@ -37,7 +40,7 @@ During the [[3 - Age of Knowledge - Conflict and Empathy|Age of Knowledge]] when
 After centuries of crossing bloodlines with their own creator and many events they regressed to tribal nomadic society, in appearance they are very close to [[Aelf#Mìn - Minaelf|Min]], slender, their height being from 4 to 6 feet (1.22 m- 1.83m) tall. However unlike Min their skin is tanned. 
 
 ---
-# Tam-aelf
+## Tam-aelf
 >**Old English** word _tam_ (pronounced /tɑm/), inherited from Proto-Germanic _tamaz_.
 >>**Proto-Germanic:** Derived from ***tamaz**.
 >>**Proto-Indo-European (PIE) Core:** From the root ***dem-** (“to build,” “house,” or “to domesticate”).
