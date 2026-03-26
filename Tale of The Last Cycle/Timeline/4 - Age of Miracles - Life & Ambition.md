@@ -265,7 +265,7 @@ So her creation thought for the first time, and they gathered around the totems 
 
 As [[Life]] and [[Valli]] looked upwards to the passing [[Conflict|Sun]] and [[Defiance - Edal|Moon]], and in silence they spoke for they seen what life was, Fate, the repetition everchanging, a pattern shifting in sand by the waves, ever bound and ever broken. 
 
-So was [[Fate]] born, and besides them she looked up to the skies in a soft smile, and she saw all patterns and all roads ahead while looking to the silvery strands of [[Defiance - Edal|Moon]], to [[Life]] speaking. 
+So was [[Fate]] born, appearing in a tired smile beside them, and she saw all patterns and all roads ahead while looking to the silvery strands of [[Defiance - Edal|Moon]], her voice passing the ink onto [[Life]]. 
 
 > [!quote] Be Joyful, for I see our future Life, and it is beautiful
 
