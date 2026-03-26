@@ -246,56 +246,35 @@ There, she fell to the bottom of all seas, the [[Abyss]].
 > [!tldr] Life - Black Sea
 > _Life sinks to the floor of the Black Sea. Sees the young leviathans devouring each other endlessly. Sees herself in it._
 #### [[The Valleya#Valli - The Coiled Mother|Valli - The Coiled Mother]]
-Down she drowned, onto the very heart of the inky [[Abyss]]. The well of rock coiling downwards to the dark realm, the iridescent ink all around her, what reason was there to fight?
 
-*For [[Life]] holds no meaning*, and if it holds none then it should end. 
-So did world's life slowly follow the will of the [[Aspect]] of [[Life]], cutting shorter with each moment with a spreading plague.
+Down she drowned, onto the very heart of the inky [[Abyss]]. The well of rock coiling downwards into the dark realm, the iridescent ink all around her. What reason was there to fight?
 
-*For why move at all? Why spare a breath?* She asked herself while drowning deeper, until her body laid down on the bed of sand, at the root of all oceans. The whirl of colors around her slowly settling from the colors onto a black blanket, the comfortable.
+_For [[Life]] holds no meaning_ — and if it holds none, then it should end.
 
-Looking upwards she saw the [[Wyrm]]s, and from the long settled black ink she heard a rumbling growl. As if a question, an inquiry of something old, in the sound and the vision of coiling descent, like a be-stoned [[Wyrm]] tail, her gaze fell to the [[Abyss]]al ink, and so she saw the opened lid like a cave yawning with an iridescent blue light reflecting onto numerous colors in the black prism.
+So did the world's life slowly follow the will of the [[Aspect]] of [[Life]], cutting shorter with each moment, a spreading plague of purposelessness bleeding upward through the waters.
 
-And [[Life]] looked, to the bright eye, like a sun of the [[Abyss]]. Among all the [[Sea King]], all the [[Wyrm]], she seen before her one, a predator ancient, dulled and wised by time. So she realized, among all the cruel moments of the dark waters, with time and lessons grows a gift of mind. 
+_For why move at all? Why spare a breath?_
 
-Her lips parted and iridescent colors like serpents shot to fill the void, as she drank from the [[Wine of Time]]. In one word she spoke a name onto herself, onto Coiled Mother and all of her creation. 
+She asked herself as she drowned deeper, until her body laid down on the bed of sand at the root of all oceans. The whirl of colors around her slowly settling from iridescent chaos back onto a black blanket — the comfortable.
+
+Looking upwards she saw the [[Wyrm]]s, and from the long-settled black ink she heard a rumbling growl. As if a question. An inquiry of something old. In the sound and the vision of coiling descent — like a be-stoned [[Wyrm]] tail — her gaze fell to the [[Abyss]]al ink, and so she saw an opened lid like a cave yawning, an iridescent blue light reflecting onto countless colors in the black prism.
+
+And [[Life]] looked to the bright eye — like a sun of the [[Abyss]].
+
+Among all the [[Sea King]]s, among all the [[Wyrm]]s, she saw before her one — a predator ancient, dulled and wised by time. So she realized, among all the cruel moments of the dark waters, that with time and lessons grows a gift of mind.
+
+Her lips parted and iridescent colors like serpents shot to fill the void, as she drank from the [[Wine of Time]]. In one word she spoke a name — onto herself, onto the Coiled Mother, and onto all of her creation.
 
 > [!quote] *"Think"*
 
-So her creation thought for the first time, and they gathered around the totems of their nature and formed great tribes. So did [[Valka]] the Immortal gather around her a great court skin to the one decorating the night skies. So did [[Valli]] look to her children, with heart drowned in hope. 
+So her creation thought for the first time. They gathered around the totems of their nature and formed great tribes. So did [[Valka]] the Immortal gather around her a great court akin to the one decorating the night skies. So did [[Valli]] look to her children, her heart drowned in hope.
 
-As [[Life]] and [[Valli]] looked upwards to the passing [[Conflict|Sun]] and [[Defiance - Edal|Moon]], and in silence they spoke for they seen what life was, Fate, the repetition everchanging, a pattern shifting in sand by the waves, ever bound and ever broken. 
+As [[Life]] and [[Valli]] looked upwards to the passing [[Conflict|Sun]] and [[Defiance - Edal|Moon]], they saw in silence what life was — [[Fate]]. The repetition ever-changing. A pattern shifting in sand by the waves, ever bound and ever broken.
 
-So was [[Fate]] born, appearing in a tired smile beside them, and she saw all patterns and all roads ahead while looking to the silvery strands of [[Defiance - Edal|Moon]], her voice passing the ink onto [[Life]]. 
+So was [[Fate]] born, appearing in a tired smile beside them. She saw all patterns and all roads ahead, her voice passing through the ink onto [[Life]].
 
-> [!quote] Be Joyful, for I see our future Life, and it is beautiful
-
-(And fate speaks to the Valli, and so they take her children and make the eggs onto a kin bearing her name, for the sun of the abyss wished for naught but for her children to stop devouring each other)
-
-> [!tldr] Life - Leviathan
-> _At the heart of the deep she finds the great Leviathan mother, frozen in time, sleeping. She wakes._
-> 
-> _The Leviathan asks: "Life is always a struggle, to live is to suffer — in all of it, what is your life to you?"_
-> 
-> _Life looks up at the leviathans devouring each other and understands. Life is struggle. Endless, painful, beautiful at times and loving at others. The world is Fated for the suffering to continue._
-> 
-> _So was Fate born._
-> 
-> _Fate speaks to Life: "Do not worry. I can see what awaits us. Get up — it will not always be like this. I know what awaits, and it is beautiful."_
-> 
-> _The Life-less plague is healed across the world._
-
-
+> [!quote] *"I can see what awaits us. I know what awaits, and it is beautiful."*
 ## Aftermath
----
-> [!tldr] Life Recedes
-> _Life gives her creations one last Name: "To all who bear my name, I bestow intelligence — to see, to learn, to avoid the mistakes of my actions."_
-> 
-> _All named beasts, some humanoid in nature, gain intelligence equal to mortals. The [[Valka]] gains intelligence. Beastkin gather under their animal Totems._
-> 
-> _Fate speaks to the Leviathan mother — her countless eggs become [[Merfolk]], freed from the cycle of self-devouring._
-> 
-> _Life recedes to peaceful acceptance. Imperfect, painful, and with a beautiful future._
-
 ### Ambition & Wildern — The White Scaled Totem
 ---
 *It was high time for him to end, this [[4 - Age of Miracles - Life & Ambition|Age of Miracles]].*
@@ -340,4 +319,24 @@ And the shattered strands flew like small eggs upon the wind, northward. [[Ambit
 > _"Let thy shattered soul find respite from thy name... my mirror... you will always have a friend."_ — [[Ambition]]
 
 And so did [[Valka]]'s strands fall north like snow. In time they formed a clan bearing her name, made of her [[Grael]] and [[Tuatha]] both. The white-scaled totem — never again betrayed, never again unloved.
+### Life Recedes
 
+> [!quote] *"We are fated for meaning to come, always"*
+
+The warm sand enveloped her feet as behind her lay the long journey — the cold waters of [[Fate]]. Yet in a small smile she took a deep breath, letting the stifling ink flow out like mist.
+
+The land breathed again. The plague receded, as the mist passed softly over the lands she had named — the wild untamed plants rising high like the veins of the forest reaching for the passing sun, the vines numerous and alive. She saw the mist of [[Valka]]'s ichor mix with her misty breath, red mist threading through iridescent colors.
+
+In a soft smile she passed forward onto the lands she had created in their fight. By the [[Beastkin]] gathering around their totems, the site of the fell [[Valka]] now slowly growing in laughter and happiness among the red ruin. She moved onto the cliff from which she had once fallen and looked down to the jagged rocks resting at its side — sitting down, watching the vast ocean.
+
+Not alone.
+***
+### The Last Quiet
+
+> [!quote] *"I hope, that you are right... and if not we shall be here, always"*
+
+[[Wildern|Anu]] was long gone, yet his eyes could not stop looking north to the flowing strands. In a soft smile he sat down by the cliff and watched the great loom lay down once more into jagged rock, and there he relaxed — the hunger gnawing at his soul.
+
+Yet among all the hunger, all the noise, he smiled hopefully, looking to the waters and the skies. And in a silent moment he heard another sit beside him.
+
+They watched the water together, and said nothing, and it was enough. 
