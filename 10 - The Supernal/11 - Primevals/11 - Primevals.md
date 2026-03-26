@@ -3,7 +3,6 @@ aliases:
   - Primeval
   - primevals
 ---
-
 The great definers of reality, forces of nature of no own will or thought. [[11 - Primevals|primevals]], [[Grael]] & [[Tuatha]], are not creatures, but forces of the world, not thinkers, but definitions. They are what binds the world onto all which we perceive and all which we mortals experience, both good and bad. 
 
 Those creatures use their own flesh to sculpt things onto reality. 
