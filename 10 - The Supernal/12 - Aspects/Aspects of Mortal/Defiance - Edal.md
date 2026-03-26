@@ -23,7 +23,7 @@ The first root took hold, and somewhere in the ink-flooded dark, a child was bor
 
 [[Beauty]] wrote his [[Name]] in secret. [[Wildern]] watched him grow.
 
-He became the Woodsman of the Black Ent Forests — those vast lightless groves grown from the ichor of the loom's discarded work. He gained titles. He gained stories. Both [[Aspect|Aspects]] of the age kept their eyes on him, for different reasons.
+He became the Woodsman of the Black Ent Forests — those vast lightless groves grown from the ichor of the loom's discarded work. He gained titles. He gained stories. Both [[12 - Aspects|Aspects]] of the age kept their eyes on him, for different reasons.
 
 [[Wildern]] moved first.
 
@@ -33,7 +33,7 @@ Two more forms of pure flesh. Two more strands for the loom, taken too soon by [
 
 He found the body of his love, her true form returned in death. He took from it a horn — sharper than any blade of the present age — and a torch from the silvery fireplace. Traveling onto the peak of the world. 
 
-At the Ichory loom, [[Aspect|Aspects]] of [[Grael]] and [[Tuatha]] were already arguing over the silvery strands pulled from the bodies of his children. Then the loom fell — cut down like timber, like any tree in any forest.
+At the Ichory loom, [[12 - Aspects|Aspects]] of [[Grael]] and [[Tuatha]] were already arguing over the silvery strands pulled from the bodies of his children. Then the loom fell — cut down like timber, like any tree in any forest.
 
 He threw the torch onto [[Beauty]]'s long black locks. His axe passed close enough to her neck that she stumbled back and felt, for the first time in all of existence, what it meant to end. From that fear [[Empathy]] was born.
 
@@ -41,7 +41,7 @@ His axe landed in the skull of [[Wildern]].
 
 The world burned. The ink of the sky became the colorful clouds that light the night to this day. From the flames [[Conflict]] rose as a Firebird — the first sun. And from the ash of everything that burned, the next age began.
 
-Edal ended the [[2 - Age of Creation - Wildern & Beauty|Age of Creation]]. In doing so he made for mortals a place equal to the [[Aspect|Aspects]] of body and soul — the [[Aspect of Mortal]].
+Edal ended the [[2 - Age of Creation - Wildern & Beauty|Age of Creation]]. In doing so he made for mortals a place equal to the [[12 - Aspects|Aspects]] of body and soul — the [[Aspect of Mortal]].
 
 _For the full account, see [[2 - Age of Creation - Wildern & Beauty]]._
 

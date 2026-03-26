@@ -18,7 +18,7 @@ As [[Beauty]] slowly came to herself, the screams and pain came, and so he rose 
 
 In horror he watched as countless little worlds ended with the end of each soul. As [[Beauty]] traveled to conclude her age, he panicked — traveled the world of the cradle attempting to gather souls onto their bodies. Countless forms, memories, pains. Yet it all echoed still, among them a single one louder than any other, whose rage had dwindled to hollow pain.
 
-So did they meet. [[Empathy]] and [[Defiance - Edal|Defiance]], in the last of the latter's moment. In this moment did [[Defiance - Edal|Edal]] extend his hand, planting a strand of fabric that once was his child onto what he saw as his lost love. In silence, did [[Empathy]] look on as he who stood victorious against two [[Aspect|Aspects]] denied his own victory — cleaving his form onto the cradle, ripping it from the face of the world, sending it to fall upwards to the skies.
+So did they meet. [[Empathy]] and [[Defiance - Edal|Defiance]], in the last of the latter's moment. In this moment did [[Defiance - Edal|Edal]] extend his hand, planting a strand of fabric that once was his child onto what he saw as his lost love. In silence, did [[Empathy]] look on as he who stood victorious against two [[12 - Aspects|Aspects]] denied his own victory — cleaving his form onto the cradle, ripping it from the face of the world, sending it to fall upwards to the skies.
 
 [[Empathy]] looked upwards as the first moon, and for six days and six nights he looked upon the night skies, realizing that while day had sun and the azure dress of [[Grael]], the night had naught but naked dark.
 
@@ -45,7 +45,7 @@ For all the crying [[Faekin]] do about [[Beauty]]'s burned appearance, in realit
 
 > [!Quote] _"She whose face reflects the heart"_
 
-It was enough that flames licked her cheek that she understood the plight of creation. Seeing the dead lining the ground, her mind finally understanding the cruelty of the first [[Aspect|Aspects]].
+It was enough that flames licked her cheek that she understood the plight of creation. Seeing the dead lining the ground, her mind finally understanding the cruelty of the first [[12 - Aspects|Aspects]].
 
 So it was that she took upon the strands of the two unmade children of [[Defiance - Edal|Edal]], [[Aelf#Tam-aelf|Tam]] following their foster creator south — to a land where they waited for the regrowth of [[Wildern]].
 
@@ -53,7 +53,7 @@ In her new form, she came to meet with her long nemesis. To create another thing
 
 ##### The First Weaving — [[Wildern]] & [[Beauty]]
 ---
-Two [[Aspect|Aspects]] who had spent an age building against each other — one laying the logic, one staining it past recognition — sat down together for the first time.
+Two [[12 - Aspects|Aspects]] who had spent an age building against each other — one laying the logic, one staining it past recognition — sat down together for the first time.
 
 Before them, the strands of two unmade children.
 
@@ -138,7 +138,7 @@ Then like a thunderous call, the night black shifted. Sea of serpent-like strand
 
 [[Wildern|Anu]] looked up in fear, for another began making her mistake. Seeing this [[Beauty|Danu]] extended her wings forth, playfully throwing a droplet of ink upon [[Wildern]] body — gifting back what she once abandoned, before flying upwards towards the forth called [[11 - Primevals|Primeval]]'s might. 
 
-Her [[Faekin]] followed, and so did Danu and her folk land for the first time upon the [[Spirit World]], thousand of small lights upon the night skies. Looking for the [[Aspect]] of [[Empathy]]. She traveled [[Nameless]] [[Spirit World]], and it fought them on every step. 
+Her [[Faekin]] followed, and so did Danu and her folk land for the first time upon the [[Spirit World]], thousand of small lights upon the night skies. Looking for the [[12 - Aspects|Aspect]] of [[Empathy]]. She traveled [[Nameless]] [[Spirit World]], and it fought them on every step. 
 
 
 **For countless years they roamed, in darkness.** 
@@ -163,7 +163,7 @@ In this, [[Ambition]] was born, and [[Empathy]] learned his heart is a blade of 
 ##### One Last Song of Creation
 Time passed as [[Empathy]] and [[Beauty|Danu]] looked to the [[Spirit World]], the nights eternal and dark like this of the first age, flooded with ink. In all the chaos, and all the darkness, did a song ring once more. 
 
-A Duet, of two [[Aspect]]'s, the echoing song ringing across the world and painting it in iridescent lights and magnificent shapes. As the night sky, lighten up with countless little lights all across the now bright [[Spirit World]]. 
+A Duet, of two [[12 - Aspects|Aspect]]'s, the echoing song ringing across the world and painting it in iridescent lights and magnificent shapes. As the night sky, lighten up with countless little lights all across the now bright [[Spirit World]]. 
 
 > [!info] "The First Song"
 >_Among the [[Faekin]], the night [[Beauty|Danu]] sang beauty into the [[Spirit World]] is remembered as the First Song — not only for what it gave the world, but for what it gave them. A home. A court to belong to. For the first time, [[Beauty|Danu]] gathered her scattered folk and gave them structure to hold onto._

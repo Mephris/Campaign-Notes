@@ -28,7 +28,7 @@ _For her full role in the first age, see [[2 - Age of Creation - Wildern & Beaut
 
 The first root took hold, and she was there.
 
-Born at the moment [[Grael]]'s light fell upon formless earth, [[Wildern]] was not an [[Aspect|keeper of shelter or growth]] in the way mortals would come to understand it. She was nature before nature knew beauty. Cold. Vast. A logic that devoured what it could not define.
+Born at the moment [[Grael]]'s light fell upon formless earth, [[Wildern]] was not an [[12 - Aspects|keeper of shelter or growth]] in the way mortals would come to understand it. She was nature before nature knew beauty. Cold. Vast. A logic that devoured what it could not define.
 
 After the beginning of the [[2 - Age of Creation - Wildern & Beauty|Age of Creation]], [[Wildern]] took upon herself the creation of all life and its logic. She succeeded, until [[Beauty|Beauty]] flooded the world with ink, causing it to grow unpredictably. Illogically.
 

@@ -15,7 +15,7 @@ They are a result of [[Ambition]]'s naming during the [[4 - Age of Miracles - Li
 ### The Progenitor's - The Named
 ![[Name#^cd06fc]]
 
-During the [[4 - Age of Miracles - Life & Ambition|Ambition]], [[Ambition]] profaned the sacred right of [[Name|Naming]], turning it from the almost parental role of an [[Aspect]] to a mortal onto a way to make himself tools to do his bidding. 
+During the [[4 - Age of Miracles - Life & Ambition|Ambition]], [[Ambition]] profaned the sacred right of [[Name|Naming]], turning it from the almost parental role of an [[12 - Aspects]] to a mortal onto a way to make himself tools to do his bidding. 
 
 In this way he placed simple names upon some people, such as "Best Smith", or "Fastest Warrior". The gifts that did not bring any merit with them other then the constant mental push for the [[Name|named]] person. 
 

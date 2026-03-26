@@ -1,5 +1,3 @@
-
-
 ##  The Chronicle of Ages
 This folder contains the fundamental history of Athra. Spanning from the birth of the [[11 - Primevals|Primeval]], shifting to each of the cosmological events which shaped the five ages. 
 

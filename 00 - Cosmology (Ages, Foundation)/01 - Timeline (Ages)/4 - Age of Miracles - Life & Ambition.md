@@ -4,7 +4,7 @@
 ## The Dawn of an Era
 ### Birth of Ambition
 ---
-As the Spirit World was drowned in screams and laughs of [[Spirits]]. There was a young spark that walked the [[Spirit World]], an [[Aspect]] mind bound in awe of the [[Faekin]] courts and the the endless sky dress of [[Beauty|Danu]]. It had decided to make a robe of their own, to find people of its own, and set out to act. 
+As the Spirit World was drowned in screams and laughs of [[Spirits]]. There was a young spark that walked the [[Spirit World]], an [[12 - Aspects|Aspect]] mind bound in awe of the [[Faekin]] courts and the the endless sky dress of [[Beauty|Danu]]. It had decided to make a robe of their own, to find people of its own, and set out to act. 
 
 During his travels, he found a young dreamer surrounded by silvery strands, a weaver who wove the them into beautiful fabrics, so they spoke and for [[Ambition]] the weaver wove a beautiful pale stainless robe.
 *In return they asked for a name, for naught is free in this world, and they were named "The Best Weaver."*
@@ -14,9 +14,9 @@ So he traveled onward satisfied, and he found an old dreamer surrounded by many 
 *In return they asked for a name, for naught is free in this world, and they were named "The Best Smith."*
 [[Ambition]] turned the dagger in his hand and felt safer. [[Empathy]] had his vast [[Nameless]] world to retreat to. Now he had something to protect himself too.
 
-The newborn [[Aspect]] further traveled, hiding when he could, attacking when he should, and he came across a great stone manor before which he seen a dreamer, stone worker, so he asked him to make him a manor of shadows. That would hide within the shadow of [[Ambition]].
+The newborn [[12 - Aspects|Aspect]] further traveled, hiding when he could, attacking when he should, and he came across a great stone manor before which he seen a dreamer, stone worker, so he asked him to make him a manor of shadows. That would hide within the shadow of [[Ambition]].
 *In return they asked for a name, for naught is free in this world, and they were named "The Best Mason."*
-[[Ambition]] stood before his shadow manor and felt, for the first time, close to something. He had a robe. He had a blade. He had a home. He had things to show. He wondered if the other [[Aspect|Aspects]] would look at what he had built and finally see him standing among them.
+[[Ambition]] stood before his shadow manor and felt, for the first time, close to something. He had a robe. He had a blade. He had a home. He had things to show. He wondered if the other [[12 - Aspects|Aspects]] would look at what he had built and finally see him standing among them.
 
 Thus did the first goal come to its end. And young [[Ambition]] traveled the surface of the Spirit World, satisfied and bright. It then turn around and set out to gather himself people.
 
@@ -37,7 +37,7 @@ With an innocent smile of sharp teeth she jumped and ran after the sun's mantle,
 
 *One among them* lay still upon the ground, unmoving, clad in a beautiful pale robe. She came close and upon touch felt softness and warmth for the first time — so she took the robe and clad herself in it tightly, feeling warmth for the first time.
 
-Onwards she traveled through the ashen lands, passing into the thick orderly forest, nurtured one and each by an old [[Aspect]], and all across it moved mortal [[Aelf]] — [[Aelf#Tam-aelf|Tam]] and [[Aelf#Salaelf|Sal]].
+Onwards she traveled through the ashen lands, passing into the thick orderly forest, nurtured one and each by an old [[12 - Aspects|Aspect]], and all across it moved mortal [[Aelf]] — [[Aelf#Tam-aelf|Tam]] and [[Aelf#Salaelf|Sal]].
 
 *One among them* jumped upon her with a sharp steel tooth that smelled of a dream. It pierced her hide and [[Life]] felt pain. In panic, the Hunter's bones shattered under her horns. As the sharp dagger fell upon the grass she picked it up for it had drawn her own blood.
 
@@ -58,7 +58,7 @@ Soon, waking up her stomach growled, and the things she killed were gone eaten o
 
 Suddenly, a thunder made her jump up, looking at the pouring rain and the lighting that stroke her manor, the intricate stonework showing a large gash like a claw strike, so she moved and gathered small pebbles and rocks to seal the wound on her den. 
 
-Lazily she stretched, before moving up and with a yawn moved out of her den, she had hunted, rested, protected and healed, so she came out of her den and stared down the hill at the edge of the cliff, seeing the many [[Aelf]] in the forests of the old [[Aspect]], the Wildmother. In the once ashen lands were fertile fields of [[Dakr - Human|Dakr]], and she relaxed with the wind hitting her face.
+Lazily she stretched, before moving up and with a yawn moved out of her den, she had hunted, rested, protected and healed, so she came out of her den and stared down the hill at the edge of the cliff, seeing the many [[Aelf]] in the forests of the old [[12 - Aspects|Aspect]], the Wildmother. In the once ashen lands were fertile fields of [[Dakr - Human|Dakr]], and she relaxed with the wind hitting her face.
 
 Then she smelled it, a soft wind carried smell, a dreaming smell, her eyes tracing as a figure approached her, the one who marked with smell the robe, the dagger and den, and she moved up curiously, for he was bearing the confusing mortal ingenuity. 
 ### Ambition — The Dream
@@ -95,7 +95,7 @@ There on the hill he stood, looking back at the ambition left in his wake, at ea
 He turned back around and kept walking. But differently now. Head up. Eyes forward — All-Seeing to all but himself. 
 #### The Black Star
 ---
-The mortal cities were now walked by an [[Aspect]], like a beacon for the abused by the plague of gold. So did in the grimy alleys of starving and broken, did a cloaked figure pass with a whisper, and the beggars followed him like sailors to the black star.
+The mortal cities were now walked by an [[12 - Aspects|Aspect]], like a beacon for the abused by the plague of gold. So did in the grimy alleys of starving and broken, did a cloaked figure pass with a whisper, and the beggars followed him like sailors to the black star.
 
 > [!tip] Black Star 
 > _Among all the shifting skies, only one you can always depend on, only one shines for us to navigate the dangerous seas, the wild forests. A star of deep dark blue hue shining softly at the side of the skies._
@@ -168,7 +168,7 @@ Their armies fell, but their iron pierced her scale, leaving the red trail on he
 
 So they ripped crude simple names onto their bodies, in ways his garments did not think of, and their bodies changed. Once more they met the White scale [[Dragons]] and slowed her passing, in countless [[Bogóir]] iron arrows, they have put an end to her march, before herding her, pushing her back in weapons made to pierce scale and rend flesh. 
 
-Back towards the cliff, and [[Ambition]] looked to the [[Dakr - Human|Dakr]], the rats that with number and will of their mother-[[Aspect]], [[Conflict]], did what no mortal could, they put [[Valka]] back on her land. To her cliff.
+Back towards the cliff, and [[Ambition]] looked to the [[Dakr - Human|Dakr]], the rats that with number and will of their mother-[[12 - Aspects]], [[Conflict]], did what no mortal could, they put [[Valka]] back on her land. To her cliff.
 
 *[[Life]] rose* — hands finding the grass at the cliff's edge, the heavy robe soaked through, her shadow still pulling her down toward the waters. Her eyes found a beast among the forests below, large and scaled and old. She opened her mouth to the land once more, but this time [[Ambition]] moved first. 
 
@@ -184,11 +184,11 @@ It ripped the ground from her hands and let her fall into the waters. All she co
 
 > [!quote] _"What is the meaning of me?"_
 
-*[[Life]] fell — the robe and manor pulling her deep. But this time she did not fight. She welcomed the dark waters of the Black Ocean, giving up all — an [[Aspect]] questioning its own name.*
+*[[Life]] fell — the robe and manor pulling her deep. But this time she did not fight. She welcomed the dark waters of the Black Ocean, giving up all — an [[12 - Aspects]] questioning its own name.*
 
-The [[Aspect]]-fell, and [[Valka]] rose its head high, for even an aspect fell in the wake of the mighty Dragon Totem, so did some beasts recede from the wilds onto the cities of mortal, to escape from the newly forming kingdom of beasts ruled by instinct and pride. 
+The [[12 - Aspects|Aspect]]-fell, and [[Valka]] rose its head high, for even an aspect fell in the wake of the mighty Dragon Totem, so did some beasts recede from the wilds onto the cities of mortal, to escape from the newly forming kingdom of beasts ruled by instinct and pride. 
 
-Among all this, did [[Valka]] come to one that gave it the Name of a soul, [[Ambition]], and show its kingdom to him; in that moment did the [[Aspect]] see a beast bearing a name like his, innocent in its hungry cruelty. As he seen it he realized what they, [[Ambition]] and [[Life]], had done, they made reflection of themselves onto this creature, a being to reflect him and her. 
+Among all this, did [[Valka]] come to one that gave it the Name of a soul, [[Ambition]], and show its kingdom to him; in that moment did the [[12 - Aspects|Aspect]] see a beast bearing a name like his, innocent in its hungry cruelty. As he seen it he realized what they, [[Ambition]] and [[Life]], had done, they made reflection of themselves onto this creature, a being to reflect him and her. 
 
 He stood on the cliff, watching the waters silently, his eyes turned from the dragon that was like a black mirror to his existence, and she did not come, [[Life]] itself has no meaning. So he turned, and walked the only way he knew now — Forward. 
 ## Twilight of an Age 
@@ -200,7 +200,7 @@ He stood on the cliff, watching the waters silently, his eyes turned from the dr
 
 *Among the hush,* [[Ambition]] looked to scarce walking the town of those hid from the world in dark, their dreams fell to pain of loss and encroaching death. 
 
-*Among the silence*, he stopped, for before him was a village laid in flower fields and small mounds with crowns of flowers on each and single of them, the once wooden and stone houses covered in moss and laid with childish paintings, tips, a puzzle. So did curiosity make the [[Aspect]] come closer, deeper into the grave puzzle. 
+*Among the silence*, he stopped, for before him was a village laid in flower fields and small mounds with crowns of flowers on each and single of them, the once wooden and stone houses covered in moss and laid with childish paintings, tips, a puzzle. So did curiosity make the [[12 - Aspects|Aspect]] come closer, deeper into the grave puzzle. 
 
 #### Puzzle of Silent Graves
 Following a trail of violet flowers to a drawing of a sleeping child, and below it a mound with a handkerchief robed doll. He lowered himself down the the mound and looked at the doll with a soft smile painting on his face, the small crown of flowers, the silly white robe. He laid it back down softly with his hand carefully avoiding the violet flowers, his gaze turning to a trail leading it further. 
@@ -219,7 +219,7 @@ There, in visage of the hunched small figure, the painting of the clearly revere
 Her hands moved forward, presenting to him a crown of violet flowers, same as the bouquet which let to him losing everything, making him freeze with wide eyes as the girl followed. 
 **"Why do you go on among all the sleeping, friend?"**
 
-So would [[Ambition]] lay forth his hands, accepting a crown of flowers, with the question ringing in his head. His thoughts going back, to the spirit world, beyond his gifts, to the little spark. Always getting more, the silly robe, the silly dagger, the silly manor, not out of hunger of a white scaled dragon, but want of proving himself equal to other [[Aspect]]. 
+So would [[Ambition]] lay forth his hands, accepting a crown of flowers, with the question ringing in his head. His thoughts going back, to the spirit world, beyond his gifts, to the little spark. Always getting more, the silly robe, the silly dagger, the silly manor, not out of hunger of a white scaled dragon, but want of proving himself equal to other [[12 - Aspects|Aspect]]. 
 
 He realized then, among all the years, he always was equal to all of them, his self-name, his self-inadequacy, all of it made him bitter and afraid. For the first time in his life, he stood among the nature of the [[2 - Age of Creation - Wildern & Beauty|Creation of Anu and Danu]], among the rays of [[Conflict]], the azure skies beyond which lied the safety of [[Empathy]], and he felt himself hopeful, that he too, among all them was equal. 
 
@@ -251,7 +251,7 @@ Down she drowned, onto the very heart of the inky [[Abyss]]. The well of rock co
 
 _For [[Life]] holds no meaning_ — and if it holds none, then it should end.
 
-So did the world's life slowly follow the will of the [[Aspect]] of [[Life]], cutting shorter with each moment, a spreading plague of purposelessness bleeding upward through the waters.
+So did the world's life slowly follow the will of the [[12 - Aspects|Aspect]] of [[Life]], cutting shorter with each moment, a spreading plague of purposelessness bleeding upward through the waters.
 
 _For why move at all? Why spare a breath?_
 
@@ -292,7 +292,7 @@ He stood alone before a creature he could not unmake.
 
 Then, past him, went an old figure of a [[Aelf#Tam-aelf|Tam]]. Her skin long covered in pale bark, smooth and cracked, small delicate flowers sprouting from the fissures. Her head crowned with featherlike horns of bark curling upward into a round visage of a crown. In her right hand a young branch wound itself around the old rotten handle of an axe — its rusted silvery head still catching the moonlight beautifully, as though the presence of the Moon followed behind her.
 
-[[Ambition]] did not know this woman. She held no place among his garments, no kin of his whose name was sung high by mortals. He did not recognise the oldest [[Aspect]] walking past him as though the cliff were simply the next place she needed to be.
+[[Ambition]] did not know this woman. She held no place among his garments, no kin of his whose name was sung high by mortals. He did not recognise the oldest [[12 - Aspects|Aspect]] walking past him as though the cliff were simply the next place she needed to be.
 
 Then her axe landed across the large skull of [[Valka]], gashing past the armor of scales. Yet unable to break the bone of the dragon. So thunderous laugh of [[Valka]] shook the waters. But the jagged stone remained still.
 
@@ -308,7 +308,7 @@ Before [[Ambition]] stood arrogant [[Valka]], and the clouds gathered. From the 
 
 So did the loom consume, spreading the ichor onto land, letting it flow like mist. And through creation passed a high-pitched sound — like claws on stone. The sound of an unraveling Mark upon [[Grael]].
 
-Quickly did [[Ambition]] rise his dagger and move forward, supporting the [[Aspect]] of [[Grael]] — for [[Wildern|Anu]] could not reach the soul of [[Valka]], and he pierced it with his dagger until she stopped moving. With shaking lips he ended the suffering he had caused, not bearing to speak another word, not another name, but [[Wildern]] did not stop to sorrow. 
+Quickly did [[Ambition]] rise his dagger and move forward, supporting the [[12 - Aspects|Aspect]] of [[Grael]] — for [[Wildern|Anu]] could not reach the soul of [[Valka]], and he pierced it with his dagger until she stopped moving. With shaking lips he ended the suffering he had caused, not bearing to speak another word, not another name, but [[Wildern]] did not stop to sorrow. 
 
 From the unraveled flesh of the dragon [[Wildern|Anu]] pulled with softness — a motherly caress. Upon the winds she blew it and shattered it onto many small strands.
 
