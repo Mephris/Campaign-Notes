@@ -14,6 +14,16 @@ Humans in this setting are:
 - Carnelians are hard to conquer, if you take carnelian land you have to pretty much do a population cull to remove humans from the land which most wont do... most...are not Lune Magocracy. 
 
 
+
+
+
+
+
+
+#### Bogóir 
+![[Bogóir.png]]
+
+
 ## Wordbuilding
 Dakr is the original name of the Speacies used by Dakr to speak about themselves, meaning "Sharp Tear"
 
