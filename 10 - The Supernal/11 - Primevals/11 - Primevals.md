@@ -10,5 +10,5 @@ Those creatures use their own flesh to sculpt things onto reality.
 - [[Tuatha]], the Painter or Painters of Meaning, their is a body of all souls and meanings, its her stain that created a free life, unbound by their sisters tyranny!
 
 
-During the [[2 - Age of Creation - Wildern & Beauty]], [[Wildern|Wildern]] called upon grael to make a shrine to reflect its beauty, the loom of ichor and jagged stone. 
+During the [[2 - Age of Creation - Wildern & Beauty|Age of Creation]], [[Wildern|Wildern]] called upon grael to make a shrine to reflect its beauty, the loom of ichor and jagged stone. 
 ![[Jagged Loom stained with Ichor.png]]
