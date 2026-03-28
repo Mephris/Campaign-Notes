@@ -13,7 +13,7 @@ In this hell, flooded in ink and ripped by the jagged loom, did the [[11 - Prime
 
 One such creation, of Elven and Dwarven blood was a young man, at birth the most pure of [[Grael]] pale flesh, so did [[Beauty]] look to the pale creation and while the [[Wildern|Wildern]] did not look, did she grab the silvery ink and write a [[Name]], a gift, onto its heart; [[Defiance - Edal|Edal]], in it sealing a gift of endless growth and abstract of a hero - to always rise equal to the challenge. 
 
-As time flew, the hero grew, gaining titles and stories, and both centerpieces of the [[2 - Age of Creation - Wildern & Beauty|Age of Creation]] watched, the Woodsman of the Black Ent Forests - creatures born of discarded ink from the ripped life's of ichory loom. [[Wildern|Wildern]] seeing the name upon her most pure creation, took a most ferocious of the blind beasts of night, giving it mortal form. [[Defiance - Edal|Edal]] for all his strength, ever clear of heart fell for the [[Wildern]] trick. Giving fruit of a son and a daughter. 
+As time flew, the hero grew, gaining titles and stories, and both centerpieces of the [[1 - Age of Creation - Wildern & Beauty|Age of Creation]] watched, the Woodsman of the Black Ent Forests - creatures born of discarded ink from the ripped life's of ichory loom. [[Wildern|Wildern]] seeing the name upon her most pure creation, took a most ferocious of the blind beasts of night, giving it mortal form. [[Defiance - Edal|Edal]] for all his strength, ever clear of heart fell for the [[Wildern]] trick. Giving fruit of a son and a daughter. 
 
 So did [[Wildern|Wildern]] see the two most pure forms and take them, to strip out of them perfectly pure strands. His children taken, he lamented at the body of his love, before grabbing a horn of her true form, sharper then any of the swords of today, and a torch of the silvery fireplace. A loom would burn, and so would the cruel world. 
 
@@ -46,7 +46,7 @@ Spirit of the world burned, and his axe landed in the skull of [[Wildern|Wildern
 [[Defiance - Edal]] ended the Age of Life, making for mortals place equal to the aspects of body and soul, the [[Aspect of Mortal]]. 
 
 ### Aftermath - Anu & Danu
-At the [[2 - Age of Creation - Wildern & Beauty#End of an Era|End of an era]] both aspects have learned a lesson that forged their images in the far future. 
+At the [[1 - Age of Creation - Wildern & Beauty#End of an Era|End of an era]] both aspects have learned a lesson that forged their images in the far future. 
 ### Edal
 ![[Defiance - Edal#Death]]
 

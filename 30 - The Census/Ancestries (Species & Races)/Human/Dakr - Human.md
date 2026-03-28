@@ -20,9 +20,9 @@ Humans in this setting are:
 
 
 
-#### Bogóir 
+### Bogóir 
 ![[Bogóir.png]]
-
+During the 
 
 ## Wordbuilding
 Dakr is the original name of the Speacies used by Dakr to speak about themselves, meaning "Sharp Tear"

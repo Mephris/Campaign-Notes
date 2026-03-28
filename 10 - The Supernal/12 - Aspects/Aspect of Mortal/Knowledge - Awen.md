@@ -14,7 +14,7 @@ aliases:
 
 ---
 
-![[3 - Age of Knowledge - Conflict and Empathy#The First Weaving — Wildern & Beauty]]
+![[2 - Age of Knowledge - Conflict and Empathy#The First Weaving — Wildern & Beauty]]
 
 #### [[Knowledge - Awen]]
 ---

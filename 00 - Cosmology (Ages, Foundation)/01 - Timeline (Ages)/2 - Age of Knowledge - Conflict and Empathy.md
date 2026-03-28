@@ -57,7 +57,7 @@ Two [[12 - Aspects|Aspects]] who had spent an age building against each other â€
 
 Before them, the strands of two unmade children.
 
-The whole of the [[2 - Age of Creation - Wildern & Beauty|Age of Creation]] had been their collaboration without consent. [[Wildern]] building. [[Beauty]] staining. Neither asking. Neither yielding. Everything they had ever made together had been made _despite_ the other.
+The whole of the [[1 - Age of Creation - Wildern & Beauty|Age of Creation]] had been their collaboration without consent. [[Wildern]] building. [[Beauty]] staining. Neither asking. Neither yielding. Everything they had ever made together had been made _despite_ the other.
 
 An new age has come, and so did new chances. So did they weave... together. 
 

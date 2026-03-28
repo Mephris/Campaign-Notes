@@ -18,13 +18,13 @@ Three grand lessons of conflict speak of:
 
 ### Age of Knowledge
 
-![[3 - Age of Knowledge - Conflict and Empathy#Birth in Flames - Firebird]]
+![[2 - Age of Knowledge - Conflict and Empathy#Birth in Flames - Firebird]]
 
-![[3 - Age of Knowledge - Conflict and Empathy#Conflict Settles]]
+![[2 - Age of Knowledge - Conflict and Empathy#Conflict Settles]]
 
-![[3 - Age of Knowledge - Conflict and Empathy#The Talk of Ash & Age]]
+![[2 - Age of Knowledge - Conflict and Empathy#The Talk of Ash & Age]]
 
-![[3 - Age of Knowledge - Conflict and Empathy#Dawn of the 7th Night]]
+![[2 - Age of Knowledge - Conflict and Empathy#Dawn of the 7th Night]]
 
 ## Notes
 ![[Firebird.png]]

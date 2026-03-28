@@ -11,7 +11,7 @@ aliases:
 ---
 The Lord of Silvery Ashes, the Vehement, Cycle-breaker, The Betrayer and The Victor. Ruler of the Silvery city, now crowning the night sky with it's pale glow, holds many titles, yet for all the titles it was only one he held dear to his heart, Father. 
 
-During the [[2 - Age of Creation - Wildern & Beauty|Age of Life]], in the pale cradle of the world where the [[Wildern]] ravaged the mortal bodies onto creatures we now know as [[Aelf]] and [[Dwergr]]. She created the most pure mortal, she could finally tolerate and released them to grow in the cradle.
+During the [[1 - Age of Creation - Wildern & Beauty|Age of Life]], in the pale cradle of the world where the [[Wildern]] ravaged the mortal bodies onto creatures we now know as [[Aelf]] and [[Dwergr]]. She created the most pure mortal, she could finally tolerate and released them to grow in the cradle.
 
 As [[Wildern]] turned away, [[Beauty]] slipped from the endless flood of ink and wrote with silvery ink upon his heart a [[Name]]; Edal, He who always rises equal to the challenge before him.
 
@@ -41,9 +41,9 @@ His axe landed in the skull of [[Wildern]].
 
 The world burned. The ink of the sky became the colorful clouds that light the night to this day. From the flames [[Conflict]] rose as a Firebird — the first sun. And from the ash of everything that burned, the next age began.
 
-Edal ended the [[2 - Age of Creation - Wildern & Beauty|Age of Creation]]. In doing so he made for mortals a place equal to the [[12 - Aspects|Aspects]] of body and soul — the [[Aspect of Mortal]].
+Edal ended the [[1 - Age of Creation - Wildern & Beauty|Age of Creation]]. In doing so he made for mortals a place equal to the [[12 - Aspects|Aspects]] of body and soul — the [[Aspect of Mortal]].
 
-_For the full account, see [[2 - Age of Creation - Wildern & Beauty]]._
+_For the full account, see [[1 - Age of Creation - Wildern & Beauty]]._
 
 ---
 

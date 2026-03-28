@@ -221,12 +221,12 @@ Her hands moved forward, presenting to him a crown of violet flowers, same as th
 
 So would [[Ambition]] lay forth his hands, accepting a crown of flowers, with the question ringing in his head. His thoughts going back, to the spirit world, beyond his gifts, to the little spark. Always getting more, the silly robe, the silly dagger, the silly manor, not out of hunger of a white scaled dragon, but want of proving himself equal to other [[12 - Aspects|Aspect]]. 
 
-He realized then, among all the years, he always was equal to all of them, his self-name, his self-inadequacy, all of it made him bitter and afraid. For the first time in his life, he stood among the nature of the [[2 - Age of Creation - Wildern & Beauty|Creation of Anu and Danu]], among the rays of [[Conflict]], the azure skies beyond which lied the safety of [[Empathy]], and he felt himself hopeful, that he too, among all them was equal. 
+He realized then, among all the years, he always was equal to all of them, his self-name, his self-inadequacy, all of it made him bitter and afraid. For the first time in his life, he stood among the nature of the [[1 - Age of Creation - Wildern & Beauty|Creation of Anu and Danu]], among the rays of [[Conflict]], the azure skies beyond which lied the safety of [[Empathy]], and he felt himself hopeful, that he too, among all them was equal. 
 
 So, he pulled the robbed child of his memory out and onto its head placed a crown of violet flowers, so was [[Hope]] born. As the [[Miracle]] looked to [[Hope]], both smiled at each other as the [[Ambition]] turned around, walking away, a hunger contained in his heart, as his memories flew to his garments, no — to his followers. His words spoke an answer. 
 **"Because all of us can be so much more"**
 
-*It was high time for him to end, this [[4 - Age of Miracles - Life & Ambition|Age of Miracles]].*
+*It was high time for him to end, this [[3 - Age of Miracles - Life & Ambition|Age of Miracles]].*
 
 ### Life - Black Sea
 ---
@@ -277,7 +277,7 @@ So was [[Fate]] born, appearing in a tired smile beside them. She saw all patter
 ## Aftermath
 ### Ambition & Wildern — The White Scaled Totem
 ---
-*It was high time for him to end, this [[4 - Age of Miracles - Life & Ambition|Age of Miracles]].*
+*It was high time for him to end, this [[3 - Age of Miracles - Life & Ambition|Age of Miracles]].*
 
 Yet as [[Ambition]] walked away from the village of [[Miracle]] & [[Hope]], as his mind's rampaging storm slowly settled, his thoughts went to a scaled totem sharing a [[Name]] he himself had only just begun to resist.
 

@@ -16,7 +16,7 @@ She presided over the sunless age. Ink-flooded nights. Lightless days. Living wo
 
 **Associated symbols:** Wilderness, growth, purity, consumption & feast, the Loom.
 
-_For her full role in the first age, see [[2 - Age of Creation - Wildern & Beauty]]._
+_For her full role in the first age, see [[1 - Age of Creation - Wildern & Beauty]]._
 
 ---
 
@@ -30,7 +30,7 @@ The first root took hold, and she was there.
 
 Born at the moment [[Grael]]'s light fell upon formless earth, [[Wildern]] was not an [[12 - Aspects|keeper of shelter or growth]] in the way mortals would come to understand it. She was nature before nature knew beauty. Cold. Vast. A logic that devoured what it could not define.
 
-After the beginning of the [[2 - Age of Creation - Wildern & Beauty|Age of Creation]], [[Wildern]] took upon herself the creation of all life and its logic. She succeeded, until [[Beauty|Beauty]] flooded the world with ink, causing it to grow unpredictably. Illogically.
+After the beginning of the [[1 - Age of Creation - Wildern & Beauty|Age of Creation]], [[Wildern]] took upon herself the creation of all life and its logic. She succeeded, until [[Beauty|Beauty]] flooded the world with ink, causing it to grow unpredictably. Illogically.
 
 Seeing her creation defiled, she traveled to where the ink flooded the least — the peak of the world, the cradle where both Aspects of the age were born. There she tried to cleanse her creation back to the pure logic it had been at the beginning.
 
@@ -58,13 +58,13 @@ At the end, [[Wildern]] died.
 
 But can the symbol of nature ever stay dead while there is life? From the ashes of her body flew a brilliant Firebird, shining light upon the day as its sun. And in that light, her ashes fell south — taken by winds, carried by rivers, regrowing into a land of inky forests. Her body finding life once more.
 
-_For the full account, see [[2 - Age of Creation - Wildern & Beauty]]._
+_For the full account, see [[1 - Age of Creation - Wildern & Beauty]]._
 
 ### Age of Knowledge
 
-![[3 - Age of Knowledge - Conflict and Empathy#The Harsh Lesson — Wildern Anu]] ^3fa88f
+![[2 - Age of Knowledge - Conflict and Empathy#The Harsh Lesson — Wildern Anu]] ^3fa88f
 
-![[3 - Age of Knowledge - Conflict and Empathy#The First Weaving — Wildern & Beauty]]
+![[2 - Age of Knowledge - Conflict and Empathy#The First Weaving — Wildern & Beauty]]
 
 ---
 

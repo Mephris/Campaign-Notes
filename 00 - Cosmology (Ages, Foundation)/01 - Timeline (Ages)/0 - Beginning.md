@@ -1,3 +1,9 @@
+---
+aliases:
+  - Genesis
+  - Beginning
+---
+
 Before the beginning, there was the end, and from the end the [[Tuatha|chaos]] spilled.
 Flooding empty in its unformed darkness. 
 Stillwater drowned in screaming vigil, the form unformed, drowned and lone.
