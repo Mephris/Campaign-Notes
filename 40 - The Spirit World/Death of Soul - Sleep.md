@@ -1,1 +1,0 @@
-**Idea:** Mana - the incorporeal magic energy is stored within souls and does not regenerate for the most part. Reason why mortals are able to actually regain magic during rest is the Death of Soul. Where they soul is cleansed and rebirthed with new Mana supply. 

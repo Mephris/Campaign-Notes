@@ -2806,33 +2806,6 @@
         "newlineCount": 0
       }
     },
-    "40 - The Spirit World/Death of Soul - Sleep.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 45,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.15,
-      "characterCount": 263,
-      "nonWhitespaceCharacterCount": 217,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.16981132075471697,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772700860006,
-      "modifiedDate": 1773488456388,
-      "sizeInBytes": 263,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.15,
-        "wordCount": 45,
-        "characterCount": 263,
-        "nonWhitespaceCharacterCount": 217,
-        "newlineCount": 1
-      }
-    },
     "30 - The Census/Ancestries (Species & Races)/Star-Born/Faekin.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3695,8 +3668,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772290393849,
-      "modifiedDate": 1774740095969,
-      "sizeInBytes": 51110,
+      "modifiedDate": 1774788502669,
+      "sizeInBytes": 51102,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 6.343333333333334,
@@ -4405,20 +4378,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 95,
+      "wordCount": 96,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.31666666666666665,
-      "characterCount": 1153,
-      "nonWhitespaceCharacterCount": 755,
+      "pageCount": 0.32,
+      "characterCount": 1183,
+      "nonWhitespaceCharacterCount": 770,
       "newlineCount": 15,
-      "readingTimeInMinutes": 0.3584905660377358,
-      "linkCount": 33,
+      "readingTimeInMinutes": 0.3622641509433962,
+      "linkCount": 34,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1774785176931,
-      "modifiedDate": 1774786291508,
-      "sizeInBytes": 1153,
+      "modifiedDate": 1774786341723,
+      "sizeInBytes": 1183,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4642,6 +4615,94 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      }
+    },
+    "20 - The Atlas/Carnelian Commonwealth/The Saint Carnelian.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 228,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.76,
+      "characterCount": 1361,
+      "nonWhitespaceCharacterCount": 1112,
+      "newlineCount": 13,
+      "readingTimeInMinutes": 0.8603773584905661,
+      "linkCount": 14,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1774787444272,
+      "modifiedDate": 1774788461968,
+      "sizeInBytes": 1361,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "The Saint Carnelian.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1774787824333,
+      "modifiedDate": 1774787824334,
+      "sizeInBytes": 553777,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "40 - The Spirit World/Death of Soul.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 177,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.59,
+      "characterCount": 1052,
+      "nonWhitespaceCharacterCount": 860,
+      "newlineCount": 13,
+      "readingTimeInMinutes": 0.6679245283018868,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": [
+        "Sleep"
+      ],
+      "createdDate": 1772700860006,
+      "modifiedDate": 1774788725941,
+      "sizeInBytes": 1078,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Sleep"
+        ]
       }
     }
   }

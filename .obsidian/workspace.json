@@ -86,12 +86,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 - The Census/Ancestries (Species & Races)/Ancestries (Species & Races).md",
+                "file": "40 - The Spirit World/Death of Soul.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ancestries (Species & Races)"
+              "title": "Death of Soul"
             }
           }
         ]
@@ -255,6 +255,10 @@
   },
   "active": "4a9ee14f4dbe8398",
   "lastOpenFiles": [
+    "20 - The Atlas/Carnelian Commonwealth/The Saint Carnelian.md",
+    "The Saint Carnelian.png",
+    "30 - The Census/Ancestries (Species & Races)/Ancestries (Species & Races).md",
+    "20 - The Atlas/Carnelian Commonwealth",
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Beastkin.md",
     "30 - The Census/Ancestries (Species & Races)/Primordial Ink/The Valleya.md",
     "30 - The Census/Ancestries (Species & Races)/Primordial Ink/Dragons/Dragons.md",
@@ -262,7 +266,6 @@
     "30 - The Census/Ancestries (Species & Races)/Primordial Ink/Dragons/Descendants/Drakes.md",
     "30 - The Census/Ancestries (Species & Races)/Primordial Ink/Dragons/Descendants/Wyvern.md",
     "30 - The Census/Ancestries (Species & Races)/Primordial Ink/Dragons/Descendants/Named",
-    "30 - The Census/Ancestries (Species & Races)/Ancestries (Species & Races).md",
     "30 - The Census/Ancestries (Species & Races)/Human/Dakr - Human.md",
     "30 - The Census/Ancestries (Species & Races)/Aelf/Aelf.md",
     "1 - Beginning.md",
@@ -282,19 +285,16 @@
     "30 - The Census/Ancestries (Species & Races)/Beastkin/The Garuda.md",
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Untitled.md",
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Nahual (placeholder).md",
-    "30 - The Census/Ancestries (Species & Races)/Beastkin/The Wyvern Clan.md",
     "Drake.png",
     "Scale_Wyrm.png",
     "Pasted image 20260329131145.png",
     "Pasted image 20260329130632.png",
     "Pasted image 20260329130627.png",
     "Wyrm.png",
-    "50 - Lexicon/Abyssal Plague.md",
     "99 - Assets/Portraits/Wyvern Clan Nahual.png",
     "30 - The Census/Ancestries (Species & Races)/Beastkin",
     "99 - Assets/Portraits/Theriantrophy.png",
     "99 - Assets/Portraits/Pasted image 20260323095326.png",
-    "99 - Assets/Portraits/Valka.png",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age_of_Knowledge.canvas",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Miracles.canvas",
     "00 - Cosmology (Ages, Foundation)/03 - Cosmology Graph.canvas",
@@ -303,7 +303,6 @@
     "00 - Cosmology (Ages, Foundation)/vault_structure.txt",
     "99 - Assets/Portraits",
     "99 - Assets",
-    "20 - The Atlas/Untitled",
     "00 - Cosmology & Ages/Timeline/Untitled.canvas",
     "Untitled.canvas",
     "Fable World/Entities/Untitled.canvas"

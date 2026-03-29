@@ -94,7 +94,7 @@ Mortal [[Spirits]] cried onto their new home, for they were cold. So did [[Empat
 
 Mortal [[Spirits]] cried once more, for they were formless lights. So did [[Empathy]] take a fistful of his own flesh and throw it onto the [[Nameless]] — and so did spirits take forms and could move upon the ground.
 
-Mortal [[Spirits]] cried once more. Sleep was nothing but darkness, and so did [[Empathy]] reach into the living world — taking the spirits from their vessels as they slumbered, letting them dive onto the [[40 - The Spirit World]]. So that when they sleep they might roam another world, and their soul be cleansed in death of burdens, ready for another day. So was the [[Death of Soul - Sleep]] — made.
+Mortal [[Spirits]] cried once more. Sleep was nothing but darkness, and so did [[Empathy]] reach into the living world — taking the spirits from their vessels as they slumbered, letting them dive onto the [[40 - The Spirit World]]. So that when they sleep they might roam another world, and their soul be cleansed in death of burdens, ready for another day. So was the [[Death of Soul]] — made.
 
 Tired, [[Empathy]] sat in his [[40 - The Spirit World]] and saw his creation was a peaceful home for those who before had nothing but dispersing into the endless [[Tuatha]]. Spirits roaming the world. Dreamers walking the plain alongside them.
 
