@@ -17,12 +17,3 @@ They are large creatures spanning like trees, sometimes immortal in nature, othe
 Check out Aztec language but cut off the TL from the words, it keeps the nice vibe but fucks off the agglutination
 
 ## Tribe
-### The Garuda - Snake Eaters
----
-Coastal tribe known for their hunts of the [[The Valleya]]. An predator of 
-![[Garuda-F.png]]
-![[Garuda-M.png]]
-![[Garuda-F2.png]]
-
-### Theriantrope 
-![[Pasted image 20260323090726.png]]

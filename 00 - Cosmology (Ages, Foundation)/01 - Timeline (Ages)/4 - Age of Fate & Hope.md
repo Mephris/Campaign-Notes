@@ -1,3 +1,9 @@
+---
+aliases:
+  - Current Age
+  - Forth Age
+---
+
 The age of hope and fate 
 
 [[The House of Empty]] moves out seeing hope for the first time, seeing that the cycle is done.

@@ -1,3 +1,10 @@
+---
+aliases:
+  - First Age
+  - Age of Creation
+---
+
+
 >"The First Dawn was not a gentle rising, but a desperate theft. Edal did not merely kill a goddess; he set the logic of the universe on fire so that his children’s silence might finally be heard."
 
 ### Beginning of an Era - Wildern's retreat and Ink Flood

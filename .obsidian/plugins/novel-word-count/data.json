@@ -2147,33 +2147,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Assets/Portraits/Pasted image 20260323090726.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1774253246134,
-      "modifiedDate": 1774253246136,
-      "sizeInBytes": 1088175,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "99 - Assets/Portraits/Valli-A.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -2327,33 +2300,6 @@
       "createdDate": 1774256006510,
       "modifiedDate": 1774256006512,
       "sizeInBytes": 2553309,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "99 - Assets/Portraits/images-3.jpeg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1773526921792,
-      "modifiedDate": 1773526921792,
-      "sizeInBytes": 25409,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2631,33 +2577,6 @@
         "characterCount": 154,
         "nonWhitespaceCharacterCount": 122,
         "newlineCount": 4
-      }
-    },
-    "50 - Lexicon/Totems.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 9,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03,
-      "characterCount": 73,
-      "nonWhitespaceCharacterCount": 61,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.033962264150943396,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1774168206861,
-      "modifiedDate": 1774740093431,
-      "sizeInBytes": 75,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.03,
-        "wordCount": 9,
-        "characterCount": 73,
-        "nonWhitespaceCharacterCount": 61,
-        "newlineCount": 1
       }
     },
     "50 - Lexicon/Name.md": {
@@ -2945,20 +2864,24 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1,
+      "wordCount": 65,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 13,
-      "nonWhitespaceCharacterCount": 13,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.0037735849056603774,
-      "linkCount": 0,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 400,
+      "nonWhitespaceCharacterCount": 327,
+      "newlineCount": 10,
+      "readingTimeInMinutes": 0.24528301886792453,
+      "linkCount": 7,
       "embedCount": 1,
-      "aliases": null,
+      "aliases": [
+        "Wyvernmother",
+        "Scaled Plague",
+        "Thunderthroat"
+      ],
       "createdDate": 1774433927902,
-      "modifiedDate": 1774513541563,
-      "sizeInBytes": 13,
+      "modifiedDate": 1774742022348,
+      "sizeInBytes": 497,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.0033333333333333335,
@@ -2966,6 +2889,17 @@
         "characterCount": 13,
         "nonWhitespaceCharacterCount": 13,
         "newlineCount": 1
+      },
+      "frontmatter": {
+        "aliases": [
+          "Wyvernmother",
+          "Scaled Plague",
+          "Thunderthroat"
+        ],
+        "tags": [
+          "Wyvern",
+          "Dragon"
+        ]
       }
     },
     "30 - The Census/Ancestries (Species & Races)/Primordial Ink/Dragons/Valka.md": {
@@ -3130,33 +3064,6 @@
         "newlineCount": 38
       }
     },
-    "30 - The Census/Ancestries (Species & Races)/Human/Beastkin.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 277,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.9233333333333333,
-      "characterCount": 1750,
-      "nonWhitespaceCharacterCount": 1444,
-      "newlineCount": 28,
-      "readingTimeInMinutes": 1.0452830188679245,
-      "linkCount": 9,
-      "embedCount": 4,
-      "aliases": null,
-      "createdDate": 1773265535402,
-      "modifiedDate": 1774433797496,
-      "sizeInBytes": 1750,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.9233333333333333,
-        "wordCount": 277,
-        "characterCount": 1750,
-        "nonWhitespaceCharacterCount": 1444,
-        "newlineCount": 28
-      }
-    },
     "30 - The Census/Ancestries (Species & Races)/Aelf/Aelf.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3304,9 +3211,9 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.30333333333333334,
-      "characterCount": 588,
+      "characterCount": 583,
       "nonWhitespaceCharacterCount": 481,
-      "newlineCount": 13,
+      "newlineCount": 8,
       "readingTimeInMinutes": 0.3433962264150943,
       "linkCount": 3,
       "embedCount": 1,
@@ -3315,8 +3222,8 @@
         "primevals"
       ],
       "createdDate": 1774559667369,
-      "modifiedDate": 1774723016947,
-      "sizeInBytes": 631,
+      "modifiedDate": 1774740229572,
+      "sizeInBytes": 626,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.5033333333333333,
@@ -3857,7 +3764,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772290393849,
-      "modifiedDate": 1774740089790,
+      "modifiedDate": 1774740095969,
       "sizeInBytes": 51110,
       "sessionStart": {
         "noteCount": 1,
@@ -3992,7 +3899,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1773902307500,
-      "modifiedDate": 1774559997705,
+      "modifiedDate": 1774740203380,
       "sizeInBytes": 33781,
       "sessionStart": {
         "noteCount": 1,
@@ -4001,33 +3908,6 @@
         "characterCount": 10192,
         "nonWhitespaceCharacterCount": 8333,
         "newlineCount": 163
-      }
-    },
-    "Bogóir.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1774723523043,
-      "modifiedDate": 1774723523044,
-      "sizeInBytes": 1065837,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
       }
     },
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/0 - Beginning.md": {
@@ -4065,16 +3945,19 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 3.17,
-      "characterCount": 5753,
+      "characterCount": 5756,
       "nonWhitespaceCharacterCount": 4705,
-      "newlineCount": 60,
+      "newlineCount": 63,
       "readingTimeInMinutes": 3.5886792452830187,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
+      "linkCount": 49,
+      "embedCount": 1,
+      "aliases": [
+        "First Age",
+        "Age of Creation"
+      ],
       "createdDate": 1772290050004,
-      "modifiedDate": 1774560118768,
-      "sizeInBytes": 5769,
+      "modifiedDate": 1774740130613,
+      "sizeInBytes": 5822,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4082,6 +3965,12 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "First Age",
+          "Age of Creation"
+        ]
       }
     },
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/2 - Age of Knowledge - Conflict and Empathy.md": {
@@ -4092,16 +3981,19 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 11.796666666666667,
-      "characterCount": 20799,
+      "characterCount": 20801,
       "nonWhitespaceCharacterCount": 17011,
-      "newlineCount": 212,
+      "newlineCount": 214,
       "readingTimeInMinutes": 13.354716981132075,
-      "linkCount": 0,
+      "linkCount": 120,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "Second Age",
+        "Age of Knowledge"
+      ],
       "createdDate": 1772290050005,
-      "modifiedDate": 1774740084050,
-      "sizeInBytes": 20916,
+      "modifiedDate": 1774740149148,
+      "sizeInBytes": 20970,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4109,6 +4001,12 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Second Age",
+          "Age of Knowledge"
+        ]
       }
     },
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/3 - Age of Miracles - Life & Ambition.md": {
@@ -4119,16 +4017,20 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 20.23,
-      "characterCount": 34773,
+      "characterCount": 34775,
       "nonWhitespaceCharacterCount": 28341,
-      "newlineCount": 342,
+      "newlineCount": 344,
       "readingTimeInMinutes": 22.90188679245283,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
+      "linkCount": 182,
+      "embedCount": 1,
+      "aliases": [
+        "Third Age",
+        "Age of Miracles",
+        "Age of War"
+      ],
       "createdDate": 1772290050005,
-      "modifiedDate": 1774740084055,
-      "sizeInBytes": 34924,
+      "modifiedDate": 1774740171882,
+      "sizeInBytes": 34991,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4136,6 +4038,13 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Third Age",
+          "Age of Miracles",
+          "Age of War"
+        ]
       }
     },
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/4 - Age of Fate & Hope.md": {
@@ -4146,16 +4055,214 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.13,
-      "characterCount": 199,
+      "characterCount": 201,
       "nonWhitespaceCharacterCount": 155,
-      "newlineCount": 7,
+      "newlineCount": 9,
       "readingTimeInMinutes": 0.1471698113207547,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": [
+        "Current Age",
+        "Forth Age"
+      ],
+      "createdDate": 1772290050004,
+      "modifiedDate": 1774740192783,
+      "sizeInBytes": 247,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Current Age",
+          "Forth Age"
+        ]
+      }
+    },
+    "99 - Assets/Portraits/Theriantrophy.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1774253246134,
+      "modifiedDate": 1774253246136,
+      "sizeInBytes": 1088175,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "30 - The Census/Ancestries (Species & Races)/Beastkin/Beastkin.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 253,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8433333333333334,
+      "characterCount": 1530,
+      "nonWhitespaceCharacterCount": 1254,
+      "newlineCount": 20,
+      "readingTimeInMinutes": 0.9547169811320755,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773265535402,
+      "modifiedDate": 1774741794403,
+      "sizeInBytes": 1530,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Assets/Bogóir.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1774723523043,
+      "modifiedDate": 1774723523044,
+      "sizeInBytes": 1065837,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "30 - The Census/Ancestries (Species & Races)/Beastkin/Totems.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 9,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03,
+      "characterCount": 73,
+      "nonWhitespaceCharacterCount": 61,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.033962264150943396,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1772290050004,
-      "modifiedDate": 1772317295786,
-      "sizeInBytes": 199,
+      "createdDate": 1774168206861,
+      "modifiedDate": 1774740093431,
+      "sizeInBytes": 75,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "30 - The Census/Ancestries (Species & Races)/Beastkin/The Garuda.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 20,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 165,
+      "nonWhitespaceCharacterCount": 141,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 1,
+      "embedCount": 3,
+      "aliases": null,
+      "createdDate": 1774741761077,
+      "modifiedDate": 1774741783625,
+      "sizeInBytes": 165,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "30 - The Census/Ancestries (Species & Races)/Beastkin/Nahual.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 131,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.43666666666666665,
+      "characterCount": 831,
+      "nonWhitespaceCharacterCount": 690,
+      "newlineCount": 14,
+      "readingTimeInMinutes": 0.49433962264150944,
+      "linkCount": 5,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1774741797583,
+      "modifiedDate": 1774742472709,
+      "sizeInBytes": 831,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Wyvern Clan Nahual.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1774742471435,
+      "modifiedDate": 1774742471436,
+      "sizeInBytes": 2724506,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

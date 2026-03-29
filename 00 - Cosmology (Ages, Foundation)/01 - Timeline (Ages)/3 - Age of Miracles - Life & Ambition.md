@@ -1,3 +1,10 @@
+---
+aliases:
+  - Third Age
+  - Age of Miracles
+  - Age of War
+---
+
 # Age of Miracles
 
 ![[Age of Miracles.canvas]]

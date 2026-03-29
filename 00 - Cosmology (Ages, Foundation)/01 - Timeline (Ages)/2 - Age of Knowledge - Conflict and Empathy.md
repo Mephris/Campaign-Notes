@@ -1,3 +1,9 @@
+---
+aliases:
+  - Second Age
+  - Age of Knowledge
+---
+
 ### The Dawn of an Era
 #### Birth in Flames - Firebird
 ---
