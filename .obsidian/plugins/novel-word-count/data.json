@@ -2960,20 +2960,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 10,
+      "wordCount": 31,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 82,
-      "nonWhitespaceCharacterCount": 73,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0.03773584905660377,
-      "linkCount": 0,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 245,
+      "nonWhitespaceCharacterCount": 212,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.1169811320754717,
+      "linkCount": 2,
       "embedCount": 2,
       "aliases": null,
       "createdDate": 1774110758184,
-      "modifiedDate": 1774742554859,
-      "sizeInBytes": 82,
+      "modifiedDate": 1774742609862,
+      "sizeInBytes": 245,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.01,
@@ -4137,33 +4137,6 @@
         "newlineCount": 0
       }
     },
-    "99 - Assets/Bogóir.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1774723523043,
-      "modifiedDate": 1774723523044,
-      "sizeInBytes": 1065837,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Totems.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4245,7 +4218,7 @@
         "newlineCount": 0
       }
     },
-    "Wyvern Clan Nahual.png": {
+    "99 - Assets/Portraits/Wyvern Clan Nahual.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4263,6 +4236,33 @@
       "createdDate": 1774742471435,
       "modifiedDate": 1774742471436,
       "sizeInBytes": 2724506,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "99 - Assets/Portraits/Bogóir.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1774723523043,
+      "modifiedDate": 1774723523044,
+      "sizeInBytes": 1065837,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
