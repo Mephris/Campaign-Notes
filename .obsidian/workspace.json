@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - The Supernal/12 - Aspects/12 - Aspects.md",
+                "file": "30 - The Census/Ancestries (Species & Races)/Aelf/Aelf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12 - Aspects"
+              "title": "Aelf"
             }
           },
           {
@@ -86,12 +86,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 - The Census/Ancestries (Species & Races)/Aelf/Aelf.md",
+                "file": "30 - The Census/Ancestries (Species & Races)/Beastkin/Totems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aelf"
+              "title": "Totems"
             }
           }
         ]
@@ -253,19 +253,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d437340d0d09db18",
+  "active": "4a9ee14f4dbe8398",
   "lastOpenFiles": [
-    "30 - The Census/Ancestries (Species & Races)/Aelf/Aelf.md",
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Beastkin.md",
-    "10 - The Supernal/12 - Aspects/Aspect of Grael/Life.md",
+    "30 - The Census/Ancestries (Species & Races)/Beastkin/Totems.md",
+    "30 - The Census/Ancestries (Species & Races)/Aelf/Wildaelf/Wildaelf.md",
+    "30 - The Census/Ancestries (Species & Races)/Aelf/Tamaelf/Tamaelf.md",
+    "30 - The Census/Ancestries (Species & Races)/Aelf/Aelf.md",
+    "30 - The Census/Ancestries (Species & Races)/Aelf/Wildaelf/Minaelf.md",
+    "30 - The Census/Ancestries (Species & Races)/Aelf/Wildaelf/Móraelf.md",
+    "30 - The Census/Ancestries (Species & Races)/Aelf/Wildaelf/Salaelf.md",
+    "30 - The Census/Ancestries (Species & Races)/Aelf/Tamaelf",
+    "30 - The Census/Ancestries (Species & Races)/Aelf/Wildaelf",
+    "30 - The Census/Ancestries (Species & Races)/Primordial Ink/Dragons/Dragons.md",
     "10 - The Supernal/12 - Aspects/12 - Aspects.md",
+    "10 - The Supernal/12 - Aspects/Aspect of Grael/Life.md",
     "30 - The Census/Ancestries (Species & Races)/Beastkin/The Garuda.md",
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Untitled.md",
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Nahual (placeholder).md",
-    "30 - The Census/Ancestries (Species & Races)/Beastkin/Totems.md",
     "30 - The Census/Ancestries (Species & Races)/Beastkin/The Wyvern Clan.md",
     "30 - The Census/Ancestries (Species & Races)/Human/Dakr - Human.md",
-    "30 - The Census/Ancestries (Species & Races)/Primordial Ink/Dragons/Dragons.md",
     "30 - The Census/Ancestries (Species & Races)/Primordial Ink/Draconic/Drakes.md",
     "Drake.png",
     "30 - The Census/Ancestries (Species & Races)/Primordial Ink/Draconic/Wyrm.md",
@@ -287,13 +294,8 @@
     "99 - Assets/Portraits/Theriantrophy.png",
     "99 - Assets/Portraits/Pasted image 20260323095326.png",
     "99 - Assets/Portraits/Valka.png",
-    "10 - The Supernal/11 - Primevals/11 - Primevals.md",
-    "10 - The Supernal/10 - The Supernal.md",
-    "00 - Cosmology (Ages, Foundation)/00 - Cosmology (Ages, Foundation).md",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/4 - Age of Fate & Hope.md",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age_of_Knowledge.canvas",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Miracles.canvas",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/3 - Age of Miracles - Life & Ambition.md",
     "00 - Cosmology (Ages, Foundation)/03 - Cosmology Graph.canvas",
     "10 - The Supernal/10 - The Supernal.base",
     "00 - Cosmology (Ages, Foundation)/02 - Notes",
@@ -302,9 +304,7 @@
     "99 - Assets",
     "20 - The Atlas/Untitled",
     "10 - The Supernal/14 - The House of Empty",
-    "10 - The Supernal/13 - The Faiths",
     "00 - Cosmology & Ages/Timeline/Untitled.canvas",
-    "50 - Lexicon",
     "Untitled.canvas",
     "Fable World/Entities/Untitled.canvas"
   ]

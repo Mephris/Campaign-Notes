@@ -6,7 +6,7 @@ Later at the very end of the [[3 - Age of Miracles - Life & Ambition]] they were
 The [[Beastkin]] are more or less humanoid, a spectrum so to say, the most populous tribes are races of humanoid beasts however there are also just beasts coming from the Totems
 
 ### Animal Totems 
-The Patriarch's of clans, great beasts given the most powerful names by [[Life]] that at times even held a semblance of intelligence even before being gifted it at the actual thinking level. 
+The Matriarch's of clans, great beasts given the most powerful names by [[Life]] that at times even held a semblance of intelligence even before being gifted it at the actual thinking level. 
 
 They are large creatures spanning like trees, sometimes immortal in nature, others with other wonderous abilities. Totems are all females and do not need to reproduce in order to produce offspring. The offspring of the Animal Totem is an intelligent beast. 
 
@@ -19,3 +19,4 @@ Check out Aztec language but cut off the TL from the words, it keeps the nice vi
 ## Tribe
 - [[The Garuda]]
 - [[Nahual (placeholder)]]
+- [[The Wyvern Clan]] - [[Nahual (placeholder)]] influence. 
