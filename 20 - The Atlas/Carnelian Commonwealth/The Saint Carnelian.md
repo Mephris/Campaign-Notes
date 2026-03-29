@@ -7,6 +7,11 @@ At first, it was him who spoke and negotiated with many of the [[Aelf]], until t
 
 With this name, he burnt down and awakened again in another life, with no concrete memory of the last one but purpose. To keep his Carnelian save. 
 
+To this day, [[The Saint Carnelian]] is what keeps the [[Carnelian Commonwealth]] together, taking the role of a beacon for all [[Dakr - Human]] to know, that their place is with their Saint. 
+
+> [!note] Carnelian Faith
+> Due to the release of energy when the flesh reforms after the death of the [[The Saint Carnelian]]. Carnelians belive their beacon IS THE [[12 - Aspects|Aspect]] of [[Conflict]] rather then just a named mortal. 
+> To be fair, whenever a single mortal is able to walk against an army and emerge (after many deaths) victorious... its hard to not think them some divine entity. 
 ### The Name of Phenix 
 The name of the [[The Saint Carnelian]] is the only one mortal bearing the name given by [[Conflict]]. At least the only notable one. With their name they have gotten an everlasting flame, to upon [[Death of Body - Passing]], to be cleansed of their form in flames of [[Conflict]] and reformed in their ashes onto another life, another body, already at peak of their form. 
 
