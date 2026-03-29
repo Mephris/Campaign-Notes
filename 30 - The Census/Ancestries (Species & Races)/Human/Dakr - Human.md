@@ -1,4 +1,4 @@
-# Note
+# Notes
 Humans for a long time were considered the rats of the world, the witherblooms, among all mortal species they are the shortest living race. 
 
 Only after events of the Dragon war against [[Valka]] they gained some traction as they were the ones who actually pushed back the dragoness back to the life's cliff. 
@@ -15,8 +15,6 @@ Humans in this setting are:
 
 ### Bogóir 
 ![[Bogóir.png]]
-During the 
-
 ## Wordbuilding
 Dakr is the original name of the Speacies used by Dakr to speak about themselves, meaning "Sharp Tear"
 

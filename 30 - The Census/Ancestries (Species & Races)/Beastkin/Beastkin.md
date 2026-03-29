@@ -7,7 +7,7 @@ The [[Beastkin]] are more or less humanoid, a spectrum so to say, the most popul
 
 ![[Totems]]
 
-### Ideas
+# Notes
 - The [[Beastkin]] are in tense relationship with their [[Dakr - Human]] neighbours due to their conflicts during the [[3 - Age of Miracles - Life & Ambition|Age of War]]. 
 - The [[Beastkin]] are mostly tribes among the lush forests. 
 - There is a single city state where [[Valka]] used to rule, these days its a centerpiece of the [[Beastkin]] territory. 
