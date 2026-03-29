@@ -17,3 +17,5 @@ They are large creatures spanning like trees, sometimes immortal in nature, othe
 Check out Aztec language but cut off the TL from the words, it keeps the nice vibe but fucks off the agglutination
 
 ## Tribe
+- [[The Garuda]]
+- [[Nahual (placeholder)]]

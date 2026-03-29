@@ -13,13 +13,6 @@ Humans in this setting are:
 - If you push Carnelian patience too far, their ideological cruelty kicks in, they will give you chance to evacuate before slaughtering everything that is left, considering it a problem of the creature... could have reincarnated better then as a horse, life stock or a child. 
 - Carnelians are hard to conquer, if you take carnelian land you have to pretty much do a population cull to remove humans from the land which most wont do... most...are not Lune Magocracy. 
 
-
-
-
-
-
-
-
 ### Bogóir 
 ![[Bogóir.png]]
 During the 

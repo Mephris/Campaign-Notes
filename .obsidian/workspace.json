@@ -53,12 +53,14 @@
             "id": "d437340d0d09db18",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "99 - Assets/Portraits/Wyvern Clan Nahual.png"
+                "file": "10 - The Supernal/12 - Aspects/12 - Aspects.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Wyvern Clan Nahual"
+              "icon": "lucide-file",
+              "title": "12 - Aspects"
             }
           },
           {
@@ -84,12 +86,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 - The Census/Ancestries (Species & Races)/Primordial Ink/Dragons/Vani.md",
+                "file": "30 - The Census/Ancestries (Species & Races)/Aelf/Aelf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vani"
+              "title": "Aelf"
             }
           }
         ]
@@ -124,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "40 - spirit world",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -251,31 +253,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "177ac833f0870eb3",
+  "active": "d437340d0d09db18",
   "lastOpenFiles": [
-    "30 - The Census/Ancestries (Species & Races)/Primordial Ink/Draconic/Wyvern.md",
-    "30 - The Census/Ancestries (Species & Races)/Primordial Ink/Draconic/Wyrm.md",
-    "30 - The Census/Ancestries (Species & Races)/Primordial Ink/Draconic/Drakes.md",
-    "30 - The Census/Ancestries (Species & Races)/Beastkin/Nahual.md",
-    "99 - Assets/Portraits/Wyvern Clan Nahual.png",
-    "30 - The Census/Ancestries (Species & Races)/Beastkin/The Garuda.md",
-    "30 - The Census/Ancestries (Species & Races)/Beastkin/Beastkin.md",
-    "30 - The Census/Ancestries (Species & Races)/Primordial Ink/Dragons/Vani.md",
-    "30 - The Census/Ancestries (Species & Races)/Beastkin/Totems.md",
     "30 - The Census/Ancestries (Species & Races)/Aelf/Aelf.md",
+    "30 - The Census/Ancestries (Species & Races)/Beastkin/Beastkin.md",
+    "10 - The Supernal/12 - Aspects/Aspect of Grael/Life.md",
+    "10 - The Supernal/12 - Aspects/12 - Aspects.md",
+    "30 - The Census/Ancestries (Species & Races)/Beastkin/The Garuda.md",
+    "30 - The Census/Ancestries (Species & Races)/Beastkin/Untitled.md",
+    "30 - The Census/Ancestries (Species & Races)/Beastkin/Nahual (placeholder).md",
+    "30 - The Census/Ancestries (Species & Races)/Beastkin/Totems.md",
+    "30 - The Census/Ancestries (Species & Races)/Beastkin/The Wyvern Clan.md",
+    "30 - The Census/Ancestries (Species & Races)/Human/Dakr - Human.md",
+    "30 - The Census/Ancestries (Species & Races)/Primordial Ink/Dragons/Dragons.md",
+    "30 - The Census/Ancestries (Species & Races)/Primordial Ink/Draconic/Drakes.md",
+    "Drake.png",
+    "30 - The Census/Ancestries (Species & Races)/Primordial Ink/Draconic/Wyrm.md",
+    "Scale_Wyrm.png",
+    "Pasted image 20260329131145.png",
+    "30 - The Census/Ancestries (Species & Races)/Primordial Ink/Draconic/Wyvern.md",
+    "Pasted image 20260329130632.png",
+    "Pasted image 20260329130627.png",
+    "Wyrm.png",
+    "30 - The Census/Ancestries (Species & Races)/Primordial Ink/The Valleya.md",
+    "30 - The Census/Ancestries (Species & Races)/Star-Born/Devils(placeholder).md",
+    "50 - Lexicon/Abyssal Plague.md",
+    "50 - Lexicon/51 - Glossary.md",
+    "30 - The Census/Ancestries (Species & Races)/Primordial Ink/Dragons/Vani.md",
+    "99 - Assets/Portraits/Wyvern Clan Nahual.png",
     "30 - The Census/Ancestries (Species & Races)/Beastkin",
     "00 - Cosmology (Ages, Foundation)/02 - Notes/Research - Fable.md",
     "Totem.md",
-    "30 - The Census/Ancestries (Species & Races)/Human/Dakr - Human.md",
     "99 - Assets/Portraits/Theriantrophy.png",
     "99 - Assets/Portraits/Pasted image 20260323095326.png",
     "99 - Assets/Portraits/Valka.png",
-    "99 - Assets/Portraits/mermaid.png",
-    "99 - Assets/Portraits/leviathan_8.jpg",
-    "99 - Assets/Portraits/Jagged Loom stained with Ichor.png",
-    "99 - Assets/Portraits/images-3.jpeg",
-    "99 - Assets/Portraits/Garuda-M.png",
-    "99 - Assets/Portraits/Garuda-F2.png",
     "10 - The Supernal/11 - Primevals/11 - Primevals.md",
     "10 - The Supernal/10 - The Supernal.md",
     "00 - Cosmology (Ages, Foundation)/00 - Cosmology (Ages, Foundation).md",
@@ -283,15 +294,6 @@
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age_of_Knowledge.canvas",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Miracles.canvas",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/3 - Age of Miracles - Life & Ambition.md",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/2 - Age of Knowledge - Conflict and Empathy.md",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/1 - Age of Creation - Wildern & Beauty.md",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/0 - Beginning.md",
-    "10 - The Supernal/12 - Aspects/12 - Aspects.md",
-    "40 - The Spirit World/40 - The Spirit World.md",
-    "10 - The Supernal/14 - The House of Empty/14 - The House of Empty.md",
-    "10 - The Supernal/13 - The Faiths/13 - The Faiths.md",
-    "50 - Lexicon/Wine of Time.md",
-    "50 - Lexicon/Name.md",
     "00 - Cosmology (Ages, Foundation)/03 - Cosmology Graph.canvas",
     "10 - The Supernal/10 - The Supernal.base",
     "00 - Cosmology (Ages, Foundation)/02 - Notes",

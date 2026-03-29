@@ -12,9 +12,6 @@ They have powerful vocal cords that spread the sound waves in water, on surface 
 Race born of Leviathan Eggs, Large in size with numerous smaller tails wrapped around one main slithering almost tail, allowing for gripping and fast swimming in the deep ocean. Their upper body remains humanoid however it does not have skin per se, the whole body is covered in slimy liquid for better movement under the water. Their bodies are large reaching between 2 and 4 meters high with straightened tail, granted half of that is the tail. 
 
 As leviathans, they shouldn't have eyes, however they do, it is made by fate himself, it does not see the world as it is but rather the energy and sees the souls of people. A soulless creature if existing would not be perceived by a [[The Valleya]].
-
-> [!note] some inspiration
-> ![[images-3.jpeg]]
 ### Appearance
 Humanoid figures with snake tail appendages coming from their both legs and tailbone. 
 ### Culture
