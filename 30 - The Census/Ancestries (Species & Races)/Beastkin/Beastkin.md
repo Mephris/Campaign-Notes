@@ -5,15 +5,16 @@ Later at the very end of the [[3 - Age of Miracles - Life & Ambition]] they were
 
 The [[Beastkin]] are more or less humanoid, a spectrum so to say, the most populous tribes are races of humanoid beasts however there are also just beasts coming from the Totems
 
-### Animal Totems 
-The Matriarch's of clans, great beasts given the most powerful names by [[Life]] that at times even held a semblance of intelligence even before being gifted it at the actual thinking level. 
-
-They are large creatures spanning like trees, sometimes immortal in nature, others with other wonderous abilities. Totems are all females and do not need to reproduce in order to produce offspring. The offspring of the Animal Totem is an intelligent beast. 
+![[Totems]]
 
 ### Ideas
-- What is to connect that forest and Wilderguard with a border... it would create a nice tension.... and cause some stories to flow. or maybe even streamline 2 similar races into one... tho wilder guard was meant to be more sybirian forest biomes rather then lush big fuck off trees.... 
+- The [[Beastkin]] are in tense relationship with their [[Dakr - Human]] neighbours due to their conflicts during the [[3 - Age of Miracles - Life & Ambition|Age of War]]. 
+- The [[Beastkin]] are mostly tribes among the lush forests. 
+- There is a single city state where [[Valka]] used to rule, these days its a centerpiece of the [[Beastkin]] territory. 
+- [[Beastkin]] are on a spectrum between humanoid and beast, some may be pure beast with intelligence (direct descendants of totems), or more humanoid ([[Beastkin]] made more humanoid in [[Life]]'s rapid naming) or be just a small beastly trait upon another Ancestry
+- [[Beastkin]] and [[Dakr - Human]] are only ones that can breed with other Species. 
 
-### Wordbuilding
+### Word building
 Check out Aztec language but cut off the TL from the words, it keeps the nice vibe but fucks off the agglutination
 
 ## Tribe
