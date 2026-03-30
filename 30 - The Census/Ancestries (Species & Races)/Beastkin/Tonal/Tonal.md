@@ -8,7 +8,12 @@ The [[Tonal]] are the races of [[Beastkin]] that tamed their beastly instincts w
 They often form societies and tribes, settling down in different places and even intertwining with other [[Ancestries (Species & Races)]]. 
 
 ### Tribes
-- [[The Garuda]]
+```dataview
+LIST 
+FROM "30 - The Census/Ancestries (Species & Races)/Beastkin"
+WHERE contains(tags, "Tonal")
+AND file.name != this.file.name
+```
 
 
 
