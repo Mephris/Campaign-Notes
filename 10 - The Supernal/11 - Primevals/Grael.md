@@ -5,6 +5,7 @@ aliases:
   - substance
 tags:
   - Genesis
+  - Primeval
 ---
 "I am that which Is, all the matter, all the law" 
 ![[Ishtar.png]]

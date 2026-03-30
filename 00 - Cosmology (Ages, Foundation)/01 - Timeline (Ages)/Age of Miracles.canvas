@@ -85,7 +85,7 @@
 		{"id":"a61c928f3249ec99","type":"text","text":"Self Naming of ambition\nHe gains confidence and names himself \"I can be more then this\", giving him hunger for always more. ","x":-39,"y":-22,"width":279,"height":149,"color":"6"},
 		{"id":"c0c4ce4cb2677b5e","type":"text","text":"Ambition sets out of the spirit world trying to hide from other aspects but in the end he whispers name onto mortals which follow him, as the name he gave them at first saved them. ","x":-39,"y":-282,"width":279,"height":200,"color":"6"},
 		{"id":"3cb505aaea592dc3","type":"text","text":"Birth of Ambition\nHe sets out to find people of his own and the tools of his own, he finds the tools but people dont follow. He gets the lesson of all has a price. ","x":-39,"y":-560,"width":279,"height":198,"color":"6"},
-		{"id":"11f186800353254a","type":"file","file":"99 - Assets/Portraits/First Song.png","x":240,"y":-560,"width":128,"height":198}
+		{"id":"11f186800353254a","type":"file","file":"99 - Miscancelous/99 - Assets/First Song.png","x":240,"y":-560,"width":128,"height":198}
 	],
 	"edges":[
 		{"id":"7ee6fed8feaa42c3","fromNode":"3cb505aaea592dc3","fromSide":"bottom","toNode":"c0c4ce4cb2677b5e","toSide":"top"},

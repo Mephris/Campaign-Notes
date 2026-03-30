@@ -5,6 +5,7 @@ aliases:
   - stain
 tags:
   - Genesis
+  - Primeval
 ---
 "I am meaning, all the essence, the obscure"
 ![[Black Veil.png]]
