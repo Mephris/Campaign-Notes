@@ -2,6 +2,8 @@
 aliases:
   - Genesis
   - Beginning
+tags:
+  - Genesis
 ---
 
 Before the beginning, there was the end, and from the end the [[Tuatha|chaos]] spilled.

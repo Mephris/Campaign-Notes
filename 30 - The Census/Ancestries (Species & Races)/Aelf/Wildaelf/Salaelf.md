@@ -1,3 +1,7 @@
+---
+tags:
+  - First_Age
+---
 ### Sal - Salaelf
 > **PIE Core:** From the root ***sal-** ("salt," "grey," or "dirty").
 > Later in Scottish Gaelic it becomes Salach ("stained")

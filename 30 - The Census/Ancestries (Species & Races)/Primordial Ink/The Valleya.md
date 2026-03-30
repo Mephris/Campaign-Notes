@@ -1,3 +1,7 @@
+---
+tags:
+  - Fourth_Age
+---
 ![[Valli-Armored.png]]
 ![[Valli-A.png]]
 Nomadic tribes of [[The Valleya]] created by [[Fate]]. 

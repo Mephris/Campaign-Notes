@@ -2,6 +2,8 @@
 aliases:
   - Second Age
   - Age of Knowledge
+tags:
+  - Second_Age
 ---
 
 ### The Dawn of an Era

@@ -12,3 +12,7 @@ The ever-shifting infinite, the vast [[Nameless]] that is both undefined in plac
 
 Here does dwell [[The Koutetuji]], [[The House of Empty]], [[Faekin]] together with their courts and many of the [[12 - Aspects|Aspect]] of [[Tuatha]]. 
 
+
+
+The ever-shifting infinite, the vast [[Nameless]] that is undefined until moment of perception, the realm of endless discovery, pathfinding and change. 
+

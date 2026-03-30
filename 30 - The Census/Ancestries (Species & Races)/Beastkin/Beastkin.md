@@ -1,3 +1,9 @@
+---
+tags:
+  - Third_Age
+---
+
+
 The race created by [[Life]]
 Beast kin were beasts that during the [[3 - Age of Miracles - Life & Ambition]] slowly were given longer and longer [[Name]]'s of simple nature. The goal was to create forms that would live, spread, breed, follow instinct, just so that [[Life]] herself would be able to fight back against the [[Ambition]]
 

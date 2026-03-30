@@ -1,3 +1,0 @@
-In the ancient times, before the exodus of the forgotten city races. While Dragons dominated the northern mountain pass and the Gundar Peak. The regions of [[Lethrai]] and Fae forest were dominated by the Bogóir race. The tribe that stood as rivals to the dragons of the northern peak.
-
-While their blood diminished over the years and their numbers dwindled to almost nothing. Their heritage is kept in the few Bogóir within the borders of Carnelian.

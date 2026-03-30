@@ -1,3 +1,7 @@
+---
+tags:
+  - First_Age
+---
 ## Wild-aelf
 ---
 > > *"Wild White" & "Luminous of Wild"*

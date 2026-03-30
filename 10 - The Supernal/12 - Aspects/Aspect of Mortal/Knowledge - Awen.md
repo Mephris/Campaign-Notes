@@ -2,6 +2,8 @@
 aliases:
   - Awen
   - Aspect of Knowledge
+tags:
+  - Second_Age
 ---
 
 **"He of the unbound wisdom"**

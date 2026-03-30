@@ -1,6 +1,8 @@
 ---
 aliases:
   - Firebird
+tags:
+  - Second_Age
 ---
 ![[Conflict_Settles.png]]
 > [!NOTE] _ **Sol**, "Firebird", "Traveler", "The Reason", ""_

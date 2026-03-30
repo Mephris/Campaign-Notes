@@ -1,3 +1,7 @@
+---
+tags:
+  - Third_Age
+---
 A dwarf is not a race, in fact they belong to another species all together and the word Dwarf simply represents their size among their kin. 
 
 Dwarfs are created by [[Ambition]] during [[3 - Age of Miracles - Life & Ambition]], by naming them with simple names that pushed them towards some paths in life rather then actual blessings. 

@@ -1,0 +1,4 @@
+Among the [[Ancestries (Species & Races)]], there are those that in some way manifested additional traits upon their [[Grael]]. Passing it down to their progeny. Such mortals are not bound by species and can appear in any of the species. 
+
+- [[Dwergr]] - Lineage of people attempting to imprint their ambitions and goals onto their bloodline, resulting in short height and culturally one of the most familial and honor bound races for better or worse. 
+- [[Bogóir]] - Lineage of mainly [[Dakr - Human|Dakr]], they are a result of [[Dakr - Human|Human]]s being forced to fight against encroaching [[Valka]] during the [[3 - Age of Miracles - Life & Ambition|Age of War]]. While it is a [[Lineage]] the representatives hermetically guard the secret of their blood-[[Name]]

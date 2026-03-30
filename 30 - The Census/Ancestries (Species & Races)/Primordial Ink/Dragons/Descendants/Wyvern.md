@@ -1,3 +1,7 @@
+---
+tags:
+  - Dragon
+---
 ![[Pasted image 20260323095326.png]]
 Children of the [[Vani|Scaled Plague]], [[Vani|Thunderthroat]]. 
 

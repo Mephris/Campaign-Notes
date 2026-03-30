@@ -3,6 +3,8 @@ aliases:
   - Last Comfort
   - Amity
   - Sandman
+tags:
+  - Second_Age
 ---
 
 > [!NOTE] _ **Nightsky (check words & lang)**, "Unity", "Last Comfort", "Amity", "Sandman"_

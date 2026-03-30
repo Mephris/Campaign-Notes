@@ -1,7 +1,9 @@
 ---
 aliases:
   - Current Age
-  - Forth Age
+  - Fourth Age
+tags:
+  - Fourth_Age
 ---
 
 The age of hope and fate 

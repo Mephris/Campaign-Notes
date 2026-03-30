@@ -1,3 +1,7 @@
+---
+tags:
+  - First_Age
+---
 ### Mòr - Móraelf
 >**Scottish Gaelic** word _mòr_ (pronounced /moːr/), inherited from **Old Irish** _már_ or _mór_.
 >>**Proto-Celtic:** Derived from ***māros**.

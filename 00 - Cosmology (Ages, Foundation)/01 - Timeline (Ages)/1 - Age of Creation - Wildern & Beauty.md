@@ -2,6 +2,8 @@
 aliases:
   - First Age
   - Age of Creation
+tags:
+  - First_Age
 ---
 
 

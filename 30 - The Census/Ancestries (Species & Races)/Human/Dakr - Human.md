@@ -1,3 +1,11 @@
+---
+aliases:
+  - Human
+  - Dakr
+tags:
+  - Second_Age
+---
+
 # Notes
 Humans for a long time were considered the rats of the world, the witherblooms, among all mortal species they are the shortest living race. 
 

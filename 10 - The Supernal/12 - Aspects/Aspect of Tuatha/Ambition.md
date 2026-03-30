@@ -3,6 +3,8 @@ aliases:
   - Necessity
   - Black Star
   - Hunger
+tags:
+  - Third_Age
 ---
 
 ![[First Song.png]]

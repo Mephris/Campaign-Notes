@@ -4,6 +4,8 @@ aliases:
   - Heart Deep Beauty
   - Mother of Accidents
   - Keeper of Broken
+tags:
+  - First_Age
 ---
 
 > [!NOTE] _"Queen Danu""Heart Deep Beauty" , "Mother of Accidents", "Keeper of Broken"_

@@ -4,7 +4,6 @@ aliases:
   - Scaled Plague
   - Thunderthroat
 tags:
-  - Wyvern
   - Dragon
 ---
 	

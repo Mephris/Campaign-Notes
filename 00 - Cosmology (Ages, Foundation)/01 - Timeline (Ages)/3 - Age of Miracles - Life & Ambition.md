@@ -3,6 +3,8 @@ aliases:
   - Third Age
   - Age of Miracles
   - Age of War
+tags:
+  - Third_Age
 ---
 
 # Age of Miracles

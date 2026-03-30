@@ -1,3 +1,9 @@
+---
+tags:
+  - Fourth_Age
+---
+
+
 For a long time the [[14 - The House of Empty|House of Empty]] created monsters that entered many worlds in order to gather souls, like arks that passed the souls later and later in time. Some of those souls have been turned into [[Monster]]s. 
 
 After the Birth of [[Hope]], and redemption of the [[14 - The House of Empty|House of Empty]], those gathered souls were given form again by the Vacate's of the House of Empty. Released onto the mortal world to live once more. 

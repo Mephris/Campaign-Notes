@@ -1,5 +1,10 @@
 ---
-aliases: [Physical vessel, the body, substance]
+aliases:
+  - Physical vessel
+  - the body
+  - substance
+tags:
+  - Genesis
 ---
 "I am that which Is, all the matter, all the law" 
 ![[Ishtar.png]]

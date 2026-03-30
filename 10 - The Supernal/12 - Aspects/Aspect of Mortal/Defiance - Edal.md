@@ -8,6 +8,8 @@ aliases:
   - Cycle-breaker
   - The Betrayer
   - The Victor
+tags:
+  - First_Age
 ---
 The Lord of Silvery Ashes, the Vehement, Cycle-breaker, The Betrayer and The Victor. Ruler of the Silvery city, now crowning the night sky with it's pale glow, holds many titles, yet for all the titles it was only one he held dear to his heart, Father. 
 

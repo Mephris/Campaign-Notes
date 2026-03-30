@@ -2,6 +2,8 @@
 aliases:
   - Primeval
   - primevals
+tags:
+  - Genesis
 ---
 The Canvas and the Ink of Reality. The Foundation and all things which sprout from it. The [[11 - Primevals|primevals]] are the unthinking definitions of reality. What binds the world onto all which is perceivable and all which is experienced - good or bad. 
 

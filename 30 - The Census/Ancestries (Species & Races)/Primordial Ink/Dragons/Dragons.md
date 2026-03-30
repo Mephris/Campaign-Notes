@@ -1,3 +1,8 @@
+---
+tags:
+  - Dragon
+---
+
 Beasts that began in the flooded nights of the [[1 - Age of Creation - Wildern & Beauty]]. 
 
 Three has been counted to survive and thrive, all of them ending as [[Totems]] of [[Life]]. 

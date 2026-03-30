@@ -3,6 +3,8 @@ aliases:
   - significance
   - paint
   - stain
+tags:
+  - Genesis
 ---
 "I am meaning, all the essence, the obscure"
 ![[Black Veil.png]]
