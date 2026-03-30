@@ -1,3 +1,8 @@
+---
+tags:
+  - Tonal
+---
+
 ### The Garuda - Snake Eaters
 ---
 Coastal tribe known for their hunts of the [[The Valleya]]. An predator of 

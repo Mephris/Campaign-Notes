@@ -1,13 +1,14 @@
 ---
 tags:
   - Third_Age
+  - Species
 ---
-
-
-The race created by [[Life]]
 Beast kin were beasts that during the [[3 - Age of Miracles - Life & Ambition]] slowly were given longer and longer [[Name]]'s of simple nature. The goal was to create forms that would live, spread, breed, follow instinct, just so that [[Life]] herself would be able to fight back against the [[Ambition]]
 
-Later at the very end of the [[3 - Age of Miracles - Life & Ambition]] they were given intelligence. 
+Later at the very end of the [[3 - Age of Miracles - Life & Ambition]] they were given intelligence. Separating into two families, one which tamed their instinct with their mother aspect gift - [[Tonal]], and the ones that instead chose to give themselves onto instinct - [[Nagual]].
+
+- [[Tonal]]
+- [[Nagual]]
 
 The [[Beastkin]] are more or less humanoid, a spectrum so to say, the most populous tribes are races of humanoid beasts however there are also just beasts coming from the Totems
 
@@ -23,7 +24,3 @@ The [[Beastkin]] are more or less humanoid, a spectrum so to say, the most popul
 ### Word building
 Check out Aztec language but cut off the TL from the words, it keeps the nice vibe but fucks off the agglutination
 
-## Tribe
-- [[The Garuda]]
-- [[Nahual (placeholder)]]
-- [[The Wyvern Clan]] - [[Nahual (placeholder)]] influence. 
