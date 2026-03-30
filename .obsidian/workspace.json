@@ -53,12 +53,14 @@
             "id": "d437340d0d09db18",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Wyrm.png"
+                "file": "20 - The Atlas/Carnelian Commonwealth/The Saint Carnelian.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Wyrm"
+              "icon": "lucide-file",
+              "title": "The Saint Carnelian"
             }
           },
           {
@@ -72,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "51dfefb6be1bea4a",
@@ -251,12 +253,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "177ac833f0870eb3",
+  "active": "4a9ee14f4dbe8398",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "40 - The Spirit World/Death of Soul.md",
     "20 - The Atlas/Carnelian Commonwealth/The Saint Carnelian.md",
+    "Wyrm.png",
+    "99 - Assets/Portraits/Wyrm.png",
+    "99 - Assets/Portraits/The Saint Carnelian.png",
+    "99 - Assets/Portraits/Scale_Wyrm.png",
+    "99 - Assets/Portraits/Pasted image 20260329131145.png",
+    "99 - Assets/Portraits/Pasted image 20260329130632.png",
+    "99 - Assets/Portraits/Drake.png",
+    "20 - The Atlas/Lune Magocracy.md",
     "40 - The Spirit World/40 - The Spirit World.md",
     "30 - The Census/Ancestries (Species & Races)/Primordial Ink/Dragons/Descendants/Drakes.md",
-    "40 - The Spirit World/Death of Soul.md",
     "The Saint Carnelian.png",
     "30 - The Census/Ancestries (Species & Races)/Ancestries (Species & Races).md",
     "20 - The Atlas/Carnelian Commonwealth",
@@ -282,18 +293,9 @@
     "30 - The Census/Ancestries (Species & Races)/Aelf/Wildaelf",
     "10 - The Supernal/12 - Aspects/12 - Aspects.md",
     "10 - The Supernal/12 - Aspects/Aspect of Grael/Life.md",
-    "30 - The Census/Ancestries (Species & Races)/Beastkin/The Garuda.md",
-    "30 - The Census/Ancestries (Species & Races)/Beastkin/Untitled.md",
     "Drake.png",
     "Scale_Wyrm.png",
-    "Pasted image 20260329131145.png",
-    "Pasted image 20260329130632.png",
-    "Pasted image 20260329130627.png",
-    "Wyrm.png",
-    "99 - Assets/Portraits/Wyvern Clan Nahual.png",
     "30 - The Census/Ancestries (Species & Races)/Beastkin",
-    "99 - Assets/Portraits/Theriantrophy.png",
-    "99 - Assets/Portraits/Pasted image 20260323095326.png",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age_of_Knowledge.canvas",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Miracles.canvas",
     "00 - Cosmology (Ages, Foundation)/03 - Cosmology Graph.canvas",
