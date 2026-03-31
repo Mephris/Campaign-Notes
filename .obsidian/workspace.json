@@ -6,19 +6,23 @@
       {
         "id": "b16ea384af4a22d8",
         "type": "tabs",
+        "dimension": 53.22384428223844,
         "children": [
           {
             "id": "d437340d0d09db18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "20 - The Atlas/Lune Magocracy.md",
-                "mode": "source",
-                "source": false
+                "file": "20 - The Atlas/Vocare Kingdom.canvas",
+                "viewState": {
+                  "x": -545.8876535042896,
+                  "y": 871.4950643352732,
+                  "zoom": -0.360837929889308
+                }
               },
-              "icon": "lucide-file",
-              "title": "Lune Magocracy"
+              "icon": "lucide-layout-dashboard",
+              "title": "Vocare Kingdom"
             }
           }
         ]
@@ -26,6 +30,7 @@
       {
         "id": "2a5c0ec6735673c4",
         "type": "tabs",
+        "dimension": 46.77615571776156,
         "children": [
           {
             "id": "43b1225abff60421",
@@ -214,6 +219,8 @@
   },
   "active": "d437340d0d09db18",
   "lastOpenFiles": [
+    "20 - The Atlas/Lune Magocracy.md",
+    "20 - The Atlas/Vocare Kingdom.canvas",
     "10 - The Supernal/10 - The Supernal.md",
     "99 - Miscancelous/Artstyle.md",
     "10 - The Supernal/11 - Primevals/Grael.md",
@@ -239,8 +246,6 @@
     "30 - The Census/Ancestries (Species & Races)/Aelf/Aelf.md",
     "30 - The Census/Ancestries (Species & Races)/Ancestries (Species & Races).md",
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Nagual/Dragons/Dragons.md",
-    "30 - The Census/Ancestries (Species & Races)/Beastkin/Nagual/Dragons/Drake/Valka.md",
-    "30 - The Census/Ancestries (Species & Races)/Beastkin/Nagual/The Nahualli.md",
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Nagual",
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Nagual/Dragons/Drake",
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Nagual/Dragons/Wyvern",
@@ -251,7 +256,6 @@
     "99 - Miscancelous",
     "00 - Cosmology (Ages, Foundation)/03 - Cosmology Graph.canvas",
     "30 - The Census/Lineage",
-    "20 - The Atlas/Lune Magocracy.canvas",
     "Wyrm.png",
     "99 - Miscancelous/99 - Assets/The Saint Carnelian.png",
     "99 - Miscancelous/99 - Assets/Scale_Wyrm.png",
