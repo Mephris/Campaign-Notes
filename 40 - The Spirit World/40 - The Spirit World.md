@@ -3,6 +3,7 @@ aliases:
   - Spirit World
   - spirit world
   - afterlife
+cssclasses:
 ---
 > [!quote] "The world is set in two, the Grael, and the Tuatha, the world of body... and the world of spirit"
 ## Overview

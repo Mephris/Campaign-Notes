@@ -29,8 +29,6 @@ Three grand lessons of conflict speak of:
 ![[2 - Age of Knowledge - Conflict and Empathy#Dawn of the 7th Night]]
 
 ## Notes
-![[Firebird.png]]
-
 Firebird born of the burning corpse of the [[Wildern|She-Owl]] 
 
 The Patron of Eternal conflict who burns out in its passion within a single human lifetime just to be rekindled again. 
