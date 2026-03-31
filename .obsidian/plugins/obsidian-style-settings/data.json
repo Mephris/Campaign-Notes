@@ -13,5 +13,20 @@
   "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-block",
   "anuppuccin-theme-settings@@anp-callout-color-toggle": false,
   "anuppuccin-theme-settings@@anp-callout-fold-position": "0",
-  "anuppuccin-theme-settings@@callout-title-opacity": 0.1
+  "anuppuccin-theme-settings@@callout-title-opacity": 0.1,
+  "ITS@@ITS-Sizes": "sizing-mini",
+  "ITS@@radius-s": 4,
+  "ITS@@scrollbar-width": 7,
+  "ITS@@background-image": false,
+  "ITS@@accent-color": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@s-d": false,
+  "ITS@@select": "dnd",
+  "ITS@@t-d": false,
+  "ITS@@its-d": false,
+  "ITS@@notion": false,
+  "ITS@@mini": false,
+  "ITS@@nord": false,
+  "ITS@@drwn": false
 }

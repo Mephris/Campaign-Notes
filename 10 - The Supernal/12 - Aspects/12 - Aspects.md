@@ -8,6 +8,7 @@ aliases:
 - [[Conflict]]
 - [[Life]]
 - [[Fate]]
+
 ## Aspects of Mortal
 ![[Aspect of Mortal]]
 - [[Defiance - Edal]]

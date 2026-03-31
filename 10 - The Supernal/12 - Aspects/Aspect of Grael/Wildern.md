@@ -4,26 +4,23 @@ aliases:
   - Wildmother
 tags:
   - First_Age
+cssclasses:
 ---
----
+
 
 > _"The First Dawn was not a gentle rising, but a desperate theft. Edal did not merely kill a goddess; he set the logic of the universe on fire so that his children's silence might finally be heard."_
-
----
 ## Aspect of Wildern
 
-Her creation and sole want was wilderness at its most absolute — not free, not beautiful. **Empty and uncompromising.** She is the hunger of a perfect world for itself, the silence before the first wrong note.
+![[Wildern.png|right|190]]
+Her creation and sole want was wilderness at its most absolute — not free, not beautiful. **Empty and uncompromising.** She is the hunger of a perfect world for itself, the silence before the first wrong note. 
 
 She presided over the sunless age. Ink-flooded nights. Lightless days. Living woods grown from the ichor of the loom's discarded work. A world she spent an age trying to cleanse of [[Tuatha]]'s staining, shifting ink — and failed.
 
 **Associated symbols:** Wilderness, growth, purity, consumption & feast, the Loom.
 
-_For her full role in the first age, see [[1 - Age of Creation - Wildern & Beauty]]._
+_For her full role in the first age, see [[1 - Age of Creation - Wildern & Beauty]]._ 
 
 ---
-
-![[Wildern.png]]
-
 ## Story
 
 ### Age of Creation
