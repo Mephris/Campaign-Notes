@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"179f0dfd7f22a550","type":"text","text":"## The Kingdom of Vocar\nLong time ago created by an influence of [[14 - The House of Empty|House of Empty]] upon the recluse island during the first age. \n> Originally created by the Vacates of House of Empty in order to create a gateway for them onto the physical world when inevitably the physical world separates from the primordial ink. ","x":-618,"y":-1160,"width":840,"height":200},
+		{"id":"2977c6871f0bc6b6","type":"text","text":"The race of Primordial Ink was able to summon Great Beasts that had their root at the house of empty. \nCreating a religion around the act of summoning at later cost of their own souls. ","x":-618,"y":-800,"width":338,"height":193},
+		{"id":"2449c420d589b71b","type":"text","text":"The Kingdom island was directly under the void where later the [[14 - The House of Empty|House of Empty]] took root. ","x":-180,"y":-800,"width":402,"height":80},
+		{"id":"9a7c5f7e741c74a7","type":"text","text":"### Royal Family\nThe ones who owned the ability of naming, the closest thing to magic that was before the cusp of the 4th age. \n","x":-28,"y":-44,"width":250,"height":211},
+		{"id":"4b3830b6fbfdc244","type":"text","text":"### The Warrior\nThe clan of Sollis, known for their production of great warriors and armies, slowly created by the royal family as a way to resist the allmighty roots of the Summoner clan. ","x":-28,"y":543,"width":250,"height":257},
+		{"id":"e11bba068af0e0b4","type":"text","text":"### The Summoner\nThe Clergy of Voc, the oldest of all clans yet dwindling in influence, kept in power only due to their connection to the Old gods (House of Empty)\n\nThey were the father clan to the rebel clan which emerged around the 2nd age. Which took on the name of the Moon, the Lunae clan. ","x":-618,"y":-44,"width":250,"height":404},
+		{"id":"fd5a1f931f3e61c8","type":"text","text":"The Fall of House Lune","x":-715,"y":1440,"width":250,"height":60},
+		{"id":"3ceac8e2d5498a29","type":"text","text":"Lunae family fighting the influence of house of empty","x":-715,"y":1220,"width":250,"height":108},
+		{"id":"03ac19325e39afb7","type":"text","text":"Birth of Magic, Survivors of Lune making the first magic in order to fight the influence of Hags","x":-715,"y":1600,"width":250,"height":135},
+		{"id":"2f617b7f965ae680","type":"text","text":"Hags are the high clergy of the Voc. Almost considered gods to which the souls are given. ","x":-965,"y":-44,"width":250,"height":118},
+		{"id":"21361f1a72572870","type":"text","text":"### The Scholar\nThe Lunae family, known for their influences among the Royal family and other families, the politicians and generals. \n\nThe Lunae were known for their production of Scholars and Philosophers. Being the weakest and most sociable of all the clans. ","x":-618,"y":543,"width":250,"height":377},
+		{"id":"86f2596e4538e336","type":"text","text":"Vocare \nLatin - To Summon","x":-180,"y":-687,"width":402,"height":80},
+		{"id":"834b5d672193b4ba","type":"text","text":"The Island Kingdom used to be a peaceful metropolia, not really perfect but all the main families in it were locked, not one of them able to get the upper hand above the others. ","x":-618,"y":-500,"width":338,"height":160},
+		{"id":"715664174c3172bd","x":-680,"y":-3560,"width":555,"height":80,"type":"text","text":"# Primordial Ink of [[1 - Age of Creation - Wildern & Beauty|Age of Creation]]"},
+		{"id":"162922c52c55d93c","x":-680,"y":-3291,"width":555,"height":71,"type":"text","text":"Spirit world does not exist, House of empty makes an Island to have a place to stay, keeping themselves in the Primordial Ink."}
+	],
+	"edges":[
+		{"id":"08024a4d8e102dde","fromNode":"9a7c5f7e741c74a7","fromSide":"bottom","toNode":"4b3830b6fbfdc244","toSide":"top"},
+		{"id":"1227d852b6a3aa75","fromNode":"179f0dfd7f22a550","fromSide":"bottom","toNode":"2977c6871f0bc6b6","toSide":"top"},
+		{"id":"29167dc002813e3d","fromNode":"2977c6871f0bc6b6","fromSide":"right","toNode":"2449c420d589b71b","toSide":"left","toEnd":"none"},
+		{"id":"148c97c70ae16dd4","fromNode":"2977c6871f0bc6b6","fromSide":"right","toNode":"86f2596e4538e336","toSide":"left","toEnd":"none"},
+		{"id":"683eb5e839c4db35","fromNode":"2977c6871f0bc6b6","fromSide":"bottom","toNode":"834b5d672193b4ba","toSide":"top"},
+		{"id":"b5e97e0ba11b43ec","fromNode":"e11bba068af0e0b4","fromSide":"bottom","toNode":"21361f1a72572870","toSide":"top"},
+		{"id":"a3c645d81442d71f","fromNode":"fd5a1f931f3e61c8","fromSide":"bottom","toNode":"03ac19325e39afb7","toSide":"top"},
+		{"id":"b344003a044f5685","fromNode":"3ceac8e2d5498a29","fromSide":"bottom","toNode":"fd5a1f931f3e61c8","toSide":"top"},
+		{"id":"59df67de8932ba3c","fromNode":"2f617b7f965ae680","fromSide":"right","toNode":"e11bba068af0e0b4","toSide":"left","toEnd":"none"},
+		{"id":"ff6f1798ab8078b1","fromNode":"715664174c3172bd","fromSide":"bottom","toNode":"162922c52c55d93c","toSide":"top"}
+	]
+}

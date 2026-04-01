@@ -9,10 +9,9 @@ cssclasses:
 
 
 > _"The First Dawn was not a gentle rising, but a desperate theft. Edal did not merely kill a goddess; he set the logic of the universe on fire so that his children's silence might finally be heard."_
-## Aspect of Wildern
+## Aspect of Grael, Wildern
 
-![[Wildern.png|right|190]]
-Her creation and sole want was wilderness at its most absolute — not free, not beautiful. **Empty and uncompromising.** She is the hunger of a perfect world for itself, the silence before the first wrong note. 
+![[Placeholder - Anu.png|right|190]]Her creation and sole want was wilderness at its most absolute — not free, not beautiful. **Empty and uncompromising.** She is the hunger of a perfect world for itself, the silence before the first wrong note. 
 
 She presided over the sunless age. Ink-flooded nights. Lightless days. Living woods grown from the ichor of the loom's discarded work. A world she spent an age trying to cleanse of [[Tuatha]]'s staining, shifting ink — and failed.
 

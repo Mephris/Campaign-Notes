@@ -49,7 +49,7 @@ _For the full account, see [[1 - Age of Creation - Wildern & Beauty]]._
 
 ---
 
-### Death
+### Death of Edal
 So there he was, before him strands of his undone children. Enemies dead at his feet... He had won, again. 
 
 So did he took up the horn of his wife, and defied this fate, cleaving himself and the cradle from the world. Letting it fall upwards from the world and in doing so, ending his own life. 
@@ -64,8 +64,6 @@ Edal did something that shouldn't be done, he made something immortal, the world
 He now glows upon the night skies, sharing his name with all the world, the last world, the last chance. 
 
 Sentencing it to succeed, after all... no matter what happens, all things of the Last Cycle will always, **always rise to the challenge.** 
-
----
 
 ## Symbols & Associations
 

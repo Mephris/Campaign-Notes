@@ -1,0 +1,7 @@
+> [!quote] "Pain is temporary, life is fleeting, <br> All returns to sacred dust. <br> In death's embrace lies beauty sleeping, <br> Until the world breaks from its husk."
+
+Far from civilization's reach stand the sanctuaries of the Order of Cycle, known to some as the Order of Last Spark. These mysterious scholars believe in a grand cosmic cycle - that paradise isn't built, but rather emerges naturally from the world's eventual death and rebirth.
+
+Founded by an unnamed saint, the Order maintains isolated communities where they gather knowledge and offer healing services. Their miracles, which they dismissively call "anesthetics for worldly suffering," come with unsettling side effects. Those treated often report a profound, almost disturbing sense of peace - as if their mortal concerns have become distant echoes.
+
+Clad in their distinctive blinding masks, the Order's scholars maintain vast libraries while offering their services to any who seek them out. Yet their unnatural serenity and fatalistic philosophy make others uneasy, leading to frequent expulsion from settled lands. In response, they've built hidden sanctuaries, protecting their accumulated knowledge from raiders who mistake their detachment for weakness.
