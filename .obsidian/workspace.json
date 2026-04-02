@@ -32,9 +32,9 @@
               "state": {
                 "file": "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
                 "viewState": {
-                  "x": 121.25551423852579,
-                  "y": 2009.6523733057534,
-                  "zoom": -0.7023087612230725
+                  "x": -75.95036786774625,
+                  "y": 1986.0249857479282,
+                  "zoom": -0.3689754278897392
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -240,7 +240,7 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "436996975366e9c4",
+  "active": "1986c31f77d70ba1",
   "lastOpenFiles": [
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age_of_Knowledge.canvas",
     "40 - The Spirit World/40 - The Spirit World.md",
