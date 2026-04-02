@@ -32,9 +32,9 @@
               "state": {
                 "file": "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
                 "viewState": {
-                  "x": 651.7904670219559,
-                  "y": 2197.3778050234596,
-                  "zoom": -1.333333333333333
+                  "x": 121.25551423852579,
+                  "y": 2009.6523733057534,
+                  "zoom": -0.7023087612230725
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40 - The Spirit World/40 - The Spirit World.md",
+                "file": "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 40 - The Spirit World"
+              "title": "Backlinks for Age of Creation"
             }
           },
           {
@@ -172,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40 - The Spirit World/40 - The Spirit World.md",
+                "file": "99 - Miscancelous/99 - Assets/Valli-A.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 40 - The Spirit World"
+              "title": "Outgoing links from Valli-A"
             }
           },
           {
@@ -240,13 +240,26 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "1986c31f77d70ba1",
+  "active": "436996975366e9c4",
   "lastOpenFiles": [
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age_of_Knowledge.canvas",
+    "40 - The Spirit World/40 - The Spirit World.md",
+    "99 - Miscancelous/99 - Assets/Valli-A.png",
+    "99 - Miscancelous/99 - Assets/Pasted image 20260329130632.png",
+    "99 - Miscancelous/99 - Assets/Pasted image 20260329131145.png",
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
+    "The Valleya.md",
+    "30 - The Census/30 - The Census.md",
+    "30 - The Census/Ancestries (Species & Races)/Ancestries (Species & Races).md",
+    "30 - The Census/Ancestries (Species & Races)/Aelf/Aelf.md",
+    "30 - The Census/Ancestries (Species & Races)/Beastkin/Beastkin.md",
+    "30 - The Census/Ancestries (Species & Races)/Dakr - Human/Dakr - Human.md",
+    "30 - The Census/Ancestries (Species & Races)/Star-Born/Star-Born.md",
+    "30 - The Census/Lineage/Lineage.md",
     "10 - The Supernal/12 - Aspects/Aspect of Tuatha/Beauty.md",
     "10 - The Supernal/12 - Aspects/Aspect of Grael/Wildern.md",
     "Placeholder - Anu.png",
     "10 - The Supernal/10 - The Supernal.md",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
     "Placeholder - Danu.png",
     "20 - The Atlas/Covenant of Vocar/Vocare Kingdom.canvas",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/1 - Age of Creation - Wildern & Beauty.md",
@@ -254,7 +267,6 @@
     "00 - Cosmology (Ages, Foundation)/03 - Cosmology Graph.canvas",
     "00 - Cosmology (Ages, Foundation)/00 - Cosmology (Ages, Foundation).md",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Miracles.canvas",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age_of_Knowledge.canvas",
     "00 - Cosmology (Ages, Foundation)/02 - Notes/Cosmology.md",
     "00 - Cosmology (Ages, Foundation)/02 - Notes/Research - Fable.md",
     "10 - The Supernal/12 - Aspects/Aspect of Mortal/Defiance - Edal.md",
@@ -264,17 +276,8 @@
     "20 - The Atlas/Covenant of Vocar",
     "99 - Miscancelous/Artstyle.md",
     "10 - The Supernal/11 - Primevals/11 - Primevals.md",
-    "40 - The Spirit World/40 - The Spirit World.md",
     "10 - The Supernal/12 - Aspects/12 - Aspects.md",
     "10 - The Supernal/12 - Aspects/Aspect of Grael/Conflict.md",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/4 - Age of Fate & Hope.md",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/3 - Age of Miracles - Life & Ambition.md",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/2 - Age of Knowledge - Conflict and Empathy.md",
-    "30 - The Census/30 - The Census.md",
-    "30 - The Census/Ancestries (Species & Races)/Beastkin/Tonal/Tonal.md",
-    "30 - The Census/Ancestries (Species & Races)/Beastkin/Nagual/Nagual.md",
-    "30 - The Census/Lineage/Lineage.md",
-    "30 - The Census/Ancestries (Species & Races)/Star-Born/Star-Born.md",
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Nagual",
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Nagual/Dragons/Drake",
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Nagual/Dragons/Wyvern",
@@ -287,9 +290,6 @@
     "Wyrm.png",
     "99 - Miscancelous/99 - Assets/The Saint Carnelian.png",
     "99 - Miscancelous/99 - Assets/Scale_Wyrm.png",
-    "99 - Miscancelous/99 - Assets/Pasted image 20260329131145.png",
-    "99 - Miscancelous/99 - Assets/Pasted image 20260329130632.png",
-    "99 - Miscancelous/99 - Assets/Drake.png",
     "20 - The Atlas/Carnelian Commonwealth",
     "30 - The Census/Ancestries (Species & Races)/Primordial Ink/Dragons/Descendants/Named",
     "00 - Cosmology & Ages/Timeline/Untitled.canvas",
