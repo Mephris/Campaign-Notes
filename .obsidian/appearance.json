@@ -6,5 +6,6 @@
   "baseFontSizeAction": false,
   "enabledCssSnippets": [
     "sidenote"
-  ]
+  ],
+  "showRibbon": true
 }
