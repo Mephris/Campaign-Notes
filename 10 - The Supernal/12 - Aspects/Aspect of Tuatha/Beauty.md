@@ -38,11 +38,7 @@ At the [[1 - Age of Creation - Wildern & Beauty#End of an Era|End of Era]] she w
 
 _For the full account, see [[1 - Age of Creation - Wildern & Beauty]]._
 
-![[2 - Age of Knowledge - Conflict and Empathy#The Kind Lesson — Beauty Danu]] ^28650a
 
-![[2 - Age of Knowledge - Conflict and Empathy#The First Weaving — Wildern & Beauty]]
-
-![[2 - Age of Knowledge - Conflict and Empathy#Danu recedes to spirit world]]
 ## Symbols & Associations
 
 | Symbol                | Reason & Use                                                                                                                                                           |

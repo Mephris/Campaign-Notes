@@ -5,14 +5,17 @@ aliases:
   - Age of War
 tags:
   - Third_Age
+cssclasses:
+  - writing
+  - paper
 ---
 
 # Age of Miracles
 
 ![[Age of Miracles.canvas]]
-## The Dawn of an Era
-### Birth of Ambition
+## The Dawn
 ---
+### Birth of Ambition
 As the Spirit World was drowned in screams and laughs of [[Spirits]]. There was a young spark that walked the [[40 - The Spirit World]], an [[12 - Aspects|Aspect]] mind bound in awe of the [[Faekin]] courts and the the endless sky dress of [[Beauty|Danu]]. It had decided to make a robe of their own, to find people of its own, and set out to act. 
 
 During his travels, he found a young dreamer surrounded by silvery strands, a weaver who wove the them into beautiful fabrics, so they spoke and for [[Ambition]] the weaver wove a beautiful pale stainless robe.
@@ -38,8 +41,9 @@ One day, while gathering flowers for his brew, he met an old hunched dreamer sit
 He found himself stripped of all but the spark he began as. No more did he have the beauty of his robe, no more the protection of his dagger, no more the comfort of his home. In all the gifts gone he looked at himself, the insignificant spark, and sat in the dark for a long time, trying to think why he had forgotten.
 
 _Naught is free in this World._
+
 ### Birth of Life
----
+
 There, among the cold mountains, did rise a small figure — hooves upon the snow, golden curls flowing among the protruding horns. She looked high upon the flying [[Conflict]] and the Moon of Twilight, [[Knowledge - Awen|Awen]].
 
 With an innocent smile of sharp teeth she jumped and ran after the sun's mantle, down the mountain, her hooves striking the ashen lands as her attention shifted to the smell of ichor where [[Conflict]]'s rays shone past her. Before her rose the sprouts of [[Dakr - Human|Dakr]] — [[Conflict]]'s crystalline tears taking root in the ash.
@@ -55,10 +59,11 @@ Then she felt it. The smell of the robe and the dagger, carried on the wind furt
 *One among them* saw the approaching [[Life]] and rose a long dull blade against her — and the pack rose with the man. But [[Life]] did not slow her approach, for she had the thickest hide of a robe and the sharpest fang of a dagger. 
 
 *She came to take the den she wanted.*
-## Flourishing of an Age
 
-### Life — The Den
+## The Zenith
 ---
+### Life — The Den
+
 *She would take the dreaming den for herself*
 
 So would the protect, as if the pack of mortals were the trespassers, quickly ending each one with her sharp fang, leaving those that ran away with a lazy growl before turning to the shadowy den, placing it onto her shadow before entering, *laying down in peaceful comfort.* 
@@ -70,8 +75,9 @@ Suddenly, a thunder made her jump up, looking at the pouring rain and the lighti
 Lazily she stretched, before moving up and with a yawn moved out of her den, she had hunted, rested, protected and healed, so she came out of her den and stared down the hill at the edge of the cliff, seeing the many [[Aelf]] in the forests of the old [[12 - Aspects|Aspect]], the Wildmother. In the once ashen lands were fertile fields of [[Dakr - Human|Dakr]], and she relaxed with the wind hitting her face.
 
 Then she smelled it, a soft wind carried smell, a dreaming smell, her eyes tracing as a figure approached her, the one who marked with smell the robe, the dagger and den, and she moved up curiously, for he was bearing the confusing mortal ingenuity. 
+
 ### Ambition — The Dream
----
+
 _Naught is free in this world._
 
 The afraid, the stolen, robbed — he waited in the darkness, and like a mockery he looked up and saw the dark skies glitter in color. The Duet of [[Beauty|Danu]] covering the world with soft [[Empathy]]. He saw spirits all around relax, others still hunting blind to the new beauty of that world. As he sat on the warm dark grass, staggered, he couldn't manage even making a house for himself while others made worlds.
@@ -102,11 +108,11 @@ There on the hill he stood, looking back at the ambition left in his wake, at ea
 > "_I can be more than this._"
 
 He turned back around and kept walking. But differently now. Head up. Eyes forward — All-Seeing to all but himself. 
+
 #### The Black Star
----
 The mortal cities were now walked by an [[12 - Aspects|Aspect]], like a beacon for the abused by the plague of gold. So did in the grimy alleys of starving and broken, did a cloaked figure pass with a whisper, and the beggars followed him like sailors to the black star.
 
-> [!tip] Black Star 
+> [!info] Black Star 
 > _Among all the shifting skies, only one you can always depend on, only one shines for us to navigate the dangerous seas, the wild forests. A star of deep dark blue hue shining softly at the side of the skies._
 
 [[Ambition]] walked onwards, the beggars growing into merchants and thieves. So he walked deeper to districts of red where gold bought body. Following mortal rules he threw forth a pocketful of coin, buying himself flesh with a Name like a curse engraved upon it.
@@ -128,11 +134,12 @@ Then did he walk up to [[Life]], his hand gripping to her collar — his robe. W
 **What is the meaning of you?**
 
 > [!NOTE] The Saint of Ambition 
-> Among all the Named of this age, one was bound tighter than any other. _"They whose actions and forms are bound only by Ambition"_ — a [[Name#^cd06fc|Mark upon stain]] so deep it forced shifts and possessions upon the bearer. 
+>Among all the Named of this age, one was bound tighter than any other. _"They whose actions and forms are bound only by Ambition"_ — a [[Name#^cd06fc|Mark upon stain]] so deep it forced shifts and possessions upon the bearer. 
 > 
-> Early in their life the Saint had moments of defiance, stopping the shifts through sheer will. Ambition alone among the Aspects treated Names as merely clothes — something to be worn or set aside. The Saint tested that philosophy more than any mortal before or since. 
-## Collision — The Endless Return
----
+>Early in their life the Saint had moments of defiance, stopping the shifts through sheer will. Ambition alone among the Aspects treated Names as merely clothes — something to be worn or set aside. The Saint tested that philosophy more than any mortal before or since. 
+
+### Collision — The Endless Return
+
 Sudden, she felt the grip on her robe — her eyes snapping to [[Ambition]], and quickly she heard him, the wrathful question like a growl of a beast. Her hand moved without thought, her fang; her dagger finding his abdomen. The strike connected, and just as it did she felt the world tilt as his hand shoved her back — falling, down the sharp rocks, her head smashed against stone as she plunged into the water below.
 
 *She rose* — pained, she pulled herself up through the pure waters with the abyss yawning below her, she climbed the cliff face hand over hand. The moment she broke surface she opened her mouth with no thought other then memory of her den, the comfortable home. She spoke in [[Name]]s, and the plants changed — _Many. Growing. Spreading. Lush._ Life grew in number and spread across the land, but it was not enough. She found her hands too weak, slipping. *She fell.*
@@ -160,6 +167,7 @@ And the beast roared in protective fury.
 
 > [!NOTE] Totems
 > Among the creatures [[Life]] named across her countless climbs, some took hold differently than others. These were the **[[Totems]]** — female beasts named with something larger than _Live_ or _Spread_, vast and strong, blessed sometimes with immortality. Unlike the beasts that named and scattered, Totems could procreate without a mate, becoming mothers of whole lineages of beastkin. Where the lesser named beasts were more animal than kin, the Totems were something between — too large and too old to be mortal, too bound to flesh to be Aspect. Many beastkin tribes of later ages trace their lineage back not to [[Life]] herself, but to the Totem that bore them.
+
 #### The Dragon
 The world shook with a roar, as the great beasts moved from the forests — among them a pale scaled form, blessed with the many names [[Life]] had given across the time of her climbs.
 
@@ -200,9 +208,10 @@ The [[12 - Aspects|Aspect]]-fell, and [[Valka]] rose its head high, for even an 
 Among all this, did [[Valka]] come to one that gave it the Name of a soul, [[Ambition]], and show its kingdom to him; in that moment did the [[12 - Aspects|Aspect]] see a beast bearing a name like his, innocent in its hungry cruelty. As he seen it he realized what they, [[Ambition]] and [[Life]], had done, they made reflection of themselves onto this creature, a being to reflect him and her. 
 
 He stood on the cliff, watching the waters silently, his eyes turned from the dragon that was like a black mirror to his existence, and she did not come, [[Life]] itself has no meaning. So he turned, and walked the only way he knew now — Forward. 
-## Twilight of an Age 
+
+## The Twilight
+***
 ### Ambition — The Plague
----
 [[Ambition]] walked the world, before him he saw mortals — lone and following, their lives cut short. So did the cities fall to whispers, the towns to hush and villages to silence.
 
 *Among the whispers*, [[Ambition]] with empty pained heart walked onward, his lips not able to bear forth even one name. 
@@ -238,7 +247,6 @@ So, he pulled the robbed child of his memory out and onto its head placed a crow
 *It was high time for him to end, this [[3 - Age of Miracles - Life & Ambition|Age of Miracles]].*
 
 ### Life - Black Sea
----
 *[[Life]] fell — the robe and manor pulling her deep. But this time she did not fight. She welcomed the dark waters of the [[Black Ocean]], giving up all — and the dark waters welcomed her in a whirlwind.*
 
 *Cut by the jagged rocks*, she fell, blacking out at times, drowning deeper into the abyss, and above her she saw many animals of the sea, beasts she not bestowed with a name yet in vast sizes. Ruling their waters like [[Sea King]]s. 
@@ -254,6 +262,7 @@ There, she fell to the bottom of all seas, the [[Abyss]].
 
 > [!tldr] Life - Black Sea
 > _Life sinks to the floor of the Black Sea. Sees the young leviathans devouring each other endlessly. Sees herself in it._
+
 #### [[The Valleya#Valli - The Coiled Mother|Valli - The Coiled Mother]]
 
 Down she drowned, onto the very heart of the inky [[Abyss]]. The well of rock coiling downwards into the dark realm, the iridescent ink all around her. What reason was there to fight?
@@ -274,7 +283,7 @@ Among all the [[Sea King]]s, among all the [[Wyrm]]s, she saw before her one —
 
 Her lips parted and iridescent colors like serpents shot to fill the void, as she drank from the [[Wine of Time]]. In one word she spoke a name — onto herself, onto the Coiled Mother, and onto all of her creation.
 
-> [!quote] *"Think"*
+> *"Think"*
 
 So her creation thought for the first time. They gathered around the totems of their nature and formed great tribes. So did [[Valka]] the Immortal gather around her a great court akin to the one decorating the night skies. So did [[Valli]] look to her children, her heart drowned in hope.
 
@@ -282,10 +291,11 @@ As [[Life]] and [[Valli]] looked upwards to the passing [[Conflict|Sun]] and [[D
 
 So was [[Fate]] born, appearing in a tired smile beside them. She saw all patterns and all roads ahead, her voice passing through the ink onto [[Life]].
 
-> [!quote] *"I can see what awaits us. I know what awaits, and it is beautiful."*
-## Aftermath
+> [!quote|author] [[Fate]] 
+> *"I can see what awaits us. I know what awaits, and it is beautiful."*
+
 ### Ambition & Wildern — The White Scaled Totem
----
+
 *It was high time for him to end, this [[3 - Age of Miracles - Life & Ambition|Age of Miracles]].*
 
 Yet as [[Ambition]] walked away from the village of [[Miracle]] & [[Hope]], as his mind's rampaging storm slowly settled, his thoughts went to a scaled totem sharing a [[Name]] he himself had only just begun to resist.
@@ -310,7 +320,7 @@ And she was joined — by the laugh of the woman before him, the barky face curl
 > _"Such fine material for the loom."_
 
 #### The Dragon & The Loom
----
+
 The stone of the world shook in terror, as the Tyrant — too long timid — raised her hand, and once more called upon her ornament.
 
 Before [[Ambition]] stood arrogant [[Valka]], and the clouds gathered. From the ocean floor, dragged up through fathoms of black water, rose the long-fallen Loom of [[Wildern|Anu]]. It closed its jagged fist around the dragon as if she were an unruly strand of wool, gripping tight as the ichor flowed down the pale stone once more — drinking deep of it. But [[Valka]] fought. She clawed against the pale stone, biting until her teeth broke, her blood flowing in rivers, driven by the name she bore — _Immortal_.
@@ -328,8 +338,8 @@ And the shattered strands flew like small eggs upon the wind, northward. [[Ambit
 > _"Let thy shattered soul find respite from thy name... my mirror... you will always have a friend."_ — [[Ambition]]
 
 And so did [[Valka]]'s strands fall north like snow. In time they formed a clan bearing her name, made of her [[Grael]] and [[Tuatha]] both. The white-scaled totem — never again betrayed, never again unloved.
-### Life Recedes
 
+### Life Recedes
 > [!quote] *"We are fated for meaning to come, always"*
 
 The warm sand enveloped her feet as behind her lay the long journey — the cold waters of [[Fate]]. Yet in a small smile she took a deep breath, letting the stifling ink flow out like mist.
@@ -339,9 +349,8 @@ The land breathed again. The plague receded, as the mist passed softly over the 
 In a soft smile she passed forward onto the lands she had created in their fight. By the [[Beastkin]] gathering around their totems, the site of the fell [[Valka]] now slowly growing in laughter and happiness among the red ruin. She moved onto the cliff from which she had once fallen and looked down to the jagged rocks resting at its side — sitting down, watching the vast ocean.
 
 Not alone.
-***
-### The Last Quiet
 
+### The Last Quiet
 > [!quote] *"I hope, that you are right... and if not we shall be here, always"*
 
 [[Wildern|Anu]] was long gone, yet his eyes could not stop looking north to the flowing strands. In a soft smile he sat down by the cliff and watched the great loom lay down once more into jagged rock, and there he relaxed — the hunger gnawing at his soul.

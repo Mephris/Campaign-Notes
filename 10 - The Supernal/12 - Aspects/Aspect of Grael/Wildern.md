@@ -60,11 +60,6 @@ _For the full account, see [[1 - Age of Creation - Wildern & Beauty]]._
 
 ### Age of Knowledge
 
-![[2 - Age of Knowledge - Conflict and Empathy#The Harsh Lesson — Wildern Anu]] ^3fa88f
-
-![[2 - Age of Knowledge - Conflict and Empathy#The First Weaving — Wildern & Beauty]]
-
----
 
 ## Symbols & Associations
 
