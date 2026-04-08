@@ -3,7 +3,7 @@ All the Species of Athra are creations of [[12 - Aspects|Aspect]] in one way or 
 | Child Race                 | Age Born                                        | Aspect       | Primeval   |
 | :------------------------- | ----------------------------------------------- | ------------ | ---------- |
 | [[Aelf]]                   | [[1 - Age of Creation - Wildern & Beauty]]      | [[Wildern]]  | [[Grael]]  |
-| [[Faekin]]                 | [[1 - Age of Creation - Wildern & Beauty]]      | [[Beauty]]   | [[Tuatha]] |
+| [[Fae Cinn]]                 | [[1 - Age of Creation - Wildern & Beauty]]      | [[Beauty]]   | [[Tuatha]] |
 | [[Dakr - Human]]           | [[2 - Age of Knowledge - Conflict and Empathy]] | [[Conflict]] | [[Grael]]  |
 | [[Spirits]]                | [[2 - Age of Knowledge - Conflict and Empathy]] | [[Empathy]]  | [[Tuatha]] |
 | [[Beastkin]] & [[Dragons]] | [[3 - Age of Miracles - Life & Ambition]]       | [[Life]]     | [[Grael]]  |

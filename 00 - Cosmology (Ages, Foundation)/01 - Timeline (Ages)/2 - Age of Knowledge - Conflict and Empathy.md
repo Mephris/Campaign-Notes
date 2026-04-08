@@ -51,7 +51,7 @@ Taking on the mantle closest to remorse she could feel — duty — she took on 
 In her new form, she came to meet with her long nemesis. To create another thing together. This time, knowingly.
 
 ##### The Kind Lesson of [[Beauty|Danu]]
-For all the crying [[Faekin]] do about [[Beauty]]'s burned appearance, in reality all left of the burn is a slight mark upon her cheek, engraved with a self-given [[Name]].
+For all the crying [[Fae Cinn]] do about [[Beauty]]'s burned appearance, in reality all left of the burn is a slight mark upon her cheek, engraved with a self-given [[Name]].
 
 > [!Quote] _"She whose face reflects the heart"_
 
@@ -146,17 +146,17 @@ Then like a thunderous call, the night black shifted. Sea of serpent-like strand
 
 [[Wildern|Anu]] looked up in fear, for another began making her mistake. Seeing this [[Beauty|Danu]] extended her wings forth, playfully throwing a droplet of ink upon [[Wildern]] body — gifting back what she once abandoned, before flying upwards towards the forth called [[11 - Primevals|Primeval]]'s might. 
 
-Her [[Faekin]] followed, and so did Danu and her folk land for the first time upon the [[40 - The Spirit World]], thousand of small lights upon the night skies. Looking for the [[12 - Aspects|Aspect]] of [[Empathy]]. She traveled [[Nameless]] [[40 - The Spirit World]], and it fought them on every step. 
+Her [[Fae Cinn]] followed, and so did Danu and her folk land for the first time upon the [[40 - The Spirit World]], thousand of small lights upon the night skies. Looking for the [[12 - Aspects|Aspect]] of [[Empathy]]. She traveled [[Nameless]] [[40 - The Spirit World]], and it fought them on every step. 
 
 
 **For countless years they roamed, in darkness.** 
-Among the spirit's, [[Faekin]] joined the cry, for they were cold. So did [[Beauty|Danu]] turn to them and sing forth strands of luminous strands and told them to weave themselves clothes. 
+Among the spirit's, [[Fae Cinn]] joined the cry, for they were cold. So did [[Beauty|Danu]] turn to them and sing forth strands of luminous strands and told them to weave themselves clothes. 
 
 **And for countless decades they roamed, in darkness.** 
-Among the spirit's, [[Faekin]] joined the cry, for they seen spirits take on numerous forms, hence [[Beauty|Danu]] taught them a song to change their forms. 
+Among the spirit's, [[Fae Cinn]] joined the cry, for they seen spirits take on numerous forms, hence [[Beauty|Danu]] taught them a song to change their forms. 
 
 **And for countless centuries they roamed, in darkness.** 
-Among the spirit's [[Faekin]] joined the cry, for they were still living, they wished to dream like the living do. So did [[Beauty|Danu]] raise her hand and throw those [[Faekin]] that wished to dream down back to the mortal world. 
+Among the spirit's [[Fae Cinn]] joined the cry, for they were still living, they wished to dream like the living do. So did [[Beauty|Danu]] raise her hand and throw those [[Fae Cinn]] that wished to dream down back to the mortal world. 
 
 
 Finally, upon the reformed world she found him, and she had no one she wanted to see so she seen his true form. So came forth to him with pity, collapsed on his knees, he seen his [[Spirits]] hunt and protect, eat and befriend mortal souls. [[Empathy]] cried to the spirits, to save the dreamers, but he was stopped, with a tight grip of [[Beauty|Danu]]. 
@@ -165,7 +165,7 @@ Finally, upon the reformed world she found him, and she had no one she wanted to
 
 So did [[Empathy]] look back. 
 
-Countless flickering lights of colorful spirits moved before him — a [[Faekin]] court roaming the dark. And at the heart of it, horizon-black locks upon the ground waving like grass on wind, bound to a feminine figure clad in dress of night sky; he so wished to make. Looking into her glassy black eyes he saw a reflection unbound by blessing of shifting form, his true form, and he shivered in horror stepping back. Seeing one who he wanted to help the most now, himself, for naught were his gifts but self-poisoning without a firm border of where to stop. 
+Countless flickering lights of colorful spirits moved before him — a [[Fae Cinn]] court roaming the dark. And at the heart of it, horizon-black locks upon the ground waving like grass on wind, bound to a feminine figure clad in dress of night sky; he so wished to make. Looking into her glassy black eyes he saw a reflection unbound by blessing of shifting form, his true form, and he shivered in horror stepping back. Seeing one who he wanted to help the most now, himself, for naught were his gifts but self-poisoning without a firm border of where to stop. 
 
 In this, [[Ambition]] was born, and [[Empathy]] learned his heart is a blade of a healer, so easily used to cut himself, so hard to use to save another.
 
@@ -175,7 +175,7 @@ Time passed as [[Empathy]] and [[Beauty|Danu]] looked to the [[40 - The Spirit W
 A Duet, of two [[12 - Aspects|Aspect]]'s, the echoing song ringing across the world and painting it in iridescent lights and magnificent shapes. As the night sky, lighten up with countless little lights all across the now bright [[40 - The Spirit World|Spirit World]]. 
 
 > [!info] "The First Song"
->_Among the [[Faekin]], the night [[Beauty|Danu]] sang beauty into the [[40 - The Spirit World|Spirit World]] is remembered as the First Song — not only for what it gave the world, but for what it gave them. A home. A court to belong to. For the first time, [[Beauty|Danu]] gathered her scattered folk and gave them structure to hold onto._
+>_Among the [[Fae Cinn]], the night [[Beauty|Danu]] sang beauty into the [[40 - The Spirit World|Spirit World]] is remembered as the First Song — not only for what it gave the world, but for what it gave them. A home. A court to belong to. For the first time, [[Beauty|Danu]] gathered her scattered folk and gave them structure to hold onto._
 >
 >_They remember it as the night they finally had somewhere to be._
 

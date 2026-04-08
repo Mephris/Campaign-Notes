@@ -47,5 +47,5 @@ Following the burning of [[Wildern]] and the Ichory Loom, the [[Beauty]] underwe
 
 >[!cite] "She whose face reflects the heart"
 
-This name was taken to ensure that she would never again be able to look at her own reflection while her actions make others suffer. Preventing her from blissful ignorance and future mistakes of shallowness. This name is a reason why [[Faekin]] of today call her the "Heart Deep Beauty"
+This name was taken to ensure that she would never again be able to look at her own reflection while her actions make others suffer. Preventing her from blissful ignorance and future mistakes of shallowness. This name is a reason why [[Fae Cinn]] of today call her the "Heart Deep Beauty"
 

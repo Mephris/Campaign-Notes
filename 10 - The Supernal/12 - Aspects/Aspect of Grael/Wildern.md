@@ -38,7 +38,7 @@ Seeing her creation defiled, she traveled to where the ink flooded the least —
 > 
 > Born of root and discarded ink — the waste of [[Wildern]]'s loom work — they were accidents she refused to claim. She made beasts to unmake them. Animals that devoured their plant-flesh, gnawed their black bark, drank their sap. A quiet erasure of something she could not define as hers.
 > 
-> [[Beauty]] claimed them instead, folding them into her [[Faekin]].
+> [[Beauty]] claimed them instead, folding them into her [[Fae Cinn]].
 > 
 > The beasts made to destroy them did not disappear — they became something else. Turned by [[Beauty]]'s hand into the first [[Aelf#Mìn - Minaelf|Min]] & [[Aelf#Mòr - Móraelf|Mór]].
 > 

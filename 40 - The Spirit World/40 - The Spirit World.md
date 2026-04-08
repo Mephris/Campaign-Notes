@@ -9,5 +9,5 @@ cssclasses:
 
 ## Overview
 
-The ever-shifting infinite, the vast [[Nameless]] that is undefined until moment of perception, the realm of endless discovery, pathfinding and change. The world mostly inhabited by [[Spirits]], [[Faekin]] and [[Devils(placeholder)]].
+The ever-shifting infinite, the vast [[Nameless]] that is undefined until moment of perception, the realm of endless discovery, pathfinding and change. The world mostly inhabited by [[Spirits]], [[Fae Cinn]] and [[Devils(placeholder)]].
 

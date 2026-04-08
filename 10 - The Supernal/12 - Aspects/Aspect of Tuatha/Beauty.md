@@ -16,7 +16,7 @@ tags:
 ## Aspect of Tuatha, Beauty
 ![[Placeholder - Danu.png|right|190]] **Colorful stain** - the nuance of the world, the refusal to stay in line, overflow of color and emotions, freedom. Her [[Name#The Naming of an Aspect Moral Reflection of an Aspect|Self-naming]] granted her a tap into a domain of her successor [[Empathy]]; allowing her to create her art for more then just herself. 
 
-She presided over the [[1 - Age of Creation - Wildern & Beauty|Age of Creation]], while [[Wildern]] made her [[Aelf]]she worked her paint stained fingers making fickle [[Faekin]]; engraving her with her own personality and character, much to her dismay in the following Era's.  
+She presided over the [[1 - Age of Creation - Wildern & Beauty|Age of Creation]], while [[Wildern]] made her [[Aelf]]she worked her paint stained fingers making fickle [[Fae Cinn]]; engraving her with her own personality and character, much to her dismay in the following Era's.  
 
 However for all her shortcomings, she shown the world that sometimes... an accident might have a happy ending; if you try enough. 
 
@@ -43,8 +43,8 @@ _For the full account, see [[1 - Age of Creation - Wildern & Beauty]]._
 
 | Symbol                | Reason & Use                                                                                                                                                           |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Faekin]] wing       | Created by her, its often used to symbolize freedom and among the courts all wings are used as her sigil, as [[Faekin]] all speak of wearing the sigil of their Queen. |
-| 3 Wings of [[Faekin]] | Used as symbol by Broken, 3 to symbolize [[Grael]] and Fae Wing for [[Beauty]]. Used by recovering addicts, traumatized people, etc. as marked blessing of Queen Danu  |
+| [[Fae Cinn]] wing       | Created by her, its often used to symbolize freedom and among the courts all wings are used as her sigil, as [[Fae Cinn]] all speak of wearing the sigil of their Queen. |
+| 3 Wings of [[Fae Cinn]] | Used as symbol by Broken, 3 to symbolize [[Grael]] and Fae Wing for [[Beauty]]. Used by recovering addicts, traumatized people, etc. as marked blessing of Queen Danu  |
 | Scarification         | Burning pattern upon flesh is associated with planting a unforgettable lesson upon body.                                                                               |
 
 

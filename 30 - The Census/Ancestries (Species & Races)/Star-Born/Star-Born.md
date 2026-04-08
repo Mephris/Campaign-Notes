@@ -3,5 +3,5 @@ tags:
   - Species
 ---
 
-- [[Faekin]]
+- [[Fae Cinn]]
 - [[Devils(placeholder)]]
