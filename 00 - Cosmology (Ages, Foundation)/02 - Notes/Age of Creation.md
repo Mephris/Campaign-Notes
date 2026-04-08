@@ -66,6 +66,9 @@ Her mind flew like brush on black canvas, of things she couldn't see, of how the
 
 So did her dreams follow their creator, and among all the song and hum did [[Beauty]] walk, and her fickle accident of creation followed. 
 
+## The Zenith
+---
+### The Cradle
 
 
 
