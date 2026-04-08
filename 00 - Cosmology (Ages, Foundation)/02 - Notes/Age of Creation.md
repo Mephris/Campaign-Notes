@@ -60,9 +60,11 @@ The ichor flew down the jagged rocks, down onto the fertile earth and hungry roo
 Thus among the redness of beastly blood, did they take form, the beasts of no flesh, but bark, the little looms of root and fruit, the marvelous accident of [[Wildern]], the first [[Aelf]]. 
 
 #### [[Beauty]]'s Dreams
-Among the thick inks of the [[Tuatha]]'s echoing song, did she walk, in the thick of the ever-flowing nightly ink. [[Beauty]], passing the world and night followed her everywhere, so, she parted her lips in soft humm, and the sound reflected to her the shapes of the world around her. So as she walked the night in soft song, did she dream. 
+Among the thick inks of the [[Tuatha]]'s echoing song, did she walk, in the thick of the ever-flowing nightly ink. [[Beauty]], passing the world and night followed her everywhere, so, she parted her lips in soft hum, and the sound reflected to her the shapes of the world around her. So as she walked the night in soft song, did she dream. 
 
 Her mind flew like brush on black canvas, of things she couldn't see, of how the trees looked, the fruits hiding beneath the bark, the growls deep in the night and the thumming groans of the large beasts. She walked onwards, and in soft hum the dreams followed, a spoken accident, fickle and shifting like its creator. The first [[Fae Cinn]].  
+
+So did her dreams follow their creator, and among all the song and hum did [[Beauty]] walk, and her fickle accident of creation followed. 
 
 
 
