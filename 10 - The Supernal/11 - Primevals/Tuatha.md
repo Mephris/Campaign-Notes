@@ -21,7 +21,7 @@ If [[Grael]] is the parchment, [[Tuatha]] is the story written upon it. Without 
 
 **II. Symbolism**
 - **Veil & Darkness** It is the obscure, that which hides and keeps knowledge from all eyes, the unknown. 
-- **The Nightsky** It is the dark skies which hold all the secrets and awe of the universe, the scars that show from under the blue dress(Daysky) of [[Grael]]
+- **The Night-sky** It is the dark skies which hold all the secrets and awe of the universe, the scars that show from under the blue dress(Day-sky) of [[Grael]]
 - **Black** Sacred color, which holds all other colors and from which all colors are derived. It was a black ink which [[Tuatha]] drank to sing the First Song. 
 
 **III. Ethical Stance**
