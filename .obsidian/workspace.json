@@ -29,16 +29,13 @@
             "id": "b74261da70de42b7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
-                "viewState": {
-                  "x": 376.4145057486681,
-                  "y": 2246.734898888165,
-                  "zoom": -0.8615796061582657
-                }
+                "file": "00 - Cosmology (Ages, Foundation)/02 - Notes/Age of Creation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-file",
               "title": "Age of Creation"
             }
           },
@@ -262,13 +259,15 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "1986c31f77d70ba1",
+  "active": "b74261da70de42b7",
   "lastOpenFiles": [
-    "00 - Cosmology (Ages, Foundation)/02 - Notes/Age of Creation.md",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
-    "30 - The Census/Ancestries (Species & Races)/Star-Born/Fae Cinn.md",
-    "10 - The Supernal/11 - Primevals/Tuatha.md",
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Miracles.canvas",
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age_of_Knowledge.canvas",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/1 - Age of Creation - Wildern & Beauty.md",
+    "10 - The Supernal/11 - Primevals/Tuatha.md",
+    "00 - Cosmology (Ages, Foundation)/02 - Notes/Age of Creation.md",
+    "30 - The Census/Ancestries (Species & Races)/Star-Born/Fae Cinn.md",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/2 - Age of Knowledge - Conflict and Empathy.md",
     "10 - The Supernal/12 - Aspects/Aspect of Tuatha/Beauty.md",
     "10 - The Supernal/12 - Aspects/Aspect of Grael/Wildern.md",
@@ -280,7 +279,6 @@
     "The Valleya.md",
     "00 - Cosmology (Ages, Foundation)/00 - Cosmology (Ages, Foundation).md",
     "20 - The Atlas/Covenant of Vocar/Vocare Kingdom.canvas",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age_of_Knowledge.canvas",
     "10 - The Supernal/10 - The Supernal.md",
     "30 - The Census/Ancestries (Species & Races)/Star-Born/Devils(placeholder).md",
     "40 - The Spirit World/40 - The Spirit World.md",
@@ -296,7 +294,6 @@
     "30 - The Census/Lineage/Lineage.md",
     "Placeholder - Anu.png",
     "00 - Cosmology (Ages, Foundation)/03 - Cosmology Graph.canvas",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Miracles.canvas",
     "00 - Cosmology (Ages, Foundation)/02 - Notes/Cosmology.md",
     "00 - Cosmology (Ages, Foundation)/02 - Notes/Research - Fable.md",
     "10 - The Supernal/12 - Aspects/Aspect of Mortal/Defiance - Edal.md",
