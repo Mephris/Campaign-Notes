@@ -71,6 +71,7 @@ So did her dreams follow their creator, and among all the song and hum did [[Bea
 ### The Cradle
 
 (Edal story and life in the cradle of the world )
+(Yeah just moved, tommorow we can write something)
 
 
 
