@@ -65,33 +65,30 @@ The ichor flew down the jagged rocks, down onto the fertile earth and hungry roo
 Thus among the redness of beastly blood, did they take form, the beasts of no flesh, but bark, the little looms of root and fruit, the marvelous accident of [[Wildern]], the first [[Aelf]]. 
 
 #### [[Beauty]]'s Dreams
-Among the thick inks of the [[Tuatha]]'s echoing song, in the thick of the ever-flowing nightly ink. [[Beauty]] walked, passing the world as the night followed. Her parted her lips in soft hum, and the sound reflected to her canvas of world. In her blindess, and potential, did she dream.  
+Among the thick inks of the [[Tuatha]]'s echoing song, in the thick of the ever-flowing nightly ink. [[Beauty]] walked, passing the world as the night followed. Her parted her lips in soft hum, and the sound reflected to her canvas of world. In her blindness, and potential, did she dream.  
 
-Her mind flew like brush on black canvas, of things she couldn't see, of how the trees looked, the fruits hiding beneath the bark, the growls deep in the night and the thumming groans of the large beasts. She walked onwards, and in soft hum the dreams followed, a spoken accident, fickle and shifting like its creator. The first [[Fae Cinn]].  
+Her mind flew like brush on black canvas, of things she couldn't see, of how the trees looked, the fruits hiding beneath the bark, the growls deep in the night and the thrumming groans of the large beasts. She walked onwards, and in soft hum the dreams followed, a spoken accident, fickle and shifting like its creator. The first [[Fae Cinn]].  
 
 So did the dreams follow their creator, and among all the song and hum did [[Beauty]] walk, and her fickle accident of creation followed. 
 %% (Corrected the chapters before Zenith, lets hope its not confusing, GLME) %%
 
 ## The Zenith
 ---
-
+### 
 
 
 %%
 ### The Emergence of Kin - Wildern & Beauty
 
-- **The Primeval Argument:** Within a chaotic "hell" flooded with ink and torn by the "jagged loom," the first beings engage in a foundational conflict or debate.
-    
+- **The Primeval Argument:** Within a chaotic "hell" flooded with ink and torn by the "jagged loom," the first beings engage in a foundational conflict or debate.   
 - **The First Shaping:** The **Aspect of Grael** forms the **Aelf** (Elves)
-    
-- **The Birth of the Fae Cinn:** Emerging from the "beautiful ink and song," the Fae Cinn are manifested.
 
 
 ### Chapter - Beauty
 
 ### The Birth of the Hero - Beauty & Edal
 
-- **The Genesis of Edal:** A child of both Elven and Dwarven blood is born, possessing the "most pure of Grael pale flesh."
+- **The Genesis of Edal:** A child of Elven is born, possessing the "most pure of Grael pale flesh."
     
 - **The Secret Naming:** While the **Wildern** is looking away, **Beauty** intervenes. She writes the name **Edal** upon the child’s heart using "silvery ink," imbuing him with the abstract power of a hero: the ability to always rise and meet any challenge.
     
@@ -114,4 +111,11 @@ So did the dreams follow their creator, and among all the song and hum did [[Bea
 - **The Mourning of the Hero:** Edal finds the body of his love (the beast-turned-mortal) and laments his loss.
     
 - **The Declaration of War:** In a final act of grief and defiance, Edal arms himself with a horn from his love's true form and a torch from the silvery fireplace. He vows to burn the loom and the "cruel world" itself.
+
+
+
+
+
+
+Angel engine
 %%
