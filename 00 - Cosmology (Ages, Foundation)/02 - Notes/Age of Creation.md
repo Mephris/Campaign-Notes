@@ -78,6 +78,8 @@ So did the dreams follow their creator, and among all the song and hum did [[Bea
 
 
 %%
+- Taking it easy with writing, well... with anything at all... but started to look at linkedIN. Thats a progress. 
+
 ### The Emergence of Kin - Wildern & Beauty
 
 - **The Primeval Argument:** Within a chaotic "hell" flooded with ink and torn by the "jagged loom," the first beings engage in a foundational conflict or debate.   
