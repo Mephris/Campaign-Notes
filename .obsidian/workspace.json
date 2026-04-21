@@ -125,9 +125,9 @@
               "state": {
                 "file": "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
                 "viewState": {
-                  "x": -141.74720362485368,
-                  "y": 2850.218709333971,
-                  "zoom": -1.2740361496495611
+                  "x": 344.3687614311401,
+                  "y": 3289.6483463535037,
+                  "zoom": -0.9407028163162279
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -306,10 +306,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "b74261da70de42b7",
+  "active": "165f8e52b9bdcd2a",
   "lastOpenFiles": [
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
     "00 - Cosmology (Ages, Foundation)/02 - Notes/Age of Creation.md",
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/1 - Age of Creation - Wildern & Beauty.md",
     "10 - The Supernal/11 - Primevals/Grael.md",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/0 - Beginning.md",
