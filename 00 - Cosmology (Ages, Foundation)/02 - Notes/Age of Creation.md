@@ -23,8 +23,6 @@ Thus, did all began, The [[Tuatha|Dark of Depth]], and the [[Grael|Light of Fo
 
 [[Tuatha]], the soma of paint, scattered the colors onto the strands of first forms. Painting her a dress of shifting azure, flowing mists. 
 
-From their union, life was formed. 
-
 ## The Dawn
 ---
 

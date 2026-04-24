@@ -4,109 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "9b9c5f86facd89b4",
+        "id": "8ae74b95a9c50029",
         "type": "tabs",
         "children": [
           {
-            "id": "36dabfe64a7d9478",
+            "id": "bf3131516ae02eca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Athra/Bestiary/Beozyf.md",
-                "mode": "source",
-                "source": false
+                "file": "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
+                "viewState": {
+                  "x": 428.04440411914334,
+                  "y": 1933.0294507903857,
+                  "zoom": -0.7784729234696599
+                }
               },
-              "icon": "lucide-file",
-              "title": "Beozyf"
+              "icon": "lucide-layout-dashboard",
+              "title": "Age of Creation"
             }
           },
           {
-            "id": "b59454b79da58eda",
+            "id": "e0aa86541f520f26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Pracownia/Szkliwa.md",
-                "mode": "source",
-                "source": false
+                "file": "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
+                "viewState": {
+                  "x": 118.68497739835283,
+                  "y": 1472.9250058198033,
+                  "zoom": -2.7548213209792594
+                }
               },
-              "icon": "lucide-file",
-              "title": "Szkliwa"
-            }
-          },
-          {
-            "id": "d62c71bac3e65184",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kuchnia/Alkohole/Dwójniak.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dwójniak"
-            }
-          },
-          {
-            "id": "d5d06e78ca2a649a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fable World/Fable.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fable"
-            }
-          },
-          {
-            "id": "254b485bd511ba03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fable World/Fable.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fable"
-            }
-          },
-          {
-            "id": "dbd2abe5bdb7bb2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "cd1d9ddf54655d1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 - The Atlas/Lune Magocracy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lune Magocracy"
+              "icon": "lucide-layout-dashboard",
+              "title": "Age of Creation"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,8 +175,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "cd1d9ddf54655d1e",
+  "active": "bf3131516ae02eca",
   "lastOpenFiles": [
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Miracles.canvas",
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
+    "00 - Cosmology (Ages, Foundation)/02 - Notes/Notes for Age of Creation.md",
+    "00 - Cosmology (Ages, Foundation)/02 - Notes/Age of Creation.md",
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/4 - Age of Fate & Hope.md",
+    "00 - Cosmology (Ages, Foundation)/03 - Cosmology Graph.canvas",
+    "00 - Cosmology (Ages, Foundation)/00 - Cosmology (Ages, Foundation).md",
     "10 - The Supernal/12 - Aspects/12 - Aspects.md",
     "20 - The Atlas/Lune Magocracy.md",
     "10 - The Supernal/10 - The Supernal.md",
@@ -265,11 +207,6 @@
     "Fable World/Timeline/Beginning.md",
     "Fable World/Entities/Primevals/Tuatha.md",
     "Fable World/Entities/Primevals/Grael.md",
-    "Fable World/Entities/Primevals/Primeval.md",
-    "Fable World/Grael.md",
-    "Athra/Cosmology/Cycle/Entities/Ishtar.md",
-    "Athra/Cosmology/Cycle/Entities/Lua.md",
-    "Fable World/Research - Fable.md",
     "Fable World",
     "Birb",
     "Kuchnia/Alkohole",
