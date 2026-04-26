@@ -24,7 +24,7 @@ So did she burn into their fabric the one thing she knew — motion. Not a reaso
 ### Birth in Horror - Empathy
 As the fiery tongue of the Tam-wood torch licked the cheek of [[Beauty]], [[Tuatha]] — the endless undefined — stirred, responding to the emotion of the end. The great empathy she felt toward the mortal creatures. So from the burnt ink cloud formed a creature, that landed before [[Beauty]].
 
-His form was shifting, undefined as [[Tuatha]] herself. His image dictated not by his shape, but by the face the onlooker most yearned to find. Obscure, he lowered himself onto a knee to touch upon [[Beauty]]'s cheek — standing before her, the consolation. Her successor.
+His form was shifting, undefined as [[Tuatha]] itself. His image dictated not by his shape, but by the face the onlooker most yearned to find. Obscure, he lowered himself onto a knee to touch upon [[Beauty]]'s cheek — standing before her, the consolation. Her successor.
 
 As [[Beauty]] slowly came to herself, the screams and pain came, and so he rose from the broken jagged loom. Staring upon the hell and pain of all creation all at once. He saw that the dying souls simply dispersed onto nothing.
 

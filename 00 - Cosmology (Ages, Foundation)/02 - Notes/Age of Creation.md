@@ -29,9 +29,9 @@ Thus, did all began, The [[Tuatha|Dark of Depth]], and the [[Grael|Light of Fo
 ### Hatching of Wildern
 Upon the join of first light, first form, when the vein took root, the winds quietly gathered the bark strands, weaving coat of feathers upon a great form, so was born the she-owl, first [[12 - Aspects|Aspect]] of [[Grael]] — [[Wildern]].
 
-And in her birth she pulled the strands scattered across the winds. Her claws woven the stone-breaking roots, which grinded the barren stone of [[Grael]] onto fertile lands. 
+In her talons did she pull the strands upon the winds. Her claws woven the stone-breaking roots, in their growth they broke the barren stone of [[Grael]] onto fertile lands. In the horizon of pale barks and colorless flowers 
 
-Yet forest stayed desolate, empty, unattended by anything but the grinding roots. So she plucked a soft piece of her cloak,  from its strands she wove progeny, the keepers, beasts of tasks meant for naught but care. 
+In the slow growth of roots, she seen her pale court of world, empty, unattended. So she plucked a soft piece of her cloak, from its strands she wove progeny, the keepers, beasts of tasks meant for naught but care. 
 
 So did the pale world exist, but it didn't live. Among all the movement, set in certainty there was no possibility, so did the flesh and root canvas catch the blind eye of [[Tuatha|paint]]. 
 
@@ -76,7 +76,7 @@ So did the dreams follow their creator, and among all the song and hum did [[Bea
 
 
 %%
-- Taking it easy with writing, well... with anything at all... but started to look at linkedIN. Thats a progress. 
+
 
 ### The Emergence of Kin - Wildern & Beauty
 

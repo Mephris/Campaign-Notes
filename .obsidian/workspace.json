@@ -121,17 +121,14 @@
             "id": "165f8e52b9bdcd2a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
-                "viewState": {
-                  "x": 344.3687614311401,
-                  "y": 3289.6483463535037,
-                  "zoom": -0.9407028163162279
-                }
+                "file": "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/2 - Age of Knowledge - Conflict and Empathy.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Age of Creation"
+              "icon": "lucide-file",
+              "title": "2 - Age of Knowledge - Conflict and Empathy"
             }
           }
         ],
@@ -306,11 +303,13 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "165f8e52b9bdcd2a",
+  "active": "b74261da70de42b7",
   "lastOpenFiles": [
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/2 - Age of Knowledge - Conflict and Empathy.md",
     "00 - Cosmology (Ages, Foundation)/02 - Notes/Age of Creation.md",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/1 - Age of Creation - Wildern & Beauty.md",
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
+    "00 - Cosmology (Ages, Foundation)/02 - Notes/Notes for Age of Creation.md",
     "10 - The Supernal/11 - Primevals/Grael.md",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/0 - Beginning.md",
     "10 - The Supernal/11 - Primevals/Tuatha.md",
@@ -323,7 +322,6 @@
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Nagual/Nagual.md",
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Nagual/The Nahualli.md",
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Nagual/The Wyvern Clan.md",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/2 - Age of Knowledge - Conflict and Empathy.md",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/3 - Age of Miracles - Life & Ambition.md",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Miracles.canvas",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age_of_Knowledge.canvas",
@@ -342,7 +340,6 @@
     "99 - Miscancelous/99 - Assets/Pasted image 20260329131145.png",
     "30 - The Census/30 - The Census.md",
     "30 - The Census/Ancestries (Species & Races)/Ancestries (Species & Races).md",
-    "30 - The Census/Ancestries (Species & Races)/Aelf/Aelf.md",
     "Placeholder - Anu.png",
     "20 - The Atlas/Covenant of Vocar",
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Nagual",
