@@ -43,13 +43,16 @@
             "id": "4245b725576b0a40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "00 - Cosmology (Ages, Foundation)/02 - Notes/Age of Creation.md",
-                "mode": "source",
-                "source": false
+                "file": "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
+                "viewState": {
+                  "x": 40,
+                  "y": 1400,
+                  "zoom": -2.7336065820762916
+                }
               },
-              "icon": "lucide-file",
+              "icon": "lucide-layout-dashboard",
               "title": "Age of Creation"
             }
           }
@@ -291,8 +294,11 @@
   },
   "active": "4245b725576b0a40",
   "lastOpenFiles": [
-    "30 - The Census/Ancestries (Species & Races)/Aelf/Wildaelf/Minaelf.md",
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age_of_Knowledge.canvas",
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Miracles.canvas",
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
     "00 - Cosmology (Ages, Foundation)/02 - Notes/Age of Creation.md",
+    "30 - The Census/Ancestries (Species & Races)/Aelf/Wildaelf/Minaelf.md",
     "00 - Cosmology (Ages, Foundation)/00 - Cosmology (Ages, Foundation).md",
     "10 - The Supernal/11 - Primevals/Grael.md",
     "10 - The Supernal/11 - Primevals/Tuatha.md",
@@ -304,7 +310,6 @@
     "The Valleya.md",
     "99 - Miscancelous/Placeholder - Anu.png",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/2 - Age of Knowledge - Conflict and Empathy.md",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
     "10 - The Supernal/10 - The Supernal.md",
     "00 - Cosmology (Ages, Foundation)/02 - Notes/Cosmology.md",
     "00 - Cosmology (Ages, Foundation)/03 - Cosmology Graph.canvas",
@@ -313,8 +318,6 @@
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Nagual/The Nahualli.md",
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Nagual/The Wyvern Clan.md",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/3 - Age of Miracles - Life & Ambition.md",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Miracles.canvas",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age_of_Knowledge.canvas",
     "30 - The Census/Ancestries (Species & Races)/Star-Born/Fae Cinn.md",
     "10 - The Supernal/12 - Aspects/Aspect of Tuatha/Beauty.md",
     "10 - The Supernal/12 - Aspects/Aspect of Grael/Wildern.md",
@@ -327,7 +330,6 @@
     "99 - Miscancelous/99 - Assets/Pasted image 20260329130632.png",
     "99 - Miscancelous/99 - Assets/Pasted image 20260329131145.png",
     "30 - The Census/30 - The Census.md",
-    "30 - The Census/Ancestries (Species & Races)/Ancestries (Species & Races).md",
     "20 - The Atlas/Covenant of Vocar",
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Nagual",
     "30 - The Census/Ancestries (Species & Races)/Beastkin/Nagual/Dragons/Drake",
