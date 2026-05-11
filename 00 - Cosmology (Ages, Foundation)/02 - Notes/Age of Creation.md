@@ -80,59 +80,12 @@ In the Night march, they passed across the edge of the cradle.
 
 The smell of burned oaken flesh, sweetness of broken fruits, painted that night. Among all was sound that was not taught by [[Tuatha]], a scream. Piercing the night she heard them—the broken, the abandoned.
 
-in her march she laid upon their charred flesh a mistly veil, letting them dream in her embrace, as she snatched away the abandoned mistake of [[Wildern]], taking it as hers. For no [[Tamaelf]] would be born if not for the floods of nights.
+Softly she laid upon their charred flesh a mistly veil, letting them dream in her embrace, as she snatched away the abandoned mistake of [[Wildern]], taking it as hers. For no [[Tamaelf]] would be born if not for the floods of nights.
 
-> [!note] The [[Fae Cinn]] Wings
+> [!note] The  [[Fae Cinn]] Wings
 > Even in the 4th Era, the [[Fae Cinn]] wings are a symbol of the broken, mourners, at times even tattoos for the recovering addicts asking for the strenght from the Mother of Accidents. 
 > Some even say whenever they face relapse, the tattoo weights down, as if holding back a hand from extending towards the item. 
  
 
 ## The Zenith
 ---
-### 
-
-
-%%
-
-
-### The Emergence of Kin - Wildern & Beauty
-
-- **The Primeval Argument:** Within a chaotic "hell" flooded with ink and torn by the "jagged loom," the first beings engage in a foundational conflict or debate.   
-- **The First Shaping:** The **Aspect of Grael** forms the **Aelf** (Elves)
-
-
-### Chapter - Beauty
-
-### The Birth of the Hero - Beauty & Edal
-
-- **The Genesis of Edal:** A child of Elven is born, possessing the "most pure of Grael pale flesh."
-    
-- **The Secret Naming:** While the **Wildern** is looking away, **Beauty** intervenes. She writes the name **Edal** upon the child’s heart using "silvery ink," imbuing him with the abstract power of a hero: the ability to always rise and meet any challenge.
-    
-- **The Ascension of the Hero:** Edal grows in power and renown, accumulating titles and stories as a central figure of the **Age of Creation**.
-    
-
-### The Wildern’s Deception - Wildern & Edal
-
-- **The Creation of the Bait:** Jealous or offended by the "mark" on his creation, the Wildern (associated with the Woodsman of the Black Ent Forests) transforms a "blind beast of night" into a mortal form.
-    
-- **The Seduction:** Edal, despite his strength and purity, is deceived by this creature.
-    
-- **The Birth of the Heirs:** From this union, a son and a daughter are born, representing the pinnacle of "pure forms."
-    
-
-### The Vow of Ruin - Wildern & Edal
-
-- **The Theft of Children:** The Wildern seizes Edal’s children to "strip out of them perfectly pure strands," presumably for further acts of creation or Weaver-craft.
-    
-- **The Mourning of the Hero:** Edal finds the body of his love (the beast-turned-mortal) and laments his loss.
-    
-- **The Declaration of War:** In a final act of grief and defiance, Edal arms himself with a horn from his love's true form and a torch from the silvery fireplace. He vows to burn the loom and the "cruel world" itself.
-
-
-
-
-
-
-Angel engine
-%%
