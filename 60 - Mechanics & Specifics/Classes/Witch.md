@@ -1,8 +1,6 @@
 # The Witch
-
 ### Base Class — Game Design Document
-
-_Draft 2 | Base class only | No subclasses_
+*Draft 2 | Base class only | No subclasses*
 
 ---
 
@@ -14,7 +12,10 @@ Witches are the result of Hags being separated by the House of Empty during the 
 
 Every mechanical feature of the Witch class exists to express this relationship. The player is always playing both bodies simultaneously — not a caster with a companion, but a sundered being trying to coordinate its two halves.
 
-> **The Aesthetic Is Yours** A plague doctor with an axe and a crow Stygian is the same class as a barefoot herbalist with a staff and a toad Stygian. A noble fencer with a rapier and a raven is the same class as a swamp witch with a scythe and a black cat. The bond is the class. The look is the player's.
+> **The Aesthetic Is Yours**
+> A plague doctor with an axe and a crow Stygian is the same class as a barefoot herbalist with a staff and a toad Stygian.
+> A noble fencer with a rapier and a raven is the same class as a swamp witch with a scythe and a black cat.
+> The bond is the class. The look is the player's.
 
 ---
 
@@ -26,11 +27,11 @@ Investigator and utility specialist first. Combat is the crescendo, not the whol
 
 ### The Three Pillars
 
-|Pillar|Expression|
+| Pillar | Expression |
 |---|---|
-|Protection|Two bodies create natural pressure. The Stygian disrupts attackers. The bond enables escape.|
-|Offensive|The Witch strikes with a weapon. The Stygian follows with magic. One resource escalates both.|
-|Identity|Bond Movement — the ability to pull, snap, or swap positions freely, once per turn.|
+| Protection | Two bodies create natural pressure. The Stygian disrupts attackers. The bond enables escape. |
+| Offensive | The Witch strikes with a weapon. The Stygian follows with magic. One resource escalates both. |
+| Identity | Bond Movement — the ability to pull, snap, or swap positions freely, once per turn. |
 
 ### Role in the Party
 
@@ -43,20 +44,20 @@ Investigator and utility specialist first. Combat is the crescendo, not the whol
 
 ## Core Statistics
 
-|||
+| | |
 |---|---|
-|Hit Dice|1d10 per Witch level|
-|HP at 1st Level|10 + Constitution modifier|
-|HP at Higher Levels|1d10 (or 6) + Constitution modifier per level|
-|Armor Proficiency|Light armor, medium armor|
-|Weapon Proficiency|All simple and martial weapons|
-|Saving Throws|Constitution, Intelligence|
-|Skills|Choose two: Arcana, Deception, Investigation, Insight, Nature, Perception, Persuasion, or Religion|
-|Spellcasting|Half-caster (Intelligence)|
-|Spell Save DC|8 + proficiency bonus + Intelligence modifier|
-|Spell Attack Modifier|Proficiency bonus + Intelligence modifier|
+| Hit Dice | 1d10 per Witch level |
+| HP at 1st Level | 10 + Constitution modifier |
+| HP at Higher Levels | 1d10 (or 6) + Constitution modifier per level |
+| Armor Proficiency | Light armor, medium armor |
+| Weapon Proficiency | All simple and martial weapons |
+| Saving Throws | Constitution, Intelligence |
+| Skills | Choose two: Arcana, Deception, Investigation, Insight, Nature, Perception, Persuasion, or Religion |
+| Spellcasting | Half-caster (Intelligence) |
+| Spell Save DC | 8 + proficiency bonus + Intelligence modifier |
+| Spell Attack Modifier | Proficiency bonus + Intelligence modifier |
 
-> _Note on d10 HP: The Witch is physically durable because neither body can truly die while the other lives. The shared HP pool means the player is never managing two HP bars — there is one pool, one threshold, one death. The d10 reflects the toughness of a sundered being that refuses to fall._
+> *Note on d10 HP: The Witch is physically durable because neither body can truly die while the other lives. The shared HP pool means the player is never managing two HP bars — there is one pool, one threshold, one death. The d10 reflects the toughness of a sundered being that refuses to fall.*
 
 ---
 
@@ -68,16 +69,16 @@ Stygians take the form of classic omen animals: black cats, ravens, toads, hares
 
 ### Stygian Base Statistics
 
-|||
+| | |
 |---|---|
-|Size|Tiny or Small (player's choice at character creation)|
-|Speed|30 ft. (modified by Evolution choices)|
-|Armor Class|Equal to the Witch's spell save DC|
-|Hit Points|Shared pool with the Witch|
-|Saving Throws|Uses the Witch's saving throw values|
-|Condition Immunities|Frightened, Charmed|
-|Languages|Understands all languages the Witch knows|
-|Initiative|Rolls its own initiative, acts on its own turn|
+| Size | Tiny or Small (player's choice at character creation) |
+| Speed | 30 ft. (modified by Evolution choices) |
+| Armor Class | Equal to the Witch's spell save DC |
+| Hit Points | Shared pool with the Witch |
+| Saving Throws | Uses the Witch's saving throw values |
+| Condition Immunities | Frightened, Charmed |
+| Languages | Understands all languages the Witch knows |
+| Initiative | Rolls its own initiative, acts on its own turn |
 
 ### Shared HP Pool
 
@@ -97,7 +98,7 @@ If both bodies are caught in the same area of effect, each rolls their own savin
 
 The Stygian, when not actively using magic, appears to be a perfectly ordinary animal. Without magical detection or direct knowledge of Witches, there is no way to distinguish it from a mundane creature. This is not an ability — it is simply what Stygians are.
 
-_A black cat sits on a windowsill. A raven watches from the rafters. You cannot prove it is anything more than that. That is the point._
+*A black cat sits on a windowsill. A raven watches from the rafters. You cannot prove it is anything more than that. That is the point.*
 
 This creates a natural investigative advantage: the Stygian can be present in spaces where a magical companion would be confiscated, questioned, or noticed. It provides a second set of senses in rooms the Witch cannot enter.
 
@@ -106,8 +107,7 @@ This creates a natural investigative advantage: the Stygian can be present in sp
 ## The Three Pillars — Detailed Design
 
 ### Pillar 1 — Identity: Bond Movement
-
-_Class Feature, 1st level_
+*Class Feature, 1st level*
 
 Once per turn, as part of your movement, choose one of the following:
 
@@ -131,8 +131,7 @@ The Stygian's AC is its own and is not shared. Bond Movement costs no action, no
 ---
 
 ### Pillar 2 — Protection: Sympathetic Interference
-
-_Class Feature, 1st level_
+*Class Feature, 1st level*
 
 When a creature that you can see hits you with an attack, you can use your Stygian's reaction to impose disadvantage on that attack roll, potentially causing it to miss.
 
@@ -150,8 +149,7 @@ Using this feature costs the Stygian its reaction for the round.
 ---
 
 ### Pillar 3 — Offensive: Stygian Strike
-
-_Class Feature, 1st level_
+*Class Feature, 1st level*
 
 When you make a weapon attack, your Stygian can use its bonus action or its reaction to make a magical attack against the same target or a different target within 30 feet of the Stygian.
 
@@ -159,18 +157,19 @@ Stygian Strike is a ranged spell attack using your Intelligence modifier. On a h
 
 The Stygian does not need to be adjacent to the target. Range is the only limit.
 
-**Bonus action** — costs the Stygian's bonus action on its own turn, used on the Witch's turn. **Reaction** — costs the Stygian's reaction, competing with Sympathetic Interference.
+**Bonus action** — costs the Stygian's bonus action on its own turn, used on the Witch's turn.
+**Reaction** — costs the Stygian's reaction, competing with Sympathetic Interference.
 
 The player chooses which option fits the situation.
 
 #### Stygian Strike Damage Scaling
 
-|Level|Damage|
+| Level | Damage |
 |---|---|
-|1st — 4th|1d6|
-|5th — 10th|2d6|
-|11th — 16th|3d6|
-|17th — 20th|4d6|
+| 1st — 4th | 1d6 |
+| 5th — 10th | 2d6 |
+| 11th — 16th | 3d6 |
+| 17th — 20th | 4d6 |
 
 #### Design Notes
 
@@ -183,8 +182,7 @@ The player chooses which option fits the situation.
 ---
 
 ## The Resource — Resonance
-
-_Class Feature, 2nd level_
+*Class Feature, 2nd level*
 
 Resonance represents the depth of synchrony between the Witch and Stygian in a given moment — the degree to which the two halves of a sundered being are acting as one. It is not mana. It is not willpower. It is the pulse of the bond under pressure.
 
@@ -210,40 +208,40 @@ Resonance can be spent in three ways:
 
 ## Level Progression — Base Features
 
-|Level|Feature|
+| Level | Feature |
 |---|---|
-|1|Stygian, Bond Movement, Sympathetic Interference, Stygian Strike, Spellcasting|
-|2|Resonance, Ritualist|
-|3|Stygian Evolution (1st choice), Witch Coven|
-|4|Ability Score Improvement|
-|5|Stygian Strike 2d6, Extra Attack|
-|6|Witch Coven Feature|
-|7|Stygian Evolution (2nd choice)|
-|8|Ability Score Improvement|
-|9|—|
-|10|Stygian Evolution (3rd choice)|
-|11|Untangled Thoughts (separate bonus actions), Stygian Strike 3d6|
-|12|Ability Score Improvement|
-|13|—|
-|14|Witch Coven Feature|
-|15|Stygian Evolution (4th choice)|
-|16|Ability Score Improvement|
-|17|Stygian Strike 4d6|
-|18|Stygian Evolution Capstone|
-|19|Ability Score Improvement|
-|20|Archstygian (separate actions) + Hag Capstone|
+| 1 | Stygian, Bond Movement, Sympathetic Interference, Stygian Strike, Spellcasting |
+| 2 | Resonance, Ritualist |
+| 3 | Stygian Evolution (1st choice), Witch Coven |
+| 4 | Ability Score Improvement |
+| 5 | Stygian Strike 2d6, Extra Attack |
+| 6 | Witch Coven Feature |
+| 7 | Stygian Evolution (2nd choice) |
+| 8 | Ability Score Improvement |
+| 9 | — |
+| 10 | Stygian Evolution (3rd choice) |
+| 11 | Untangled Thoughts (separate bonus actions), Stygian Strike 3d6 |
+| 12 | Ability Score Improvement |
+| 13 | — |
+| 14 | Witch Coven Feature |
+| 15 | Stygian Evolution (4th choice) |
+| 16 | Ability Score Improvement |
+| 17 | Stygian Strike 4d6 |
+| 18 | Stygian Evolution Capstone |
+| 19 | Ability Score Improvement |
+| 20 | Archstygian (separate actions) + Hag Capstone |
 
 ### Action Economy Progression
 
 The Witch's defining progression is the gradual separation of action economy between the two bodies — representing the two halves becoming more coordinated, not less separate.
 
-|Level|State|
+| Level | State |
 |---|---|
-|1–10|Shared economy — one action, one bonus action, one reaction, one concentration. Split between turns.|
-|11|Untangled Thoughts — each body gains its own bonus action. Must be used on that body's turn.|
-|20|Archstygian — each body gains its own action. Must be used on that body's turn.|
+| 1–10 | Shared economy — one action, one bonus action, one reaction, one concentration. Split between turns. |
+| 11 | Untangled Thoughts — each body gains its own bonus action. Must be used on that body's turn. |
+| 20 | Archstygian — each body gains its own action. Must be used on that body's turn. |
 
-_The progression is not "gaining power over a familiar." It is remembering what it felt like to be one thing — without crossing the line into becoming a Hag._
+*The progression is not "gaining power over a familiar." It is remembering what it felt like to be one thing — without crossing the line into becoming a Hag.*
 
 ---
 
@@ -252,15 +250,13 @@ _The progression is not "gaining power over a familiar." It is remembering what 
 At 20th level the Witch has achieved something no other class achieves: a capstone that is genuinely dangerous to use. The Hag form is powerful, horrifying, and potentially fatal — not to enemies, but to the Witch themselves.
 
 ### Become the Hag
-
-_Capstone Feature, 20th level_
+*Capstone Feature, 20th level*
 
 As an action, you open your mouth. Your Stygian opens its mouth. The bond collapses inward.
 
 You merge into a Hag. Your Stygian's body ceases to exist as a separate entity — it is back where it belongs.
 
 **In Hag form you gain:**
-
 - Your hit point maximum doubles for the duration.
 - You gain a +4 bonus to Strength, Constitution, and Intelligence.
 - You gain a 30-foot fear aura (Wisdom save DC equals your spell save DC or become frightened for 1 minute).
@@ -278,8 +274,7 @@ If you kill a creature while in Hag form, the DC of the Wisdom save immediately 
 ---
 
 ### The Homunculus
-
-_Capstone Consequence_
+*Capstone Consequence*
 
 A Hag that gorges — killing and consuming enough flesh and souls — eventually returns to the House of Empty. The flesh it consumed is left behind.
 
@@ -305,14 +300,14 @@ Homunculi are the reason Hags are hunted the moment one appears. They are the re
 
 The Witch is a half-caster. Magic comes from the Stygian — from the dark soul's ancient memory of what Hags knew and what the House of Empty taught them. The Witch deciphers those whispers and gives them form.
 
-|||
+| | |
 |---|---|
-|Spellcasting Ability|Intelligence|
-|Spell Slots|Half-caster progression (as Paladin / Ranger)|
-|Cantrips Known|2 at 1st, +1 at 4th, +1 at 10th (4 total)|
-|Spells Known|Scale with level per spell table|
-|Spellcasting Focus|Cannot use a standard arcane focus — spells require material components or a component pouch, since the magic source is unknown and irregular|
-|Ritual Casting|Available via Ritualist feature at 2nd level|
+| Spellcasting Ability | Intelligence |
+| Spell Slots | Half-caster progression (as Paladin / Ranger) |
+| Cantrips Known | 2 at 1st, +1 at 4th, +1 at 10th (4 total) |
+| Spells Known | Scale with level per spell table |
+| Spellcasting Focus | Cannot use a standard arcane focus — spells require material components or a component pouch, since the magic source is unknown and irregular |
+| Ritual Casting | Available via Ritualist feature at 2nd level |
 
 ### Ritualist — 2nd Level
 
@@ -331,4 +326,4 @@ Your Stygian begins to recall rites it knew in life. You gain access to the Occu
 
 ---
 
-_The Witch — Base Class GDD | Draft 2_
+*The Witch — Base Class GDD | Draft 2*
