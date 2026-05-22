@@ -6,7 +6,6 @@
       {
         "id": "b16ea384af4a22d8",
         "type": "tabs",
-        "dimension": 52.638270820089,
         "children": [
           {
             "id": "d437340d0d09db18",
@@ -62,80 +61,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "60 - Mechanics & Specifics/Classes/Witch.md",
+                "file": "60 - Mechanics & Specifics/Classes/Witch..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Witch"
+              "title": "Witch."
             }
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "b2d4362196e92a67",
-        "type": "tabs",
-        "dimension": 47.361729179911,
-        "children": [
-          {
-            "id": "1986c31f77d70ba1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 - The Supernal/11 - Primevals/Tuatha.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tuatha"
-            }
-          },
-          {
-            "id": "1dd025aaa2415578",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 - The Supernal/11 - Primevals/Grael.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grael"
-            }
-          },
-          {
-            "id": "a35a1d39e382bb8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/1 - Age of Creation - Wildern & Beauty.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 - Age of Creation - Wildern & Beauty"
-            }
-          },
-          {
-            "id": "165f8e52b9bdcd2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/2 - Age of Knowledge - Conflict and Empathy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 - Age of Knowledge - Conflict and Empathy"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -307,8 +242,9 @@
   },
   "active": "aa74538e4f35c8ce",
   "lastOpenFiles": [
-    "30 - The Census/Ancestries (Species & Races)/Ancestries (Species & Races).md",
     "60 - Mechanics & Specifics/Classes/Witch.md",
+    "60 - Mechanics & Specifics/Classes/Witch..md",
+    "30 - The Census/Ancestries (Species & Races)/Ancestries (Species & Races).md",
     "60 - Mechanics & Specifics/Classes/witch_base_class_GDD.md",
     "60 - Mechanics & Specifics/Classes/witch_base_class_GDD.docx",
     "60 - Mechanics & Specifics/Classes",
@@ -343,7 +279,6 @@
     "99 - Miscancelous/Placeholder - Danu.png",
     "Pasted image 20260406181127.png",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/4 - Age of Fate & Hope.md",
-    "30 - The Census/Ancestries (Species & Races)/Star-Born/Devils(placeholder).md",
     "99 - Miscancelous/99 - Assets/Valli-A.png",
     "99 - Miscancelous/99 - Assets/Pasted image 20260329130632.png",
     "99 - Miscancelous/99 - Assets/Pasted image 20260329131145.png",
