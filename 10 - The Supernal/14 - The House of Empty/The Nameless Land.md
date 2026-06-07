@@ -1,0 +1,3 @@
+The ever-expanding deepest edge of the spirit world, where the body of [[Nameless]] ends and the flesh of [[Tuatha]] writhes. Accommodating all the [[Vacate]] of the House of Empty together with countless souls within the house.
+
+Since the edge of the [[40 - The Spirit World|Spirit World]] is so far away from the [[Beauty]]'s song, there are no growths natural to the spirit world. In their place [[Vacate]] have warped and laid the souls of the mortals they captured into the forests, trees and weeds, gardens, flowers and stones, the mansion, floorboards and items.

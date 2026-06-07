@@ -4,4 +4,4 @@ While remaining inteligent they do not posses autonomy, their whole existence is
 
 During the fall of [[Age of Guidance]] some guides survived the passage of the [[Cycle]] deep in the depths of [[The Nameless]].
 
-The once cheerful guides made to help were warped and depraved onto becoming the [[A Vacate]] ruling the [[The House of Empty]]
+The once cheerful guides made to help were warped and depraved onto becoming the [[Vacate]] ruling the [[The House of Empty]]
