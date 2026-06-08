@@ -63,6 +63,10 @@ Witches posses features which allow the Stygian to take the following actions as
 
 ##### Stygian "strike"
 The customization of Stygian attack (the "Cantrip not cantrip") that will define it damage, range, and if any; additional effects. 
+
+As a base, Stygian attack action is a ranged attack appearing like a some sort of magical effect with range of 30ft and 1d6 dmg. 
+
+Below are some ideas
 - Stygian strike is now considered the melee attack, the stygian can now make opportunity attacks using stygian strike attack. 
 
 ### Stygian Customization
