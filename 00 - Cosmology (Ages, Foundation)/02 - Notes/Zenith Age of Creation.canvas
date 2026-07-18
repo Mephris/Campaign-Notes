@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"372d3d97b645b395","type":"text","text":"The world as it was within the Cradle","x":-320,"y":-660,"width":354,"height":60},
+		{"id":"1d9d2fdf985663cc","type":"text","text":"Candella","x":-440,"y":-421,"width":250,"height":60},
+		{"id":"752cfe8c4c0b7758","x":-570,"y":-200,"width":250,"height":60,"type":"text","text":"Loom moving without a visible decision point"},
+		{"id":"a8a8c18889e5764f","x":-570,"y":-80,"width":250,"height":60,"type":"text","text":"Seasons cycle is broken without a seeming reason"},
+		{"id":"91a30e18e3dd9b02","x":34,"y":-200,"width":250,"height":90,"type":"text","text":"The singing from the ink calling many souls that never return"},
+		{"id":"2936e4e7eaaa3c21","x":34,"y":-80,"width":250,"height":90,"type":"text","text":"The song from ink written as cataclysm heralded by appearance of fae. "}
+	],
+	"edges":[
+		{"id":"7bb8e88be77dc70f","fromNode":"372d3d97b645b395","fromSide":"bottom","toNode":"1d9d2fdf985663cc","toSide":"top"}
+	]
+}

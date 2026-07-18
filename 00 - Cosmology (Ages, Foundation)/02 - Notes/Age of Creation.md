@@ -89,3 +89,6 @@ Softly she laid upon their charred flesh a mistly veil, letting them dream in he
 
 ## The Zenith
 ---
+### The Cradle
+The valley surrounded by mountains all around, shielding it from the flood of [[Tuatha]] liquid flesh. Where the lights shined in the day from the many little fires lit among its people.
+
