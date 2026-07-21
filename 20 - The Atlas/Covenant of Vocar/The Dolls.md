@@ -3,6 +3,8 @@ The creation of the very recent [[4 - Age of Fate & Hope]] in the [[Lune Magocra
 
 ## Public Information 
 
+![[Doll.png]]
+
 ### New Product! Dolls!
 The [[The Dolls]] are the newest creation made by the [[Lune]] family, quickly taking the higher echelons of power by storm as the newest and best invention. 
 
