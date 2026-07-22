@@ -15,9 +15,9 @@
               "state": {
                 "file": "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Zenith_Age_of_Creation.canvas",
                 "viewState": {
-                  "x": 990.5856447285014,
-                  "y": 2156.607200236974,
-                  "zoom": -1.6666666666666665
+                  "x": -34.875434842955485,
+                  "y": 2162.956804444847,
+                  "zoom": -2.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -195,7 +195,7 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "436996975366e9c4",
+  "active": "b803b616e165c43b",
   "lastOpenFiles": [
     "10 - The Supernal/12 - Aspects/Aspect of Mortal/Aspect of Mortal.md",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Zenith_Age_of_Creation.canvas",
