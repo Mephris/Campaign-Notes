@@ -15,9 +15,9 @@
               "state": {
                 "file": "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Zenith_Age_of_Creation.canvas",
                 "viewState": {
-                  "x": 1521.436413571097,
-                  "y": -14.34792958695445,
-                  "zoom": -0.6059489528304327
+                  "x": 990.5856447285014,
+                  "y": 2156.607200236974,
+                  "zoom": -1.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 - The Atlas/Covenant of Vocar/The Dolls.md",
+                "file": "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Zenith_Age_of_Creation.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Dolls"
+              "title": "Outline of Zenith_Age_of_Creation"
             }
           },
           {
@@ -197,9 +197,10 @@
   },
   "active": "436996975366e9c4",
   "lastOpenFiles": [
+    "10 - The Supernal/12 - Aspects/Aspect of Mortal/Aspect of Mortal.md",
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Zenith_Age_of_Creation.canvas",
     "30 - The Census/Ancestries (Species & Races)/Aelf/Aelf.md",
     "10 - The Supernal/12 - Aspects/Aspect of Grael/Wildern.md",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Zenith_Age_of_Creation.canvas",
     "20 - The Atlas/Covenant of Vocar/The Dolls.md",
     "Doll.png",
     "99 - Miscancelous/99 - Archive & Meta/World Information/Carnelian Commonwealth (REWORK IN PROGRESS)/Information/Diseases/MTD.md",
@@ -230,7 +231,6 @@
     "00 - Cosmology (Ages, Foundation)/02 - Notes/Notes for Age of Creation.md",
     "60 - Mechanics & Specifics/Classes/Feature Types.md",
     "00 - Cosmology (Ages, Foundation)/02 - Notes/Cosmology.md",
-    "99 - Miscancelous/99 - Archive & Meta/World Information/Carnelian Commonwealth (REWORK IN PROGRESS)/Orders/Grave Keeper Order/Grave Keeper Order.md",
     "99 - Miscancelous/99 - Archive & Meta/World Information/Carnelian Commonwealth (REWORK IN PROGRESS)/Orders/Grave Keeper Order",
     "20 - The Atlas/Kingdom of Tyrian",
     "60 - Mechanics & Specifics/Classes/Witch/Features/Resources",
