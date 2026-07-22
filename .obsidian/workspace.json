@@ -11,14 +11,17 @@
             "id": "b803b616e165c43b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "20 - The Atlas/Covenant of Vocar/The Dolls.md",
-                "mode": "source",
-                "source": false
+                "file": "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Zenith_Age_of_Creation.canvas",
+                "viewState": {
+                  "x": 1521.436413571097,
+                  "y": -14.34792958695445,
+                  "zoom": -0.6059489528304327
+                }
               },
-              "icon": "lucide-file",
-              "title": "The Dolls"
+              "icon": "lucide-layout-dashboard",
+              "title": "Zenith_Age_of_Creation"
             }
           }
         ]
@@ -192,16 +195,18 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "b803b616e165c43b",
+  "active": "436996975366e9c4",
   "lastOpenFiles": [
+    "30 - The Census/Ancestries (Species & Races)/Aelf/Aelf.md",
+    "10 - The Supernal/12 - Aspects/Aspect of Grael/Wildern.md",
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Zenith_Age_of_Creation.canvas",
+    "20 - The Atlas/Covenant of Vocar/The Dolls.md",
     "Doll.png",
     "99 - Miscancelous/99 - Archive & Meta/World Information/Carnelian Commonwealth (REWORK IN PROGRESS)/Information/Diseases/MTD.md",
-    "20 - The Atlas/Covenant of Vocar/The Dolls.md",
     "20 - The Atlas/Covenant of Vocar/MTD.pdf",
     "20 - The Atlas/Covenant of Vocar/MTD (1).pdf",
     "20 - The Atlas/Covenant of Vocar/Vocare Kingdom.canvas",
     "20 - The Atlas/Covenant of Vocar/Lune Magocracy.md",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Zenith_Age_of_Creation.canvas",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/1 - Age of Creation - Wildern & Beauty.md",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Miracles.canvas",
@@ -226,7 +231,6 @@
     "60 - Mechanics & Specifics/Classes/Feature Types.md",
     "00 - Cosmology (Ages, Foundation)/02 - Notes/Cosmology.md",
     "99 - Miscancelous/99 - Archive & Meta/World Information/Carnelian Commonwealth (REWORK IN PROGRESS)/Orders/Grave Keeper Order/Grave Keeper Order.md",
-    "99 - Miscancelous/99 - Archive & Meta/World Information/Carnelian Commonwealth (REWORK IN PROGRESS)/Orders/Grahaim Order/Grahaim Order.md",
     "99 - Miscancelous/99 - Archive & Meta/World Information/Carnelian Commonwealth (REWORK IN PROGRESS)/Orders/Grave Keeper Order",
     "20 - The Atlas/Kingdom of Tyrian",
     "60 - Mechanics & Specifics/Classes/Witch/Features/Resources",
@@ -246,7 +250,6 @@
     "99 - Miscancelous/99 - Assets/Jagged Loom stained with Ichor.png",
     "99 - Miscancelous/99 - Assets/Wyrm.png",
     "Wyrm.png",
-    "99 - Miscancelous/99 - Assets/The Saint Carnelian.png",
     "00 - Cosmology & Ages/Timeline/Untitled.canvas",
     "Untitled.canvas",
     "Fable World/Entities/Untitled.canvas"
