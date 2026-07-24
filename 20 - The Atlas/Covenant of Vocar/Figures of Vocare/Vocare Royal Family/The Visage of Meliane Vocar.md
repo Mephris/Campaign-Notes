@@ -50,3 +50,34 @@ While the doll was made, Lune warriors has managed to capture a fleeting soul of
 The process was going well, until night of death of Meliane's husband. Who sealed the laboratory in order to finish the work with his wife's soul instead. 
 
 *It is only theorized what happened inside, for what public doesn't know is that the laboratory once opened.* Had a kneeling crysalized corpse of the lone scientist surrounded by soft necromantic energies, a doll with clear memories of Meliane Vocar, parts such as life-like hair, organic nails, tongue and internal organs, predatory sharp teeth akin to the hags, as well as a missing Hag Soul. 
+
+### Mysteries
+After showcase of the Visage, many accidental or coincedental things keep on happening. 
+
+#### Cults
+Many [[Beauty]] cults keep on appearing in the capital, at first it was connected to the visage however the movements of cults is strictly avoidant to the Grand Royal Theatre, it is not known if its out of reverence or fear. 
+
+#### Dreams and Songs 
+People who hear the song of the Blue Queen seem to sleep deeply on the same night, often oversleeping which led to people taking longer vacations just for the act of hearing the Doll-song. 
+
+Those few that fall asleep for long enough after Doll-song, wake up looking a little different, as if visited by an aesthetic fleshwarper. 
+
+Additionally the people previously operated on by Meliane, have not aged a single day in the last decade. 
+
+#### Visage weird placements. 
+The Doll, visage, is at this point commonly known to wander the Grand Theatre, at times going missing for short periods of time only to reappear days after with a bouquet of flowers. 
+
+Once asked about the flowers or its wearabouts during the missing time, the Visage simply answered it was visiting its other bed. 
+
+#### Directives
+The Doll remains obedient to the doll directives:
+![[Doll#Directives]]
+
+However rather then treating them as hard rules, there were at times caught saying no to an imposed order, when then promptly asked about directives the Visage apologized and followed an order. 
+
+##### Direct Directive Disobedience
+During Lune family experiment the Visage was told to mutilate appearance of a subject with fleshwarping.
+
+After an hour of time another team entering the room has found only the doll with bloodstains around its mouth cavity. No remains were found inside the Visage stomach cavity or throat. 
+
+It is still unclear if the Doll is capable of forming a Homonculus after eating enough corpses or has the Hag capability of storing souls, however once pushed outside of Meliane comfort zone the hag instinct is theorized to kick in. 
