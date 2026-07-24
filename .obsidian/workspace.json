@@ -11,17 +11,14 @@
             "id": "b803b616e165c43b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Zenith_Age_of_Creation.canvas",
-                "viewState": {
-                  "x": -34.875434842955485,
-                  "y": 2162.956804444847,
-                  "zoom": -2.333333333333333
-                }
+                "file": "20 - The Atlas/Covenant of Vocar/Figures of Vocare/Vocare Royal Family/The Visage of Meliane Vocar.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Zenith_Age_of_Creation"
+              "icon": "lucide-file",
+              "title": "The Visage of Meliane Vocar"
             }
           }
         ]
@@ -195,13 +192,18 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "b803b616e165c43b",
+  "active": "436996975366e9c4",
   "lastOpenFiles": [
-    "10 - The Supernal/12 - Aspects/Aspect of Mortal/Aspect of Mortal.md",
+    "20 - The Atlas/Covenant of Vocar/Figures of Vocare/Vocare Royal Family/Vocar.md",
+    "20 - The Atlas/Covenant of Vocar/Figures of Vocare/Vocare Royal Family/The Visage of Meliane Vocar.md",
+    "20 - The Atlas/Covenant of Vocar/Figures of Vocare/Vocare Royal Family",
+    "20 - The Atlas/Covenant of Vocar/Doll.md",
+    "20 - The Atlas/Covenant of Vocar/Figures of Vocare",
+    "Melian Lune (Devian.xiaofanchuanart).png",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Zenith_Age_of_Creation.canvas",
+    "10 - The Supernal/12 - Aspects/Aspect of Mortal/Aspect of Mortal.md",
     "30 - The Census/Ancestries (Species & Races)/Aelf/Aelf.md",
     "10 - The Supernal/12 - Aspects/Aspect of Grael/Wildern.md",
-    "20 - The Atlas/Covenant of Vocar/The Dolls.md",
     "Doll.png",
     "99 - Miscancelous/99 - Archive & Meta/World Information/Carnelian Commonwealth (REWORK IN PROGRESS)/Information/Diseases/MTD.md",
     "20 - The Atlas/Covenant of Vocar/MTD.pdf",
@@ -229,8 +231,6 @@
     "60 - Mechanics & Specifics/Classes/Witch/Features/Ability Score Improvement.md",
     "60 - Mechanics & Specifics/Classes/Witch/Witch - Masterfile.md",
     "00 - Cosmology (Ages, Foundation)/02 - Notes/Notes for Age of Creation.md",
-    "60 - Mechanics & Specifics/Classes/Feature Types.md",
-    "00 - Cosmology (Ages, Foundation)/02 - Notes/Cosmology.md",
     "99 - Miscancelous/99 - Archive & Meta/World Information/Carnelian Commonwealth (REWORK IN PROGRESS)/Orders/Grave Keeper Order",
     "20 - The Atlas/Kingdom of Tyrian",
     "60 - Mechanics & Specifics/Classes/Witch/Features/Resources",
@@ -241,15 +241,12 @@
     "99 - Miscancelous/Placeholder - Danu.png",
     "00 - Cosmology (Ages, Foundation)/03 - Cosmology Graph.canvas",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age_of_Knowledge.canvas",
-    "60 - Mechanics & Specifics/Classes/witch_base_class_GDD.docx",
-    "60 - Mechanics & Specifics/Classes",
     "Pasted image 20260406181127.png",
     "99 - Miscancelous/99 - Assets/Valli-A.png",
     "99 - Miscancelous/99 - Assets/Pasted image 20260329130632.png",
     "99 - Miscancelous/99 - Assets/Pasted image 20260329131145.png",
     "99 - Miscancelous/99 - Assets/Jagged Loom stained with Ichor.png",
     "99 - Miscancelous/99 - Assets/Wyrm.png",
-    "Wyrm.png",
     "00 - Cosmology & Ages/Timeline/Untitled.canvas",
     "Untitled.canvas",
     "Fable World/Entities/Untitled.canvas"
