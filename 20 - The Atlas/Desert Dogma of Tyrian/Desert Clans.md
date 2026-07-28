@@ -9,13 +9,12 @@ Following the words of Candella, the [[Placeholder Desert Name]] clans slowly ev
 ### Facing the Skyflame, The Warriors
 > [!bug] short line, animal + role + link to full file
 
-The Desert Hounds, that are known for their tenacity and unyielding stamina to follow their prey became the symbol of the Warrior Clan. The ones that out of words of Candella decided to face their brothers and the skyflame that scorches the desert. 
 
 ### Hiding from Skyflame, The Shelter
 > [!bug] short line, animal + role + link to full file
 
-The Desert Wyrms are known for their patience and enduring within a single spot, they hide beneath the sands in wait for their prey, and are prey themselves to the Desert Hounds. 
-The animal came to symbolize the Hiding clan? 
+
+
 Honestly it would fit for them to be responsible for making structures to hide in, the ones that actually build shit and then pass into another thing they built, always uncaught by other clans whenever they dont want to be caught. Stalker clan maybe? stalker building clan xD
 
 ### Running from Skyflame, The Couriers & Bards

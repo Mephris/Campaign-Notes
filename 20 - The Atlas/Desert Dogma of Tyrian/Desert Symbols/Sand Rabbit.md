@@ -1,0 +1,1 @@
+Small fast creature capable of long lasting hopping sprints, known for its sensitive senses and ability to find food and water even from miles away. They represent the [[Desert Clans#Running from Skyflame, The Couriers & Bards]]
