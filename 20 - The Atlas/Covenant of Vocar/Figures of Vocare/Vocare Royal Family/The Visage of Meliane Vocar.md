@@ -1,6 +1,6 @@
 > [!quote] Visage of Meliane Vocar showcase stand in Grand Royal Theatre
 > For you taken from us too early
-> Even those that envied her reputation loved her art. 
+> Even those that envied her reputation loved her craft. 
 > 
 
 ![[Melian Lune (Devian.xiaofanchuanart).png]]
