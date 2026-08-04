@@ -2,7 +2,7 @@ The land holding the delicately balanced country of [[Móraelf]] following the t
 
 The long spanning [[Placeholder Desert Name]] filled with buildings akin to ruins and evermoving clans that never settle in one place for too long. 
 
-The [[Desert Dogma of Tyrian]] does not have a direct center leader, instead they have a delicate balance between its clans, working together and evergrowing together. 
+The [[Desert Dogma of Tyrian]] does not have a direct center leader, instead they have a delicate balance between its clans, working together and ever-growing together. 
 
 While it is the oldest living nation on the maps, the [[Desert Dogma of Tyrian]] did not expand beyond its deserts. The culture of inner growth over the creation of lasting political infrastructure and ignorance of bloodline culture limited the growth of nature to a developed land of people that still work like small societies would, in tribes. 
 

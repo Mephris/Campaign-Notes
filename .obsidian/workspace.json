@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 - The Atlas/Desert Dogma of Tyrian/Desert Dogma of Tyrian.md",
+                "file": "00 - Cosmology (Ages, Foundation)/00 - Cosmology (Ages, Foundation).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desert Dogma of Tyrian"
+              "title": "00 - Cosmology (Ages, Foundation)"
             }
           }
         ]
@@ -192,15 +192,16 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "e559ab2367e24f2f",
+  "active": "b803b616e165c43b",
   "lastOpenFiles": [
+    "10 - The Supernal/11 - Primevals/11 - Primevals.md",
     "20 - The Atlas/Desert Dogma of Tyrian/Desert Symbols/Desert Wyrm.md",
+    "20 - The Atlas/Desert Dogma of Tyrian/Desert Dogma of Tyrian.md",
     "20 - The Atlas/Desert Dogma of Tyrian/Desert Symbols/Desert Hound.md",
     "20 - The Atlas/Desert Dogma of Tyrian/Desert Symbols/Sand Rabbit.md",
     "20 - The Atlas/Desert Dogma of Tyrian/Philosophy of Better Morrow.md",
     "20 - The Atlas/Desert Dogma of Tyrian/Desert Clans.md",
     "20 - The Atlas/Desert Dogma of Tyrian/City of Glass.md",
-    "20 - The Atlas/Desert Dogma of Tyrian/Desert Dogma of Tyrian.md",
     "Desert Hound.png",
     "20 - The Atlas/Desert Dogma of Tyrian/Desert Symbols",
     "Candella of the Looms Gullet.png",
@@ -233,7 +234,6 @@
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/2 - Age of Knowledge - Conflict and Empathy.md",
     "00 - Cosmology (Ages, Foundation)/00 - Cosmology (Ages, Foundation).md",
     "10 - The Supernal/10 - The Supernal.md",
-    "20 - The Atlas/Carnelian Commonwealth/Tale's of War.md",
     "99 - Miscancelous/99 - Archive & Meta/World Information/Carnelian Commonwealth (REWORK IN PROGRESS)/Orders/Grave Keeper Order",
     "20 - The Atlas/Desert Dogma of Tyrian",
     "60 - Mechanics & Specifics/Classes/Witch/Features/Resources",
