@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Cosmology (Ages, Foundation)/00 - Cosmology (Ages, Foundation).md",
+                "file": "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/3 - Age of Miracles - Life & Ambition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Cosmology (Ages, Foundation)"
+              "title": "3 - Age of Miracles - Life & Ambition"
+            }
+          },
+          {
+            "id": "f929d1922cbcdd34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 - The Supernal/12 - Aspects/Aspect of Tuatha/Beauty.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Beauty"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,16 +207,23 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "b803b616e165c43b",
+  "active": "f929d1922cbcdd34",
   "lastOpenFiles": [
-    "10 - The Supernal/11 - Primevals/11 - Primevals.md",
-    "20 - The Atlas/Desert Dogma of Tyrian/Desert Symbols/Desert Wyrm.md",
-    "20 - The Atlas/Desert Dogma of Tyrian/Desert Dogma of Tyrian.md",
-    "20 - The Atlas/Desert Dogma of Tyrian/Desert Symbols/Desert Hound.md",
-    "20 - The Atlas/Desert Dogma of Tyrian/Desert Symbols/Sand Rabbit.md",
-    "20 - The Atlas/Desert Dogma of Tyrian/Philosophy of Better Morrow.md",
+    "10 - The Supernal/12 - Aspects/Aspect of Mortal/Aspect of Mortal.md",
+    "10 - The Supernal/12 - Aspects/Aspect of Tuatha/Beauty.md",
+    "10 - The Supernal/12 - Aspects/Aspect of Tuatha/Ambition.md",
+    "10 - The Supernal/12 - Aspects/12 - Aspects.md",
     "20 - The Atlas/Desert Dogma of Tyrian/Desert Clans.md",
+    "20 - The Atlas/Desert Dogma of Tyrian/Philosophy of Better Morrow.md",
     "20 - The Atlas/Desert Dogma of Tyrian/City of Glass.md",
+    "20 - The Atlas/Desert Dogma of Tyrian/Desert Symbols/Desert Wyrm.md",
+    "20 - The Atlas/Desert Dogma of Tyrian/Desert Symbols/Sand Rabbit.md",
+    "20 - The Atlas/Desert Dogma of Tyrian/Desert Symbols/Desert Hound.md",
+    "20 - The Atlas/Desert Dogma of Tyrian/Desert Dogma of Tyrian.md",
+    "20 - The Atlas/Carnelian Commonwealth/Carnelian Commonwealth.md",
+    "10 - The Supernal/11 - Primevals/11 - Primevals.md",
+    "00 - Cosmology (Ages, Foundation)/00 - Cosmology (Ages, Foundation).md",
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/4 - Age of Fate & Hope.md",
     "Desert Hound.png",
     "20 - The Atlas/Desert Dogma of Tyrian/Desert Symbols",
     "Candella of the Looms Gullet.png",
@@ -213,7 +235,6 @@
     "20 - The Atlas/Covenant of Vocar/Figures of Vocare",
     "Melian Lune (Devian.xiaofanchuanart).png",
     "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Zenith_Age_of_Creation.canvas",
-    "10 - The Supernal/12 - Aspects/Aspect of Mortal/Aspect of Mortal.md",
     "30 - The Census/Ancestries (Species & Races)/Aelf/Aelf.md",
     "10 - The Supernal/12 - Aspects/Aspect of Grael/Wildern.md",
     "Doll.png",
@@ -228,12 +249,6 @@
     "00 - Cosmology (Ages, Foundation)/02 - Notes/Zenith Age of Creation.canvas",
     "00 - Cosmology (Ages, Foundation)/02 - Notes/Age of Creation.md",
     "00 - Cosmology (Ages, Foundation)/02 - Notes/Research - Fable.md",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/3 - Age of Miracles - Life & Ambition.md",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/0 - Beginning.md",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/4 - Age of Fate & Hope.md",
-    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/2 - Age of Knowledge - Conflict and Empathy.md",
-    "00 - Cosmology (Ages, Foundation)/00 - Cosmology (Ages, Foundation).md",
-    "10 - The Supernal/10 - The Supernal.md",
     "99 - Miscancelous/99 - Archive & Meta/World Information/Carnelian Commonwealth (REWORK IN PROGRESS)/Orders/Grave Keeper Order",
     "20 - The Atlas/Desert Dogma of Tyrian",
     "60 - Mechanics & Specifics/Classes/Witch/Features/Resources",
