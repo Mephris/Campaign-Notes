@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "ff278ebbb3a9d617",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e9f764035201ae9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0675fdb55f53a300",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8fd2bc4ddc45b75",
+    "type": "split",
+    "children": [
+      {
+        "id": "31a77297268b8f9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "177ac833f0870eb3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bfc6ef651f08e4bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "orders",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5808990ab509172b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e559ab2367e24f2f",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 407.5
+  },
+  "right": {
+    "id": "ce9a34acc8273217",
+    "type": "split",
+    "children": [
+      {
+        "id": "34b24acf35cfbea8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4106c4417397c03d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Age of Creation"
+            }
+          },
+          {
+            "id": "51376bbb073cf06f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "99 - Miscancelous/99 - Assets/Valli-A.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Valli-A"
+            }
+          },
+          {
+            "id": "6b7279739e1bc939",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0bf6c341610938d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "c1f8a7160496928a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "776715663adde4e5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "notebook-navigator:Notebook Navigator": false
+    }
+  },
+  "active": "776715663adde4e5",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/2 - Age of Knowledge - Conflict and Empathy.md",
+    "00 - Cosmology (Ages, Foundation)/00 - Cosmology (Ages, Foundation).md",
+    "Update.md",
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/3 - Age of Miracles - Life & Ambition.md",
+    "30 - The Census/Ancestries (Species & Races)/Star-Born/Devils(placeholder).md",
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/1 - Age of Creation - Wildern & Beauty.md",
+    "00 - Cosmology (Ages, Foundation)/02 - Notes/Zenith Age of Creation.canvas",
+    "00 - Cosmology (Ages, Foundation)/03 - Cosmology Graph.canvas",
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Zenith_Age_of_Creation.canvas",
+    "Desert Hound.png",
+    "Candella of the Looms Gullet.png",
+    "10 - The Supernal/12 - Aspects/Aspect of Tuatha/Beauty.md",
+    "10 - The Supernal/12 - Aspects/Aspect of Mortal/Aspect of Mortal.md",
+    "10 - The Supernal/12 - Aspects/Aspect of Tuatha/Ambition.md",
+    "10 - The Supernal/12 - Aspects/12 - Aspects.md",
+    "20 - The Atlas/Desert Dogma of Tyrian/Desert Clans.md",
+    "20 - The Atlas/Desert Dogma of Tyrian/Philosophy of Better Morrow.md",
+    "20 - The Atlas/Desert Dogma of Tyrian/City of Glass.md",
+    "20 - The Atlas/Desert Dogma of Tyrian/Desert Symbols/Desert Wyrm.md",
+    "20 - The Atlas/Desert Dogma of Tyrian/Desert Symbols/Sand Rabbit.md",
+    "20 - The Atlas/Desert Dogma of Tyrian/Desert Symbols/Desert Hound.md",
+    "20 - The Atlas/Desert Dogma of Tyrian/Desert Dogma of Tyrian.md",
+    "20 - The Atlas/Carnelian Commonwealth/Carnelian Commonwealth.md",
+    "10 - The Supernal/11 - Primevals/11 - Primevals.md",
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/4 - Age of Fate & Hope.md",
+    "20 - The Atlas/Desert Dogma of Tyrian/Desert Symbols",
+    "20 - The Atlas/Covenant of Vocar/Figures of Vocare/Vocare Royal Family/The Visage of Meliane Vocar.md",
+    "20 - The Atlas/Covenant of Vocar/Ideas.md",
+    "20 - The Atlas/Covenant of Vocar/Figures of Vocare/Vocare Royal Family/Vocar.md",
+    "20 - The Atlas/Covenant of Vocar/Figures of Vocare/Vocare Royal Family",
+    "20 - The Atlas/Covenant of Vocar/Doll.md",
+    "20 - The Atlas/Covenant of Vocar/Figures of Vocare",
+    "Melian Lune (Devian.xiaofanchuanart).png",
+    "30 - The Census/Ancestries (Species & Races)/Aelf/Aelf.md",
+    "Doll.png",
+    "20 - The Atlas/Covenant of Vocar/MTD.pdf",
+    "20 - The Atlas/Covenant of Vocar/MTD (1).pdf",
+    "20 - The Atlas/Covenant of Vocar/Vocare Kingdom.canvas",
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Creation.canvas",
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age of Miracles.canvas",
+    "99 - Miscancelous/99 - Archive & Meta/World Information/Carnelian Commonwealth (REWORK IN PROGRESS)/Orders/Grave Keeper Order",
+    "20 - The Atlas/Desert Dogma of Tyrian",
+    "60 - Mechanics & Specifics/Classes/Witch/Features/Resources",
+    "60 - Mechanics & Specifics/Classes/Witch/Features/Stygian",
+    "60 - Mechanics & Specifics/Classes/Witch/Features",
+    "99 - Miscancelous/Placeholder - Anu.png",
+    "99 - Miscancelous/Placeholder - Danu.png",
+    "00 - Cosmology (Ages, Foundation)/01 - Timeline (Ages)/Age_of_Knowledge.canvas",
+    "Pasted image 20260406181127.png",
+    "99 - Miscancelous/99 - Assets/Valli-A.png",
+    "99 - Miscancelous/99 - Assets/Pasted image 20260329130632.png",
+    "99 - Miscancelous/99 - Assets/Pasted image 20260329131145.png",
+    "00 - Cosmology & Ages/Timeline/Untitled.canvas",
+    "Untitled.canvas",
+    "Fable World/Entities/Untitled.canvas"
+  ]
+}
