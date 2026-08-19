@@ -1,8 +1,8 @@
 {
   "cssTheme": "ITS Theme",
   "nativeMenus": false,
-  "theme": "system",
-  "accentColor": "#5ca6f5",
+  "theme": "obsidian",
+  "accentColor": "#fa4b00",
   "baseFontSizeAction": false,
   "enabledCssSnippets": [
     "sidenote"
