@@ -1,5 +1,6 @@
 ---
 updated: 2026-09-12
+obsidianUIMode: Empty
 ---
 ```dataview
 TABLE updated AS "Last Edited"
