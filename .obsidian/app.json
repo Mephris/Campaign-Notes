@@ -16,5 +16,6 @@
   },
   "newFileLocation": "folder",
   "newFileFolderPath": "+",
-  "attachmentFolderPath": "99 - Miscancelous/99 - Assets"
+  "attachmentFolderPath": "99 - Miscancelous/99 - Assets",
+  "openBehavior": "file:+/Home.md"
 }

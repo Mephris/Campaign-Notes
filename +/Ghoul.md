@@ -22,13 +22,15 @@ The disease back in the day could be contracted by a wound from a [[Hag]], a cur
 #### Carrier, Early First Stage
 In its first stages, disease quickly starts encroaching upon the body of the user, creating barely visible rash among a pair of limbs, slowly growing onto long line patterns of rash. 
 
-However beyond the purely cosmetic change (though highly worrisome), the carrier slowly develops a soft craving of flesh meat. 
+However beyond the purely cosmetic change (though highly worrisome), the carrier slowly develops a soft craving of fresh meat. 
 > [!note] Herbivore & Vegetarian races
 > This stage is especially easy to detect among the vegetarian and hebrivore communities. 
 > Many of those communities were completely spared the disease simply due to early detection.
 
-#### , Late First Stage
+#### Infected, Late First Stage
+During the late first stage, infected body start to develop additional muscle, pale skin with dark veins on the arterial vein. 
 
+The body starts to release more 
 
 
 ### Feral
