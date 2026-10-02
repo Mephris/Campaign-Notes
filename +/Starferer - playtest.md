@@ -10,7 +10,7 @@
 | Vigor     |       | Strength, resilience, brawn, stamina            |
 | Agility   | •     | Reflexes, coordination, speed, fine hands\|     |
 | Acuity    |       | Deduction, memory, quick wit, technical insight |
-| Acuity    | •     | Charm, command, confidence, willpower           |
+| Presence  | •     | Charm, command, confidence, willpower           |
 
 | Skill      | Value | What that?                                                  |
 | ---------- | ----- | ----------------------------------------------------------- |
