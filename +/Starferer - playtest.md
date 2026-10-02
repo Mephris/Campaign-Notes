@@ -1,9 +1,10 @@
 ### Stats 
 
-| Health | Resolve | Defense |
-| ------ | ------- | ------- |
-| 3      | 4       | 2       |
-| •••    | ••••    | ••      |
+| Health | Resolve |                 | Defense |
+| ------ | ------- | --------------- | ------- |
+| 3      | 4       |                 | 2       |
+| --     | ----    | Wounds/Strains  |         |
+| ++     | +       | Injuries/Trauma |         |
 
 | Attribute | Value | What for?                                       |
 | --------- | ----- | ----------------------------------------------- |
@@ -46,3 +47,14 @@ Clear 1 Wound from a character in medium range. Each Edge clears one more Wound.
 >[!tip] **Lightsaber Training (Passive, Force).**
 > Your lightsaber attacks use Force instead of Technique. You may also throw a one-handed lightsaber as a ranged attack, rolling Vigor + Force. It keeps its Move and returns to your hand after the throw.
 
+## Feedback 
+1. Clense - Seems kinda too little, with how popular are the status effects it could be used for more negative status effects. its good but occasional, seems not a lot for a "evolution" of force heal.
+2. Sith + Healer is nice and strong, mark Sith blood trait as Move. 
+3. Prone should be getting up with the usage of "free stride".
+4. Greater gratification of being in melee, maybe rather then greatsword give a bonus on melee weapons a bonus dice. 
+5. Being reckless is punished, good, one fucked up weird move and you get fucked for it. Mental breakdown is punishing. 
+6. Additional trait for swordfighting or melee fighting which allows you to treat one handed melee as two handed melee. 
+
+## Slapstick
+- Change what the status effects are narratively, make it into winded, worse grip etc. 
+- Add cost for the different status effects, the more nasty ones become higher in prices. 
