@@ -49,6 +49,7 @@ Clear 1 Wound from a character in medium range. Each Edge clears one more Wound.
 
 ## Feedback 
 1. Clense - Seems kinda too little, with how popular are the status effects it could be used for more negative status effects. its good but occasional, seems not a lot for a "evolution" of force heal.
+   Clense idea, allow for it to cleanse an injury during some rest at cost of undegoing mental breakdown or getting settlement. 
 2. Sith + Healer is nice and strong, mark Sith blood trait as Move. 
 3. Prone should be getting up with the usage of "free stride".
 4. Greater gratification of being in melee, maybe rather then greatsword give a bonus on melee weapons a bonus dice. 
@@ -58,3 +59,6 @@ Clear 1 Wound from a character in medium range. Each Edge clears one more Wound.
 ## Slapstick
 - Change what the status effects are narratively, make it into winded, worse grip etc. 
 - Add cost for the different status effects, the more nasty ones become higher in prices. 
+- Add buffs for the players to pick as alternative to debuffs. Treat edges as "support", buffing and debuffing yourself or the enemy. 
+- Momentum - adds one success on the next roll.
+- 
